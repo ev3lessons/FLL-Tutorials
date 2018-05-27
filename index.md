@@ -8,9 +8,9 @@ FLL Tutorials will be launching in the summer of 2018. Our focus is lessons and 
 
 # Who are we?
 
-> We are the founders of EV3Lessons.com. We have helped more than 240,000 users in 175 countries learn to program with LEGO MINDSTORMS. [Visit EV3Lessons.com](./ev3lessons.com).
+> We are the founders of EV3Lessons.com. We have helped more than 240,000 users in 175 countries learn to program with LEGO MINDSTORMS. [Visit EV3Lessons.com](http://wwww.ev3lessons.com).
 > We have over seven years of experience in FIRST LEGO League, including winning the Champion's Award at World Festival 2018.
 
 ### Facebook Page
 
-[FLL Tutorials on Facebook](www.facebook.com/FLLtutorials)
+[FLL Tutorials on Facebook](http://www.facebook.com/FLLtutorials)
