@@ -10,7 +10,7 @@ FLL Tutorials will host an INTO ORBIT scorer, INTO ORBIT planning tools, Coach's
 
 # Who are we?
 
-We are the founders of EV3Lessons.com. We have helped more than 240,000 users in 175 countries learn to program with LEGO MINDSTORMS. [Visit EV3Lessons.com](http://www.ev3lessons.com). You can expect FLL Tutorials to have provide the same high-quality lessons, resources and materials as EV3Lessons.
+We are the founders of EV3Lessons.com. We have helped more than 250,000 users in 175 countries learn to program with LEGO MINDSTORMS. [Visit EV3Lessons.com](http://www.ev3lessons.com). You can expect FLL Tutorials to provide the same high-quality lessons, resources and materials as EV3Lessons.
 
 We have over seven years of experience in FIRST LEGO League, including winning the Champion's Award at World Festival 2018. As _FIRST_ alumni, we are committed to _Gracious Professionalism_ and _Coopertition_ and providing the building blocks of learning for every one of the 35,000 teams globally.
 
