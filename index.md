@@ -16,8 +16,8 @@ We have over seven years of experience in FIRST LEGO League, including winning t
 
 ## Associated Facebook Pages
 
-[FLL Tutorials](http://www.facebook.com/FLLtutorials)
+[FLL Tutorials](http://www.facebook.com/FLLtutorials):
 This will be the Facebook Page associated with the website. We will use the page to announce new materials and opportunities for teams
 
-[FLL Share & Learn](https://www.facebook.com/groups/FLLShareandLearn/)
+[FLL Share & Learn](https://www.facebook.com/groups/FLLShareandLearn/):
 This is the online community associated with FLL Tutorials. Nearly 3000 coaches, mentors, volunteers, organizers and team members collaborate in this group.
