@@ -2,7 +2,8 @@
 layout: default
 title: Home
 ---
-
+<meta property="og:title" content="FLL Tutorials: A One-Stop Resources for FIRST LEGO League Teams" />
+<meta name="og:description" content="This website is powered by the Seshan Brothers who are MINDSTORMS Community Partners, founders of EV3Lessons, and the 2018 World Festival Champion's award winners. Through this website, we hope to share our knowledge, as well best practices for getting the most out of your FIRST LEGO League journey. Our goal is to teach, share, and learn together."
 </div>
 </div>
 <!-- We've temporary closed main-content and container to have a full width intro -->    
