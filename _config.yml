@@ -4,8 +4,7 @@ title: FLL Tutorials
 description: A one stop shop for everything FIRST LEGO League
 meta_description: "A one stop shop for everything FIRST LEGO League."
 logo: 'assets/images/FLLTutorialsLong.png'
-favicon: 'assets/images/favicon.ico'
-paginate: 12
+favicon: 'assets/images/favicon-96x96.png'
 baseurl:
 email: 'team@flltutorials.com'
 google_analytics: 'UA-46278016-1'
