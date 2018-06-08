@@ -46,8 +46,6 @@ Our team has a personal goal: always give our best and do our utmost in everythi
 
 We would have loved to know why people love FLL so much and how it changed their lives, so, we would already know how great it is. But, we had to find out the answer for ourselves, which was a wonderful experience also.
 
-We wish we knew that preparing for the judging parts of FLL is far more important than the robot runs. You can get the highest robot score at a competition, but if your project is weak or your core values are lacking, then your team may not advance to the next competition. Our team spent more time practicing our presentations and Q&A than we did on our robot!
-
 ### How did you split the work?
 
 Our coaches encourage us to do the work with independence and autonomy. So, we manage the time and divide our activities. We balance the three aspects and give the same emphasis to all, because all of them are important in the same way. On many occasions we work more than one aspect together, optimizing our time and balancing the three FLL pillars.
