@@ -1,0 +1,31 @@
+---
+layout: post
+keywords: 
+image: "assets//images/CoreValues/Juggling.jpg"
+title: "Act it Out V.1.0"
+minidescription: "This is a team building activity where team members act out different concepts."
+author: seshanbrothers
+categories:  [ Team Building ]
+tag: CoreValues
+featured: false
+---
+
+<b>Objectives:</b>
+- Coming to a consensus
+- Developing creativity
+- Communicating with each other
+- Making sure everyone has a role
+
+<b>Materials:</b>
+- Paper
+- Box/hat/envelope to hold paper.
+
+<b>Setup:</b>
+On strips of paper, write out differnt things/processes your team can act out. Fold them so that the team cannot read them when picking one. Place all of them in an envelope/box or spread of a table.
+
+<b>Instructions to Team:</b>
+Select one piece of paper without looking at the words on it. Also select one object from the box. As a team, act out whatever is on the paper. You have 5 minutes to plan and act out whatever is one the paper. Your time begins now.
+
+<b>Notes:</b>
+This Challenge is a test of the team’s imagination and creativity and decision making skills.
+You can come up many different ideas: fish, airplane, carousel, car, explorer in the jungle, shoe factory, etc.
