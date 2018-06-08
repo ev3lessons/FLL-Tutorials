@@ -30,7 +30,7 @@ post_class: post-template
                         {% for category in sortedCategories %}
 			{% unless sortedTags contains category %}
                         <li>
-                         <a href="{{ site.baseurl }}/category/#{{ category | slugify }}">{{ category }}</a>
+                         <a href="{{ site.baseurl }}/category.html#{{ category | slugify }}">{{ category }}</a>
                         </li>
 			{% endunless %}
                         {% endfor %}
