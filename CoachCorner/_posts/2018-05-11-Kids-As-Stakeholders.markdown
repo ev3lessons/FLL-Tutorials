@@ -5,7 +5,7 @@ image: "assets/images/CoachCorner/Project1.jpg"
 title: "Kids as Stakeholders"
 minidescription: "This article is how to get your team to pick a research topic."
 author: Faith
-categories: [ Coaching, Project ]
+categories: [ Coaching ]
 tag: CoachCorner
 featured: false
 ---
