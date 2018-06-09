@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coach's Corner
+title: Robot Game
 comments: true
 ---
 
