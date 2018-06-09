@@ -14,7 +14,7 @@ featured: false
 
 Slides: <a href="/translations/en-us/RobotGame/EngineeringJournal.pptx">PPTX</a>, <a href="/translations/en-us/RobotGame/EngineeringJournal.pdf">PDF </a>
 
-Engineering Journal Samples: <a href="/translations/en-us/RobotGame/EngineeringJournalSamples.pdf">PDF </a>
+Completed Samples: <a href="/translations/en-us/RobotGame/EngineeringJournalSamples.pdf">PDF </a>
 
-Engineering Journal Templates:
+Blank Templates:
 <a href="/translations/en-us/RobotGame/EngineeringJournalTemplates.docx">DOCX </a>
