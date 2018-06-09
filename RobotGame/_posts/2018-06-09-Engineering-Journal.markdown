@@ -8,6 +8,7 @@ categories: [ Engineering Journal ]
 author: SeshanBrothers
 tag: RobotGame
 featured: false
+excerpt_separator: <!--more-->
 ---
 
 
@@ -18,3 +19,4 @@ Completed Samples: <a href="/translations/en-us/RobotGame/EngineeringJournalSamp
 
 Blank Templates:
 <a href="/translations/en-us/RobotGame/EngineeringJournalTemplates.docx">DOCX </a>
+<!--more-->
