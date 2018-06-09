@@ -18,7 +18,30 @@ comments: true
         <section class="all-posts">
 
             <div class="section-title text-center">
-                <h1>Robot Game</h1>
+                <h1>Robot Designs</h1>
+            </div>
+<br><br><br>
+            <div class="row listfeaturedtag">
+            {% for post in site.posts %}
+
+                {% if post.tag == "RobotDesigns" %}
+                    {% unless post.categories contains "draft" %}
+
+                        {% include featuredbox.html %}
+                    {% endunless %}
+                {% endif %}
+
+            {% endfor %}
+            </div>
+
+        </section>
+
+        <!-- Featured
+        ================================================== -->
+        <section class="all-posts">
+
+            <div class="section-title text-center">
+                <h1>Robot Game Lessons</h1>
             </div>
 <br><br><br>
             <div class="row listfeaturedtag">
