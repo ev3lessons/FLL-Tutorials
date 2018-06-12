@@ -47,24 +47,24 @@ title: Home
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-cog fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Robot Game</h4>
-                    <p class="text-muted">This section has resources designed for the Robot Game portion of the competition. It includes planning resources, scoring tools and lessons for the current season. Lessons are written and curated by Robot Performance and Champion's Award winners.</p>
+                    <h4 class="service-heading"> <a href="{{ site.baseurl }}/RobotGame.html">Robot Game</a></h4>
+                    <p class="text-muted">This section has resources designed for the Robot Game portion of the competition. It includes robot designs.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-heart fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Core Values</h4>
-                    <p class="text-muted">This section features resources including Core Value activities. We collaborate with teams globally to bring you activities for every team meeting.</p>
+                    <h4 class="service-heading"> <a href="{{ site.baseurl }}/CoreValues.html">Core Values</a></h4>
+                    <p class="text-muted">This section features over forty Core Value activities. It also includes Core Values posters and a t-shirt design. </p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-rocket fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Project</h4>
-                    <p class="text-muted">This section features resources for the project portion of the competition. It includes lessons on how to pick a project and how to come up with an innovative solution. We collaborate with Top 20 Global Innovation Award winners and state/national GIA nominees to provide the best resources.</p>
+                    <h4 class="service-heading"> <a href="{{ site.baseurl }}/Project.html">Project</a></h4>
+                    <p class="text-muted">This section features resources for the project portion of the competition. It includes lessons about the entire research project process.</p>
                 </div>
             </div>
             </div>
