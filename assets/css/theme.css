@@ -828,13 +828,19 @@ iframe {
     max-width:100%;
 }
 
-@media (max-width: 1199px) {
-    .container {
-        width: 96%;
-        max-width: 100%;
+@media (min-width: 991px) {
+    .navbar-nav li a {
+        line-height: 50px;
     }
 }
-@media (max-width: 991px) {
+@media (max-width: 1199px) {
+    .container {
+        width: 99%;
+        max-width: 100%;
+    }
+
+}
+@media (max-width: 1020px) {
     .navbar-toggleable-md .navbar-nav .nav-link {
         margin-left: 0;
         margin-top: 10px;
