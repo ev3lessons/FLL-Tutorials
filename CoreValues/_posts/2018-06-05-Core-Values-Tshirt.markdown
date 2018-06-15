@@ -1,7 +1,7 @@
 ---
 layout: post
 language: "en"
-keywords: 
+keywords:
 image: "assets/images/CoreValues/CoreValuesTshirt.png"
 title: "Core Values Tshirt"
 minidescription:
@@ -9,8 +9,10 @@ author: SeshanBrothers
 categories:  [ Team Building ]
 tag: CoreValues
 featured: true
+excerpt_separator: <!--more-->
 ---
-
+A fun tshirt design shared by Suncoast FLL.
+<!--more-->
 ### Core Values Tshirt Design
 
 Original Design by ASU FLL. Files below created by Ben Stanley (Robot Obedience School)

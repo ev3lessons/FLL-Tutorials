@@ -1,7 +1,7 @@
 ---
 layout: post
 language: "en"
-keywords: 
+keywords:
 image: "assets/images/CoreValues/CoreValues2.jpg"
 title: "2018 FIRST Core Values"
 minidescription:
@@ -9,7 +9,10 @@ author: SeshanBrothers
 categories:  [ Team Building ]
 tag: CoreValues
 featured: true
+excerpt_separator: <!--more-->
 ---
+The Core Values for all four FIRST programs were updated in 2018.
+<!--more-->
 
 ### The new FIRST LEGO League Core Values
 

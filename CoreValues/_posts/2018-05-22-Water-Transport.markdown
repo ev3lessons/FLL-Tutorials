@@ -1,7 +1,7 @@
 ---
 layout: post
 language: "en"
-keywords: 
+keywords:
 image: "assets/images/CoreValues/WaterTransport2.jpg"
 title: "Water Transport"
 minidescription: "This is a team building students must transfer water working together."
@@ -9,8 +9,11 @@ author: Jean
 categories:  [ Team Building ]
 tag: CoreValues
 featured: false
+excerpt_separator: <!--more-->
 ---
 
+Core Values Activity: Physical Activity
+<!--more-->
 <b>Objectives:</b>
 - Learn to collaborate and coordinate actions
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 language: "en"
-keywords: 
+keywords:
 image: "assets//images/CoreValues/Gifts.png"
 title: "Happy Holidays"
 minidescription: "This is a set of team building activities to do during the holiday season."
@@ -9,6 +9,7 @@ author: SeshanBrothers
 categories:  [ Team Building ]
 tag: CoreValues
 featured: false
+excerpt_separator: <!--more-->
 ---
 
 <b>Objectives:</b>
