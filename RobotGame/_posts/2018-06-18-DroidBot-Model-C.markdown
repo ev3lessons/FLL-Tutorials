@@ -17,8 +17,6 @@ Droid Bot Model C has been designed by Sanjay and Arvind Seshan for FLLTutorials
 
 This robot has been designed for teams to learn building concepts that may be useful to consider when designing a robot for FIRST LEGO League. It is not a "perfect, winning, maximum points robot". Rather, it is meant to be a starting point for ideas and discussion. If you use this robot as a starter, you must cite the source in your robot design judging.
 
-![]({{ site.baseurl }}/assets/RobotGame/DroidBotModelC2.png)
-
 Note: This robot is not the "best or perfect robot" for competition. It is provided here for learning purposes so that teams can try and build different models and learn some features from them. If you use it as a base for a competition, be sure to credit the source of the idea in your Robot Design presentation and/or Engineering Journal.
 
 Design by Seshan Brothers.
