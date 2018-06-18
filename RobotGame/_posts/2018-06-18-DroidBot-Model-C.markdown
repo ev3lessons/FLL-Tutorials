@@ -22,5 +22,5 @@ Note: This robot is not the "best or perfect robot" for competition. It is provi
 Design by Seshan Brothers.
 
 Design Files:
- <a href="https://studio.bricklink.com/v2/build/model.page?idModel=43433">Online Build Instructions</a><br>
+ <a href="https://studio.bricklink.com/v2/build/model.page?idModel=43433">Online Build Instructions</a>,
 <a href="/translations/en-us/RobotGame/DroidBotModelCBuildInstructions.pdf">PDF</a>
