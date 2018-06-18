@@ -22,9 +22,8 @@ This robot has been designed for teams to learn building concepts that may be us
 
 Note: This robot is not the "best or perfect robot" for competition. It is provided here for learning purposes so that teams can try and build different models and learn some features from them. If you use it as a base for a competition, be sure to credit the source of the idea in your Robot Design presentation and/or Engineering Journal.
 
-
 Design by Seshan Brothers.
 
 Design Files:
- <a href="https://studio.bricklink.com/v2/build/model.page?idModel=43433">Online Build Instructions</a>
- <a href="/translations/en-us/RobotGame/DroidBotC.pdf">PDF Coming Soon</a>
+ <a href="https://studio.bricklink.com/v2/build/model.page?idModel=43433">Online Build Instructions</a><br>
+ <a href="">PDF Coming Soon</a>
