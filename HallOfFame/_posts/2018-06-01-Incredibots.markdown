@@ -7,7 +7,7 @@ minidescription:
 author: Incredibots
 categories:
 tag: HallOfFame
-featured: true
+featured: false
 ---
 
 The Incredibots are a legacy FLL team from Columbus, Ohio, USA that competed for 9 years with 2 generations of team members.  They were honored to represent Ohio in 3 FLL World Festivals (winning the 1st Place Champions Award in 2016), 2 FLL Open European Championships (2nd Place Champions Award in 2014), and 2 FLL North American Open Championships.  The team also participated in the FLL Global Innovation Awards (Grand Prize in 2016).  In addition to competing, the team had fun teaching robotics to Central Ohio youth in local schools, science museums, scouting groups, and public events.
