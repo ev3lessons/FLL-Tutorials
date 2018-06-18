@@ -7,7 +7,7 @@ minidescription:
 author: Red
 categories:
 tag: HallOfFame
-featured: false
+featured: true
 ---
 
 SESI Red Rabbit Team is school-based FIRST LEGO League team from Brazil that has competed for nine years in FIRST LEGO League. They have been to World Festival twice. When they first started out, their team was called “Legologia”. In 2012, they became the “Geeks Tech”. Red Rabbit is the 2018 Houston World Festival Champion’s award winner.  
@@ -31,6 +31,8 @@ During the Hydro Dynamics season, we also learned from our mistakes and evolved 
 ### Share one tip about your robot design process
 
 Our robot has been through many evolutions during the seasons, but what we would like to share one particular innovation. When the motor A is activated, a group of gears that we calculated to have the perfect balance between speed and torque, activates a group of pistons that pump air to the compressed air cylinders in our robot. So, we transform mechanical work in potential energy, but... what can we do with this energy? We realized that one of the biggest error sources is the equipment changes because it depends on human interface, then, we put a piston in each corner of our robot, those are activated through this valve, opening or closing them, locking or unlocking our equipment.
+
+![]({{ site.baseurl }}/assets/images/HallOfFame/RedRabbitrobot.png)
 
 ### Share one tip about the doing the research project
 
