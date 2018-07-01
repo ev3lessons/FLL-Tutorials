@@ -39,6 +39,8 @@ World Class. We found the challenges on the World Class mat to be the most diver
 
 The project question that year was also one of the most interesting we have seen and gave rise to EV3Lessons.com. Despite not making the Global Innovation Awards that year, our project became “real”. Today, we have more than a quarter of a million users in 175 countries. EV3Lessons is recognized globally and has resulted in many speaking and demo opportunities.
 
+Other seasons have had their memorable moments as well. For example, in Nature's Fury, we got a walkthrough of US Airway's airplanes and Operational Control Center. In Hydro Dynamics, we got to demonstrate our robot to the owner of LEGO in Denmark.
+
 ### Share one tip about your robot design process or robot
 
 We popularized the box robot design with our TARDIS in 2014. TARDIS stands for Technically Advanced Robot Designed in Style.  The robot was a blue box. Our robot design handout that year also looked like a TARDIS. The box style robot is not needed to win a competition, but does help put attachments on quickly. Try to experiment with passive attachments. Rubber bands, pneumatics and gravity-based attachments can set you apart while teaching you new skills.
@@ -51,7 +53,7 @@ It is extremely important to be thorough in your research project and then be ab
 
 Be yourself! There are many teams that want to win and want to adopt the ideas and style of other teams. Come up with your own team personality and style and you will thrive. Also remember that FIRST LEGO League really is a journey. Expecting to win and skipping the steps involved in learning and growing as a team will only result in you not getting the most out of the program.
 
-You don't have to be a large, loud team to win Champion's. You have just embrace the entire FIRST LEGO League experience and be yourself!
+> You don't have to be a large, loud team to win Champion's. You have just embrace the entire FIRST LEGO League experience and be yourself!
 
 ### What is something you wish you knew when you started out in FIRST LEGO League?
 

@@ -7,7 +7,7 @@ minidescription:
 author: Red
 categories:
 tag: HallOfFame
-featured: true
+featured: false
 ---
 
 SESI Red Rabbit Team is school-based FIRST LEGO League team from Brazil that has competed for nine years in FIRST LEGO League. They have been to World Festival twice. When they first started out, their team was called “Legologia”. In 2012, they became the “Geeks Tech”. Red Rabbit is the 2018 Houston World Festival Champion’s award winner.  
