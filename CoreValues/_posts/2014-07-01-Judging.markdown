@@ -5,7 +5,7 @@ searchterms:
 image: "assets/images/CoreValues/GenericLesson.png"
 lang: "en"
 author: BayouBuilders
-categories:  [ Team Building ]
+categories:  [ Judging]
 tag: CoreValues
 featured: true
 excerpt_separator: <!--more-->

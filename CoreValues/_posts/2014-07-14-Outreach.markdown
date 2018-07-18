@@ -10,7 +10,7 @@ tag: CoreValues
 featured: true
 excerpt_separator: <!--more-->
 ---
- This is an overview of what outreach is in FIRST LEGO League
+What is "doing outreach" in FIRST LEGO League?
  <!--more-->
 
  <li class="ng-binding">Slides:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making Decisions
+title: "Making Decisions"
 searchterms:
 image: "assets/images/CoreValues/GenericLesson.png"
 lang: "en"
