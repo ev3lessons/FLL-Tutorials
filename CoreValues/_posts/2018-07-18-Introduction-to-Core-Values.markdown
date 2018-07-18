@@ -7,7 +7,7 @@ lang: "en"
 author: SeshanBrothers
 categories:  [  ]
 tag: CoreValues
-featured: false
+featured: true
 excerpt_separator: <!--more-->
 ---
  This is an overview of the Core Values in FIRST LEGO League.

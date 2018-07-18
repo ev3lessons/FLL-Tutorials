@@ -7,7 +7,7 @@ lang: "en"
 author: SeshanBrothers
 categories:  [ Outreach ]
 tag: CoreValues
-featured: false
+featured: true
 excerpt_separator: <!--more-->
 ---
  This is an overview of what outreach is in FIRST LEGO League

@@ -7,7 +7,7 @@ lang: "en"
 author: SeshanBrothers
 categories:  [ Team Building ]
 tag: CoreValues
-featured: false
+featured: true
 excerpt_separator: <!--more-->
 ---
 How do teams make decisions in FIRST LEGO League?

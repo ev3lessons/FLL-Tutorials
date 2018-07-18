@@ -8,7 +8,7 @@ minidescription:
 author: SeshanBrothers
 categories:  [ Team Building ]
 tag: CoreValues
-featured: true
+featured: false
 excerpt_separator: <!--more-->
 ---
 The Core Values for all four FIRST programs were updated in 2018.

@@ -8,7 +8,7 @@ minidescription:
 author: SeshanBrothers
 categories:  [ Team Building ]
 tag: CoreValues
-featured: true
+featured: false
 excerpt_separator: <!--more-->
 ---
 A fun tshirt design shared by Suncoast FLL.
