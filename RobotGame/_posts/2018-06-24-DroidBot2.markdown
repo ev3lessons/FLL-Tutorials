@@ -22,4 +22,6 @@ Note: This robot is not the "best or perfect robot" for competition. It is provi
 Design by Seshan Brothers.
 
 Design Files:
-<a href="/translations/en-us/RobotGame/DroidBot2.lxf">Robot LXF, href="/translations/en-us/RobotGame/Snap2.lxf">Attachment LXF,  href="/translations/en-us/RobotGame/DroidBot2BuildInstructions.pdf">Photo-based PDF</a>
+<a href="/translations/en-us/RobotGame/DroidBot2.lxf">Robot LXF</a>,
+<a href="/translations/en-us/RobotGame/Snap2.lxf">Attachment LXF</a>,  
+<a href="/translations/en-us/RobotGame/DroidBot2BuildInstructions.pdf">Photo-based PDF</a>
