@@ -3,7 +3,7 @@ layout: post
 language: "en"
 image: "assets/images/CoachCorner/FLLJr1.jpg"
 title: "Coaching FIRST LEGO League Junior"
-minidescription: "This article is how to get your team to pick a research topic."
+minidescription: "This article is about coach FLL and FLLJr at the same time."
 author: Faith
 categories: [ Coaching ]
 tag: CoachCorner
