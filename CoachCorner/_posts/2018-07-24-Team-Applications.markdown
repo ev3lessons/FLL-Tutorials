@@ -27,23 +27,25 @@ Be as up front as possible from the beginning. Here are some points to consider 
 4) What role(s) will each student play? Who will run the robot at events? How are such decisions made?<br>
 5) FIRST LEGO League is more than building with LEGO bricks. Students will be expected to work on the Research Project too.<br>
 6) FIRST LEGO League is team work. Students will be expected to work together, compromise, etc. Sometimes, their ideas may not be accepted by the group.<br>
-7) FIRST LEGO League is a commitment. Students need to show up regularly to meetings and to competitions.
+7) FIRST LEGO League is a commitment. Students need to show up regularly to meetings and to competitions.<br>
 8) Who does the work in FIRST LEGO League?<br>
 9) What help (if any) will the parents need to provide? Snacks? Transportation? Volunteer at an event? Can parents and siblings attend all the team meetings too?<br>
 10) Does the student have any special needs/interests/fears the coach and other kids might need to be made aware of?<br>
 11) What is your coaching philisophy/mission/goal for the team?
 
-![]({{ site.baseurl }}/assets/images/CoachCorner/TeamMember2.png)
 
 ### Sample Applications and Contracts
+
+![]({{ site.baseurl }}/assets/images/CoachCorner/TeamMember2.png)
 
 <a href="http://decaturrobotics.org/wp-content/uploads/2018/04/Decatur-Robotics-Application-2018.pdf">Decatur Robotics FLL Application</a>
 
 <a href="http://decaturrobotics.org/wp-content/uploads/2018/04/Code-of-Conduct.pdf"> Decatur Robotics Code of Conduct</a>
 
+<a href="http://outreach.engineering.asu.edu/wp-content/uploads/2012/10/Contract-for-Children-Parents.pdf"> Application Form and Contract</a>
+
 <a href="https://www.sps186.org/downloads/attachments/52091/FLL2016-2017Application-2.pdf"> Sample School team Application Form 1</a>
 
-<a href="http://outreach.engineering.asu.edu/wp-content/uploads/2012/10/Contract-for-Children-Parents.pdf"> Application Form and Contract</a>
 
 <a href="https://gravelyes.pwcs.edu/UserFiles/Servers/Server_407117/File/Webmaster/2016%20Robotics%20Application(1).pdf"> School Team Application and Teacher Recommendation Forms 2 </a>
 
