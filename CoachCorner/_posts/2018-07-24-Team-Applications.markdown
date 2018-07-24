@@ -20,32 +20,34 @@ It is up to the team founders to decide what type of team they want to be. FIRST
 
 ### Being Up Front
 
-Be as up front as possible from the beginning. Here are some points to consider and communicate to potential students and team members:
-1) How much money will each student have to provide?
-2) How many hours will you meet and on what day(s)? Will there be additional hours needed for homework/field trips?
-3) How do awards work in FIRST LEGO League? Who will keep the trophy if you win anything?
-4) What role(s) will each student play? Who will run the robot at events? How are such decisions made?
-5) FIRST LEGO League is more than building with LEGO bricks. Students will be expected to work on the Research Project too.
-6) FIRST LEGO League is team work. Students will be expected to work together, compromise, etc. Sometimes, their ideas may not be accepted by the group.
+Be as up front as possible from the beginning. Here are some points to consider and communicate to potential students and team members: <br>
+1) How much money will each student have to provide? <br>
+2) How many hours will you meet and on what day(s)? Will there be additional hours needed for homework/field trips?<br>
+3) How do awards work in FIRST LEGO League? Who will keep the trophy if you win anything?<br>
+4) What role(s) will each student play? Who will run the robot at events? How are such decisions made?<br>
+5) FIRST LEGO League is more than building with LEGO bricks. Students will be expected to work on the Research Project too.<br>
+6) FIRST LEGO League is team work. Students will be expected to work together, compromise, etc. Sometimes, their ideas may not be accepted by the group.<br>
 7) FIRST LEGO League is a commitment. Students need to show up regularly to meetings and to competitions.
-8) Who does the work in FIRST LEGO League?
-9) What help (if any) will the parents need to provide? Snacks? Transportation? Volunteer at an event? Can parents and siblings attend all the team meetings too?
-10) Does the student have any special needs/interests/fears the coach and other kids might need to be made aware of?
+8) Who does the work in FIRST LEGO League?<br>
+9) What help (if any) will the parents need to provide? Snacks? Transportation? Volunteer at an event? Can parents and siblings attend all the team meetings too?<br>
+10) Does the student have any special needs/interests/fears the coach and other kids might need to be made aware of?<br>
 11) What is your coaching philisophy/mission/goal for the team?
 
-![]({{ site.baseurl }}/assets/images/CoachCorner/TeamMember2.jpg)
+![]({{ site.baseurl }}/assets/images/CoachCorner/TeamMember2.png)
 
 ### Sample Applications and Contracts
 
 <a href="http://decaturrobotics.org/wp-content/uploads/2018/04/Decatur-Robotics-Application-2018.pdf">Decatur Robotics FLL Application</a>
+
 <a href="http://decaturrobotics.org/wp-content/uploads/2018/04/Code-of-Conduct.pdf"> Decatur Robotics Code of Conduct</a>
-<a href="https://www.sps186.org/downloads/attachments/52091/FLL2016-2017Application-2.pdf"> Sample School team application Form</a>
+
+<a href="https://www.sps186.org/downloads/attachments/52091/FLL2016-2017Application-2.pdf"> Sample School team Application Form 1</a>
 
 <a href="http://outreach.engineering.asu.edu/wp-content/uploads/2012/10/Contract-for-Children-Parents.pdf"> Application Form and Contract</a>
 
-<a href="https://gravelyes.pwcs.edu/UserFiles/Servers/Server_407117/File/Webmaster/2016%20Robotics%20Application(1).pdf"> School Team Application and Teacher Recommendation Forms</a>
+<a href="https://gravelyes.pwcs.edu/UserFiles/Servers/Server_407117/File/Webmaster/2016%20Robotics%20Application(1).pdf"> School Team Application and Teacher Recommendation Forms 2 </a>
 
-<a href="http://www.ccisd.net/common/pages/DisplayFile.aspx?itemId=2595345"> School Team Application and Teacher Recommendation Forms</a>
+<a href="http://www.ccisd.net/common/pages/DisplayFile.aspx?itemId=2595345"> School Team Application and Teacher Recommendation Forms 3</a>
 
-<a href="https://lookaside.fbsbx.com/file/2018-2019%20Robotics%20Information%20%20Application%20-%20New%20Core%20Values.pdf?token=AWwU_uwFBJcGPqBa0b1zIR152PqXQbG1Jo3GzDk0UIrnm_Hic2QS-yBta_CTLfqm1JyZ1irU2fYaE1zRHJb9CMawqArO-kvFd59rmfq-t1U3MXphjCMf-ZU9YRom6Et3B9A6ZWaoxW4cKXOZM5ByFMnm">School Team Application</a>
+<a href="https://lookaside.fbsbx.com/file/2018-2019%20Robotics%20Information%20%20Application%20-%20New%20Core%20Values.pdf?token=AWwU_uwFBJcGPqBa0b1zIR152PqXQbG1Jo3GzDk0UIrnm_Hic2QS-yBta_CTLfqm1JyZ1irU2fYaE1zRHJb9CMawqArO-kvFd59rmfq-t1U3MXphjCMf-ZU9YRom6Et3B9A6ZWaoxW4cKXOZM5ByFMnm">School Team Application Form 4</a>
 
