@@ -8,7 +8,7 @@ minidescription: "This is a team building activity where students must pick item
 author: SeshanBrothers
 categories:  [ Team Building ]
 tag: CoreValues
-featured: true
+featured: false
 excerpt_separator: <!--more-->
 ---
 
