@@ -16,11 +16,11 @@ Core Values Activity:  How hard is it to be an astronaut?
 <!--more-->
 
 <b>Objectives:</b>
-- Make decisions as a team
+- Picking a team member for a task and then supporting them through the activity
 
 <b>Materials:</b>
 - Hersey's Kiss/Small wrapped candy
-- Oversized, heavy clothing (ski jacket, ski pants, goggles/ski mask or motorcycle helmet, boots). Basically, anything bulky and awkard and ressebling a spacesuit (with some imagination).
+- Oversized, heavy clothing (ski jacket, ski pants, goggles/ski mask or motorcycle helmet, boots). Basically, anything bulky and awkward and ressembling a spacesuit (with some imagination).
 - Pair of oven mitts or oversized ski gloves
 - Pair of chopsticks
 
@@ -40,6 +40,4 @@ Pick one team member to be the astronaut. Help this team member get dressed. You
 <b>Notes:</b>
 Did the team follow the rules given? Did the team members not in a suit help the astronaut? How did the team pick who will be the astronaut?
 
-This activity was shared by <a href="https://www.facebook.com/pasfinestrobotics/">FIRST LEGO League Team Pennsylvania's Finest Robotics Team</a>
-
-Click <a href="http://flltutorials.com/CoreValues.html">here<a> to learn some facts about space suits.
+This activity was shared by <a href="https://www.facebook.com/pasfinestrobotics/"> Pennsylvania's Finest Robotics Team</a>. Click <a href="http://flltutorials.com/CoreValues.html">here</a> to learn some facts about space suits.
