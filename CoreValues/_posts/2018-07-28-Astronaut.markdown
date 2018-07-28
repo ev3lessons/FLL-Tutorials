@@ -19,10 +19,11 @@ Core Values Activity:  How hard is it to be an astronaut?
 - Picking a team member for a task and then supporting them through the activity
 
 <b>Materials:</b>
-- Hersey's Kiss/Small wrapped candy
+- Hersey's Kisses or other small wrapped candy
 - Oversized, heavy clothing (ski jacket, ski pants, goggles/ski mask or motorcycle helmet, boots). Basically, anything bulky and awkward and ressembling a spacesuit (with some imagination).
 - Pair of oven mitts or oversized ski gloves
 - Pair of chopsticks
+- Some cotton balls
 
 <b>Setup:</b>
 - Leave all clothing items on the floor
