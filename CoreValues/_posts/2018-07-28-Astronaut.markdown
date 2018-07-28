@@ -41,4 +41,4 @@ Pick one team member to be the astronaut. Help this team member get dressed. You
 <b>Notes:</b>
 Did the team follow the rules given? Did the team members not in a suit help the astronaut? How did the team pick who will be the astronaut?
 
-This activity was shared by <a href="https://www.facebook.com/pasfinestrobotics/"> Pennsylvania's Finest Robotics Team</a>. Click <a href="http://flltutorials.com/CoreValues.html">here</a> to learn some facts about space suits.
+This activity was shared by <a href="https://www.facebook.com/pasfinestrobotics/"> Pennsylvania's Finest Robotics Team</a>. Click <a href="https://spaceflight.nasa.gov/outreach/SignificantIncidentsEVA/assets/space_suit_evolution.pdf">here</a> to learn some facts about space suits.
