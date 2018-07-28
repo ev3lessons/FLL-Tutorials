@@ -24,7 +24,7 @@ Core Values Activity:  Picking from a list
 - Typed instructions
 
 <b>Setup:</b>
-- Leave the insrtructions on the table for the team to read on their own.
+- Leave the instructions on the table for the team to read on their own.
 - Leave the list of items on the table
 - Leave pen and paper for notes
 
