@@ -1,8 +1,8 @@
 // Google Saving System 1.0
 
 // Client ID and API key from the Developer Console
-var CLIENT_ID = "770638819380-lib9n1cq2t7kg3171fkrpm9jfpn831lh.apps.googleusercontent.com";
-var API_KEY = 'AIzaSyBmDn6SwpchAYk5DpSyFleAafLGleipOY8';
+var CLIENT_ID = "770638819380-bs28pclo8lguc58e01oju4ei1r88i320.apps.googleusercontent.com";
+var API_KEY = 'AIzaSyDBhBXveLafOasTo5b-n9__PsM5iKOQgCE';
 
 // Array of API discovery doc URLs for APIs used by the quickstart
 var DISCOVERY_DOCS = ["https://sheets.googleapis.com/$discovery/rest?version=v4"];
