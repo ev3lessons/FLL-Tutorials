@@ -3,7 +3,7 @@ layout: post
 language: "en"
 image: "assets/images/CoachCorner/Hanson1.jpg"
 title: "FIRST LEGO League in the Classroom"
-minidescription: "This article is including FIRST LEGO League in School Curriculum"
+minidescription: "This article is about including FIRST LEGO League in School Curriculum"
 author: Caroline
 categories: [ Coaching ]
 tag: CoachCorner
