@@ -87,7 +87,7 @@
 
   //  langs=['en-us:United States:English (USA)']
   
-  
+  langs=['en-us:United States:English','pt-br:Brazil:Portugues','de:Germany:Deutsche','es:Spain:Español','sk:Slovakia:Slovenský','nl:Netherlands:Nederlands','el:Greece:ελληνικά','hu:Hungary:Magyar','he:Israel:עִבְרִית‎','fr:France:français']
 
   function get_browser_version(){
     var N=navigator.appName, ua=navigator.userAgent, tem;
