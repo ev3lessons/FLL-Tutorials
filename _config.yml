@@ -12,6 +12,15 @@ disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5b19a5338e56ee0011c80480&product=sticky-share-buttons"></script>'
 # Authors
 authors:
+Droids:
+    name: Caroline Hanson
+    display_name: Caroline
+    email:
+    web: 
+    twitter: 
+    facebook:
+    description: "Educator"
+    image: assets/images/people/Caroline.jpg
   Droids:
     name: Not the Droids You Are Looking For
     display_name: Droids
