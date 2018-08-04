@@ -49,6 +49,12 @@ startText = "Start"
 stopText = "Stop"
 pointsText = "Points"
 
+timerText = "Timer:"
+stopwatchText = "Stopwatch:"
+
+revisionText = "INTO ORBIT Scorer Revision "
+copyrightText = "Copyright (c) 2018-19 Seshan Brothers"
+
 title = "INTO ORBIT Scorer"
 
 M01="Space Travel"
@@ -116,6 +122,8 @@ P01="Penalty"
 P01a="How many times was the robot interrupted?"
 
 translatorCredit = ""
+
+
 
 
 if (language == "pt" || language == "pt-br") {
@@ -234,6 +242,12 @@ startText = "Iniciar"
 stopText = "Parar"
 pointsText = "Puntos"
 
+timerText = "Minutero:"
+stopwatchText = "Cronógrafo:"
+
+revisionText = "El revisión del Marcador INTO ORBIT"
+copyrightText = "Derechos de autor 2018-19 Seshan Brothers"
+
 title = "Marcador INTO ORBIT"
 
 M01="Viaje Espacial"
@@ -300,8 +314,12 @@ M15c="¿Ambas partes del Módulo de Aterrizaje están <b>completamente</b> dentr
 P01="Penalizaciones"
 P01a="¿Cuántas veces se ha interrumpido el robot?"
 
-translatorCredit = "Traducido al español por Antonio Zumaquero, entrenador y mentor FLL en España"
+    translatorCredit = "Traducido al español por Antonio Zumaquero, entrenador y mentor FLL en España"
 
+    
+
+
+    
 
 } else if (language == "sk") {
   yes = "Áno"

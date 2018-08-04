@@ -170,12 +170,12 @@
         <tr>
           <td>
             <div style="max-width: 100px">
-              Team #:  <input value="0" id="team_num" type="number">
+            <text id="teamText">  Team</text> #:  <input value="0" id="team_num" type="number">
             </div>
           </td>
           <td>
             <div style="max-width: 100px">
-              Round #: <input value="0" id="round_num" type="number">
+              <text id="roundText">  Round</text> #: <input value="0" id="round_num" type="number">
             </div>
           </td>
         </tr>
@@ -379,7 +379,7 @@
             <p>
               <!--	  Timer System 1.5.0 -->
               <div class="ui-mini" id="Timer">
-                Timer:
+              <text id="timerText">  Timer: </text>
                 <table style="border: 10px solid black; border-collapse: collapse;">
                   <tr style="border: 10px solid black; border-collapse: collapse;">
                     <td rowspan='3' style="border: 10px solid black;  border-collapse: collapse; vertical-align:middle; font-size: 200%;">
@@ -405,7 +405,7 @@
 
 
               <div class="ui-mini" id="Stopwatch">
-                Stopwatch:
+               <text id="stopwatchText"> Stopwatch: </text>
                 <table style="border: 10px solid black; border-collapse: collapse;">
                   <tr style="border: 10px solid black; border-collapse: collapse;">
                     <td rowspan='3' style="border: 10px solid black; border-collapse: collapse; vertical-align:middle; font-size: 200%">
@@ -785,10 +785,10 @@ ga('send', 'pageview');
 </div>
 <div style="padding-left: 10px; ">
   <br>
-  INTO ORBIT Scorer Revision 1.1
+  <text id="revisionText">INTO ORBIT Scorer Revision</text> 1.1
   <!-- Scorer v3.3.0 -->
 <br>
-<br>Copyright (c) 2018 Seshan Brothers<br>
+<br><text id="copyrightText">Copyright (c) 2018 Seshan Brothers</text><br>
 <br>
 <text id="translatorCredit"></text>
 </div>
@@ -843,7 +843,17 @@ function initpage() {
   document.getElementById('instructionsD').innerHTML = instructionsD
   document.getElementById('instructionsE').innerHTML = instructionsE
   document.getElementById('instructionsF').innerHTML = instructionsF
-  document.getElementById('instructionsG').innerHTML = instructionsG
+    document.getElementById('instructionsG').innerHTML = instructionsG
+
+  document.getElementById('teamText').innerHTML = teamText
+    document.getElementById('roundText').innerHTML = roundText
+
+document.getElementById('timerText').innerHTML = timerText
+document.getElementById('stopwatchText').innerHTML = stopwatchText
+
+    document.getElementById('revisionText').innerHTML = revisionText
+    document.getElementById('copyrightText').innerHTML = copyrightText
+
     
   document.getElementById('translatorCredit').innerHTML = translatorCredit
 
