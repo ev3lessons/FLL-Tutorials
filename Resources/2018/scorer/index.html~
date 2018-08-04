@@ -124,10 +124,7 @@
 
 
       </style>
-    <script>
-      //langs=['en:United States:English','pt:Brazil:Portugues','de:Germany:Deutsche','es:Spain:Español','sk:Slovakia:Slovenský','nl:Netherlands:Nederlands','el:Greece:ελληνικά','hu:Hungary:Magyar','he:Israel:עִבְרִית‎','fr:France:français']
-      langs=['en:United States:English','es:Spain:Español']
-    </script>
+      <script> langs=['en:United States:English','pt:Brazil:Portugues','de:Germany:Deutsche','es:Spain:Español','sk:Slovakia:Slovenský','nl:Netherlands:Nederlands','el:Greece:ελληνικά','hu:Hungary:Magyar','he:Israel:עִבְרִית‎','fr:France:français'] </script>
       <script src="language-detector.js">  </script>
       <script src="languages.js"></script>
 
@@ -486,7 +483,7 @@
                 <div class="ui-grid-b ui-responsive">
                   <div style="width: 170" class="ui-block-a" align="left" style="float: left;">
                     <div class="button-wrap">
-                      <button style="text-align: left;" id="loadTextGoogle" class="ui-shadow ui-btn ui-corner-all" type="button" onclick="loadGoogleSave(document.getElementById('saveidGoogle').value)">Load Save:</button>
+                      <button style="text-align: left;" id="loadText" class="ui-shadow ui-btn ui-corner-all" type="button" onclick="loadGoogleSave(document.getElementById('saveidGoogle').value)">Load Save:</button>
                     </div>
                   </div>
                   <div style="max-width: 60px; " class="ui-block-b">
@@ -729,13 +726,13 @@ ga('send', 'pageview');
   if (countrycode != "he" && countrycode != "hu" && countrycode !=
   "en" && countrycode != "el") {
     document.write('<a target="_blank"\
-    href="https://itunes.apple.com/'+countrycode+'/app/fll-into-orbit-scorer/id1415402611?ls=1&mt=8">\
+    href="https://itunes.apple.com/'+countrycode+'/app/fll-hydro-dynamics-scorer/id1281134368?ls=1&mt=8">\
     <img height="68" style="padding: 15px" \
     src="app-store/'+language+'.svg"></a><br>')
   } else if (countrycode == "he"){
 
     document.write('<a target="_blank"\
-    href="https://itunes.apple.com/gb/app/fll-into-orbit-scorer/id1415402611?ls=1&mt=8">\
+    href="https://itunes.apple.com/gb/app/fll-hydro-dynamics-scorer/id1281134368?ls=1&mt=8">\
     <img height="68" style="padding: 15px" \
     src="app-store/'+language+'.svg"></a><br>')
 
@@ -746,7 +743,7 @@ ga('send', 'pageview');
   } else {
 
     document.write('<a target="_blank"\
-    href="https://itunes.apple.com/gb/app/fll-into-orbit-scorer/id1415402611?ls=1&mt=8">\
+    href="https://itunes.apple.com/gb/app/fll-hydro-dynamics-scorer/id1281134368?ls=1&mt=8">\
     <img height="68" style="padding: 15px" \
     src="app-store/en-us.svg"></a><br>')
   }
@@ -755,7 +752,7 @@ ga('send', 'pageview');
   } else {
 
     document.write('<a target="_blank"\
-    href="https://itunes.apple.com/us/app/fll-into-orbit-scorer/id1415402611?ls=1&mt=8">\
+    href="https://itunes.apple.com/us/app/fll-hydro-dynamics-scorer/id1281134368?ls=1&mt=8">\
     <img height="68" style="padding: 15px" \
     src="app-store/en-us.svg"></a><br>')
   }
@@ -764,7 +761,7 @@ ga('send', 'pageview');
   } else {
 
     document.write('<a target="_blank"\
-    href="https://itunes.apple.com/gr/app/fll-into-orbit-scorer/id1415402611?ls=1&mt=8">\
+    href="https://itunes.apple.com/gr/app/fll-hydro-dynamics-scorer/id1281134368?ls=1&mt=8">\
     <img height="68" style="padding: 15px" \
     src="app-store/en-us.svg"></a><br>')
   }
@@ -777,7 +774,7 @@ ga('send', 'pageview');
     countrycode = "iw"
   }
   document.write('<a target="_blank"\
-  href="https://play.google.com/store/apps/details?id=com.ev3lessons.fllintoorbitscorer&hl='+countrycode+'">\
+  href="https://play.google.com/store/apps/details?id=com.ev3lessons.fllhydrodynamicsscorer&hl='+countrycode+'">\
   <img height="100" \
   src="google-play/'+countrycode+'_get.svg"></a>')
 
@@ -785,11 +782,10 @@ ga('send', 'pageview');
 </div>
 <div style="padding-left: 10px; ">
   <br>
-  INTO ORBIT Scorer Revision 1.1
+  INTO ORBIT Scorer Revision 1.0
   <!-- Scorer v3.3.0 -->
 <br>
 <br>Copyright (c) 2018 Seshan Brothers<br>
-<br>
 <text id="translatorCredit"></text>
 </div>
 <script>
@@ -811,7 +807,6 @@ function initpage() {
   document.getElementById('exportText').innerHTML = exportsaveText
 
   document.getElementById('saveGoogleBtn').innerHTML = savescoreText
-  document.getElementById('loadTextGoogle').innerHTML = loadsaveText
 
 
   document.getElementById('startText').innerHTML = startText
