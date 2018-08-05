@@ -231,8 +231,8 @@ html body .ui-group-theme-a .ui-bar-inherit {
 	font-weight: bold;
 }
 .ui-bar-a {
-//	border-width: 1px;
-//	border-style: solid;
+	border-width: 1px;
+	border-style: solid;
 }
 /* Page and overlay */
 .ui-overlay-a,
