@@ -12,6 +12,11 @@ disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5b19a5338e56ee0011c80480&product=sticky-share-buttons"></script>'
 # Authors
 authors:
+  Caroline:
+    name: Caroline Hanson
+    display_name: Caroline
+    description: "Educator"
+    image: assets/images/people/Caroline.jpg
   Droids:
     name: Not the Droids You Are Looking For
     display_name: Droids
@@ -147,17 +152,17 @@ authors:
   Swati:
     name: Swati Mittal
     display_name: Swati
-    description: Coach at NXT Generation.
+    description: Coach at NXT Generation
     image: assets/images/people/female.jpg
   Chad:
     name: Chad Houck
     display_name: Chad
-    description: Coach at High Voltage Couch Bananas.
+    description: Coach at High Voltage Couch Bananas
     image: assets/images/people/bananas.jpg
   FTC8496:
     name: FTC 8496
     display_name: FTC 8496
-    description: FTC Heat it Up and Keep it Cool.
+    description: FTC Heat it Up and Keep it Cool
     image: assets/images/people/heatitup.png
   Kaia:
     name: Kaia
@@ -167,27 +172,27 @@ authors:
   Amy:
     name: Amy Heider Brown
     display_name: Amy
-    description: Coach of Team Hyperbolics.
+    description: Coach of Team Hyperbolics
     image: assets/images/people/female.jpg
   Stephanie:
     name: Stephanie Ozenne
     display_name: Stephanie
-    description: Coach of Team Rejecting Reality.
+    description: Coach of Team Rejecting Reality
     image: assets/images/people/female.jpg
   Kalai:
     name: Kalai Sankar
     display_name: Stephanie
-    description: Coach of Team Master Builders.
+    description: Coach of Team Master Builders
     image: assets/images/people/KalaiSankar.jpg
   Incredibots:
     name: Incredibots
     display_name: Incredibots
-    description: 2016 World Festival St.Louis Champion's award winner.
+    description: 2016 World Festival St.Louis Champion's award winner
     image: assets/images/people/Incredibots.jpg
   Red:
     name: Red Rabbit
     display_name: Red Rabbit
-    description: 2018 World Festival Houston Champion's award winner.
+    description: 2018 World Festival Houston Champion's award winner
     image: assets/images/people/RedRabbit.jpg
 ---
 # Plugins
