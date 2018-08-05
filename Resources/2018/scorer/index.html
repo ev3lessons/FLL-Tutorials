@@ -126,7 +126,7 @@
       </style>
     <script>
       //langs=['en:United States:English','pt:Brazil:Portugues','de:Germany:Deutsche','es:Spain:Español','sk:Slovakia:Slovenský','nl:Netherlands:Nederlands','el:Greece:ελληνικά','hu:Hungary:Magyar','he:Israel:עִבְרִית‎','fr:France:français']
-      langs=['en:United States:English','es:Spain:Español']
+      langs=['en:United States:English','es:Spain:Español','pt:Brazil:Portugues']
     </script>
       <script src="language-detector.js">  </script>
       <script src="languages.js"></script>
@@ -436,7 +436,7 @@
 
             <div style="max-width: 600px">
               <div class="no-mobile">
-                Saving System: <select style="" data-role="none" data-hide-during-focus="false" data-tap-toggle="false" onchange="document.getElementById('google').style.display = 'none'; document.getElementById('legacy').style.display = 'none'; document.getElementById(this.value).style.display = 'inline';">
+                <text id="systemText">Saving System:</text> <select style="" data-role="none" data-hide-during-focus="false" data-tap-toggle="false" onchange="document.getElementById('google').style.display = 'none'; document.getElementById('legacy').style.display = 'none'; document.getElementById(this.value).style.display = 'inline';">
                   <option id="googleText" value="google">Google Sheets (Default)</option>
                   <option id="localText" value="legacy">Local Browser Storage (Legacy)</option>
                 </select>
@@ -785,7 +785,7 @@ ga('send', 'pageview');
 </div>
 <div style="padding-left: 10px; ">
   <br>
-  <text id="revisionText">INTO ORBIT Scorer Revision</text> 1.1
+  <text id="revisionText">INTO ORBIT Scorer Revision</text> 1.2
   <!-- Scorer v3.3.0 -->
 <br>
 <br><text id="copyrightText">Copyright (c) 2018 Seshan Brothers</text><br>
@@ -853,6 +853,8 @@ document.getElementById('stopwatchText').innerHTML = stopwatchText
 
     document.getElementById('revisionText').innerHTML = revisionText
     document.getElementById('copyrightText').innerHTML = copyrightText
+
+        document.getElementById('systemText').innerHTML = systemText
 
     
   document.getElementById('translatorCredit').innerHTML = translatorCredit
