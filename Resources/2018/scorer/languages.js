@@ -38,7 +38,6 @@ instructionsD = '3. If you have created a spreadsheet in the past, make sure tha
 instructionsE = '4. Any time you want to save a score, click "Save Score" - this will update the spreadsheet with the current score and date'
 instructionsF = '5. If you wish to inspect your spreadsheet and edit it, click on "Open Google Spreadsheet". If you ever need the Google Sheet ID - it is in the URL of your spreadsheet when you open it.'
 instructionsG = '6. You can also retreive a specific past score into the scorer by entering the save number with the "+" and "-" buttons and then clicking the "Load Save:" button'
-systemText = "Saving System: "
 
 var monthNames = ["","January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 improvementText = "Improvement"
@@ -48,6 +47,8 @@ savesText = "Saves"
 startText = "Start"
 stopText = "Stop"
 pointsText = "Points"
+
+systemText = "Saving System: "
 
 timerText = "Timer:"
 stopwatchText = "Stopwatch:"
@@ -254,25 +255,130 @@ if (language == "pt" || language == "pt-br") {
 
 
 } else if (language == "de") {
-    var monthnames = [ "", "Januar", "Februar", "März", "April", "Mai", "June", "Juli", "August", "September", "October", "November" , "Dezember"];
-    improvement = "Verbesserung"
-    saveText = "Speichern"
-    savescoreText = "Ergebnis speichern"
-    loadsaveText = "Load Save"
-    deletesaveText = "Löschen speichert"
-    importsaveText = "Import speichern"
-    exportsaveText = "Export speichern"
-    scorerText = "Punkterechner"
-    timersText = "Timer"
-    savesText = "Saves"
-    startText = "Start"
-    stopText = "Stop"
     yes = "Ja"
     no = "Nein"
-    pointsText = "Punkte"
-    resetText = "Zurücksetzen"
     partly = "Teilweise"
     completely = "Komplett"
+    resetText = "Zurücksetzen"
+    saveText = "Speichern"
+    savescoreText="Score Speichern"
+    loadsaveText="Gespeicherten Score laden:"
+    deletesaveText="Gespeicherte Scores löschen"
+    importsaveText="Gespeicherten Score importieren"
+    exportsaveText="Gespeicherten Score exportieren"
+    signin = "Anmelden mit"
+    signout = "Abmelden von"
+    GoogleCreate = "Neues Spreadsheet erstellen"
+    GoogleOpen = "Google Spreadsheet öffnen"
+    created = "Erstellt"
+    savedto = "Gespeichert nach"
+    teamText = "Team"
+    roundText = "Runde"
+    dateText = "Datum/Uhrzeit"
+    totalText = "Gesamt Punkte"
+    savedText = "Gespeichert"
+    loadedText = "Geladen"
+    googleSaveText = "Google Sheets (Standard)"
+    localSaveText = "Lokaler Speicher des Browsers"
+    isIE = "Das System zum Abspeichern der Daten mit Google ist nicht kompatibel mit dem Internet Explorer. Sie können einen anderen Browser erwenden oder die Daten lokal speichern (siehe oben)"
+
+    googleIntro = "Soe können die Scores in ein Google Spreadsheet speichern. Das erleichtert das Verfolgen der Scores im Verlauf der Saison. Die Anleitung hierzu befindet sich am Ende der Seite."
+    pastSaves = "Abgespeicherte Scores"
+    instructions = "Anleitung"
+    instructionsA = "Die wichtigsten Schritte, um das Speichersystem zu nutzen:"
+    instructionsB = '1. Melden Sie sich mit Ihrem Google Account an. Evtl. erscheint eine Warnung, dass diese App nicht verifiziert ist. Falls dies geschieht, klicken sie auf "Erweitert" und "Zu FLL Scorer fortfahren (unsicher)"'
+    instructionsC = '2. Wenn Sie noch kein Spreadsheet angelegt haben, klicken Sie auf "Neues Spreadsheet erstellen"'
+    instructionsD = '3. Wenn Sie schon ein Spreadsheet angelegt haben, stellen Sie sicher, dass sie die Google Sheet ID eingetragen haben (und nicht "Undefined"). Wenn Sie das Spreadsheet auf mehreren Geräten benutzen möchten, müssen Sie diese ID manuell eintragen.'
+    instructionsE = '4. Wenn Sie einen Score speichern möchten, klicken Sie "Score Speichern" - dadurch werden Score und das aktuelle Datum in das Spradsheet eingetragen'
+    instructionsF = '5. Wenn Sie ihr Spreadsheet ansehen und bearbeiten möchten, klicken Sie auf "Google Spreadsheet öffnen". Sollten Sie die Google Sheet ID benötigen, finden Sie diese in der URL ihres geöffneten Spreadsheets.'
+    instructionsG = '6. Sie können einen beliebigen alten Score wieder im Scorer anzeigen lassen, indem Sie die Speichernummer des Scores und die "+" und "-" sowie den "Gespeicherten Score laden" Button benutzen.'
+
+
+    var monthNames = ["","Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"];
+    improvementText = "Verbesserung"
+    scorerText = "Punkterechner"
+    timersText = "Timer"
+    savesText = "Gespeicherte Scores"
+    startText = "Start"
+    stopText = "Stop"
+    pointsText = "Punkte"
+
+    systemText = "System speichern: "
+    
+    timerText = "Timer:"
+    stopwatchText = "Stoppuhr:"
+
+    copyrightText = "Urheberrechte © 2018-19 Seshan Brothers"
+
+    revisionText = "INTO ORBIT Scorer Revision "
+    
+    title = "INTO ORBIT Punkterechner"
+
+    M01="Raumfahrt"
+    M01a="Ist die Fahrzeug-Ladung die Raumfahrt-Rampe heruntergerollt (über die erste Schienenverbindung hinaus)?"
+    M01b="Ist die Versorgungs-Ladung die Raumfahrt-Rampe heruntergerollt (über die erste Schienenverbindung hinaus)?"
+    M01c="Ist die Mannschafts-Ladung die Raumfahrt-Rampe heruntergerollt (über die erste Schienenverbindung hinaus)?"
+
+    M02="Solarpanel ausrichten"
+    M02a="Sind beide Solarpanels  in die selbe Richtung abgewinkelt?"
+    M02b="Ist euer Solarpanel in Richtung des Spielfelds des anderen Teams abgewinkelt?"
+
+    M03="3D-Druck"
+    M03a="Ist der 2x4-Stein ausgeworfen und befindet sich komplett im nordöstlichen Planetengebiet?"
+    M03b="Ist der 2x4-Stein ausgeworfen und befindet sich <b> nicht </b> komplett im nordöstlichen Planetengebiet?"
+
+    M04="Krater-Überquerung"
+    M04a="Haben alle tragenden Teile des überquerenden Geräts das Kratermodell vollständig und <b>komplett</b> zwischen den Türmen überquert?"
+
+    M05="Ressourcengewinnung"
+    M05a="Wurden alle vier Kernproben bewegt, sodass sie nicht mehr die Achse berühren, auf der sie in der Kernlagerstätte steckten?"
+    M05b="Berührt die Gaskernprobe die Spielfeldmatte vollständig im Zielgebiet des Landegeräts?"
+    M05c="Befindet sich die Gaskernprobe vollständig in der Base?"
+    M05d="Berührt die Wasserkernprobe ausschließlich das Gewächshaus?"
+
+    M06="Module der Raumstation"
+    M06a="Befindet sich das Kegelmodul <b>vollständig</b> in der Base?"
+    M06b="Steckt das Röhrenmodul im Anschluss auf der Westseite des Wohnmoduls?"
+    M06c="Wurde das Dockmodul in den Anschluss auf der Ostseite des Wohnmoduls verlagert?"
+
+    M07="Notfall beim Weltraumspaziergang"
+    M07a="Befindest sich Gerhard (der Astronaut) <b>teilweise</b> oder <b>vollständig</b> in der Luftschleuse des Wohnmoduls?"
+
+    M08="Aerobicübung"
+    M08a="Befindet sich die Zeigerspitze vollständig auf Orange ooder teilweise auf den Rändern des orangenen Bereichts?"
+    M08b="Befindet sich die Zeigerspitze vollständig im weißen Bereich?"
+    M08c="Befindet sich die Zeigerspitze vollständig auf grau oder teilweise auf den Rändern des grauen Bereichs?"
+
+    M09="Krafttraining"
+    M09a="Wurde die Hantelstange so angehoben, sodass das 4. Loch des Zahnstreifens zumindest teilweise sichtbar ist?"
+
+    M10="Lebensmittelproduktion"
+    M10a="Wurden die Farben im Gewächshaus mithilfe der Druckstange so bewegt, dass die graue Platte an der Rückseite nach Grün abgesenkt ist und noch nicht wieder Richtung Braun angehoben ist?"
+
+    M11="Fluchtgeschwindigkeit"
+    M11a="Ist das Raumschiff durch Druck/Schlag auf das Schlagfeld so schnell und so hoch geflogen, dass es oben bleibt?"
+
+    M12="Satellitenumlaufbahnen"
+    M12a="Befindet sich irgendein Teil des Satelliten auf oder über den Bereich zwischen deb beiden Linien der äußeren Umlaufbahn?"
+
+    M13="Observatorium"
+    M13a="Befindet sich die Zeigerspitze vollständig auf Orange oder teilweise auf den Rändern des orangefarbenen Bereichs?"
+    M13b="Befindet sich die Zeigerspitze vollständig auf Weiß?"
+    M13c="Befindet sich die Zeigerspitze vollständig auf Grau oder teilweise auf den Rändern des grauen Bereichs?"
+
+    M14="Meteoroit umlenken"
+    M14a="Wie viele Meteoriten berühren die Spielfeldmatte im mittleren Bereich des Meteoritenfängers?"
+    M14b="Wie viele Meteoriten berühren die Spielfeldmatte in einem der beiden seitlichen Bereiche des Meteoritenfängers?"
+
+    M15="Landegerät aufsetzen"
+    M15a="Ist das Landegerät intakt, berührt die Spielfeldmatte und befindet sich <b>vollständig</b> im <b>Zielgebiet</b>?"
+    M15b="Ist das Landegerät intakt, berührt die Spielfeldmatte und befindet sich <b>vollständig</b> im <b>nordöstlichen Planetenbereich</b>?"
+    M15c="Sind beide Teile des Landegeräts <b>vollständig</b> in der <b>Base</b>?"
+
+    P01="Strafpunkte"
+    P01a="Wie oft habt ihr den Roboter unterbrochen?"
+
+    translatorCredit = "Übersetzung von Tim@Cassapeia"
 
 } else if (language == "nl") {
 
@@ -473,29 +579,131 @@ if (language == "pt" || language == "pt-br") {
 
 
 } else if (language == "el") {
-    yes = "Ναι"
-    no = "Όχι"
-    partly = "Μερικώς"
-    completely = "Εντελώς"
-    pointsText = "Πόντοι"
-    resetText = "Επαναφορά"
+yes = "Ναι"
+no = "Όχι"
+partly = "Μερικώς"
+completely = " Εντελώς "
+resetText = "Επανεκκίνηση"
+saveText = "Αποθήκευση"
+savescoreText="Αποθήκευση Βαθμολογίας"
+loadsaveText="Άνοιγμα Βαθμολογίας:"
+deletesaveText="Διαγραφή Βαθμολογίας "
+importsaveText="Εισαγωγή Βαθμολογίας "
+exportsaveText="Εξαγωγή Βαθμολογίας "
+signin = " Συνδεθείτε με "
+signout = " Αποσυνδεθείτε"
+GoogleCreate = "Δημιουργήστε Νέο Φύλλο Εργασίας"
+GoogleOpen = "Άνοιγμα Google Φύλλο Εργασίας "
+created = " Δημιουργήθηκε "
+savedto = " Αποθηκεύτηκε στο "
+teamText = "Ομάδα"
+roundText = "Γύρος"
+dateText = "Ημερομηνία/Ώρα"
+totalText = "Συνολικοί Πόντοι"
+savedText = "Αποθηκευμένο"
+loadedText = "Φορτωμένο"
+googleSaveText = " Φύλλα Εργασίας Google (Προκαθορισμένο)"
+localSaveText = "Τοπικό σύστημα αποθήκευσης (Πρόσφατο)"
+isIE = " Το σύστημα αποθήκευσης Google δεν είναι συμβατό με τον Microsoft Internet Explorer. Μπορείτε είτε να μεταβείτε σε άλλο πρόγραμμα περιήγησης είτε να συνεχίσετε χρησιμοποιώντας το παλαιό σύστημα αποθήκευσης (κάντε κλικ παραπάνω)"
 
-    var monthNames = [ "", "Ιανουάριος", "Φεβρουάριος", "Μάρτιος", "Απρίλιος", "Μαΐου", "Ιούνιος", "Ιούλιος", "Αύγουστος", "Σεπτέμβρης", "Οκτώβριος", "Νοέμβριος" , "Δεκέμβριος"]
-
-    improvementText = "Βελτίωση"
-    saveText = "Αποθήκευση"
-    savescoreText = "Αποθήκευση σκορ"
-    loadaveText = "Φόρτωση Αποθήκευσης"
-    deletesaveText = "Διαγραφή Αποθηκεύει"
-    importsaveText = "Εισαγωγή Αποθήκευσης"
-    exportsaveText = "Εξαγωγή Αποθήκευσης"
-    scorerText = "Σκοπευτής"
-    timersText = "Χρονοδιακόπτες"
-    savesText = "Αποθηκεύει"
-    startText = "Έναρξη"
-    stopText = "Διακοπή"
+googleIntro = " Μπορείτε να αποθηκεύσετε τα αποτελέσματά σας σε ένα Φύλλο Εργασίας Google. Αυτό σας βοηθά να παρακολουθείτε την πρόοδο της περιόδου. Δείτε τις οδηγίες στο κάτω μέρος της σελίδας."
+pastSaves = "Προηγούμενες Αποθηκεύσεις"
+instructions = "Οδηγίες"
+instructionsA = "Τα βασικά βήματα χρήσης του συστήματος αποθήκευσης είναι:"
+instructionsB = '1. Συνδεθείτε στο λογαριασμό σας στο Google. Μπορεί να δείτε το παρακάτω μήνυμα «Η εφαρμογή δεν είναι πιστοποιημένη». Αν ναι, πατήστε στο «για προχωρημένους» και μετά στο  "Go to FLL Scorer (Μη Ασφαλές)"'
+instructionsC = '2. Εάν δεν έχετε δημιουργήσει Φύλλο Εργασίας ξανά στο παρελθόν – πατήστε στη "Δημιουργία Νέου Spreadsheet"'
+instructionsD = '3. Εάν έχετε δημιουργήσει Φύλλο Εργασίας στο παρελθόν, σιγουρέψτε ότι το πεδίο Google Sheet ID είναι συμπληρωμένο και όχι κενό " απροσδιόριστο". Εάν επιθυμείτε να μοιραστείτε το Φύλλο Εργασίας με άλλες συσκευές, θα πρέπει να εισάγεται το ID σας ξανά.'
+instructionsE = '4. Κάθε φορά που επιθυμείτε να αποθηκεύσετε τη βαθμολογία αποτελέσματα, πατήστε  "Αποθήκευση Βαθμολογίας" – αυτομάτως θα ενημερώνει το Φύλλο Εργασίας με την τρέχουσα Βαθμολογία και Ημερομηνία'
+instructionsF = '5. Αν θέλετε να ελέγξετε το Φύλλο Εργασίας σας και να το επεξεργαστείτε, κάντε κλικ στο "Άνοιγμα του Φύλλο Εργασίας Google". Εάν χρειάζεστε ποτέ το Google Sheet ID - βρίσκεται στη URL διεύθυνση του Φύλλο Εργασίας όταν το ανοίγετε.'
+instructionsG = '6. Μπορείτε επίσης να ανακτήσετε μια προηγούμενη βαθμολογία πληκτρολογώντας τον αριθμό αποθήκευσης που δώσατε και το πλήκτρο "+" και "-" στη συνέχεια πατήστε το πλήκτρο " Φόρτωση Αποθήκευσης:" '
 
 
+var monthNames = ["","Ιανουάριος", "Φεβρουάριος", "Μάρτιος", "Απρίλιος", "Μάϊος", "Ιούνιος", "Ιούλιος", "Αύγουστος", "Σεπτέμβριος", "Οκτώβριος", "Νοέμβριος", "Δεκέμβριος"];
+improvementText = " Βελτιώσεις"
+scorerText = "Βαθμολογίες"
+timersText = "Μετρητές"
+savesText = "Αποθηκεύσεις"
+startText = "Εκκίνηση"
+stopText = "Τερματισμός"
+pointsText = "Πόντοι"
+
+systemText = "Σύστημα Αποθήκευσης:"
+
+timerText = "Χρονοδιακόπτης:"
+stopwatchText = "Χρονόμετρο:"
+
+revisionText = "Αναθεώρηση του σκόρερ INTO ORBIT"
+copyrightText = "Δικαιώματα πνευματικής ιδιοκτησίας (c) 2018-19 Seshan Brothers"
+
+
+    
+title = "INTO ORBIT Βαθμολογία"
+
+M01="Διαστημικό Ταξίδι"
+M01a="Έχει κυλήσει το φορτωμένο όχημα μέχρι την Πρώτη Θέση Σύνδεσης;"
+M01b="Έχουν οι φορτωμένες προμήθειες κυλήσει στην Πρώτη Θέση Σύνδεσης;"
+M01c="Έχει το Φορτωμένο πλήρωμα κυλήσει στην Πρώτη Θέση Σύνδεσης;"
+
+M02="Ηλιακό Πάνελ"
+M02a=" Αμφότερα τα Ηλιακά πάνελ γωνιάζουν προς το ίδιο πεδίο;"
+M02b=" Είναι το ηλιακό πάνελ γωνία προς το άλλο;"
+
+M03="3D Εκτύπωση"
+M03a="Έχει εκτοξευτεί το τουβλάκι 2x4 και βρίσκεται <b>Εντελώς<b> στην βορειοανατολική πλευρά του Πλανήτη;"
+M03b=" Έχει εκτοξευτεί το τουβλάκι 2x4 και βρίσκεται <b>Μερικώς<b> στην βορειοανατολική πλευρά του Πλανήτη;"
+
+M04="Διέλευση Κρατήρα"
+M04a="Ο εξοπλισμού διέλευσης του κρατήρα έχει περάσει από ανατολάς προς δύση,  <b>Εντελώς</b> ρίχνοντας την πλατιά πύλη;"
+
+M05=" Εξόρυξη"
+M05a=" Και τα τέσσερα δείγματα δεν αγγίζουν πλέον τον άξονα που τα κρατά μέσα στο Core Site Model?"
+M05b=" Αγγίζει το δείγμα πυρήνα αερίου Εντελώς στο Στόχο προσεδάφισης;"
+M05c="Το δείγμα πυρήνα αερίου βρίσκεται Εντελώς στη Βάση;"
+M05d="Βρίσκεται το δείγμα πυρήνα νερού έτσι τοποθετημένο ώστε να υποστηρίζεται μόνο από το Τμήμα Ανάπτυξης Τροφίμων?"
+
+M06=" Μονάδες Διαστημικού Σταθμού "
+M06a="Η μονάδα Cone βρίσκεται <b>Εντελώς</b> στη Βάση;"
+M06b=" Η μονάδα Tube έχει εισέλθει μέσα στη Δυτική πλευρά του Habitation Hub?"
+M06c="Η μονάδα Dock έχει μεταφερθεί/εισαχτεί στην ανατολική πλευρά του Habitation Hub?"
+
+M07="Επείγουσα Διαστημική Βόλτα"
+M07a="Έχει εισέλθει ο Gerhard <b>Μερικώς</b> ή <b>Εντελώς</b> στον θάλαμο κλιματισμού του Habitation Hub;"
+
+M08="Αεροβική Άσκηση"
+M08a="Η άκρη του δείκτη είναι εντελώς στο πορτοκαλί, ή μερικώς  μερικώς καλύπτει τις άκρες του πορτοκαλί εξωτερικά;"
+M08b="Η άκρη του δείκτη βρίσκεται Εντελώς στο Λευκό;"
+M08c=" Η άκρη του δείκτη βρίσκεται Εντελώς στο γκρι, ή μερικώς καλύπτει τις άκρες του γκρι εξωτερικά;"
+
+M09=" Άσκηση δύναμης"
+M09a="Έχει σηκωθεί η μπάρα δύναμης ώστε να εμφανίζεται η 4η τρύπα της λωρίδας των δοντιών;"
+
+M10="Παραγωγή φαγητού"
+M10a="Τα χρώματα στο Food Growth Chamber’s έχουν περιστραφεί ώστε το γκρι βάρος να πέσει μετά το πράσινο, αλλά πριν το μαύρο χρησιμοποιώντας τον μοχλό;"
+
+M11="Εκτόξευση"
+M11a=" Το διαστημικό σκάφος κινείται τόσο γρήγορα και ψηλά ώστε να παραμένει επάνω, πιέζοντας / χτυπώντας το μαξιλαράκι;"
+
+M12="Δορυφορικές τροχιές"
+M12a="Είναι κάθε Δορυφόρος, σε οποιοδήποτε μέρος πάνω ή ψηλότερα από την περιοχή ανάμεσα στις δύο γραμμές της εξωτερικής τροχιάς;"
+
+M13="Αστεροσκοπείο"
+M13a="Η άκρη του δείκτη βρίσκεται εντελώς στο πορτοκαλί, ή μερικώς πατάει και στις γραμμές;"
+M13b=" Η άκρη του δείκτη βρίσκεται εντελώς στο Λευκό;"
+M13c=" Η άκρη του δείκτη βρίσκεται εντελώς στο γκρι, ή μερικώς πατάει και στις γραμμές;"
+
+M14=" Εκτροπή Μετεωρίτη "
+M14a="Πόσοι Μετεωρίτες βρίσκονται μέσα στο κεντρικό σημείο;"
+M14b=" Πόσοι Μετεωρίτες βρίσκονται μέσα στα πλευρικά σημεία;"
+
+M15="Προσεδάφιση Ακάτου"
+M15a=" Η Άκατος άθικτη, ακουμπά την πίστα, και <b>Εντελώς</b> στον <b>Στόχο</b>;"
+M15b="Η Άκατος άθικτη, ακουμπά την πίστα, και <b>Εντελώς</b> στην <b>Βορειοανατολική πλευρά του πλανήτη</b>;"
+M15c="Και τα δύο μέρη της Ακάτου βρίσκοται <b>Εντελώς</b> μέσα στην <b>Βάση</b>;"
+
+P01="Ποινές"
+P01a=" Πόσες φορές διακόπηκε το ρομπότ;"
+
+translatorCredit = "Μετάφραση από το WEB STAR - ΗΛΙΑΔΗΣ ΝΕΚΤΑΡΙΟΣ"
 
 
 } else if (language == "fr") {
