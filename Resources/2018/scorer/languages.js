@@ -579,131 +579,131 @@ if (language == "pt" || language == "pt-br") {
 
 
 } else if (language == "el") {
-yes = "Ναι"
-no = "Όχι"
-partly = "Μερικώς"
-completely = " Εντελώς "
-resetText = "Επανεκκίνηση"
-saveText = "Αποθήκευση"
-savescoreText="Αποθήκευση Βαθμολογίας"
-loadsaveText="Άνοιγμα Βαθμολογίας:"
-deletesaveText="Διαγραφή Βαθμολογίας "
-importsaveText="Εισαγωγή Βαθμολογίας "
-exportsaveText="Εξαγωγή Βαθμολογίας "
-signin = " Συνδεθείτε με "
-signout = " Αποσυνδεθείτε"
-GoogleCreate = "Δημιουργήστε Νέο Φύλλο Εργασίας"
-GoogleOpen = "Άνοιγμα Google Φύλλο Εργασίας "
-created = " Δημιουργήθηκε "
-savedto = " Αποθηκεύτηκε στο "
-teamText = "Ομάδα"
-roundText = "Γύρος"
-dateText = "Ημερομηνία/Ώρα"
-totalText = "Συνολικοί Πόντοι"
-savedText = "Αποθηκευμένο"
-loadedText = "Φορτωμένο"
-googleSaveText = " Φύλλα Εργασίας Google (Προκαθορισμένο)"
-localSaveText = "Τοπικό σύστημα αποθήκευσης (Πρόσφατο)"
-isIE = " Το σύστημα αποθήκευσης Google δεν είναι συμβατό με τον Microsoft Internet Explorer. Μπορείτε είτε να μεταβείτε σε άλλο πρόγραμμα περιήγησης είτε να συνεχίσετε χρησιμοποιώντας το παλαιό σύστημα αποθήκευσης (κάντε κλικ παραπάνω)"
+    yes = "Ναι"
+    no = "Όχι"
+    partly = "Μερικώς"
+    completely = " Εντελώς "
+    resetText = "Επανεκκίνηση"
+    saveText = "Αποθήκευση"
+    savescoreText="Αποθήκευση Βαθμολογίας"
+    loadsaveText="Άνοιγμα Βαθμολογίας:"
+    deletesaveText="Διαγραφή Βαθμολογίας "
+    importsaveText="Εισαγωγή Βαθμολογίας "
+    exportsaveText="Εξαγωγή Βαθμολογίας "
+    signin = " Συνδεθείτε με "
+    signout = " Αποσυνδεθείτε"
+    GoogleCreate = "Δημιουργήστε Νέο Φύλλο Εργασίας"
+    GoogleOpen = "Άνοιγμα Google Φύλλο Εργασίας "
+    created = " Δημιουργήθηκε "
+    savedto = " Αποθηκεύτηκε στο "
+    teamText = "Ομάδα"
+    roundText = "Γύρος"
+    dateText = "Ημερομηνία/Ώρα"
+    totalText = "Συνολικοί Πόντοι"
+    savedText = "Αποθηκευμένο"
+    loadedText = "Φορτωμένο"
+    googleSaveText = " Φύλλα Εργασίας Google (Προκαθορισμένο)"
+    localSaveText = "Τοπικό σύστημα αποθήκευσης (Πρόσφατο)"
+    isIE = " Το σύστημα αποθήκευσης Google δεν είναι συμβατό με τον Microsoft Internet Explorer. Μπορείτε είτε να μεταβείτε σε άλλο πρόγραμμα περιήγησης είτε να συνεχίσετε χρησιμοποιώντας το παλαιό σύστημα αποθήκευσης (κάντε κλικ παραπάνω)"
 
-googleIntro = " Μπορείτε να αποθηκεύσετε τα αποτελέσματά σας σε ένα Φύλλο Εργασίας Google. Αυτό σας βοηθά να παρακολουθείτε την πρόοδο της περιόδου. Δείτε τις οδηγίες στο κάτω μέρος της σελίδας."
-pastSaves = "Προηγούμενες Αποθηκεύσεις"
-instructions = "Οδηγίες"
-instructionsA = "Τα βασικά βήματα χρήσης του συστήματος αποθήκευσης είναι:"
-instructionsB = '1. Συνδεθείτε στο λογαριασμό σας στο Google. Μπορεί να δείτε το παρακάτω μήνυμα «Η εφαρμογή δεν είναι πιστοποιημένη». Αν ναι, πατήστε στο «για προχωρημένους» και μετά στο  "Go to FLL Scorer (Μη Ασφαλές)"'
-instructionsC = '2. Εάν δεν έχετε δημιουργήσει Φύλλο Εργασίας ξανά στο παρελθόν – πατήστε στη "Δημιουργία Νέου Spreadsheet"'
-instructionsD = '3. Εάν έχετε δημιουργήσει Φύλλο Εργασίας στο παρελθόν, σιγουρέψτε ότι το πεδίο Google Sheet ID είναι συμπληρωμένο και όχι κενό " απροσδιόριστο". Εάν επιθυμείτε να μοιραστείτε το Φύλλο Εργασίας με άλλες συσκευές, θα πρέπει να εισάγεται το ID σας ξανά.'
-instructionsE = '4. Κάθε φορά που επιθυμείτε να αποθηκεύσετε τη βαθμολογία αποτελέσματα, πατήστε  "Αποθήκευση Βαθμολογίας" – αυτομάτως θα ενημερώνει το Φύλλο Εργασίας με την τρέχουσα Βαθμολογία και Ημερομηνία'
-instructionsF = '5. Αν θέλετε να ελέγξετε το Φύλλο Εργασίας σας και να το επεξεργαστείτε, κάντε κλικ στο "Άνοιγμα του Φύλλο Εργασίας Google". Εάν χρειάζεστε ποτέ το Google Sheet ID - βρίσκεται στη URL διεύθυνση του Φύλλο Εργασίας όταν το ανοίγετε.'
-instructionsG = '6. Μπορείτε επίσης να ανακτήσετε μια προηγούμενη βαθμολογία πληκτρολογώντας τον αριθμό αποθήκευσης που δώσατε και το πλήκτρο "+" και "-" στη συνέχεια πατήστε το πλήκτρο " Φόρτωση Αποθήκευσης:" '
+    googleIntro = " Μπορείτε να αποθηκεύσετε τα αποτελέσματά σας σε ένα Φύλλο Εργασίας Google. Αυτό σας βοηθά να παρακολουθείτε την πρόοδο της περιόδου. Δείτε τις οδηγίες στο κάτω μέρος της σελίδας."
+    pastSaves = "Προηγούμενες Αποθηκεύσεις"
+    instructions = "Οδηγίες"
+    instructionsA = "Τα βασικά βήματα χρήσης του συστήματος αποθήκευσης είναι:"
+    instructionsB = '1. Συνδεθείτε στο λογαριασμό σας στο Google. Μπορεί να δείτε το παρακάτω μήνυμα «Η εφαρμογή δεν είναι πιστοποιημένη». Αν ναι, πατήστε στο «για προχωρημένους» και μετά στο  "Go to FLL Scorer (Μη Ασφαλές)"'
+    instructionsC = '2. Εάν δεν έχετε δημιουργήσει Φύλλο Εργασίας ξανά στο παρελθόν – πατήστε στη "Δημιουργία Νέου Spreadsheet"'
+    instructionsD = '3. Εάν έχετε δημιουργήσει Φύλλο Εργασίας στο παρελθόν, σιγουρέψτε ότι το πεδίο Google Sheet ID είναι συμπληρωμένο και όχι κενό " απροσδιόριστο". Εάν επιθυμείτε να μοιραστείτε το Φύλλο Εργασίας με άλλες συσκευές, θα πρέπει να εισάγεται το ID σας ξανά.'
+    instructionsE = '4. Κάθε φορά που επιθυμείτε να αποθηκεύσετε τη βαθμολογία αποτελέσματα, πατήστε  "Αποθήκευση Βαθμολογίας" – αυτομάτως θα ενημερώνει το Φύλλο Εργασίας με την τρέχουσα Βαθμολογία και Ημερομηνία'
+    instructionsF = '5. Αν θέλετε να ελέγξετε το Φύλλο Εργασίας σας και να το επεξεργαστείτε, κάντε κλικ στο "Άνοιγμα του Φύλλο Εργασίας Google". Εάν χρειάζεστε ποτέ το Google Sheet ID - βρίσκεται στη URL διεύθυνση του Φύλλο Εργασίας όταν το ανοίγετε.'
+    instructionsG = '6. Μπορείτε επίσης να ανακτήσετε μια προηγούμενη βαθμολογία πληκτρολογώντας τον αριθμό αποθήκευσης που δώσατε και το πλήκτρο "+" και "-" στη συνέχεια πατήστε το πλήκτρο " Φόρτωση Αποθήκευσης:" '
 
 
-var monthNames = ["","Ιανουάριος", "Φεβρουάριος", "Μάρτιος", "Απρίλιος", "Μάϊος", "Ιούνιος", "Ιούλιος", "Αύγουστος", "Σεπτέμβριος", "Οκτώβριος", "Νοέμβριος", "Δεκέμβριος"];
-improvementText = " Βελτιώσεις"
-scorerText = "Βαθμολογίες"
-timersText = "Μετρητές"
-savesText = "Αποθηκεύσεις"
-startText = "Εκκίνηση"
-stopText = "Τερματισμός"
-pointsText = "Πόντοι"
+    var monthNames = ["","Ιανουάριος", "Φεβρουάριος", "Μάρτιος", "Απρίλιος", "Μάϊος", "Ιούνιος", "Ιούλιος", "Αύγουστος", "Σεπτέμβριος", "Οκτώβριος", "Νοέμβριος", "Δεκέμβριος"];
+    improvementText = " Βελτιώσεις"
+    scorerText = "Βαθμολογίες"
+    timersText = "Μετρητές"
+    savesText = "Αποθηκεύσεις"
+    startText = "Εκκίνηση"
+    stopText = "Τερματισμός"
+    pointsText = "Πόντοι"
 
-systemText = "Σύστημα Αποθήκευσης:"
+    systemText = "Σύστημα Αποθήκευσης:"
 
-timerText = "Χρονοδιακόπτης:"
-stopwatchText = "Χρονόμετρο:"
+    timerText = "Χρονοδιακόπτης:"
+    stopwatchText = "Χρονόμετρο:"
 
-revisionText = "Αναθεώρηση του σκόρερ INTO ORBIT"
-copyrightText = "Δικαιώματα πνευματικής ιδιοκτησίας (c) 2018-19 Seshan Brothers"
+    revisionText = "Αναθεώρηση του σκόρερ INTO ORBIT"
+    copyrightText = "Δικαιώματα πνευματικής ιδιοκτησίας (c) 2018-19 Seshan Brothers"
 
 
     
-title = "INTO ORBIT Βαθμολογία"
+    title = "INTO ORBIT Βαθμολογία"
 
-M01="Διαστημικό Ταξίδι"
-M01a="Έχει κυλήσει το φορτωμένο όχημα μέχρι την Πρώτη Θέση Σύνδεσης;"
-M01b="Έχουν οι φορτωμένες προμήθειες κυλήσει στην Πρώτη Θέση Σύνδεσης;"
-M01c="Έχει το Φορτωμένο πλήρωμα κυλήσει στην Πρώτη Θέση Σύνδεσης;"
+    M01="Διαστημικό Ταξίδι"
+    M01a="Έχει κυλήσει το φορτωμένο όχημα μέχρι την Πρώτη Θέση Σύνδεσης;"
+    M01b="Έχουν οι φορτωμένες προμήθειες κυλήσει στην Πρώτη Θέση Σύνδεσης;"
+    M01c="Έχει το Φορτωμένο πλήρωμα κυλήσει στην Πρώτη Θέση Σύνδεσης;"
 
-M02="Ηλιακό Πάνελ"
-M02a=" Αμφότερα τα Ηλιακά πάνελ γωνιάζουν προς το ίδιο πεδίο;"
-M02b=" Είναι το ηλιακό πάνελ γωνία προς το άλλο;"
+    M02="Ηλιακό Πάνελ"
+    M02a=" Αμφότερα τα Ηλιακά πάνελ γωνιάζουν προς το ίδιο πεδίο;"
+    M02b=" Είναι το ηλιακό πάνελ γωνία προς το άλλο;"
 
-M03="3D Εκτύπωση"
-M03a="Έχει εκτοξευτεί το τουβλάκι 2x4 και βρίσκεται <b>Εντελώς<b> στην βορειοανατολική πλευρά του Πλανήτη;"
-M03b=" Έχει εκτοξευτεί το τουβλάκι 2x4 και βρίσκεται <b>Μερικώς<b> στην βορειοανατολική πλευρά του Πλανήτη;"
+    M03="3D Εκτύπωση"
+    M03a="Έχει εκτοξευτεί το τουβλάκι 2x4 και βρίσκεται <b>Εντελώς<b> στην βορειοανατολική πλευρά του Πλανήτη;"
+    M03b=" Έχει εκτοξευτεί το τουβλάκι 2x4 και βρίσκεται <b>Μερικώς<b> στην βορειοανατολική πλευρά του Πλανήτη;"
 
-M04="Διέλευση Κρατήρα"
-M04a="Ο εξοπλισμού διέλευσης του κρατήρα έχει περάσει από ανατολάς προς δύση,  <b>Εντελώς</b> ρίχνοντας την πλατιά πύλη;"
+    M04="Διέλευση Κρατήρα"
+    M04a="Ο εξοπλισμού διέλευσης του κρατήρα έχει περάσει από ανατολάς προς δύση,  <b>Εντελώς</b> ρίχνοντας την πλατιά πύλη;"
 
-M05=" Εξόρυξη"
-M05a=" Και τα τέσσερα δείγματα δεν αγγίζουν πλέον τον άξονα που τα κρατά μέσα στο Core Site Model?"
-M05b=" Αγγίζει το δείγμα πυρήνα αερίου Εντελώς στο Στόχο προσεδάφισης;"
-M05c="Το δείγμα πυρήνα αερίου βρίσκεται Εντελώς στη Βάση;"
-M05d="Βρίσκεται το δείγμα πυρήνα νερού έτσι τοποθετημένο ώστε να υποστηρίζεται μόνο από το Τμήμα Ανάπτυξης Τροφίμων?"
+    M05=" Εξόρυξη"
+    M05a=" Και τα τέσσερα δείγματα δεν αγγίζουν πλέον τον άξονα που τα κρατά μέσα στο Core Site Model?"
+    M05b=" Αγγίζει το δείγμα πυρήνα αερίου Εντελώς στο Στόχο προσεδάφισης;"
+    M05c="Το δείγμα πυρήνα αερίου βρίσκεται Εντελώς στη Βάση;"
+    M05d="Βρίσκεται το δείγμα πυρήνα νερού έτσι τοποθετημένο ώστε να υποστηρίζεται μόνο από το Τμήμα Ανάπτυξης Τροφίμων?"
 
-M06=" Μονάδες Διαστημικού Σταθμού "
-M06a="Η μονάδα Cone βρίσκεται <b>Εντελώς</b> στη Βάση;"
-M06b=" Η μονάδα Tube έχει εισέλθει μέσα στη Δυτική πλευρά του Habitation Hub?"
-M06c="Η μονάδα Dock έχει μεταφερθεί/εισαχτεί στην ανατολική πλευρά του Habitation Hub?"
+    M06=" Μονάδες Διαστημικού Σταθμού "
+    M06a="Η μονάδα Cone βρίσκεται <b>Εντελώς</b> στη Βάση;"
+    M06b=" Η μονάδα Tube έχει εισέλθει μέσα στη Δυτική πλευρά του Habitation Hub?"
+    M06c="Η μονάδα Dock έχει μεταφερθεί/εισαχτεί στην ανατολική πλευρά του Habitation Hub?"
 
-M07="Επείγουσα Διαστημική Βόλτα"
-M07a="Έχει εισέλθει ο Gerhard <b>Μερικώς</b> ή <b>Εντελώς</b> στον θάλαμο κλιματισμού του Habitation Hub;"
+    M07="Επείγουσα Διαστημική Βόλτα"
+    M07a="Έχει εισέλθει ο Gerhard <b>Μερικώς</b> ή <b>Εντελώς</b> στον θάλαμο κλιματισμού του Habitation Hub;"
 
-M08="Αεροβική Άσκηση"
-M08a="Η άκρη του δείκτη είναι εντελώς στο πορτοκαλί, ή μερικώς  μερικώς καλύπτει τις άκρες του πορτοκαλί εξωτερικά;"
-M08b="Η άκρη του δείκτη βρίσκεται Εντελώς στο Λευκό;"
-M08c=" Η άκρη του δείκτη βρίσκεται Εντελώς στο γκρι, ή μερικώς καλύπτει τις άκρες του γκρι εξωτερικά;"
+    M08="Αεροβική Άσκηση"
+    M08a="Η άκρη του δείκτη είναι εντελώς στο πορτοκαλί, ή μερικώς  μερικώς καλύπτει τις άκρες του πορτοκαλί εξωτερικά;"
+    M08b="Η άκρη του δείκτη βρίσκεται Εντελώς στο Λευκό;"
+    M08c=" Η άκρη του δείκτη βρίσκεται Εντελώς στο γκρι, ή μερικώς καλύπτει τις άκρες του γκρι εξωτερικά;"
 
-M09=" Άσκηση δύναμης"
-M09a="Έχει σηκωθεί η μπάρα δύναμης ώστε να εμφανίζεται η 4η τρύπα της λωρίδας των δοντιών;"
+    M09=" Άσκηση δύναμης"
+    M09a="Έχει σηκωθεί η μπάρα δύναμης ώστε να εμφανίζεται η 4η τρύπα της λωρίδας των δοντιών;"
 
-M10="Παραγωγή φαγητού"
-M10a="Τα χρώματα στο Food Growth Chamber’s έχουν περιστραφεί ώστε το γκρι βάρος να πέσει μετά το πράσινο, αλλά πριν το μαύρο χρησιμοποιώντας τον μοχλό;"
+    M10="Παραγωγή φαγητού"
+    M10a="Τα χρώματα στο Food Growth Chamber’s έχουν περιστραφεί ώστε το γκρι βάρος να πέσει μετά το πράσινο, αλλά πριν το μαύρο χρησιμοποιώντας τον μοχλό;"
 
-M11="Εκτόξευση"
-M11a=" Το διαστημικό σκάφος κινείται τόσο γρήγορα και ψηλά ώστε να παραμένει επάνω, πιέζοντας / χτυπώντας το μαξιλαράκι;"
+    M11="Εκτόξευση"
+    M11a=" Το διαστημικό σκάφος κινείται τόσο γρήγορα και ψηλά ώστε να παραμένει επάνω, πιέζοντας / χτυπώντας το μαξιλαράκι;"
 
-M12="Δορυφορικές τροχιές"
-M12a="Είναι κάθε Δορυφόρος, σε οποιοδήποτε μέρος πάνω ή ψηλότερα από την περιοχή ανάμεσα στις δύο γραμμές της εξωτερικής τροχιάς;"
+    M12="Δορυφορικές τροχιές"
+    M12a="Είναι κάθε Δορυφόρος, σε οποιοδήποτε μέρος πάνω ή ψηλότερα από την περιοχή ανάμεσα στις δύο γραμμές της εξωτερικής τροχιάς;"
 
-M13="Αστεροσκοπείο"
-M13a="Η άκρη του δείκτη βρίσκεται εντελώς στο πορτοκαλί, ή μερικώς πατάει και στις γραμμές;"
-M13b=" Η άκρη του δείκτη βρίσκεται εντελώς στο Λευκό;"
-M13c=" Η άκρη του δείκτη βρίσκεται εντελώς στο γκρι, ή μερικώς πατάει και στις γραμμές;"
+    M13="Αστεροσκοπείο"
+    M13a="Η άκρη του δείκτη βρίσκεται εντελώς στο πορτοκαλί, ή μερικώς πατάει και στις γραμμές;"
+    M13b=" Η άκρη του δείκτη βρίσκεται εντελώς στο Λευκό;"
+    M13c=" Η άκρη του δείκτη βρίσκεται εντελώς στο γκρι, ή μερικώς πατάει και στις γραμμές;"
 
-M14=" Εκτροπή Μετεωρίτη "
-M14a="Πόσοι Μετεωρίτες βρίσκονται μέσα στο κεντρικό σημείο;"
-M14b=" Πόσοι Μετεωρίτες βρίσκονται μέσα στα πλευρικά σημεία;"
+    M14=" Εκτροπή Μετεωρίτη "
+    M14a="Πόσοι Μετεωρίτες βρίσκονται μέσα στο κεντρικό σημείο;"
+    M14b=" Πόσοι Μετεωρίτες βρίσκονται μέσα στα πλευρικά σημεία;"
 
-M15="Προσεδάφιση Ακάτου"
-M15a=" Η Άκατος άθικτη, ακουμπά την πίστα, και <b>Εντελώς</b> στον <b>Στόχο</b>;"
-M15b="Η Άκατος άθικτη, ακουμπά την πίστα, και <b>Εντελώς</b> στην <b>Βορειοανατολική πλευρά του πλανήτη</b>;"
-M15c="Και τα δύο μέρη της Ακάτου βρίσκοται <b>Εντελώς</b> μέσα στην <b>Βάση</b>;"
+    M15="Προσεδάφιση Ακάτου"
+    M15a=" Η Άκατος άθικτη, ακουμπά την πίστα, και <b>Εντελώς</b> στον <b>Στόχο</b>;"
+    M15b="Η Άκατος άθικτη, ακουμπά την πίστα, και <b>Εντελώς</b> στην <b>Βορειοανατολική πλευρά του πλανήτη</b>;"
+    M15c="Και τα δύο μέρη της Ακάτου βρίσκοται <b>Εντελώς</b> μέσα στην <b>Βάση</b>;"
 
-P01="Ποινές"
-P01a=" Πόσες φορές διακόπηκε το ρομπότ;"
+    P01="Ποινές"
+    P01a=" Πόσες φορές διακόπηκε το ρομπότ;"
 
-translatorCredit = "Μετάφραση από το WEB STAR - ΗΛΙΑΔΗΣ ΝΕΚΤΑΡΙΟΣ"
+    translatorCredit = "Μετάφραση από το WEB STAR - ΗΛΙΑΔΗΣ ΝΕΚΤΑΡΙΟΣ"
 
 
 } else if (language == "fr") {
@@ -756,6 +756,131 @@ translatorCredit = "Μετάφραση από το WEB STAR - ΗΛΙΑΔΗΣ Ν�
 
 
 
+
+} else if (language == "tr") {
+    yes = "Evet"
+    no = "Hayır"
+    partly = "Kısmen"
+    completely = "Tamamen"
+    resetText = "Temizle"
+    saveText = "Kaydet"
+    savescoreText="Skoru Kaydet"
+    loadsaveText="Yükle Kaydet:"
+    deletesaveText="Sil Kayıtlar"
+    importsaveText="İçe Aktar Kaydet"
+    exportsaveText="Dışa Aktar Kaydet"
+    signin = "Şununla Giriş yap"
+    signout = "Oturumu kapat"
+    GoogleCreate = " Yeni E-Tablo Oluştur "
+    GoogleOpen = " Google E-Tablo Aç "
+    created = "Oluşturuldu"
+    savedto = "Şuraya Kaydet"
+    teamText = "Takım"
+    roundText = "Tur"
+    dateText = "Tarih/Saat"
+    totalText = "Toplam Puan"
+    savedText = "Kaydedildi"
+    loadedText = "Yüklendi"
+    googleSaveText = " Google E-Tablolar (Varsayılan)"
+    localSaveText = " Yerel Tarayıcı Deposu (Eski)"
+    isIE = " Google kaydetme sistemi Microsoft Internet Explorer ile uyumsuz. Başka bir tarayıcıya geçebilir veya eski kaydetme sistemini kullanarak devam edebilirsiniz (yukarıyı tıklayın)"
+
+    googleIntro = " Puanlarınızı bir Google E-tablosuna kaydedebilirsiniz. Bu, sezon boyunca ilerlemeyi takip etmenize yardımcı olur. Sayfanın altındaki talimatları görün."
+    pastSaves = "Geçmiş kayıtlar"
+    instructions = "Talimatlar"
+    instructionsA = " Kaydetme sistemini kullanmanın temel adımları şunlardır:"
+    instructionsB = '1. Google hesabınıza giriş yapın. "Bu uygulama doğrulanmadı" uyarısı alabilirsiniz. Eğer öyleyse, "Gelişmiş" ve ardından "FLL Scorer`a (güvensiz) git" e tıklayın.'
+    instructionsC = '2. Geçmişte bir e-tablo oluşturmadıysanız - "Yeni E-Tablo Oluştur" u tıklayın.'
+    instructionsD = '3. Geçmişte bir e-tablo oluşturduysanız, Google Etiket Kimliği alanının doldurulmadığından ve "tanımsız" olmadığından emin olun. E-tabloyu cihazlar arasında paylaşmak isterseniz, bu kimliği manuel olarak girmeniz gerekir.'
+    instructionsE = '4. Bir skoru kaydetmek istediğiniz zaman, "Puanı Kaydet" i tıklayın - bu, e-tabloyu geçerli puan ve tarihle güncelleyecektir. '
+    instructionsF = '5. E-tablonuzu incelemek ve düzenlemek istiyorsanız "Google E-tabloyu Aç" a tıklayın. Google Sayfa Kimliği`ne ihtiyacınız varsa - açtığınızda, e-tablonuzun URL`sinde bulunur.'
+    instructionsG = '6. Ayrıca "+" ve "-" tuşlarına basarak kaydetme numarasını girip "Load Save:" (Kaydet): butonuna basarak belirli bir skoru skorerde alabilirsiniz.'
+
+
+    var monthNames = ["","Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"];
+    improvementText = "Gelişme"
+    scorerText = "Puanlayıcı"
+    timersText = "Zaman Ölçümü"
+    savesText = "Kayıtlar"
+    startText = "Başla"
+    stopText = "Dur"
+    pointsText = "Puanlar"
+
+    systemText = "Sistem Tasarrufu:"
+
+    timerText = "Zamanlayıcı:"
+    stopwatchText = "Kronometre:"
+    
+    revisionText = "INTO ORBIT Scorer Revizyonu"
+    copyrightText = "Telif Hakkı (c) 2018-19 Seshan Kardeşler"
+
+    
+    title = "INTO ORBIT Puanlayıcı"
+
+    M01="Uzay Yolculuğu"
+    M01a=" Araç Yükü İlk Parça Bağlantısından yuvarlanarak geçti mi?"
+    M01b=" Tedarik Yükü İlk Parça Bağlantısından yuvarlanarak geçti mi?"
+    M01c=" Mürettebat Yükü İlk Parça Bağlantısından yuvarlanarak geçti mi?"
+
+    M02="Güneş Paneli Dizisi"
+    M02a=" Her iki güneş panelinin açısı aynı alana doğru mu?"
+    M02b=" Güneş Panelinizin açısı diğer alana doğru mu?"
+
+    M03="3D Yazıcı"
+    M03a="2x4 lego  tuğla fırlatılmış ve tamamen Kuzeydoğu Gezegen Alanı içerisinde mi?"
+    M03b="2x4 lego  tuğla fırlatılmış ve Kuzeydoğu Gezegen Alanı içerisinde <b>değil</b> mi?"
+
+    M04=" Krater Geçişi"
+    M04a=" Geçiş ekipmanının ağırlık taşıyan özellikleri krateri doğudan batıya kapının <b>tamamen</b> düzleşmesini sağlayarak geçti mi? "
+    M05="Çıkarma"
+    M05a=" Dört numunenin tümü artık Core Site Modelinden çıkmış ve aksa değmiyor mu?"
+    M05b=" Gaz Çekirdeği Örneği, Gövde Hedef Çemberinde tamamen görev matına temas ediyor mu?"
+    M05c=" Gaz Çekirdeği Örneği tamamen üs alanı içinde mi?"
+    M05d=" Su Çekirdeği Örneği sadece Gıda Büyümesi Odası tarafından destekleniyor şekilde yerleştirildi mi?"
+
+    M06=" Uzay İstasyonu Modülleri"
+    M06a=" Koni Modülü <b>Tamamen</b> üs alanı içinde mi?"
+    M06b=" Tüp Modülü Habitation Hub'ın batı tarafı içerisine yerleştirildi mi?"
+    M06c=" Dock Modülü Habitation Hub'ın doğu tarafına aktarıldı mı / yerleştirildi mi?"
+
+    M07="Uzay Yürüyüşü Güvenliği"
+    M07a=" Gerhard, Habitation Hub'ın Airlock Odasına <b>kısmen</b> veya <b>tamamen</b> yerleştirildi mi?"
+
+    M08="Aerobic Exercise"
+    M08a=" İşaretçinin ucu tamamen turuncu alan içerisinde  mi, yoksa kısmen turuncu kenarlıklardan birini mi kaplıyor?"
+    M08b=" İşaretçinin ucu tamamen beyaz alan içinde mi?"
+    M08c="İşaretçinin ucu tamamen gri alan içerisinde  mi, yoksa kısmen gri kenarlıklardan birini mi kaplıyor?"
+
+    M09=" Güç egzersizi"
+    M09a=" Güç Bar kaldırıldı mı, böylece dişli çubuğun 4. deliği en azından kısmen görünüyor mu?"
+
+    M10="Yiyecek Üretimi"
+    M10a=" Gıda Büyümesi Odası'nın renkleri basma çubuğu ittirilerek çevrilip, başlangıçta taba rengin arkasında olan gri ağırlık yeşilin arkasına yeşilin DÜŞÜRÜLDÜ mü?"
+
+    M11="Kaçış Hızı"
+    M11a=" Uzay aracı, Fırlatma Koluna'e vurarak/basarak hızla yeterince yükseğe çıkıp yukarda sabit kaldı mı?"
+
+    M12=" Uydu Yörüngeleri "
+    M12a=" Her uydu için, Dışsal Yörüngenin iki çizgisi arasındaki alanın üzerinde veya üstünde herhangi bir kısım var mı?"
+
+    M13="Rasathane"
+    M13a="İşaretçinin ucu tamamen turuncu alan içerisinde  mi, yoksa kısmen turuncu kenarlıklardan birini mi kaplıyor?"
+    M13b="İşaretçinin ucu tamamen beyaz alan içinde mi?"
+    M13c="İşaretçinin ucu tamamen gri alan içerisinde  mi, yoksa kısmen gri kenarlıklardan birini mi kaplıyor?"
+
+    M14=" Meteoroit Sapması "
+    M14a=" Merkez Bölümü'nde kaç tane meteoroit var?"
+    M14b=" Yan Bölümlerde kaç tane meteoroid var?"
+
+    M15="Uzay Aracı İnişi"
+    M15a=" Uzay Aracı sağlam olarak Mat'a dokunuyor ve <b>tamamen</b> <b>Hedef Daire</b> içinde mi?"
+    M15b=" Uzay Aracı sağlam olarak Mat'a dokunuyor ve <b>tamamen</b> <b>Kuzeydoğu Gezegen Alanı</b> içinde mi?"
+    M15c="Uzay Aracının tüm parçaları <b>tamamen</b> <b>Üs Alanı</b> içinde mi?"
+
+    P01="Ceza"
+    P01a=" Robot kaç kere kesintiye uğradı?"
+
+    translatorCredit = " Uygulamanın Türkçe çevirisi www.robotum.net kurucusu, Yücel Tekin tarafından yapılmıştır."
 
 }
 
