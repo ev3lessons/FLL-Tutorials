@@ -20,7 +20,7 @@ We went to visit the Body Forward championship in Pittsburgh in December 2010 an
 
 ### What did you do after FIRST LEGO League?
 
-Our team retired after World Festival in 2018. However, we continue to support all 55,000 FIRST LEGO League teams through <a href="www.ev3lessons.com">EV3 Lessons</a> and our newest site, <a href="www.flltutorials.com">FLL Tutorials</a>. We want to share our knowledge and help the next generation of teams have a successful FLL journey. We create the most popular and trusted <a "href=http://flltutorials.com/Resources/2018/scorer/index.html">robot game scoring tools</a> used currently by teams, and continue to collaborate with teams world wide to translate these tools into different languages.
+Our team retired after World Festival in 2018. However, we continue to support all 55,000 FIRST LEGO League teams through <a href="www.ev3lessons.com">EV3 Lessons</a> and our newest site, <a href="www.flltutorials.com">FLL Tutorials</a>. We want to share our knowledge and help the next generation of teams have a successful FLL journey. We create the most popular and trusted <a href="http://flltutorials.com/Resources/2018/scorer/index.html">robot game scoring tools</a> used currently by teams, and continue to collaborate with teams world wide to translate these tools into different languages.
 
 We also continue to participate in other STEM competitions such as science fairs, inspired by our FIRST LEGO League experience.
 
@@ -47,7 +47,7 @@ Other seasons have had their memorable moments as well. For example, in Nature's
 
 We popularized the box robot design with our TARDIS in 2014. TARDIS stands for Technically Advanced Robot Designed in Style.  The robot was a blue box. Our robot design handout that year also looked like a TARDIS. The box style robot is not needed to win a competition, but does help put attachments on quickly. Try to experiment with passive attachments. Rubber bands, pneumatics and gravity-based attachments can set you apart while teaching you new skills. Focus on reliability first.
 
-> Don't build to impress a judge. Build the way you do because it helps accomplish something you could not otherwise or it is something you are passionate about.
+> Don't build to impress a judge. Build the way you do because it helps accomplish something you could not otherwise or it is something you are passionate about learning and trying.
 
 ### Share one tip about the doing the research project
 
@@ -55,15 +55,13 @@ It is extremely important to be thorough in your research project and then be ab
 
 ### Share one tip about Core Values
 
-Be yourself! There are many teams that want to win and want to adopt the ideas and style of other teams. Come up with your own team personality and style and you will thrive. Also remember that FIRST LEGO League really is a journey. Expecting to win and skipping the steps involved in learning and growing as a team will only result in you not getting the most out of the program.
+Be yourself! There are many teams that want to win and want to adopt the ideas and style of other teams. Come up with your own team personality and style and you will thrive. Also remember that FIRST LEGO League really is a journey. Expecting to win and skipping the steps involved in learning and growing as a team will only result in you not getting the most out of the program. You don't have to be a large, loud team to win Champion's. You have to just embrace the entire FIRST LEGO League experience and be yourself!
 
-> You don't have to be a large, loud team to win Champion's. You have just embrace the entire FIRST LEGO League experience and be yourself!
+> Things don't always go the way you want. But that is okay. They are lessons learned. They make you improve and they make you get better over time. Remember that FIRST is a jouney.
 
 ### What is something you wish you knew when you started out in FIRST LEGO League?
 
 We wish we knew how many hours it takes. Our first season, we thought just two hours a week on a Friday was enough. Most of the students didn’t know how to program and even one month into the season, everyone was still learning to program, much less working on missions.  Knowing in advance would have helped.  By the time we retired, we were investing 10-15 hours per week into FIRST LEGO League (including outreach efforts). The more time you are able to invest in FIRST LEGO League, the more you get out of the program.
-
-> Things don't always go the way you want. But that is okay. They are lessons learned. They make you improve and they make you get better over time. Remember that FIRST is a jouney.
 
 ### What is the best memory you have from FIRST LEGO League?
 
