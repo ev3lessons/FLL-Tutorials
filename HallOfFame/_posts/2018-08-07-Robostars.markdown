@@ -2,7 +2,7 @@
 layout: post
 language: "en"
 image: "assets/images/HallOfFame/Robostars.jpg"
-title: "Untitled-1"
+title: "Robostars"
 minidescription:
 author: Droids
 categories:
@@ -11,7 +11,7 @@ featured: true
 
 ---
 
-Robostars is an FIRST LEGO League team from King Abdullah the Second School for Excellence (KASSE) which is located in Irbid, Jordan. Our team competed in FIRST LEGO League competitions since 2012, with two generations of team members. Our first generation team took part in one World Festival, whereas the second generation team took part in two World Festivals. Robostars' journey includes two Champion's awards at the national level in Jordan, two Champion's awards at the Arab Regional level and lastly, in our last FIRST LEGO League season in 2017, (Animal Allies) the team has ended their legacy by winning the Champion's award in Houston, Texas.
+Robostars is an FIRST LEGO League team from King Abdullah the Second School for Excellence (KASSE) which is located in Irbid, Jordan. Our team competed in FIRST LEGO League competitions since 2012, with two generations of team members. Our first generation team took part in one World Festival, whereas the second generation team took part in two World Festivals. Robostars' journey includes two Champion's awards at the national level in Jordan, two Champion's awards at the Arab Regional level and lastly, in our last FIRST LEGO League season in 2017 (Animal Allies), the team has ended their legacy by winning the Champion's award in Houston, Texas.
 
 ### How did you come together as a team?
 
