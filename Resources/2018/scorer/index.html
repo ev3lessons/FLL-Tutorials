@@ -126,7 +126,7 @@
       </style>
     <script>
       //langs=['en:United States:English','pt:Brazil:Portugues','de:Germany:Deutsche','es:Spain:Español','sk:Slovakia:Slovenský','nl:Netherlands:Nederlands','el:Greece:ελληνικά','hu:Hungary:Magyar','he:Israel:עִבְרִית‎','fr:France:français']
-      langs=['en:United States:English','es:Spain:Español','pt:Brazil:Portugues','de:Germany:Deutsche','el:Greece:ελληνικά','tr:Turkey:Türk']
+      langs=['en:United States:English','es:Spain:Español','pt:Brazil:Portugues','de:Germany:Deutsche','el:Greece:ελληνικά','tr:Turkey:Türk','ro:Romania:Română']
     </script>
       <script src="language-detector.js">  </script>
       <script src="languages.js"></script>
@@ -726,51 +726,11 @@ ga('send', 'pageview');
 <div class="no-mobile">
   <script>
   countrycode = language.split('-')[0]
-  if (countrycode != "he" && countrycode != "hu" && countrycode !=
-  "en" && countrycode != "el" && countrycode != "tr") {
+
     document.write('<a target="_blank"\
     href="https://itunes.apple.com/'+countrycode+'/app/fll-into-orbit-scorer/id1415402611?ls=1&mt=8">\
     <img height="68" style="padding: 15px" \
     src="app-store/'+language+'.svg"></a><br>')
-  } else if (countrycode == "he"){
-
-    document.write('<a target="_blank"\
-    href="https://itunes.apple.com/gb/app/fll-into-orbit-scorer/id1415402611?ls=1&mt=8">\
-    <img height="68" style="padding: 15px" \
-    src="app-store/'+language+'.svg"></a><br>')
-
-  }
-
-  if (countrycode != "hu") {
-
-  } else {
-
-    document.write('<a target="_blank"\
-    href="https://itunes.apple.com/gb/app/fll-into-orbit-scorer/id1415402611?ls=1&mt=8">\
-    <img height="68" style="padding: 15px" \
-    src="app-store/en-us.svg"></a><br>')
-  }
-  if (countrycode != "en") {
-
-  } else {
-
-    document.write('<a target="_blank"\
-    href="https://itunes.apple.com/us/app/fll-into-orbit-scorer/id1415402611?ls=1&mt=8">\
-    <img height="68" style="padding: 15px" \
-    src="app-store/en-us.svg"></a><br>')
-  }
-  if (countrycode != "el") {
-
-  } else {
-
-    document.write('<a target="_blank"\
-    href="https://itunes.apple.com/gr/app/fll-into-orbit-scorer/id1415402611?ls=1&mt=8">\
-    <img height="68" style="padding: 15px" \
-    src="app-store/en-us.svg"></a><br>')
-  }
-  countrycode = language.split('-')[0]
-
-
 
 
   if (language == 'he') {
@@ -785,7 +745,7 @@ ga('send', 'pageview');
 </div>
 <div style="padding-left: 10px; ">
   <br>
-  <text id="revisionText">INTO ORBIT Scorer Revision</text> 1.4
+  <text id="revisionText">INTO ORBIT Scorer Revision</text> 1.5
   <!-- Scorer v3.3.0 -->
 <br>
 <br><text id="copyrightText">Copyright (c) 2018 Seshan Brothers</text><br>
