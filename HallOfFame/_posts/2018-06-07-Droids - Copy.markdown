@@ -12,7 +12,7 @@ featured: false
 
 ---
 
-Not the Droids You Are Looking for is a community team from Pittsburgh, Pennsylvania, USA that competed for seven years in FIRST LEGO League. They were founded in 2011 by two brothers, Arvind and Sanjay. “The Droids” as they are commonly referred to, have been to World Festival three times, winning Champion’s, First Programming and the Coach award. They are also the Champion’s Team from the Razorback Open in Arkansas. They were a semi-finalist team (top 20 out of 30,000 for the Global Innovation Award) and also the First Place Innovative Solution winner at the International Open in Toronto. In 2018, they were the Champion’s award winner at World Festival Detroit. They are also renowned for their FIRST LEGO League 2014 project, EV3Lessons.com, and its impact on the entire FIRST LEGO League community.
+Not the Droids You Are Looking For is a community team from Pittsburgh, Pennsylvania, USA that competed for seven years in FIRST LEGO League. The team was founded in 2011 by two brothers, Arvind and Sanjay. “The Droids” as they are commonly referred to, have been to World Festival three times, winning Champion’s, First Programming and the Coach award. They are also the Champion’s Team from the Razorback Open in Arkansas. They were a semi-finalist team (top 20 out of 35,000 teams for the Global Innovation Award) and also the First Place Innovative Solution winner at the International Open in Toronto. In 2018, they were the Champion’s award winner at World Festival Detroit. They are also renowned for their FIRST LEGO League 2014 project, EV3Lessons.com, and its impact on the entire FIRST LEGO League community.
 
 ### How did you come together as a team?
 
@@ -20,9 +20,9 @@ We went to visit the Body Forward championship in Pittsburgh in December 2010 an
 
 ### What did you do after FIRST LEGO League?
 
-Our team retired after World Festival in 2018. However, we continue to support all 35,000 FIRST LEGO League teams through <a href="www.ev3lessons.com">EV3 Lessons</a> and our newest site, <a href="www.flltutorials.com">FLL Tutorials</a>. We want to share our knowledge and help the next generation of teams have a successful FLL journey.
+Our team retired after World Festival in 2018. However, we continue to support all 55,000 FIRST LEGO League teams through <a href="www.ev3lessons.com">EV3 Lessons</a> and our newest site, <a href="www.flltutorials.com">FLL Tutorials</a>. We want to share our knowledge and help the next generation of teams have a successful FLL journey. We create the most popular and trusted <a "href=http://flltutorials.com/Resources/2018/scorer/index.html">robot game scoring tools</a> used currently by teams, and continue to collaborate with teams world wide to translate these tools into different languages.
 
-We also continue in other STEM competitions such as science fairs, inspired by our FIRST LEGO League experience.
+We also continue to participate in other STEM competitions such as science fairs, inspired by our FIRST LEGO League experience.
 
 [Although the Droids have retired, you can look at their robot runs from the last 7 years and follow them on social media:
 <a href="https://www.facebook.com/droidsrobotics/">Facebook</a>,
@@ -31,11 +31,11 @@ We also continue in other STEM competitions such as science fairs, inspired by o
 
 ### What is one unique thing about your team?
 
-We took our outreach activities to a global scale and, as mentioned by others, we brought people and teams together through all the resources we created. While we have won numerous awards in FIRST LEGO League, what we are most remembered for is for giving back to the FIRST LEGO League community.
+We took our outreach activities to a global scale and, as mentioned by others, we brought people and teams together through all the resources we created. While we have won numerous awards in FIRST LEGO League, what we are most remembered for is for giving back to the FIRST LEGO League community and creating ways for teams to collaborate together (EV3Lessons, FLLTutorials, FLL: Share and Learn Facebook Group)
 
 ### Which FIRST LEGO League season was your favorite, and why?
 
-World Class. We found the challenges on the World Class mat to be the most diverse. You also had to navigate well that year to complete all the missions. That was the first year in which we set a personal goal to finish every mission. We even maximized the scoring on the multiplier model that year.
+World Class. We found the challenges on the World Class mat to be the most diverse. You also had to navigate well that year to complete all the missions. That was the first year in which we set a personal goal to finish every mission (which we accomplished). We even maximized the scoring on the multiplier model that year.
 
 The project question that year was also one of the most interesting we have seen and gave rise to EV3Lessons.com. Despite not making the Global Innovation Awards that year, our project became “real”. Today, we have more than a quarter of a million users in 175 countries. EV3Lessons is recognized globally and has resulted in many speaking and demo opportunities.
 
@@ -44,6 +44,7 @@ Other seasons have had their memorable moments as well. For example, in Nature's
 ### Share one tip about your robot design process or robot
 
 We popularized the box robot design with our TARDIS in 2014. TARDIS stands for Technically Advanced Robot Designed in Style.  The robot was a blue box. Our robot design handout that year also looked like a TARDIS. The box style robot is not needed to win a competition, but does help put attachments on quickly. Try to experiment with passive attachments. Rubber bands, pneumatics and gravity-based attachments can set you apart while teaching you new skills.
+
 
 ### Share one tip about the doing the research project
 
