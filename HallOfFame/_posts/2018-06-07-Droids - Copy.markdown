@@ -41,10 +41,13 @@ The project question that year was also one of the most interesting we have seen
 
 Other seasons have had their memorable moments as well. For example, in Nature's Fury, we got a walkthrough of US Airway's airplanes and Operational Control Center. In Hydro Dynamics, we got to demonstrate our robot to the owner of LEGO in Denmark.
 
+> You really never know where FIRST LEGO League might lead you. Anything is possible. Keep your mind open.
+
 ### Share one tip about your robot design process or robot
 
-We popularized the box robot design with our TARDIS in 2014. TARDIS stands for Technically Advanced Robot Designed in Style.  The robot was a blue box. Our robot design handout that year also looked like a TARDIS. The box style robot is not needed to win a competition, but does help put attachments on quickly. Try to experiment with passive attachments. Rubber bands, pneumatics and gravity-based attachments can set you apart while teaching you new skills.
+We popularized the box robot design with our TARDIS in 2014. TARDIS stands for Technically Advanced Robot Designed in Style.  The robot was a blue box. Our robot design handout that year also looked like a TARDIS. The box style robot is not needed to win a competition, but does help put attachments on quickly. Try to experiment with passive attachments. Rubber bands, pneumatics and gravity-based attachments can set you apart while teaching you new skills. Focus on reliability first.
 
+> Don't build to impress a judge. Build the way you do because it helps accomplish something you could not otherwise or it is something you are passionate about.
 
 ### Share one tip about the doing the research project
 
@@ -59,6 +62,8 @@ Be yourself! There are many teams that want to win and want to adopt the ideas a
 ### What is something you wish you knew when you started out in FIRST LEGO League?
 
 We wish we knew how many hours it takes. Our first season, we thought just two hours a week on a Friday was enough. Most of the students didn’t know how to program and even one month into the season, everyone was still learning to program, much less working on missions.  Knowing in advance would have helped.  By the time we retired, we were investing 10-15 hours per week into FIRST LEGO League (including outreach efforts). The more time you are able to invest in FIRST LEGO League, the more you get out of the program.
+
+> Things don't always go the way you want. But that is okay. They are lessons learned. They make you improve and they make you get better over time. Remember that FIRST is a jouney.
 
 ### What is the best memory you have from FIRST LEGO League?
 
