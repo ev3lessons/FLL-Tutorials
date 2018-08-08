@@ -465,9 +465,13 @@
                 <button id="GoogleCreate" onclick="makeSheet();">see languages.js</button>
 
                 <br>
-                Google Sheet ID: <input type="text" onchange="window.localStorage.DRIOGoogleSheet = this.value" id="sheetId"  />
-                <script>
-                document.getElementById('sheetId').value = window.localStorage.DRIOGoogleSheet;
+                <text id="idText">Google Sheet ID:</text> <input type="text" onchange="window.localStorage.DRIOGoogleSheet = this.value" id="sheetId"  />
+		<script>
+    		  if (window.localStorage.DRIOGoogleSheet != undefined) {
+		      document.getElementById('sheetId').value = window.localStorage.DRIOGoogleSheet;
+		  } else {
+		      document.getElementById('sheetId').value = undefinedText;
+		  }
                 </script>
 
                 <br>
@@ -745,7 +749,7 @@ ga('send', 'pageview');
 </div>
 <div style="padding-left: 10px; ">
   <br>
-  <text id="revisionText">INTO ORBIT Scorer Revision</text> 1.5
+  <text id="revisionText">INTO ORBIT Scorer Revision</text> 1.6
   <!-- Scorer v3.3.0 -->
 <br>
 <br><text id="copyrightText">Copyright (c) 2018 Seshan Brothers</text><br>
@@ -815,6 +819,8 @@ document.getElementById('stopwatchText').innerHTML = stopwatchText
     document.getElementById('copyrightText').innerHTML = copyrightText
 
         document.getElementById('systemText').innerHTML = systemText
+
+            document.getElementById('idText').innerHTML = idText
 
     
   document.getElementById('translatorCredit').innerHTML = translatorCredit

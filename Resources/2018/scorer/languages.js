@@ -53,6 +53,9 @@ systemText = "Saving System: "
 timerText = "Timer:"
 stopwatchText = "Stopwatch:"
 
+idText = "Google Sheet ID: "
+undefinedText = "undefined"
+
 revisionText = "INTO ORBIT Scorer Revision "
 copyrightText = "Copyright (c) 2018-19 Seshan Brothers"
 
@@ -896,8 +899,8 @@ if (language == "pt" || language == "pt-br") {
     exportsaveText="Exportați o salvare"
     signin = "Conectați-vă cu"
     signout = "Deconectați-vă din"
-    GoogleCreate = "Creați foaie de calcul nouă"
-    GoogleOpen = "Deschideți foaie de calcul Google"
+    GoogleCreate = "Creați o foaie de calcul nouă"
+    GoogleOpen = "Deschideți foaia de calcul Google"
     created = "Creat"
     savedto = "Salvat în"
     teamText = "Echipa"
@@ -917,94 +920,99 @@ if (language == "pt" || language == "pt-br") {
     instructionsA = "Pașii principali pentru utilizarea sistemului de salvare sunt:"
     instructionsB = '1. Conectați-vă la contul dvs. Google. Este posibil să primiți o avertizare "Această aplicație nu este verificată". Dacă da, faceți clic pe "Avansat " și apoi pe "Mergeți la Calculator scor FLL (nesigur)"'
     instructionsC = '2. Dacă nu ați creat o foaie de calcul în trecut - dați clic pe "Creați o foaie nouă"'
-    instructionsD = '3. Dacă ați creat o foaie de calcul în trecut, asigurați-vă că câmpul ID-ul foii de calcul Google este completat și nu rămâne "nedefinit". Dacă doriți să partajați o foaie de calcul între dispozitive, trebuie să introduceți manual acest ID.'
+    instructionsD = '3. Dacă ați creat o foaie de calcul în trecut, asigurați-vă că ID-ul foii de calcul Google este completat și nu rămâne "nedefinit". Dacă doriți să partajați o foaie de calcul între dispozitive, trebuie să introduceți manual acest ID.'
     instructionsE = '4. De fiecare dată când doriți să salvați un scor, faceți clic pe "Salvați scorul" - astfel foaia de calcul va fi actualizată cu scorul și data curentă'
-instructionsF = '5. Dacă doriți să inspectați foaia de calcul și să o editați, faceți clic pe "Deschideți foaia de calcul Google". Dacă aveți vreodată nevoie de ID-ul foii de calcul Google – acesta se află în adresa URL a foii de calcul atunci când o deschideți.'
-instructionsG = '6. Puteți, de asemenea, să încărcați un anumit scor anterior în calculator de scor prin introducerea numărului salvării folosind butoanele "+" și "-" și apoi prin apăsarea butonului "Încărcați o salvare:" '
+    instructionsF = '5. Dacă doriți să inspectați foaia de calcul și să o editați, faceți clic pe "Deschideți foaia de calcul Google". Dacă aveți vreodată nevoie de ID-ul foii de calcul Google – acesta se află în adresa URL a foii de calcul atunci când o deschideți.'
+    instructionsG = '6. Puteți, de asemenea, să încărcați un anumit scor anterior în calculator de scor prin introducerea numărului salvării folosind butoanele "+" și "-" și apoi prin apăsarea butonului "Încărcați o salvare:" '
 
 
-var monthNames = ["","ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august", "septembrie", "octombrie", "noiembrie", "decembrie"];
-improvementText = " Îmbunătățire"
-scorerText = "Calculator de scor"
-timersText = "Cronometre"
-savesText = "Salvări"
-startText = "Start"
-stopText = "Stop"
-pointsText = "Puncte"
+    var monthNames = ["","ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august", "septembrie", "octombrie", "noiembrie", "decembrie"];
+    improvementText = " Îmbunătățire"
+    scorerText = "Calculator de scor"
+    timersText = "Cronometre"
+    savesText = "Salvări"
+    startText = "Start"
+    stopText = "Stop"
+    pointsText = "Puncte"
 
-timerText = "Temporizator:"
-stopwatchText = " Cronometru:"
+    timerText = "Temporizator:"
+    stopwatchText = " Cronometru:"
 
-revisionText = "Calculator de scor INTO ORBIT. Revizia "
-copyrightText = "Copyright (c) 2018-19 Seshan Brothers"
+    revisionText = "Calculator de scor INTO ORBIT. Revizia "
+    copyrightText = "Copyright (c) 2018-19 Seshan Brothers"
 
-title = "Calculator de scor INTO ORBIT"
+    idText = "ID foaie de calcul Google: "
+    undefinedText = "nedefinit"
+    
 
-M01="Călătoria în spațiu"
-M01a="Încărcătura cu vehicul a trecut de prima conexiune a căii de rulare?"
-M01b="Încărcătura cu provizii a trecut de prima conexiune a căii de rulare?"
-M01c="Încărcătura cu echipaj a trecut de prima conexiune a căii de rulare?"
+    title = "Calculator de scor INTO ORBIT"
 
-M02="Rețeaua de panouri solare"
-M02a="Ambele panouri solare sunt înclinate spre același teren?"
-M02b="Propriul panou solar este înclinat spre terenul celeilalte echipe?"
+    M01="Călătoria în spațiu"
+    M01a="Încărcătura cu vehicul a trecut de prima conexiune a căii de rulare?"
+    M01b="Încărcătura cu provizii a trecut de prima conexiune a căii de rulare?"
+    M01c="Încărcătura cu echipaj a trecut de prima conexiune a căii de rulare?"
 
-M03="Tipărirea 3D"
-M03a="Este cărămida 2x4 scoasă și complet în zona țintă de pe planeta nord-estică?"
-M03b="Este cărămida 2x4 scoasă, dar nu complet în zona țintă de pe planeta nord-estică?"
+    M02="Rețeaua de panouri solare"
+    M02a="Ambele panouri solare sunt înclinate spre același teren?"
+    M02b="Propriul panou solar este înclinat spre terenul celeilalte echipe?"
 
-M04="Traversarea craterului "
-M04a="Au trecut toate elementele de susținere a greutății echipamentului de traversare, de la est la vest, <b>complet</b> dincolo de poarta culcată?"
+    M03="Tipărirea 3D"
+    M03a="Este cărămida 2x4 scoasă și complet în zona țintă de pe planeta nord-estică?"
+    M03b="Este cărămida 2x4 scoasă, dar nu complet în zona țintă de pe planeta nord-estică?"
 
-M05="Extracția"
-M05a="Toate cele patru mostre nu mai ating axul care le-a ținut în modelul ”Extracție resurse”?"
-M05b="Mostra de gaz atinge planșa și este complet în zona țintă a modulului lunar?"
-M05c="Mostra de gaz este complet în bază?"
-M05d="Mostra de apă este plasată astfel încât să fie susținută doar de modelul serei?"
+    M04="Traversarea craterului "
+    M04a="Au trecut toate elementele de susținere a greutății echipamentului de traversare, de la est la vest, <b>complet</b> dincolo de poarta culcată?"
 
-M06="Modulele stației spațiale"
-M06a="Modulul conic este <b>complet</b> în bază?"
-M06b="Modulul tubular este introdus în portul de pe partea vestică a habitatul central?"
-M06c="Modulul de andocare este transferat/inserat în portul estic al habitatului central?"
+    M05="Extracția"
+    M05a="Toate cele patru mostre nu mai ating axul care le-a ținut în modelul ”Extracție resurse”?"
+    M05b="Mostra de gaz atinge planșa și este complet în zona țintă a modulului lunar?"
+    M05c="Mostra de gaz este complet în bază?"
+    M05d="Mostra de apă este plasată astfel încât să fie susținută doar de modelul serei?"
 
-M07="Urgență la ieșirea în spațiu"
-M07a="Astronautul Gerhard este introdus <b>parțial</b> sau <b>complet</b> în camera de etanșare (sas) a habitatului central?"
+    M06="Modulele stației spațiale"
+    M06a="Modulul conic este <b>complet</b> în bază?"
+    M06b="Modulul tubular este introdus în portul de pe partea vestică a habitatului central?"
+    M06c="Modulul de andocare este transferat/inserat în portul estic al habitatului central?"
 
-M08="Exercițiile aerobice"
-M08a="Acul indicator este complet pe portocaliu sau parțial acoperind oricare dintre marginile zonei portocalii?"
-M08b="Acul indicator este complet pe alb?"
-M08c="Acul indicator este complet pe gri sau parțial acoperind oricare dintre marginile zonei gri?"
+    M07="Urgență la ieșirea în spațiu"
+    M07a="Astronautul Gerhard este introdus <b>parțial</b> sau <b>complet</b> în camera de etanșare (sas) a habitatului central?"
 
-M09="Exercițiile de forță"
-M09a="Bara de forță este ridicată astfel încât a patra gaură a cremalierei este cel puțin parțial vizibilă?"
+    M08="Exercițiile aerobice"
+    M08a="Acul indicator este complet pe portocaliu sau parțial acoperind oricare dintre marginile zonei portocalii?"
+    M08b="Acul indicator este complet pe alb?"
+    M08c="Acul indicator este complet pe gri sau parțial acoperind oricare dintre marginile zonei gri?"
 
-M10="Producția de mâncare"
-M10a="Culorile serei au fost învârtite astfel încât greutatea gri este CĂZUTĂ după verde, dar înainte de maro, doar prin acționarea barei de împingere?"
+    M09="Exercițiile de forță"
+    M09a="Bara de forță este ridicată astfel încât a patra gaură a cremalierei este cel puțin parțial vizibilă?"
 
-M11="Viteza de evadare"
-M11a="Nava spațială s-a deplasat suficient de rapid și mult pentru a rămâne sus, doar prin apăsarea/lovirea rampei de lansare?"
+    M10="Producția de mâncare"
+    M10a="Culorile serei au fost învârtite astfel încât greutatea gri este CĂZUTĂ după verde, dar înainte de maro, doar prin acționarea barei de împingere?"
 
-M12="Orbitele sateliților"
-M12a="Pentru fiecare satelit, oricare partea este pe sau deasupra zonei dintre cele două linii ale orbitei exterioare?"
+    M11="Viteza de evadare"
+    M11a="Nava spațială s-a deplasat suficient de rapid și mult pentru a rămâne sus, doar prin apăsarea/lovirea rampei de lansare?"
 
-M13="Observatorul"
-M13a="Acul indicator este complet pe portocaliu sau parțial acoperind oricare dintre marginile zonei portocalii?"
-M13b=" Acul indicator este complet pe alb?"
-M13c=" Acul indicator este complet pe gri sau parțial acoperind oricare dintre marginile zonei gri?"
+    M12="Orbitele sateliților"
+    M12a="Pentru fiecare satelit, oricare partea este pe sau deasupra zonei dintre cele două linii ale orbitei exterioare?"
 
-M14="Devierea meteoriților"
-M14a="Câți meteoriți sunt în secțiunea centrală?"
-M14b="Câți meteoriți sunt în secțiunile laterale?"
+    M13="Observatorul"
+    M13a="Acul indicator este complet pe portocaliu sau parțial acoperind oricare dintre marginile zonei portocalii?"
+    M13b=" Acul indicator este complet pe alb?"
+    M13c=" Acul indicator este complet pe gri sau parțial acoperind oricare dintre marginile zonei gri?"
 
-M15="Aselenizarea modulului lunar"
-M15a="Modulul lunar este intact, atinge planșa și <b>complet</b> în <b>zona țintă</b>?"
-M15b="Modulul lunar este intact, atinge planșa și <b> complet </b> în <b> zona planetei nord-estice </b>?"
-M15c="Sunt ambele părți ale modulului lunar <b>complet</b> în <b>bază</b>?"
+    M14="Devierea meteoriților"
+    M14a="Câți meteoriți sunt în secțiunea centrală?"
+    M14b="Câți meteoriți sunt în secțiunile laterale?"
 
-P01="Penalizările pentru întreruperi"
-P01a="De câte ori a fost întrerupt robotul?"
+    M15="Aselenizarea modulului lunar"
+    M15a="Modulul lunar este intact, atinge planșa și <b>complet</b> în <b>zona țintă</b>?"
+    M15b="Modulul lunar este intact, atinge planșa și <b> complet </b> în <b> zona planetei nord-estice </b>?"
+    M15c="Sunt ambele părți ale modulului lunar <b>complet</b> în <b>bază</b>?"
 
-translatorCredit = "Traducerea și adaptarea în limba română realizată de Asociația pentru educație STEM creativă (CRESTEM). Copyright (c) 2018. www.crestem.org"
+    P01="Penalizările pentru întreruperi"
+    P01a="De câte ori a fost întrerupt robotul?"
+
+    translatorCredit = "Traducerea și adaptarea în limba română realizată de Asociația pentru educație STEM creativă (CRESTEM). Copyright (c) 2018. www.crestem.org"
+
 
 }
 
