@@ -150,14 +150,15 @@ function saveDateTimeScore() {
   var month = currentTime.getMonth() + 1
   var day = currentTime.getDate()
   var year = currentTime.getFullYear()
-  var currentdate = ": " + day + " " + monthNames[month] + " " + year;
+//  var currentdate = ": " + day + " " + monthNames[month] + " " + year;
+  var currentdate = month + "/" + day + "/" + year;
 
 
   var hours = currentTime.getHours()
   var minutes = currentTime.getMinutes()
 
   score = document.getElementById('allpoints').innerHTML;
-    
+
   if (minutes < 10){
     minutes = "0" + minutes
   }
@@ -179,8 +180,8 @@ function saveDateTimeScore() {
 
   var currenttime = timex + '' + ampm;
   //   var currenttime = timex;
-  datetime = currenttime + ' ' + currentdate;
-
+  //  datetime = currenttime + ' ' + currentdate;
+  datetime = currentdate + ' ' + currenttime;
 }
 
 
@@ -199,6 +200,3 @@ function saver() {
 
     alert(savedText);
 }
-
-
-
