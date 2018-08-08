@@ -11,7 +11,7 @@ featured: true
 
 ---
 
-Robostars is an FIRST LEGO League team from King Abdullah the Second School for Excellence (KASSE) which is located in Irbid, Jordan. Our team competed in FIRST LEGO League competitions since 2012, with two generations of team members. Our first generation team took part in one World Festival, whereas the second generation team took part in two World Festivals. Robostars' journey includes two Champion's awards at the national level in Jordan, two Champion's awards at the Arab Regional level and lastly, in our last FIRST LEGO League season in 2017 (Animal Allies), the team has ended their legacy by winning the Champion's award in Houston, Texas.
+Robostars is a FIRST LEGO League team from King Abdullah the Second School for Excellence (KASSE) which is located in Irbid, Jordan. Our team competed in FIRST LEGO League competitions since 2012, with two generations of team members. Our first generation team took part in one World Festival, whereas the second generation team took part in two World Festivals. Robostars' journey includes two Champion's awards at the national level in Jordan, two Champion's awards at the Arab Regional level and lastly, in our last FIRST LEGO League season in 2017 (Animal Allies), the team has ended their legacy by winning the Champion's award in Houston, Texas.
 
 ### How did you come together as a team?
 
@@ -43,7 +43,7 @@ An excellent robot run is the one that perfectly balances between mechanical des
 
 ### Share some tips about the doing the research project
 
-We believe that a project's idea is considered to be a crucial point in the success of any project. This is why we make sure that before settling on the final idea we condut lots and lots of research, interview specialists and discuss between team members. For instance, choosing a problem that directly impacts your own society/neighborhood can be quite helpful; this way the team will be truly inspired to work out an innovative and efficient solution. Also, studying the project rubrics at the beginning of the season can give you a step ahead.
+We believe that a project's idea is considered to be a crucial point in the success of any project. This is why we make sure that before settling on the final idea we conduct lots and lots of research, interview specialists and discuss between team members. For instance, choosing a problem that directly impacts your own society/neighborhood can be quite helpful; this way the team will be truly inspired to work out an innovative and efficient solution. Also, studying the project rubrics at the beginning of the season can give you a step ahead.
 
 ### Share some tips about Core Values
 
