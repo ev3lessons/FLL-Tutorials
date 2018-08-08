@@ -113,7 +113,7 @@ function addHeaders(spreadsheetId) {
 
 function makeSheet() {
   var spreadsheetBody = {
-    //	    "title":"EV3Lessons.com FLL Into Orbit Scorer"
+    //	    "title":"FLLTutorials.com FLL Into Orbit Scorer"
     // TODO: Add desired properties to the request body.
   };
 
@@ -128,7 +128,7 @@ function makeSheet() {
     requests.push({
       updateSpreadsheetProperties: {
         properties: {
-          title: 'EV3Lessons FLL Into Orbit Scorer'
+          title: 'FLLTutorials FLL Into Orbit Scorer'
         },
         fields: 'title'
       }
