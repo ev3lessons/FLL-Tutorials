@@ -132,6 +132,8 @@ translatorCredit = ""
 
 if (language == "pt" || language == "pt-br") {
 
+    undefinedText = "Indefinido"
+    idText = "ID da Planilha Google"
     yes = "Sim"
     no = "Não"
     partly = "Parcialmente"
