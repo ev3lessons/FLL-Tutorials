@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gearing for LEGO Robots"
+title: "Introduction to Navigation"
 image: "assets/images/RobotGame/Navigation.png"
 searchterms: "lesson"
 lang: "en"
