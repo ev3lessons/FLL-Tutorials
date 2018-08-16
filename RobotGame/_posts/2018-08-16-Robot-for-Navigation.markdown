@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robot for Navigation"
+title: "Robot that Navigates Well"
 image: "assets/images/RobotGame/Navigation.png"
 searchterms: "lesson"
 lang: "en"
