@@ -16,9 +16,9 @@ Quinten has entered LEGO contests for years. Many times, he came close to winnin
 
 On August 1st, we invited Quinten to come to a FIRST LEGO League kickoff event so he could see the contest that he had designed the trophy for. Quinten told us that seeing the FIRST LEGO League challenge and understanding what teams have to accomplish was inspiring and is helping him finish up his design. 
 
-We thought that teams would want to know the story behind the trophy. It is one of persistence. We hope that all teams who win one of Quiten's trophies next April stop and take a moment to rember what trophy represents.
+We thought that teams would want to know the story behind the trophy. It is one of persistence. We hope that all teams who win one of Quiten's trophies next April stop and take a moment to remember what trophy represents.
 
-![]({{ site.baseurl }}/assets/images/CoachCorner/Quinten3.jpg
+![]({{ site.baseurl }}/assets/images/CoachCorner/Quinten3.jpg)
 
 ### What Does the Trophy Represent?
 
@@ -28,7 +28,7 @@ The trophy also represents creativity (the red color) and engineering (the grey 
 
 > "Win or not, The 2x3 was going to be there to tell me to always keep trying. I hope The 2x3 will now go on to represent that for participants in FIRST LEGO League."
 
-![]({{ site.baseurl }}/assets/images/CoachCorner/Quintentrophy.jpg
+![]({{ site.baseurl }}/assets/images/CoachCorner/Quintentrophy.jpg)
 
 ### What was the most challenging part of creating your trophy?
 
