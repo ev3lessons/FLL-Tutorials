@@ -16,7 +16,7 @@ Quinten has entered LEGO contests for years. Many times, he came close to winnin
 
 On August 1st, we invited Quinten to come to a FIRST LEGO League kickoff event so he could see the contest that he had designed the trophy for. Quinten told us that seeing the FIRST LEGO League challenge and understanding what teams have to accomplish was inspiring and is helping him finish up his design. 
 
-We thought that teams would want to know the story behind the trophy. It is one of persistence. We hope that all teams who win one of Quiten's trophies next April stop and take a moment to remember what trophy represents.
+We thought that teams would want to know the story behind the trophy. It is one of persistence. We hope that all teams who win one of Quinten's trophies next April stop and take a moment to remember what the trophy represents.
 
 ![]({{ site.baseurl }}/assets/images/CoachCorner/Quinten3.jpg)
 
@@ -34,7 +34,7 @@ The trophy also represents creativity (the red color) and engineering (the grey 
 
 I had a general idea for the shape of the trophy from the base all the way to the brick, but I couldn’t quite visualize it when it came to the gears. I had to play around with the gears a bit and test different combinations to see what looked better. It took me a while to mesh the gears on the column while still maintaining the organic climbing effect, but in the end, it was worth it. I also realized early on that the gear panels would require some fiddling similar to the column, so when I was building the base I made each panel modular. This really saved time in the design process.
 
-Quinten even has a mini trophy, just right for our minifigs!
+Quinten even has a mini trophy that is just the right size for our minifigs!
 
 ![]({{ site.baseurl }}/assets/images/CoachCorner/Quinten4.jpg)
 
