@@ -17,7 +17,7 @@ Droid Bot Model C is our third generation FIRST LEGO League robot made with one 
 
 This robot has been designed for teams to learn alternative building concepts that may be useful to consider when designing a robot for FIRST LEGO League. It is not a "perfect, winning, maximum points robot". Rather, it is meant to be a starting point for ideas and discussion.
 
-Note: This robot is not the "best or perfect robot" for competition. It is provided here for learning purposes so that teams can try and build different models and learn some features from them. If you use it as a base for a competition, be sure to credit the source of the idea in your Robot Design presentation and/or Engineering Journal.
+Note: This robot is not the "best or perfect robot" for competition. It is provided here for learning purposes so that teams can try and build different models and learn some features from them. If you use it as a base for a competition, be sure to credit the source of the idea (and name the original designer) in your Robot Design presentation and/or Engineering Journal.
 
 Design by Seshan Brothers.
 

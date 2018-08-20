@@ -17,7 +17,7 @@ The green 3M beam in front lifts off and is a locking mechanism to hold attachme
 
 This robot has been designed for teams to learn some building concepts that may be useful to consider when designing a robot for FIRST LEGO League. It has been used by FIRST LEGO League teams in the last three years as a starting point from which they developed their own designs.
 
-Note: This robot is not the "best or perfect robot" for competition. It is provided here for learning purposes so that teams can try and build different models and learn some features from them. If you use it as a base for a competition, be sure to credit the source of the idea in your Robot Design presentation and/or Engineering Journal.
+Note: This robot is not the "best or perfect robot" for competition. It is provided here for learning purposes so that teams can try and build different models and learn some features from them. If you use it as a base for a competition, be sure to credit the source of the idea (and name the original designer) in your Robot Design presentation and/or Engineering Journal.
 
 Design by Seshan Brothers.
 
