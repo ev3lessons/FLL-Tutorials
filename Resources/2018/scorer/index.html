@@ -126,7 +126,7 @@
       </style>
     <script>
       //langs=['en:United States:English','pt:Brazil:Portugues','de:Germany:Deutsche','es:Spain:Español','sk:Slovakia:Slovenský','nl:Netherlands:Nederlands','el:Greece:ελληνικά','hu:Hungary:Magyar','he:Israel:עִבְרִית‎','fr:France:français']
-      langs=['en:United States:English','es:Spain:Español','pt:Brazil:Portugues','de:Germany:Deutsche','el:Greece:ελληνικά','tr:Turkey:Türk','ro:Romania:Română']
+      langs=['en:United States:English','es:Spain:Español','pt:Brazil:Portugues','de:Germany:Deutsche','el:Greece:ελληνικά','tr:Turkey:Türk','ro:Romania:Română','nl:Netherlands:Nederlands']
     </script>
       <script src="language-detector.js">  </script>
       <script src="languages.js"></script>
@@ -592,7 +592,7 @@ ga('send', 'pageview');
 </div>
 <div style="padding-left: 10px; ">
   <br>
-  <text id="revisionText">INTO ORBIT Scorer Revision</text> 2.1 - 22/08/2018
+  <text id="revisionText">INTO ORBIT Scorer Revision</text> 2.2 - 29/08/2018
   <!-- Scorer v3.3.3 --> 
 <br>
 <br><text id="copyrightText">Copyright (c) 2018 Seshan Brothers</text><br>
@@ -600,83 +600,83 @@ ga('send', 'pageview');
 <text id="translatorCredit"></text>
 </div>
 <script>
-if (language =='he') {
-  document.write('<style>td {text-align: right;}</style>')
-}
-
-
-function initpage() {
-  document.getElementById('title').innerHTML = title
-  document.getElementById('resetTxt').value = resetText
-  document.getElementById('pointsTxt').innerHTML = pointsText
-
-
-  document.getElementById('saveText').innerHTML = savescoreText
-  document.getElementById('loadText').innerHTML = loadsaveText
-  document.getElementById('deleteText').innerHTML = deletesaveText
-  document.getElementById('importText').innerHTML = importsaveText
-  document.getElementById('exportText').innerHTML = exportsaveText
-
-  document.getElementById('saveGoogleBtn').innerHTML = savescoreText
-  document.getElementById('loadTextGoogle').innerHTML = loadsaveText
-
-
-  document.getElementById('startText').innerHTML = startText
-  document.getElementById('stopText').innerHTML = stopText
-  document.getElementById('resetText').innerHTML = resetText
-
-  document.getElementById('startSW').innerHTML = startText
-  document.getElementById('stopSW').innerHTML = stopText
-  document.getElementById('resetSW').innerHTML = resetText
-
-  document.getElementById('scorerTitle').innerHTML = scorerText
-  document.getElementById('timersTitle').innerHTML = timersText
-  document.getElementById('savesTitle').innerHTML = savesText
-
-  document.getElementById('signin-Google').innerHTML = signin
-  document.getElementById('signout-Google').innerHTML = signout
-  document.getElementById('GoogleCreate').innerHTML = GoogleCreate
-  document.getElementById('GoogleOpen').innerHTML = GoogleOpen
-  document.getElementById('googleText').innerHTML = googleSaveText
-  document.getElementById('localText').innerHTML = localSaveText
-
-  document.getElementById('isIE').innerHTML = isIE
-  document.getElementById('googleIntro').innerHTML = googleIntro
-  document.getElementById('pastSaves').innerHTML = pastSaves
-  document.getElementById('instructions').innerHTML = instructions
-  document.getElementById('instructionsA').innerHTML = instructionsA
-  document.getElementById('instructionsB').innerHTML = instructionsB
-  document.getElementById('instructionsC').innerHTML = instructionsC
-  document.getElementById('instructionsD').innerHTML = instructionsD
-  document.getElementById('instructionsE').innerHTML = instructionsE
-  document.getElementById('instructionsF').innerHTML = instructionsF
+    if (language =='he') {
+	document.write('<style>td {text-align: right;}</style>')
+    }
+  
+  
+  function initpage() {
+      document.getElementById('title').innerHTML = title
+      document.getElementById('resetTxt').value = resetText
+      document.getElementById('pointsTxt').innerHTML = pointsText
+      
+      
+      document.getElementById('saveText').innerHTML = savescoreText
+      document.getElementById('loadText').innerHTML = loadsaveText
+      document.getElementById('deleteText').innerHTML = deletesaveText
+      document.getElementById('importText').innerHTML = importsaveText
+      document.getElementById('exportText').innerHTML = exportsaveText
+      
+      document.getElementById('saveGoogleBtn').innerHTML = savescoreText
+      document.getElementById('loadTextGoogle').innerHTML = loadsaveText
+      
+      
+      document.getElementById('startText').innerHTML = startText
+      document.getElementById('stopText').innerHTML = stopText
+      document.getElementById('resetText').innerHTML = resetText
+      
+      document.getElementById('startSW').innerHTML = startText
+      document.getElementById('stopSW').innerHTML = stopText
+      document.getElementById('resetSW').innerHTML = resetText
+      
+      document.getElementById('scorerTitle').innerHTML = scorerText
+      document.getElementById('timersTitle').innerHTML = timersText
+      document.getElementById('savesTitle').innerHTML = savesText
+      
+      document.getElementById('signin-Google').innerHTML = signin
+      document.getElementById('signout-Google').innerHTML = signout
+      document.getElementById('GoogleCreate').innerHTML = GoogleCreate
+      document.getElementById('GoogleOpen').innerHTML = GoogleOpen
+      document.getElementById('googleText').innerHTML = googleSaveText
+      document.getElementById('localText').innerHTML = localSaveText
+      
+      document.getElementById('isIE').innerHTML = isIE
+      document.getElementById('googleIntro').innerHTML = googleIntro
+      document.getElementById('pastSaves').innerHTML = pastSaves
+      document.getElementById('instructions').innerHTML = instructions
+      document.getElementById('instructionsA').innerHTML = instructionsA
+      document.getElementById('instructionsB').innerHTML = instructionsB
+      document.getElementById('instructionsC').innerHTML = instructionsC
+      document.getElementById('instructionsD').innerHTML = instructionsD
+    document.getElementById('instructionsE').innerHTML = instructionsE
+    document.getElementById('instructionsF').innerHTML = instructionsF
     document.getElementById('instructionsG').innerHTML = instructionsG
-
-  document.getElementById('teamText').innerHTML = teamText
+    
+    document.getElementById('teamText').innerHTML = teamText
     document.getElementById('roundText').innerHTML = roundText
-
-document.getElementById('timerText').innerHTML = timerText
-document.getElementById('stopwatchText').innerHTML = stopwatchText
-
+    
+    document.getElementById('timerText').innerHTML = timerText
+    document.getElementById('stopwatchText').innerHTML = stopwatchText
+    
     document.getElementById('revisionText').innerHTML = revisionText
     document.getElementById('copyrightText').innerHTML = copyrightText
-
-        document.getElementById('systemText').innerHTML = systemText
-
-            document.getElementById('idText').innerHTML = idText
-
     
-  document.getElementById('translatorCredit').innerHTML = translatorCredit
-
+    document.getElementById('systemText').innerHTML = systemText
+    
+    document.getElementById('idText').innerHTML = idText
+    
+    
+    document.getElementById('translatorCredit').innerHTML = translatorCredit
+    
     if ((navigator.userAgent.indexOf("MSIE") != -1 ) || (!!document.documentMode == true )) {
 	document.getElementById('notIE').style.display = 'none'
     } else {
 	document.getElementById('isIE').style.display = 'none'
     }
-
     
-}
-initpage();
+    
+  }
+  initpage();
 
 </script>
 </div>

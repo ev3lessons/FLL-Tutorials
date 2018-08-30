@@ -1,4 +1,7 @@
-// Google Saving System 1.0
+// Google Saving System 1.1.0
+// WARNING: This is not standalone and requires saver.js (Legacy Saving System) currently. It calculates the getvar() function. 
+//          loadsave() is also used from saver.js. They will (hopefullly) be ported to this saver eventually.
+//          Currently not compatible with IE or iOS/Android WebView --> Use Legacy Version.
 
 // Client ID and API key from the Developer Console
 var CLIENT_ID = "770638819380-bs28pclo8lguc58e01oju4ei1r88i320.apps.googleusercontent.com";
@@ -15,6 +18,37 @@ var authorizeButton = document.getElementById('authorize_button');
 var signoutButton = document.getElementById('signout_button');
 var values = []
 var newArr = []
+
+
+// Save Date Time and Score to var datetime; (Copy of saver.js/saveDateTimeScore() with legacy saver features removed)
+function saveDateTimeScoreGoogle() {
+
+    var currentTime = new Date()
+    var month = currentTime.getMonth() + 1
+    var day = currentTime.getDate()
+    var year = currentTime.getFullYear()
+    
+    var currentdate = month + "/" + day + "/" + year;
+    
+    
+    var hours = currentTime.getHours()
+    var minutes = currentTime.getMinutes()
+    
+    score = document.getElementById('allpoints').innerHTML;
+    
+    if (minutes < 10){
+      minutes = "0" + minutes
+    }
+    ampm = ''
+    var timex = hours + ":" + minutes + " ";
+
+    var currenttime = timex + '' + ampm;
+
+
+    datetime = currentdate + ' ' + currenttime;
+    
+}
+
 
 
 /*
@@ -208,7 +242,7 @@ async function googleSaver() {
   store2d[0].forEach(function(part, index, theArray) {
     store2d[0][index] = missionDict[part];
   });
-  saveDateTimeScore();
+  saveDateTimeScoreGoogle();
 
   store2d[0].unshift(teamText+" #")
   store2d[1].unshift(document.getElementById('team_num').value)
@@ -235,6 +269,9 @@ async function googleSaver() {
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
+
+
+// Equivalent of displaySaves() function for the legacy version. It displays the save history to the screen
 
 function displayGoogleSaves() {
   var range = 'Sheet1!A2:AJ'

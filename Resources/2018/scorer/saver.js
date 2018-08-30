@@ -3,6 +3,8 @@
 // JS code to save and load saves to/from localStorage or a variable
 // Legacy opt-in code --> replaced with the Google Sheets API
 
+// Kept for compatibility with IE and iOS and Android webView
+
 //Init vars
 n = 0;
 
@@ -144,14 +146,18 @@ function displaysaves() {
 
 }
 
+
+
+
+
 // Save Date Time and Score to localStorage
 function saveDateTimeScore() {
   var currentTime = new Date()
   var month = currentTime.getMonth() + 1
   var day = currentTime.getDate()
   var year = currentTime.getFullYear()
-//  var currentdate = ": " + day + " " + monthNames[month] + " " + year;
-  var currentdate = month + "/" + day + "/" + year;
+  var currentdate = ": " + day + " " + monthNames[month] + " " + year;
+//  var currentdate = month + "/" + day + "/" + year;
 
 
   var hours = currentTime.getHours()
@@ -180,8 +186,8 @@ function saveDateTimeScore() {
 
   var currenttime = timex + '' + ampm;
   //   var currenttime = timex;
-  //  datetime = currenttime + ' ' + currentdate;
-  datetime = currentdate + ' ' + currenttime;
+    datetime = currenttime + ' ' + currentdate;
+  // datetime = currentdate + ' ' + currenttime;
 }
 
 

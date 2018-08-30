@@ -1,5 +1,5 @@
 
-
+// Default Language (English/en)
 
 yes = "Yes"
 no = "No"
@@ -386,27 +386,133 @@ if (language == "pt" || language == "pt-br") {
     translatorCredit = "Übersetzung von Tim@Cassapeia"
 
 } else if (language == "nl") {
-
+    
     yes = "Ja"
     no = "Nee"
-    pointsText = "Punten"
-    resetText = "Resetten"
     partly = "Gedeeltelijk"
     completely = "Volledig"
-
-    var monthNames = ["", "Januari", "Februari", "Maart", "April", "Mei", "Juni", "Juli", "Augustus", "September", "Oktober", "November" , "December"];
-    improvementText = "verbetering"
+    resetText = "Reset"
     saveText = "Opslaan"
-    savescoreText = "Score opslaan"
-    loadsaveText = "Load Save"
-    deletesaveText = "Delete Save"
-    importsaveText = "Import Save"
-    exportsaveText = "Export Save"
+    savescoreText="Sla score op"
+    loadsaveText="Laad score:"
+    deletesaveText="Verwijder scores"
+    importsaveText="Importeer scores"
+    exportsaveText="Exporteer scores"
+    signin = "Aanmelden met"
+    signout = "Uitloggen"
+    GoogleCreate = "Nieuwe spreadsheet maken"
+    GoogleOpen = "Google spreadsheet openen"
+    created = "Gemaakt"
+    savedto = "Opgeslagen in"
+    teamText = "Team"
+    roundText = "Ronde"
+    dateText = "Datum/tijd"
+    totalText = "Totaal aantal punten"
+    savedText = "Opgeslagen"
+    loadedText = "Geladen"
+    googleSaveText = "Google Sheets (standaard)"
+    localSaveText = "Lokale browseropslag (oud)"
+    isIE = "Google-opslagsysteem is niet compatibel met Microsoft Internet Explorer. Je kunt naar een andere browser overschakelen of doorgaan met het oude opslagsysteem (klik hierboven)"
+    systemText = "Opslagsysteem: "
+
+    googleIntro = "Je kunt je scores bewaren in een Google spreadsheet. Dit helpt je om de voortgang gedurende het seizoen bij te houden. Zie instructies onderaan de pagina."
+    pastSaves = "Opgeslagen scores"
+    instructions = "Instructies"
+    instructionsA = " De belangrijkste stappen om het opslagsysteem te gebruiken zijn:"
+    instructionsB = '1. Meld je aan met je Google account. Je kunt de waarschuwing "Deze app is niet geverifieerd" krijgen. Indien dit het geval is, klik op "Geavanceerd" en vervolgens op "Ga naar FLL Scorer(onveilig)"'
+    instructionsC = '2. Indien je nog geen spreadsheet hebt gemaakt – klik op "Nieuwe spreadsheet maken"'
+    instructionsD = '3. Indien je al een spreadsheet hebt gemaakt, moet je ervoor zorgen dat je het Google Sheet ID hebt ingevoerd (niet "undefined"). Indien je de spreadsheet op meerdere apparaten wilt gebruiken, moet je dit ID handmatig invoeren.'
+    instructionsE = '4. Elke keer als je een score wilt opslaan, klik je op "Sla score op " - dit zal de spreadsheet bijwerken met de huidige score en datum '
+    instructionsF = '5. Indien je je spreadsheet wilt bekijken en bewerken, klik je op "Google Spreadsheet openen". Indien je het Google-spreadsheet-ID nodig hebt, vind je deze in de URL van de geopende spreadsheet.'
+    instructionsG = '6. Je kunt ook een specifieke oude score ophalen in de scorer door het opslagnummer in te voeren met de "+" en "-" knoppen en dan te klikken op de "Laad score:" knop '
+
+
+    var monthNames = ["","januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "october", "november", "december"];
+    improvementText = "Verbetering"
     scorerText = "Scorer"
     timersText = "Timers"
-    savesText = "Saves"
+    savesText = "Opgeslagen scores"
     startText = "Start"
     stopText = "Stop"
+    pointsText = "Punten"
+
+    timerText = "Timer:"
+    stopwatchText = "Stopwatch:"
+
+    revisionText = "INTO ORBIT Scorer Revision "
+    copyrightText = "Copyright (c) 2018-19 Seshan Brothers"
+
+    idText = "Google Sheet ID: "
+    undefinedText = "undefined"
+
+    title = "INTO ORBIT Scorer"
+
+    M01="Ruimtereis"
+    M01a="Is het voertuigtransport voorbij de eerste spoorverbinding gerold? "
+    M01b="Is het voorraadtransport voorbij de eerste spoorverbinding gerold?  "
+    M01c="Is het bemanningstransport voorbij de eerste spoorverbinding gerold? "
+
+    M02="Zonnepaneel wijzer"
+    M02a="Staan beide zonnepanelen richting hetzelfde veld? "
+    M02b="Staat jullie zonnepaneel gericht naar het andere veld? "
+
+
+    M03="3D printen"
+    M03a="Is de 2x4 steen uitgeworpen en volledig in het noordoostelijke planetengebied?"
+    M03b="IIs de 2x4 steen uitgeworpen en niet volledig in het noordoostelijke planetengebied?"
+
+    M04="Krater oversteek"
+    M04a="Hebben alle gewicht dragende toepassingen van de overstekende uitrusting de krater van oost naar west overgestoken, en volledig voorbij de afgevlakte poort?"
+
+    M05="Extractie"
+    M05a="Raken alle vier de kernmonsters de as die hen vasthoud in het kerngebied model niet meer aan?"
+    M05b="Raakt het gas kernmonster de mat en is het volledig in de landingsdoelcirkel?"
+    M05c="Is het gas kernmonster volledig in de basis?"
+    M05d="Is het water kernmonster geplaatst zodat het alleen wordt ondersteund door de voedsel groeikamer?"
+
+    M06="Ruimtestation modules"
+    M06a="Is de kegelmodule  <b>volledig</b> in de basis?"
+    M06b="Is de buismodule geplaatst in de westzijde van de leefgebied hub?"
+    M06c="Is de dockmodule verplaatst/geplaatst in de oostzijde van de leefgebied hub?"
+
+    M07="Ruimtewandeling noodgeval"
+    M07a="Is Gerhard <b>gedeeltelijk </b> of <b>volledig</b> geplaatst in de luchtsluiskamer van de leefgebied hub?"
+
+    M08="Aerobic oefening"
+    M08a="IIs de wijzerpunt volledig in oranje, of bedekt deze gedeeltelijk een van de oranje grenslijnen?"
+    M08b="Is de wijzerpunt volledig in wit?"
+    M08c="Is de wijzerpunt volledig in grijs, of bedekt deze gedeeltelijk een van de grijze grenslijnen?"
+
+    M09="Krachtoefening"
+    M09a="Is de krachtstaaf opgetild zodat het 4e gaatje van de tandstrip tenminste gedeeltelijk zichtbaar is?"
+
+    M10="Voedselproductie"
+    M10a="Zijn de kleuren van de voedsel groeikamer gedraaid zodat het grijze gewicht achter groen is GEVALLEN, maar vóór beige, door de duwstaaf te bewegen?"
+
+    M11="Ontsnappingssnelheid"
+    M11a="Is het ruimtevaartuig zo snel en hoog gegaan zodat het omhoog blijft, door te drukken/slaan op het stootkussen?"
+
+    M12="Satellietbanen"
+    M12a="Voor iedere satelliet, is een willekeurig deel van de satelliet op of boven het gebied tussen de twee lijnen van de buitenste baan?"
+
+    M13="Observatorium"
+    M13a="Is de wijzerpunt volledig in oranje, of bedekt deze gedeeltelijk een van de oranje grenslijnen?"
+    M13b="Is de wijzerpunt volledig in wit?"
+    M13c="Is de wijzerpunt volledig in grijs, of bedekt deze gedeeltelijk een van de grijze grenslijnen?"
+
+    M14="Meteorietafbuiging"
+    M14a="Hoeveel meteorieten bevinden zich in het middelste gedeelte?"
+    M14b="Hoeveel meteorieten bevinden zich in de zijdelen?"
+
+    M15="Landingsmodule"
+    M15a="De landingsmodule is intact, raakt de mat en is <b>volledig</b> in de doelcirkel?"
+    M15b="De landingsmodule is intact, raakt de mat en is <b>volledig</b> in het noordoostelijke planetengebied.?"
+    M15c="Zijn beide delen van de landingsmodule <b>volledig</b> in de basis?"
+
+    P01="Strafpunten"
+    P01a="Hoeveel keer is de robot onderbroken?"
+
+    translatorCredit = ""
 
 } else if (language == "es") {
     yes = "Sí"
