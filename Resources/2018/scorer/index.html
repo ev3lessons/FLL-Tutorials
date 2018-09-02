@@ -63,10 +63,10 @@
         display: block !important;
       }
 
-      body{width:100%;
+      body{width:800px;
         height:100%;
-        -webkit-transform: rotate(-90deg) scale(0.65,0.65);
-        -moz-transform: rotate(-90deg) scale(.58,.58) }
+//        -webkit-transform: rotate(0deg) scale(0.65,0.65);
+//        -moz-transform: rotate(0deg) scale(.58,.58) }
 
       }
 
@@ -139,7 +139,7 @@
     <body >
 
       <br>
-      <table style="padding-left: 10px; " class="no-mobile">
+      <table style="padding-left: 10px; " class="no-mobile no-print">
         <tr>
           <td>
             <div style="max-width: 100px">
@@ -278,7 +278,7 @@
           <div style="padding-left: 10px; " id="tabs-3">
 
             <div style="max-width: 600px">
-              <div class="no-mobile">
+              <div class="no-mobile no-print">
                 <text id="systemText">Saving System:</text> <select style="" data-role="none" data-hide-during-focus="false" data-tap-toggle="false" onchange="document.getElementById('google').style.display = 'none'; document.getElementById('legacy').style.display = 'none'; document.getElementById(this.value).style.display = 'inline';">
                   <option id="googleText" value="google">Google Sheets (Default)</option>
                   <option id="localText" value="legacy">Local Browser Storage (Legacy)</option>
@@ -519,8 +519,13 @@
 
         </div>
       </div>
-    </div>
-    <div data-hide-during-focus="" data-tap-toggle="false" data-role="footer" style=" font-size: 120%; background-color:indigo; color: white;" data-theme="a" data-position="fixed">
+</div>
+
+<div class="only-print" style="width:100%; background-color:indigo; color: white; text-align: center;">
+  <i id="pointsTxt2">Points</i><i> </i><i id="allpoints2"> 0</i>
+</div>
+
+<div class="no-print" data-hide-during-focus="" data-tap-toggle="false" data-role="footer" style=" font-size: 120%; background-color:indigo; color: white;" data-theme="a" data-position="fixed">
       <h1 style="padding-top:0; padding-bottom:0" ><i id="pointsTxt">Points</i><i>: </i><i id="allpoints"> 0</i> &emsp; &emsp; &emsp; <input id="resetTxt" type="button" value="Reset" class="ui-mini no-print" onclick='document.getElementById("missions").reset();loadsave(blanksave);'></h1>
     </div>
 
@@ -574,7 +579,7 @@ ga('send', 'pageview');
   <script>
   countrycode = language.split('-')[0]
 
-    document.write('<a target="_blank"\
+    document.write('<a target="_blank" class="no-print"\
     href="https://itunes.apple.com/app/fll-into-orbit-scorer/id1415402611?ls=1&mt=8">\
     <img height="68" style="padding: 15px" \
     src="app-store/'+language+'.svg"></a><br>')
@@ -583,17 +588,17 @@ ga('send', 'pageview');
   if (language == 'he') {
     countrycode = "iw"
   }
-  document.write('<a target="_blank"\
+  document.write('<a target="_blank" class="no-print"\
   href="https://play.google.com/store/apps/details?id=com.ev3lessons.fllintoorbitscorer&hl='+countrycode+'">\
   <img height="100" \
   src="google-play/'+countrycode+'_get.svg"></a>')
 
 </script>
 </div>
-<div style="padding-left: 10px; ">
+<div style="padding-left: 10px; " class="no-print">
   <br>
-  <text id="revisionText">INTO ORBIT Scorer Revision</text> 2.2 - 29/08/2018
-  <!-- Scorer v3.3.3 --> 
+  <text id="revisionText">INTO ORBIT Scorer Revision</text> 2.3 - 02/09/2018
+  <!-- Scorer v3.3.4 --> 
 <br>
 <br><text id="copyrightText">Copyright (c) 2018 Seshan Brothers</text><br>
 <br>
@@ -609,6 +614,7 @@ ga('send', 'pageview');
       document.getElementById('title').innerHTML = title
       document.getElementById('resetTxt').value = resetText
       document.getElementById('pointsTxt').innerHTML = pointsText
+      document.getElementById('pointsTxt2').innerHTML = pointsText + ": "
       
       
       document.getElementById('saveText').innerHTML = savescoreText
