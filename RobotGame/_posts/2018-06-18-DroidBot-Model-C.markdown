@@ -23,5 +23,5 @@ Design by Seshan Brothers.
 
 Design Files:
  <a href="https://studio.bricklink.com/v2/build/model.page?idModel=43433">Online Build Instructions</a>,
-<a href="/translations/en-us/RobotGame/DroidBotModelCBuildInstructions.pdf">Base Robot Design PDF</a>,
+<a href="/translations/en-us/RobotGame/DroidBotModelCBuildInstructions1.01.pdf">Base Robot Design PDF</a>,
 <a href="/translations/en-us/RobotGame/DroidBotModelCAttachment.pdf">Generic Attachment Design PDF</a>
