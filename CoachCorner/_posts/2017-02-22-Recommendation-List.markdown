@@ -43,7 +43,7 @@ Also look at the built-in lessons in the EV3 Programming Software you installed 
 <a href="http://info.firstinspires.org/fllfirststepsrequest">FIRST Steps Lesson Plan for the season</a> <br>
 <a href="http://flltutorials.com/CoreValues.html">Core Value Activities</a><br>
 <a href="http://flltutorials.com/CoachCorner.html">Coach's Corner</a>: Tips from teams around the world<br>
-<a href="http://ev3lessons.com/lessons.html?lang=en-us&q=FLL">EV3Lessons Research Project Lessons</a>: New for 2017. Lessons on various aspects of the Research Project.
+<a href="http://flltutorials.com">FLLTutorials.com</a>: New for 2018. Lessons on Robot, Project and Core Values.
 
 ### Robotics Resources for Scouts
 <a href="http://www.scouting.org/filestore/Merit_Badge_ReqandRes/Robotics.pdf">Robotics Merit Badge Requirements</a><br>
