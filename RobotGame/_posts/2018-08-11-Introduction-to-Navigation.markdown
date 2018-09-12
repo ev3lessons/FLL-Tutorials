@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction to Navigation"
+title: "1: Introduction to Navigation"
 image: "assets/images/RobotGame/Navigation.png"
 searchterms: "lesson"
 lang: "en"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finding Lines on the Mat"
+title: "3: Finding Lines on the Mat"
 image: "assets/images/RobotGame/Navigation.png"
 searchterms: "lesson"
 lang: "en"

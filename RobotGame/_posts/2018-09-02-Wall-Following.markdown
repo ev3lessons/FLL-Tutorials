@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wall Following"
+title: "5: Wall Following"
 image: "assets/images/RobotGame/Navigation.png"
 searchterms: "lesson"
 lang: "en"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aligning on Lines"
+title: "4: Aligning on Lines"
 image: "assets/images/RobotGame/Navigation.png"
 searchterms: "lesson"
 lang: "en"
