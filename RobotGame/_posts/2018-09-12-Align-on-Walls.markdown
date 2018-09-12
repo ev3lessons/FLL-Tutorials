@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6: Align on Walls"
+title: "6: Align on Walls and Mission Models"
 image: "assets/images/RobotGame/Navigation.png"
 searchterms: "lesson"
 lang: "en"
