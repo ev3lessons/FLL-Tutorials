@@ -17,34 +17,33 @@ There are also other alternative lists that might be helpful: <a href="http://ww
 We will update this guide as we find and review resources.
 
 ### FIRST LEGO League Challenge Materials
-<a href="http://www.firstlegoleague.org/challenge#block-block-19">Hydro Dynamics Challenge</a>: Build Instructions, Setup Instructions, Challenge Guide, and Updates<br>
+<a href="http://www.firstlegoleague.org/challenge#block-block-19">INTO ORBIT Challenge</a>: Build Instructions, Setup Instructions, Challenge Guide, and Updates<br>
 <a href="https://fllblog.wordpress.com">FIRST LEGO League Blog</a><br>
-<a href="http://www.firstlegoleague.org/sites/default/files/hydro-dynamics/first-lego-league-rubrics.pdf">FIRST LEGO League Rubrics</a><br>
+<a href="http://www.firstlegoleague.org/sites/default/files/into-orbit/first-lego-league-rubrics.pdf">INTO ORBIT FIRST LEGO League Rubrics</a><br>
 
 ### Free Curriculum by LEGO Education
 <a href="https://education.lego.com/en-us/downloads/mindstorms-ev3">LEGO Education</a>: Various curriculum resources created by LEGO Education<br>
 Also look at the built-in lessons in the EV3 Programming Software you installed on your computer.
 
-### Free Introductory Curriculum
+### Free Curriculum
 <a href="http://www.education.rec.ri.cmu.edu/content/lego/ev3/">CMU Robotics Academy </a>: Complete introductory curriculum for the EV3<br>
 <a href="http://www.stemcentric.com/ev3-tutorial">STEMCentric</a>: Mostly introductory-level with a few intermediate-level topics.<br>
 <a href="http://www.wafflesrobotics.com/fll/fll-resources/">WAFFLES Community Robotics</a>: Comprehensive block by block introduction to programming by a FIRST team in Canada. <br>
 <a href="http://stemrobotics.cs.pdx.edu/node/2643">STEMRobotics</a>: Organized repository for educational materials and curriculum guides for MINDSTORMS instructors by Portland State University.<br>
-<a href="http://www.legoengineering.com">LEGOEngineering</a>: A wide range of resources and support materials specifically for educators organized by Tufts CEEO. <br>
+<a href="www.ev3lessons.com">EV3Lessons.com</a>: A complete curriculum from beginner to advanced created by a FIRST Team and the Champion's Award Winners of World Festival. <br>
 
 
 ### Organization and Planning Resources for FLL Teams
 <a href="http://www.techbrick.com">Techbrick</a>: Has worksheets, images and blank templates for use by teams. Resources are updated every season. Information from previous seasons are archived so if you need access to materials from older challenges, you can find them here.<br>
-<a href="http://ev3lessons.com/lessons.html?lang=en-us&q=FLL">EV3Lessons Useful Worksheets & Guides</a>: Planning worksheets, Quick Guides, Engineering Notebook Sample, Core Values Posters<br>
-<a href="http://ev3lessons.com/resources.html">EV3Lessons Tools & Resources</a>: Calculators and tools for teams. The site hosts several online/interactive tools such as a Sketcher for teams to map out missions. Resources are updated every season.<br>
+<a href="http://flltutorials.com/RobotGame.html">Strategy and Pseudocode Worksheets</a><br>
+<a href="http://flltutorials.com/Resources/2018/scorer/index.html">FLLTutorials Scorer</a>
 
 
 ### FIRST LEGO League Curriculum and Tips
 <a href="http://info.firstinspires.org/fllfirststepsrequest">FIRST Steps Lesson Plan for the season</a> <br>
-<a href="http://ev3lessons.com/corevalues.html">Team Building Activities</a><br>
-<a href="http://ev3lessons.com/coachcorner.html">Coach's Corner</a>: Tips from teams around the world<br>
-<a href="http://ev3lessons.com/resources.html">Current Season Planning Tools </a>: Includes Interactive Sketch Planner, Scorer and Wheel Converter<br>
-<a href="http://ev3lessons.com/lessons.html?lang=en-us&q=FLL">EV3Lessons Research Project Lessons</a>: New for 2017. Lessons on various aspects of the Research Project.
+<a href="http://flltutorials.com/CoreValues.html">Core Value Activities</a><br>
+<a href="http://flltutorials.com/CoachCorner.html">Coach's Corner</a>: Tips from teams around the world<br>
+<a href="http://flltutorials.com">FLLTutorials.com</a>: New for 2018. Lessons on Robot, Project and Core Values.
 
 ### Robotics Resources for Scouts
 <a href="http://www.scouting.org/filestore/Merit_Badge_ReqandRes/Robotics.pdf">Robotics Merit Badge Requirements</a><br>
