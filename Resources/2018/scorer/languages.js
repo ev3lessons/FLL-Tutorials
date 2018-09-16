@@ -666,26 +666,132 @@ if (language == "pt" || language == "pt-br") {
 
 
 } else if (language == "hu") {
+
     yes = "Igen"
     no = "Nem"
-    pointsText = "Pontok"
-    resetText = "Nullázás"
-    partly = "Részben"
+    partly = "Részlegesen"
     completely = "Teljesen"
-
-    var monthNames = ["", "január", "február", "március", "április", "május", "júniusi", "július", "augusztus", "szeptember" , "December"];
-    improvementText = "Javítás"
+    resetText = "Törlés"
     saveText = "Mentés"
-    savescoreText = "Pontszám mentése"
-    loadsaveText = "Betöltés mentése"
-    deletesaveText = "Mentés törlése"
-    importaveText = "Mentés importálása"
-    exportálásText = "Mentés exportálása"
-    scorerText = "Gólszerző"
-    timersText = "Időzítők"
-    savesText = "Elmenti"
-    startText = "Start"
-    stopText = "Stop"
+    savescoreText="Pontok mentése"
+    loadsaveText="Mentés betöltése:"
+    deletesaveText="Mentés törlése"
+    importsaveText="Mentés importálása"
+    exportsaveText="Mentés exportálása"
+    signin = "Bejelentkezés: "
+    signout = "Kijelentkezés"
+    GoogleCreate = "Új Google Spreadsheet készítése"
+    GoogleOpen = "Google Spreadsheet megnyitása"
+    created = "Elkészítve"
+    savedto = "Mentve: "
+    teamText = "Csapat"
+    roundText = "Kör"
+    dateText = "Dátum/Idő"
+    totalText = "Össz pontszám"
+    savedText = "Mentve"
+    loadedText = "Betöltve"
+    googleSaveText = "Google Sheets (Alapértelmezett)"
+    localSaveText = "Helyi böngésző tárhelye"
+    isIE = "A Google mentési rendszer nem kompatibilis a Microsoft Internet Explorerrel. Átválthatsz egy másik böngészőre vagy folytathatod a böngésző tárhelyébe mentéssel (kattints fent)"
+    systemText = "Mentés helye"
+
+    googleIntro = "Pontjaidat Google Spreadsheetbe tudod menteni. Ez segít neked figyelemmel kísérni a fejlődésedet az év közben. Az instrukciókat az oldal alján találod."
+    pastSaves = "Előző mentések"
+    instructions = "Instrukciók"
+    instructionsA = "A legfőbb lépések a mentés használatához a következőek:"
+    instructionsB = '1. Lépj be a Google fiókodba. Lehet, hogy kapsz egy "Ez az app nem megbízható" figyelmeztetést. Ebben az esetben nyomj a "Haladó beállítások"-ra majd menj az  "FLL Scorer (nem biztonságos)" elemhez'
+    instructionsC = '2. Ha még nem hoztál létre Google Spreadsheet-et akkor nyomj a "Új Google Spreadsheet létrehozása"-ra'
+    instructionsD = '3. Ha a múltban már létrehoztál egyet, legyél biztos abban, hogy a Google Sheet ID mező ki van töltve és nem "meghatározatlan". Ha meg akarsz osztani Google Spreadsheet-et eszközök között, ezt az ID-t manuálisan kell begépelned.'
+instructionsE = '4. Bármikor, amikor el akarsz menteni pontszámot, nyomj a "Pontok mentése" gombra – ez fríssíti a Google Spreadsheet-et a ponttal és a dátummal ellátva.'
+instructionsF = '5. Ha szeretnéd megnézni, vagy szerkeszteni a Spreadsheet-et, nyomj rá a "Google Spreadsheet megnyitása" gombra. Ha szükséged van a Google Spreadsheet ID-ra, ezt a megnyitott Google Spreadsheet URL-ben találod meg.'
+instructionsG = '6. Vissza tudsz hozni egy előző mentést azzal, ha kiválasztod a mentés számát a "+" és "-" gombokkal, majd a "Mentés betöltése:" gombra kattintasz.'
+
+
+var monthNames = ["","Január", "Február", "Március", "Április", "Május", "Június", "Július", "Augusztus", "Szeptember", "Október", "November", "December"];
+improvementText = "Javítás"
+scorerText = "Pontozó"
+timersText = "Időmérők"
+savesText = "Mentések"
+startText = "Start"
+stopText = "Stop"
+pointsText = "Pontok"
+
+timerText = "Visszaszámláló:"
+stopwatchText = "Stopper:"
+
+revisionText = "INTO ORBIT Scorer verzió"
+copyrightText = "Copyright (c) 2018-19 Seshan Brothers"
+
+idText = "Google Sheet ID: "
+undefinedText = "meghatározatlan"
+
+title = "INTO ORBIT Pontozó"
+
+M01="Űrutazás"
+M01a="Lecsúszott a betöltendő jármű az első útcsatlakozáson túlra?"
+M01b=" Lecsúszott a betöltendő utánpótlás az első útcsatlakozáson túlra?"
+M01c=" Lecsúszott a betöltendő legénység az első útcsatlakozáson túlra?"
+
+M02="Napelem "
+M02a="Mindkét napelem ugyanazon pálya felé néz?"
+M02b="A te napelemed az ellenfél térfele felé néz?"
+
+M03="3D Nyomtatás"
+M03a="A 2x4-es tégla előjött, és teljes terjedelmében az északkeleti bolygóterületen van?"
+M03b="A 2x4-es tégla előjött, de <b>nincs</b> teljes terjedelmében az északkeleti bolygóterületen?"
+
+M04="Kráterek keresztezése"
+M04a="A robot vagy az általa kiküldött eszköz <b>teljes egészében</b> áthaladt a kráter modellen?"
+
+M05="Kitermelés"
+M05a="Elmozdítottad mind a négy magmintát olyan módon, hogy ne érjenek a tengelyhez, amely a mintavételi helyen tartotta őket?"
+M05b="Letetted a gáz magmintát olyan módon, hogy az hozzáér a játékmezőhöz és teljes egészében a leszálló egység célkörében helyezkedik el?"
+M05c="Letetted a gáz magmintát olyan módon, hogy az teljes egészében a bázison helyezkedik el?"
+M05d="Letetted a víz magmintát olyan módon, hogy azt csak az élelmiszer-termesztő kamra tartja?"
+
+M06="Űrállomás modulok"
+M06a="Az orr modul <b>teljesen</b> a bázisban van?"
+M06b="Behelyezte az henger modult teljes egészében a lakóegység keleti oldalán található dokkolónyílásába?"
+M06c="Behelyezte a dokkoló modult teljes egészében a lakóegység déli oldalán található „kapuba” olyan módon, hogy a bütykök felfelé állnak?"
+
+M07="Űrséta vészhelyzet"
+M07a="Berakta Gerhardtot <b>részlegesen</b> vagy <b>teljesen</b> a lakóegység belsejében lévő kamrába?"
+
+M08="Aerobikgyakorlat"
+M08a="A mutató hegye a narancssárga mezőben van, vagy részben érinti a szélét?"
+M08b="A mutató hegye teljesen a fehér mezőben van?"
+M08c="A mutató hegye teljesen a szürke mezőben vagy, van vagy részben érinti a szélét?"
+
+M09="Erőgyakorlat"
+M09a="Az erőkar fel van legalább annyira emelve, hogy kilátszódjon a 4. lyuk akár teljesen vagy részlegesen?"
+
+M10="Élelmiszer-előállítás"
+M10a="A nyomórúd lenyomásával úgy pörgettétek meg az élelmiszer-termesztő kamra színeit, hogy a szürke súly a zöld után ESETT le de a halványbarna előtt?"
+
+M11="Szökési sebesség"
+M11a="Elértétek az ütési pont lenyomásával/ráütéssel, hogy az űrjármű olyan gyorsan menjen és olyan magasra jusson, hogy fent is maradt?"
+
+M12="Keringő műholdak"
+M12a="Bármely műhold bármely része a külső keringési pálya két vonala közötti területre vagy a vonalak fölé esik?"
+
+M13="Obszervatórium"
+M13a="A mutató hegye a narancssárga mezőben van vagy részben érinti a szélét?"
+M13b="A mutató hegye teljesen a fehér mezőben van?"
+M13c="A mutató hegye teljesen a szürke mezőben vagy van vagy részben érinti a szélét?"
+
+M14="Meteoroit elterelés"
+M14a="Hány meteoroit van a középső szekcióban?"
+M14b="Hány meteoroit van az oldalsó szekciókban?"
+
+M15="Leszállóegység Touch-Down"
+M15a="Érinti a leszállóegység a pályát és <b>teljesen</b> benne van a saját <b>célkörében</b>?"
+M15b="Érinti a leszállóegység a pályát és <b>teljesen</b> benne van a <b>északi bolygó területben</b>?"
+M15c="Mindkét leszállóegység rész <b>teljesen</b> a <b>bázison</b> van?"
+
+P01="Büntetőpontok"
+P01a="Hányszor volt a robot mozgása megszakítva, hány büntető pontot kaptál?"
+
+translatorCredit = "Az appot magyarra fordította: a Tövis&ASAP csapat."
 
 
 
