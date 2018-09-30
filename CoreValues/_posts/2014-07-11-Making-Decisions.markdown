@@ -16,6 +16,6 @@ How do teams make decisions in FIRST LEGO League?
  <li class="ng-binding">Slides:
  <a href="/translations/en-us/CoreValues/MakingDecisions.pptx">PPTX English</a>,
  <a href="/translations/en-us/CoreValues/MakingDecisions.pdf">PDF English</a>
- <a href="/translations/pt/CoreValues/TomandoDecisões.pptx">PPTX Portuguese</a>,
- <a href="/translations/pt/CoreValues/TomandoDecisões.pdf">PDF Portuguese</a>
+ <a href="/translations/pt-br/CoreValues/TomandoDecisoes.pptx">PPTX Portuguese</a>,
+ <a href="/translations/pt-br/CoreValues/TomandoDecisoes.pdf">PDF Portuguese</a>
  </li>

@@ -16,8 +16,7 @@ What is "doing outreach" in FIRST LEGO League?
  <li class="ng-binding">Slides:
  <a href="/translations/en-us/CoreValues/Outreach.pptx">PPTX English</a>,
  <a href="/translations/en-us/CoreValues/Outreach.pdf">PDF English</a>
- <a href="/translations/pt/CoreValues/Divulgação.pptx">PPTX Portuguese</a>,
- <a href="/translations/pt/CoreValues/Divulgação.pdf">PDF Portuguese</a>
- 
- Divulgação
+ <a href="/translations/pt-br/CoreValues/Divulgacao.pptx">PPTX Portuguese</a>,
+ <a href="/translations/pt-br/CoreValues/Divulgacao.pdf">PDF Portuguese</a>
+
  </li>
