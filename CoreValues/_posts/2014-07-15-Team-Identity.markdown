@@ -14,6 +14,8 @@ excerpt_separator: <!--more-->
  <!--more-->
 
  <li class="ng-binding">Slides:
- <a href="/translations/en-us/CoreValues/TeamIdentity.pptx">PPTX</a>,
- <a href="/translations/en-us/CoreValues/TeamIdentity.pdf">PDF</a>
+ <a href="/translations/en-us/CoreValues/TeamIdentity.pptx">PPTX English</a>,
+ <a href="/translations/en-us/CoreValues/TeamIdentity.pdf">PDF English</a>
+ <a href="/translations/pt/CoreValues/Identidade da Equipe.pptx">PPTX Portuguese</a>,
+ <a href="/translations/pt/CoreValues/Identidade da Equipe.pdf">PDF Portuguese</a>
  </li>
