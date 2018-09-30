@@ -13,5 +13,5 @@ featured: false
 Slides:
  <a href="/translations/en-us/Project/GlobalInnovationAward.pptx">PPTX</a>,
  <a href="/translations/en-us/Project/GlobalInnovationAward.pdf">PDF</a>, 
- <a href="/translations/pt-br/Project/GlobalInovationAward.pptx">PPTX</a>, 
- <a href="/translations/pt-br/Project/GlobalInovationAward.pdf">PDF</a>
+ <a href="/translations/pt-br/Project/GlobalInovationAward.pptx">PPTX (pt)</a>, 
+ <a href="/translations/pt-br/Project/GlobalInovationAward.pdf">PDF (pt)</a>

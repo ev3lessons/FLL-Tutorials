@@ -13,6 +13,6 @@ featured: false
 Slides:
  <a href="/translations/en-us/Project/WhatIsResearch.pptx">PPTX</a>,
  <a href="/translations/en-us/Project/WhatIsResearch.pdf">PDF</a>,
- <a href="/translations/pt-br/Project/OQueEPesquisa.pptx">PPTX Portuguese</a>,
- <a href="/translations/pt-br/Project/OQueEPesquisa.pdf">PDF Portuguese</a>,
+ <a href="/translations/pt-br/Project/OQueEPesquisa.pptx">PPTX (pt)</a>,
+ <a href="/translations/pt-br/Project/OQueEPesquisa.pdf">PDF (pt)</a>
  

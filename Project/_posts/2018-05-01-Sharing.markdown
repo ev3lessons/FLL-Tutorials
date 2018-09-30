@@ -13,5 +13,5 @@ featured: false
 Slides:
  <a href="/translations/en-us/Project/Sharing.pptx">PPTX</a>,
  <a href="/translations/en-us/Project/Sharing.pdf">PDF</a>, 
- <a href="/translations/pt-br/Project/Compartilhamento.pptx">PPTX Portuguese</a>,
- <a href="/translations/pt-br/Project/Compartilhamento.pdf">PDF Portuguese</a>
+ <a href="/translations/pt-br/Project/Compartilhamento.pptx">PPTX (pt)</a>,
+ <a href="/translations/pt-br/Project/Compartilhamento.pdf">PDF (pt)</a>
