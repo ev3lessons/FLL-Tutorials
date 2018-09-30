@@ -12,4 +12,6 @@ featured: false
 
 Slides:
  <a href="/translations/en-us/Project/Presentation.pptx">PPTX</a>,
- <a href="/translations/en-us/Project/Presentation.pdf">PDF</a>
+ <a href="/translations/en-us/Project/Presentation.pdf">PDF</a>,
+ <a href="/translations/pt-br/Project/Apresentacao.pptx">PPTX</a>,
+ <a href="/translations/pt-br/Project/Apresentacao.pdf">PDF</a>,
