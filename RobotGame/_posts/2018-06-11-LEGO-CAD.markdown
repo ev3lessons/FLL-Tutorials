@@ -13,5 +13,9 @@ excerpt_separator: <!--more-->
 
 
 
-Slides: <a href="/translations/en-us/RobotGame/LEGOCAD.pptx">PPTX</a>, <a href="/translations/en-us/RobotGame/LEGOCAD.pdf">PDF </a>
+Slides: 
+<a href="/translations/en-us/RobotGame/LEGOCAD.pptx">PPTX</a>, 
+<a href="/translations/en-us/RobotGame/LEGOCAD.pdf">PDF </a>
+<a href="/translations/pt-br/RobotGame/LEGOCAD.pptx">PPTX (pt)</a>, 
+<a href="/translations/pt-br/RobotGame/LEGOCAD.pdf">PDF (pt)</a>
 <!--more-->

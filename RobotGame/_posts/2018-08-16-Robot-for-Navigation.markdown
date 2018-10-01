@@ -12,4 +12,8 @@ featured: false
 
 
 
-Slides: <a href="/translations/en-us/RobotGame/RobotforNavigation.pptx">PPTX</a>, <a href="/translations/en-us/RobotGame/RobotforNavigation.pdf">PDF </a>
+Slides: 
+<a href="/translations/en-us/RobotGame/RobotforNavigation.pptx">PPTX</a>, 
+<a href="/translations/en-us/RobotGame/RobotforNavigation.pdf">PDF </a>,
+<a href="/translations/pt-br/RobotGame/NavegacaodoRobo.pptx">PPTX (pt)</a>, 
+<a href="/translations/pt-br/RobotGame/NavegacaodoRobo.pdf">PDF (pt)</a>,
