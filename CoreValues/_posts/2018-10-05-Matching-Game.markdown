@@ -22,7 +22,7 @@ Core Values Activity:  Learning the new core values
 - Core Values and Definitions
 
 <b>Setup:</b>
-- Print out and cut up
+- Print out and cut up these <a href=" http://www.flltutorials.com/assets/images/CoreValues/CoreValuesMatchingGame.pdf">tiles</a>
 - Mix them up and leave them face down on a table in a grid pattern
 
 
