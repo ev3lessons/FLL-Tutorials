@@ -19,8 +19,9 @@ We assigned a team leader and gave them a task to do (i.e. decide on a project t
 
 **Critical Friends Protocol**
 
-Think about using more of a process like Critical Friends Protocol:  It takes some of the bad things about typical group brainstorming out of the picture and makes it more collaborative. I too coach homeschoolers; I have just started using this, and I like how it helps evens out the different types of personalities. It uses timers, gives individuals voice, requires listening, requires asking questions that aren't as likely to hurt people's feelings.
-<a href="https://depts.washington.edu/ccph/pdf_files/CriticalFriends.pdf">Critical Friends</a>  - Linda Frye Stewart 
+Think about using more of a process like Critical Friends Protocol:  It takes some of the bad things about typical group brainstorming out of the picture and makes it more collaborative. I too coach homeschoolers; I have just started using this, and I like how it helps evens out the different types of personalities. It uses timers, gives individuals voice, requires listening, requires asking questions that aren't as likely to hurt people's feelings. -  - Linda Frye Stewart 
+
+<a href="https://depts.washington.edu/ccph/pdf_files/CriticalFriends.pdf">Critical Friends</a> 
 
 **Yes, if:**
 
@@ -37,7 +38,7 @@ Identify and set rules (to support core values) for the team and post them every
 
 There is a suggestion for this in the coach's handbook through Schoology. It suggests totem (can't speak unless holding an item) or other method of taking turns. I go further and violators are removed from discussion until there's no one left. That in itself is a very powerful tool for them to see they can't get anything done. Have fun! - Joanne Sterk 
 
-**Response from Jean Findley-Williams:**
+**Emphasize the Positive:**
 
 Have them in a circle. Two rules: First, you may not interrupt the person presenting and you may not say "that idea is bad" (ie immediate rejection of an idea. Each person can present their idea. Seond, every person in the circle *must* begin by saying one thing good about that team member's idea. (Keep track of this on a board). Only after that can they say one thing that "could be improved or thought about more". The criticism must be constructive. This forces them to not cut each other off and have to think of something good about an idea before a criticism. - Asha Seshan
 
@@ -61,17 +62,19 @@ After that, we put on our selection hat and we positively select things we want 
 
 After narrowing, we can put on pros/cons hats where we have to identify specific advantages or disadvantages of an idea. We look for ideas that show the most promise while minimizing downsides.
 
-We do this to avoid "anchoring" which is identifying a favorite idea and dying on that hill. If a kid starts anchoring by wearing the wrong hat, we shut it down by saying that is not the hat we are wearing now. We all have a tendency, kids & coaches, to always have on the editing hat. But the editing hat is destructive to creativity in the beginning. Just as the brainstorming hat is destructive to a finalized script. <a href= "https://lifehacker.com/5578511/boost-your-brainstorming-with-the-six-thinking-hats-method">Thinking Hats</a> - Ben Holt
+We do this to avoid "anchoring" which is identifying a favorite idea and dying on that hill. If a kid starts anchoring by wearing the wrong hat, we shut it down by saying that is not the hat we are wearing now. We all have a tendency, kids & coaches, to always have on the editing hat. But the editing hat is destructive to creativity in the beginning. Just as the brainstorming hat is destructive to a finalized script. - Ben Holt 
+
+<a href= "https://lifehacker.com/5578511/boost-your-brainstorming-with-the-six-thinking-hats-method">Thinking Hats</a> 
 
 **Decision Matrix**
 
-They must learn to do things that they did not propose. If they cannot do someone else's idea, then they must learn to do it. They should learn that often, someone else has the best idea, and they should be doing their best to implement that idea. Also, if the problem is about deciding on what idea to do, always consider using this. Just make sure that an unbiased source is doing the numbers. <a href="https://www.mindtools.com/pages/article/newTED_03.htm">Link</a>  - Matthew So
+They must learn to do things that they did not propose. If they cannot do someone else's idea, then they must learn to do it. They should learn that often, someone else has the best idea, and they should be doing their best to implement that idea. Also, if the problem is about deciding on what idea to do, always consider using this. Just make sure that an unbiased source is doing the numbers. - Matthew So
+
+<a href="https://www.mindtools.com/pages/article/newTED_03.htm">Link</a>  
 
 **Quiet Time**
 
 I did a brainstorming session with a group of adults at work where we all had 10 minutes in silence to write down as many ideas as we could on the topic, then we paired up to talk about our lists, making maps of similar ideas, to create one list for the pair, and then we had 10 min to use the internet to look deeper into ideas and add to that list. Then we mapped that as bigger groups to find commonalities until we finally did one big map. 
 
-As an introvert, I found having quiet time to come up with ideas and a conversation with smaller groups first balanced out the “popularity contest” that can happen in rapid fire vocalized brainstorming where ideas presented by extroverts with strong personalities social power/influence rise to the top, and the ideas of less popular or spectrum kids are downvoted.
-
-- Mary Edwards Johnson
+As an introvert, I found having quiet time to come up with ideas and a conversation with smaller groups first balanced out the “popularity contest” that can happen in rapid fire vocalized brainstorming where ideas presented by extroverts with strong personalities social power/influence rise to the top, and the ideas of less popular or spectrum kids are downvoted. - Mary Edwards Johnson
 
