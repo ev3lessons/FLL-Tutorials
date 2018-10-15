@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
 
 
-Slides: <a href="/translations/en-us/RobotGame/EngineeringJournal.pptx">PPTX</a>, <a href="/translations/en-us/RobotGame/EngineeringJournal.pdf">PDF </a>
+Slides: <a href="/translations/en-us/RobotGame/EngineeringJournal.pptx">PPTX</a>, <a href="/translations/en-us/RobotGame/EngineeringJournal.pdf">PDF </a>, <a href="/translations/pt-br/RobotGame/CadernodeEngenharia.pptx">PPTX (pt)</a>, <a href="/translations/pt-br/RobotGame/CadernodeEngenharia.pdf">PDF (pt) </a>, 
 
 Completed Samples: <a href="/translations/en-us/RobotGame/EngineeringJournalSamples.pdf">PDF </a>
 

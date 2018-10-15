@@ -10,4 +10,8 @@ tag: RobotGame
 featured: false
 ---
 
-Slides: <a href="/translations/en-us/RobotGame/PassiveAttachments.pptx">PPTX</a>, <a href="/translations/en-us/RobotGame/PassiveAttachments.pdf">PDF </a>
+Slides: 
+<a href="/translations/en-us/RobotGame/PassiveAttachments.pptx">PPTX</a>, 
+<a href="/translations/en-us/RobotGame/PassiveAttachments.pdf">PDF </a>,
+<a href="/translations/pt-br/RobotGame/MecanismosPassivos.pptx">PPTX (pt)</a>, 
+<a href="/translations/pt-br/RobotGame/MecanismosPassivos.pdf">PDF (pt)</a>

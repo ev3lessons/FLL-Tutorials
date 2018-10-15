@@ -12,4 +12,9 @@ featured: false
 
 
 
-Slides: <a href="/translations/en-us/RobotGame/AligningOnLines.pptx">PPTX</a>, <a href="/translations/en-us/RobotGame/AligningOnLines.pdf">PDF </a>
+Slides: 
+<a href="/translations/en-us/RobotGame/AligningOnLines.pptx">PPTX</a>, 
+<a href="/translations/en-us/RobotGame/AligningOnLines.pdf">PDF </a>,
+<a href="/translations/pt-br/RobotGame/AlinhandonoTapete.pptx">PPTX (pt)</a>, 
+<a href="/translations/pt-br/RobotGame/AlinhandonoTapete.pdf">PDF (pt)</a>,
+

@@ -14,6 +14,8 @@ excerpt_separator: <!--more-->
  <!--more-->
 
  <li class="ng-binding">Slides:
- <a href="/translations/en-us/CoreValues/IntroductiontoCV.pptx">PPTX</a>,
- <a href="/translations/en-us/CoreValues/IntroductiontoCV.pdf">PDF</a>
+ <a href="/translations/en-us/CoreValues/IntroductiontoCV.pptx">PPTX English</a>,
+ <a href="/translations/en-us/CoreValues/IntroductiontoCV.pdf">PDF English</a>
+ <a href="/translations/pt-br/CoreValues/IntroducaoaosCoreValues.pptx">PPTX Portuguese</a>,
+ <a href="/translations/pt-br/CoreValues/IntroducaoaosCoreValues.pdf">PDF Portuguese</a>
  </li>
