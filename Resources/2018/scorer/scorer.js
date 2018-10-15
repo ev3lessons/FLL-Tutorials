@@ -142,7 +142,6 @@ function recalc(points,mission,saveValue){
   }
 
   document.getElementById('allpoints').innerHTML = allmission
-  document.getElementById('allpoints2').innerHTML = allmission
 
     var ranges = $("input[data-type='range']");
     var radios = $("input[type='radio']");

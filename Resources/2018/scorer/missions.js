@@ -1,6 +1,6 @@
 // Defines a blank save for reset
 
-blanksave = "spacetravel1|0,spacetravel2|0,spacetravel3|0,solar1|0,solar2|0,3D1|0,3D2|0,crater|0,extraction1|0,extraction2|0,extraction3|0,extraction4|0,space1|0,space2|0,space3|0,walk1|0,walk2|0,aerobic1|0,aerobic2|0,aerobic3|0,strength|0,food|0,escape|0,satellite|0,observatory1|0,observatory2|0,observatory3|0,meteoroid1|0,meteoroid2|0,lander1|0,lander2|0,lander3|0,penalty|0"
+blanksave = "spacetravel1|0,spacetravel2|0,spacetravel3|0,solar1|0,solar2|0,3D1|0,3D2|0,crater|0,extraction1|0,extraction2|0,extraction3|0,extraction4|0,space1|0,space2|0,space3|0,walk|0,aerobic1|0,aerobic2|0,aerobic3|0,strength|0,food|0,escape|0,satellite|0,observatory1|0,observatory2|0,observatory3|0,meteoroid1|0,meteoroid2|0,lander1|0,lander2|0,lander3|0,penalty|0"
 
 
 // Override function in scoring system
