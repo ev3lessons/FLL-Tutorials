@@ -5,7 +5,7 @@ image: "assets/images/CoachCorner/Referee.jpg"
 title: "Tips from Referees"
 minidescription: ""
 author: Multiple
-categories: [ Team Management ]
+categories: [ Competition Day]
 tag: CoachCorner
 featured: false
 ---
