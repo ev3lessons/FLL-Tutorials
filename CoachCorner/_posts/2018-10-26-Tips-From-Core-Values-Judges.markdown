@@ -27,7 +27,7 @@ We asked World Festival and State-Level Core Values Judges for tips and advice t
 
 8) Core Values activities should be practiced all the time--every meeting if possible. Teams need to learn how to work together in a very short period of time to complete a challenge. Accomplished teams are naturals at identifying a challenge, and working together to accomplish a task.
 
-9) If asked about using FIRST values outside of FIRST LEGO League, don't just use sports as an example. Try to dig deeper. Give examples of how Core Values makes you help others, be more independent or more respectful of others, etc. Give specidic examples.
+9) If asked about using FIRST values outside of FIRST LEGO League, don't just use sports as an example. Try to dig deeper. Give examples of how Core Values makes you help others, be more independent or more respectful of others, etc. Give specific examples.
 
 10) Make sure you identify how you worked in all three judging areas. It is on the rubric for Core Values. Therefore, you do need to be able to talk a little about your project and robot even in Core Values judging. 
 
