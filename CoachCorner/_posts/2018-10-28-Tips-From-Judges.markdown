@@ -31,9 +31,9 @@ We asked World Festival and State-Level Judges for general tips and advice they 
 
 10) If you need to move the tables and chairs in the room to suit your presentation, you may. Just let the judges know that you need a table closer, etc.
 
-11) Go close enough to judges that they can hear you, but don't get too close. Judges need some personal space. They also may have rubrics or other documents on their table.
+11) Go close enough to judges that they can hear you, but don't get too close. Judges need some personal space. They also may have rubrics or other documents on their table that are confidential.
 
-12) If you have a student missing on the day of the competition, make sure that someone else can cover the information as best as possible.
+12) If you have a student missing on the day of the competition, make sure that someone else can cover the information as best as possible. Let the judges know.
 
 
 Thank you to Fiona, Joe, Anderson, Asha

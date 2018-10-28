@@ -33,7 +33,7 @@ We asked World Festival and State-Level Robot Design Judges for tips and advice 
 
 11) Prepare a brief presentation even if the RDES presentation is not a requirement in your region. When you set up and run your robot for the judges, plan to have someone talk about what it is doing and point out interesting things that might not be obvious (like when the robot finds a line.)
 
-12) Be prepared to show the judges anything they want - a specific block in your code, a minute detail, etc. They make go in a different direction than you planned. Stay flexible.
+12) Be prepared to show the judges anything they want - a specific block in your code, a minute detail, etc. They may go in a different direction than you planned. Stay flexible.
 
 
 Thank you to Sam, Andersen, Srini, Arvind and Sanjay

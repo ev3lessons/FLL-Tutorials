@@ -25,7 +25,7 @@ We asked World Festival and State-Level Core Values Judges for tips and advice t
 
 7) Know how your team is structured. Not every team has formal roles, but teams should be able to communicate how meetings are conducted, who does what, and how conflicts are resolved.
 
-8) Core Values activities should be practiced all the time--every meeting if possible. Teams need to learn how to work together in a very short period of time to complete a challenge. Accomplished teams are naturals at identifying a challenge, and working together to accomplish a task.
+8) Core Values activities should be practiced all the time: at every meeting, if possible. Teams need to learn how to work together in a very short period of time to complete a challenge. Accomplished teams are naturals at identifying a challenge, and working together to accomplish a task.
 
 9) If asked about using FIRST values outside of FIRST LEGO League, don't just use sports as an example. Try to dig deeper. Give examples of how Core Values makes you help others, be more independent or more respectful of others, etc. Give specific examples.
 
