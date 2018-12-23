@@ -1228,6 +1228,131 @@ translatorCredit = "Az appot magyarra fordította: a Tövis&ASAP csapat."
     translatorCredit = "Traducerea și adaptarea în limba română realizată de Asociația pentru educație STEM creativă (CRESTEM). Copyright (c) 2018. www.crestem.org"
 
 
+} else if (language == "it") {
+yes = "Si"
+no = "No"
+partly = "Parzialmente"
+completely = "Completamente"
+resetText = "Resetta"
+saveText = "Salva"
+savescoreText="Salva il Punteggio"
+loadsaveText="Carica i salvataggi:"
+deletesaveText="Elimina i salvataggi"
+importsaveText="Importa i salvataggi "
+exportsaveText="Esporta i salvataggi "
+signin = "Accedi con"
+signout = "Esci"
+GoogleCreate = " Crea un nuovo Foglio Google "
+GoogleOpen = "Apri un Foglio Google"
+created = "Creato"	
+savedto = "Salvato in"
+teamText = "Squadra"
+roundText = "Round"
+dateText = "Data/Ora"
+totalText = "Punteggio Totale"
+savedText = "Salvato"
+loadedText = "Caricato"
+googleSaveText = "Salva su Fogli Google (Default)"
+localSaveText = "Salva su Browser Locale (Legacy)"
+isIE = " Il sistema di salvataggio di Google non è compatibile con Microsoft Internet Explorer. Puoi passare a un altro browser o continuare utilizzando il sistema di salvataggio legacy (fai clic qui sopra)"
+systemText = "Modalità di salvataggio: "
+
+googleIntro = "Puoi salvare il tuo punteggio in un Foglio Google. Questo ti aiuterà a tenere traccia dei tuoi progressi durante la stagione. Segui le istruzioni in fondo alla pagina."
+pastSaves = "Salvataggi precedenti"
+instructions = "Istruzioni"
+instructionsA = "I passaggi-chiave per usare la modalità di salvataggio sono:"
+instructionsB = '1. Accedere al tuo account Google. Potresti ricevere il messaggio “Questa app non è verificata”. Se accade ciò, clicca su “Avanzate” e "Vai ad FLL Scorer (unsafe)"'
+instructionsC = '2. Se non hai ancora creato un foglio precedentemente, clicca su "Crea un Nuovo Foglio"'
+instructionsD = '3. Se hai precedentemente creato un foglio, assicurati che il campo ID foglio Google sia compilato e non "indefinito". Infatti, se vorrai condividere un Foglio fra apparecchi diversi, come un PC diverso o un tablet, dovrai inserire manualmente questo ID'
+instructionsE = '4. Tutte le volte che vuoi salvare un punteggio, clicca su “Salva Punteggio” - questo aggiornerà il foglio con il punteggio e la data corrente '
+instructionsF = '5. Se vuoi consultare il tuo Foglio e modificarlo, clicca su "Apri Google Fogli". Se ti serve conoscere l`ID del Foglio Google, puoi leggerlo nell`URL del Foglio quando lo apri'
+instructionsG = '6. Puoi anche recuperare uno specifico punteggio passato nel segnapunti, inserendo il numero di salvataggio con il con i pulsanti "+" e "-" e quindi facendo clic sul pulsante "Carica Salva:'
+
+var monthNames = ["","Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno", "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"];
+improvementText = "Miglioramento"
+scorerText = "Segnapunti"
+timersText = "Timer"
+savesText = "Salvataggi"
+startText = "Start"
+stopText = "Stop"
+pointsText = "Punti"
+
+timerText = "Timer:"
+stopwatchText = " Cronometro:"
+
+revisionText = "Segnapunti INTO ORBIT Revisione "
+copyrightText = "Copyright (c) 2018-19 Seshan Brothers"
+
+idText = "Google Sheet ID: "
+undefinedText = "indefinito"
+
+title = "Segnapunti INTO ORBIT"
+
+M01="Viaggio Spaziale"	
+M01a="Il carrello col veicolo ha superato la prima connessione della rotaia?"
+M01b="Il carrello coi rifornimenti ha superato la prima connessione della rotaia?"
+M01c="Il carrello con l’equipaggio ha superato la prima connessione della rotaia?"
+
+M02="Posizionamento del pannello solare"
+M02a="Entrambi i pannelli solari sono rivolti verso lo stesso campo?"
+M02b="Il vostro pannello solare è rivolto verso il vostro campo?"
+
+M03="Stampa 3D"
+M03a="Il mattoncino 2x4 è uscito dalla stampante e posizionato interamente nell’area Nord-Est del pianeta?"
+M03b=" Il mattoncino 2x4 è uscito dalla stampante e posizionato non interamente nell’area Nord-Est del pianeta?"
+
+M04="Attraversamento del cratere"
+M04a="Il vostro robot e le sue estensioni hanno attraversato il cratere da Est ad Ovest superando <b>completamente</b> la barra?"
+
+M05="Estrazione"
+M05a="Tutti e quattro i campioni non toccano più l’asse che li tratteneva nella carota?"
+M05b="Il campione di Gas è a contatto col tappeto e si trova completamente all’interno del cerchio del Lander?"
+M05c="Il campione di Gas è completamente in Base?"
+M05d="Il campione di acqua è sostenuto solamente dalla Camera di produzione del cibo?"
+
+M06=" Moduli della stazione spaziale"
+M06a="Il modulo conico si trova <b>completamente</b> in Base?"
+M06b="Il modulo tubolare è inserito nella porta Ovest dell’Habitation Hub?"
+M06c="Il modulo di attracco (Dock) è trasferito ed inserito nella porta Est dell’Habitation Hub?"
+
+M07="Emergenza durante la passeggiata spaziale "
+M07a="Gehrard è inserito <b>parzialmente</b> o <b>completamente</b> nella camera di decompressione dell’Hub?"
+
+M08="Esercizio aerobico"
+M08a="Il puntatore è completamente nell’area arancione o copre parzialmente uno dei suoi bordi?"
+M08b="Il puntatore è completamente nell’area bianca?"
+M08c="Il puntatore è completamente nell’area grigia o copre parzialmente uno dei suoi bordi?"
+
+M09="Esercizio di potenziamento"
+M09a="La barra della Potenza è sollevata quanto basta affinché il 4° foro della striscia dentata sia visibile almeno in parte?"
+
+M10="Produzione di cibo"
+M10a="I colori sono stati ruotati quanto basta che il verde superi il grigio ma non appaia il marrone, usando la barra?"
+
+M11="Velocità di fuga"
+M11a="La navicella è partita ad una velocità tale da farla arrivare in alto e restarci, premendo o colpendo lo Strike Pad?"
+
+M12="Orbite dei Satelliti"
+M12a="Per ciascun satellite, almeno una parte di esso si trova nell'area tra le due linee dell'Orbita Esterna o al di sopra di essa?"
+
+M13="Osservatorio"
+M13a="Il puntatore è completamente nell’area arancione o copre parzialmente uno dei suoi bordi?"
+M13b="Il puntatore è completamente nell’area bianca?"
+M13c="Il puntatore è completamente nell’area grigia o copre parzialmente uno dei suoi bordi?"
+
+M14="Deviazione dei Meteoroidi"
+M14a="Quanti meteoroidi si trovano nella Sezione Centrale?"
+M14b="Quanti meteoroidi si trovano nelle Sezioni Laterali?"
+
+M15="Area di atterraggio del Lander"
+M15a="Il  Lander è intatto, in contatto col Tappeto, e <b>completamente</b> nel suo <b>Cerchio Bersaglio</b>?"
+M15b="Il  Lander è intatto, in contatto col Tappeto, e <b>completamente</b> nell’ <b>Area Nord-Est del Pianeta</b>?"
+M15c="Entrambe le parti del Lander sono <b>completamente</b> in <b>Base</b>?"
+
+P01="Penalità"
+P01a="Quante volte il robot è stato fermato?"
+
+translatorCredit = "Traduzione in italiano di Giuseppe Comis"
 }
 
 
