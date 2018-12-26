@@ -11,7 +11,7 @@ featured: false
 ---
 Many teams have to deal with a team member who is extraordinarily shy and freezes up when an adult talks to them. What should a team do and how should they plan for it?
  
- The following article incorporates idas posted on the Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn </a>.
+ The following article incorporates ideas posted on the Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn </a>.
  
  **Inform the Judge Advisor:**
  
