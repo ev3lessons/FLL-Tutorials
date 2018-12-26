@@ -15,7 +15,7 @@ Many teams have to deal with a team member who is extraordinarily shy and freeze
  
  **Inform the Judge Advisor:**
  
-Contact the Tournament Director and Judge Advisor ahead of time and let them know the situation. If jduges are informed ahead of time, they will be understanding of the student.
+Contact the Tournament Director and Judge Advisor ahead of time and let them know the situation. If judges are informed ahead of time, they will be understanding of the student.
 
 **Allow the student to read his/her part:**
 
