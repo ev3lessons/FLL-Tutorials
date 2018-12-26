@@ -7,7 +7,7 @@ minidescription: "This is a weekly guide for FIRST LEGO League teams. "
 author: SeshanBrothers
 categories: [ Team Management ]
 tag: CoachCorner
-featured: true
+featured: false
 ---
 
 Many years ago, Norm Kerman, former FIRST LEGO League Tournament Director and FIRST-supporter in Western PA developed a great series of newsletters for teams. When I started out as a rookie coach, I found these immensely helpful for keeping my team on task (more-or-less).  Inspired by Norm's orignal work, our plan is to create an updated weekly guide. This article is the first in a series. Each week, we will have some advice for where you should be with regards to the Robot, Project and Core Values.  Every team is different and you should feel free to adjust the timelines and activities as necessary.
