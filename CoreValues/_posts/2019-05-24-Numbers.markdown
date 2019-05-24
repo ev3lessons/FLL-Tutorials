@@ -1,0 +1,43 @@
+---
+layout: post
+language: "en"
+keywords:
+image: "assets/images/CoreValues/Numbers.png"
+title: "Core Value Symbols"
+minidescription: "Learn the Core Values"
+author: SeshanBrothers
+categories:  [ Team Building ]
+tag: CoreValues
+featured: false
+excerpt_separator: <!--more-->
+---
+
+Core Values Activity:  Numbers
+<!--more-->
+
+<b>Objectives:</b>
+- Giving everyone a trurn
+- Following instructions
+
+<b>Materials:</b>
+- None
+
+<b>Setup:</b>
+- Team in a circle
+
+<b>Instructions to Team:</b>
+
+Count out loud to x [number of team members] in order.  No talking, planning, nor hand gestures to signal order.
+
+•    Different team member should start the counting at one. 
+•    The next number CANNOT be called out by the team member to the left or right of the last to call out a number .
+•    Every team member should call out a number by the end (so each should only say a number one time)
+•    If two team member call out the same number, then you have to start back at 1
+
+
+<b>Notes:</b>
+
+Variation: After they accomplish it, have the team member face the opposite direction in the circle so that nobody can see each other.
+
+This activity was shared by Narwal of Ideas from Due West, South Carolina
+
