@@ -3,8 +3,8 @@ layout: post
 language: "en"
 keywords:
 image: "assets/images/CoreValues/Numbers.png"
-title: "Core Value Symbols"
-minidescription: "Learn the Core Values"
+title: "Numbers"
+minidescription: "Collaboration"
 author: SeshanBrothers
 categories:  [ Team Building ]
 tag: CoreValues
