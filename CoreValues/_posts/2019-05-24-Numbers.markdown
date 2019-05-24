@@ -12,7 +12,7 @@ featured: false
 excerpt_separator: <!--more-->
 ---
 
-Core Values Activity:  Numbers
+Core Values Activity:  Making sure everyone has a turn
 <!--more-->
 
 <b>Objectives:</b>
@@ -39,5 +39,5 @@ Count out loud to x [number of team members] in order.  No talking, planning, no
 
 Variation: After they accomplish it, have the team member face the opposite direction in the circle so that nobody can see each other.
 
-This activity was shared by Narwal of Ideas from Due West, South Carolina
+This activity was shared by Narwhal of Ideas from Due West, South Carolina
 
