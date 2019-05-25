@@ -23,7 +23,9 @@ White boards and suckers. My team couldn't function without a huge white board a
 We like this folding 4ft X8ft platform for under the FLL table - can be put away easily and carried to wherever you need. It's called Centipede XL and available at home improvement stores.
 
 **Response by Asha Seshan**
-A list/poster of the <a href="http://ev3lessons.com/translations/en-us/fll/CoreValuesPoster.pdf">FIRST LEGO League Core Values</a>. Ana Paula made this lovely set of of images for FIRST teams to use if anyone wants them.
+A list/poster of the Core Values. Here is one by Ana Paula that you can use.
+
+![]({{ site.baseurl }}/assets/images/CoreValues/CoreValues2.jpg)
 
 **Response by Stephanie Ozenne**
 

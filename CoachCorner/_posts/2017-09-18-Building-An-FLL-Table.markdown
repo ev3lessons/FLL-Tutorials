@@ -16,6 +16,7 @@ The following discussion is based on conversations in the  Facebook Group <a hre
 
 FIRST LEGO League tables take up space. For many teams, having an alternative design that lets you store the table easily is useful. Below are a list of useful alternative table designs.
 
+<a href= "https://www.facebook.com/groups/FLLShareandLearn/learning_content/">FLL Table ideas shared in Facebook Group</a> <br>
 <a href= "https://www.livingstonrobotics.org/2015/07/19/landroids-fll-table/">Landroids Portable Table</a> <br>
 <a href="https://youtu.be/5JG7tOT1DQU">Just Walls Portable FLL Field by Kuriosity Robotics <br>
 <a href="http://nmfll.org/images/STOW-or-GO_Updated_Building_Instructions.pdf?fref=gc&dti=369520923432634">Foam Table by the Inventioneers</a>. <br>

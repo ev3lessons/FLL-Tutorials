@@ -12,7 +12,9 @@ author: SeshanBrothers
 
 Did you know that you can use alternative programming languages on your EV3?  Here are some useful resources for getting started.
 
-If you know of other good resources we should add, let us know at team@ev3lessons.com.
+This spreadsheet <a href="https://goo.gl/7gcoKi"> compares all the Programming Languages available FIRST LEGO League </a>. <br>
+
+https://goo.gl/7gcoKi
 
 <b>EV3 Basic:</b> A textual programming language that uses Microsoft Small Basic with an EV3 extension.<br>
 <a href="http://www.EV3Basic.com"> EV3 Basic Introduction by EV3Basic.com </a> <br>
