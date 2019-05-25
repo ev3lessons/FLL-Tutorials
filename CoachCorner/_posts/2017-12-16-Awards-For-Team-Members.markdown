@@ -15,19 +15,21 @@ The following discussion is quoted from the Facebook Group <a href="https://www.
 
 Some teams give out individual awards at the the end of the season. This might be to recognized the students' contributions or because the team only receives one trophy. Below are such suggestions for creating your own trophies/recognizing team members.
 
-**Want to create a replica of a FIRST LEGO League trophy?**
+**Make a trophy**
 
-<a href="http://www.ortop.org/Documents/SS_LRG_Trophy.pdf">Large Trophy Build Instructions by Ortop</a>
+Create your own trophy and add a custom sticker.
 
-<a href="http://www.ortop.org/Documents/2000422_Pokal_Medium_US%20(1).pdf">Medium Trophy Build Instructions by Ortop</a>
+<a href="http://brickplayer.com/blog/2008/04/30/small-lego-trophy-plans/?fbclid=IwAR2YDHcBthskoP_BI-L28G8A38JWCHRsmx35YkhmQLQJ4vbmle0CLIaqpgw">Small LEGO Trophy</a>
 
-<a href="http://www.ortop.org/Documents/SS_Sm_Trophy.pdf">Small Trophy Build Instructions by Ortop</a>
+<a href="https://www.youtube.com/watch?v=lIBll4KYdbk">BRICK X BRICK Trophy</a>
 
-<a href="https://www.bricklink.com/catalogItemInv.asp?S=2000422-1">Trophy Parts List</a>
+<a href="https://www.flickr.com/photos/42988571@N08/sets/72157641666335543/">Flickr Trophy Collection</a>
 
-**Response by Lauren Bierman**
+**Response by Michael Simons**
 
-Great idea! How about Master Builder?
+Custom Certificates for each student
+![]({{ site.baseurl }}/assets/images/CoachCorner/CustomCertificates.jpg)
+
 
 **Response by Layne Kirk**
 
