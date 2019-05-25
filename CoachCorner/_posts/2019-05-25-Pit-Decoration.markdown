@@ -43,5 +43,7 @@ This team had a small pit, but made it seem much larger with a backdrop. A backd
 
 **Keeping it Simple**
 
-![]({{ site.baseurl }}/assets/images/CoachCorner/PitSimplejpg)
+![]({{ site.baseurl }}/assets/images/CoachCorner/PitSimple.jpg)
+
+Even just a table cloth and the team's poster boards are just fine.
 
