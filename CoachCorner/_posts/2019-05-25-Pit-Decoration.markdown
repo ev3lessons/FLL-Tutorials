@@ -17,13 +17,13 @@ Some pits are incredibly fancy. Others are more simple. There is also nothing wr
  
 **Represent your country or culture**
 
-![]({{ site.baseurl }}/assets/images/CoachCorner/PitCountry.jpg)
+![]({{ site.baseurl }}/assets/images/CoachCorner/PitCountry.jpeg)
 
 This team added lots of decorations to represent Japan.
 
 **Represent your state**
 
-![]({{ site.baseurl }}/assets/images/CoachCorner/PitState.jpg)
+![]({{ site.baseurl }}/assets/images/CoachCorner/PitState.jpeg)
 Photo Credit: Fusion Four
 
 This team is from VA-DC area and have lots of decorations to represent the state and capital city.
