@@ -13,7 +13,7 @@ title: Home
 <section class="intro">
     <div class="wrapintro">
         <h1>FLL Tutorials<br>teach - share - learn</h1>
-        <h2 class="lead">This website is powered by the Seshan Brothers who are MINDSTORMS Community Partners, founders of EV3Lessons, and the 2018 World Festival Champion's award winners.
+        <h2 class="lead">This website is powered FRC Team Not the Driods You Are Looking For whose members are  are MINDSTORMS Community Partners, founders of EV3Lessons, and the 2018 World Festival Champion's award winners.
         <br> <br>
         Through this website, we hope to share our knowledge, as well best practices for getting the most out of your FIRST LEGO League journey. Our goal is to teach, share, and learn together.</h2>    
 
