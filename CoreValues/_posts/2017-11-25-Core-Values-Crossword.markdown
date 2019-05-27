@@ -17,7 +17,7 @@ featured: false
 - Learn the FIRST LEGO League Core Values
 
 <b>Materials:</b>
-- One copy of the <a href="http://www.ev3lessons.com/images/CoreValues/FLLCrossword1.pdf">Core Values Crossword Puzzle</a>
+- One copy of the <a href="http://www.flltutorials.com/assets/images/CoreValues/FLLCrossword1.pdf">Core Values Crossword Puzzle</a>
 
 <b>Setup:</b>
 - Leave the puzzle and a pen on the table

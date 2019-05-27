@@ -1,4 +1,4 @@
----
+i---
 layout: post
 language: "en"
 keywords:
@@ -24,7 +24,7 @@ Leave two piles of LEGO and either end of a table or room.
 <b>Instructions to Team:</b>
 Split into two teams. One team must build an object found in a house. The second team must build a holder or box such that the chosen object fits inside. You can choose the object. You will have 5 minutes.
 
-<img src="/images/CoreValues/MakeItFit2.jpg" style="max-width: 100%">
+<img src="/images/CoreValues/MakeitFit2.jpg" style="max-width: 100%">
 
 <b>Notes:</b>
 How did they split into two teams? How did they pick what to build? How did the two teams communicate with each other? Were they successful in fitting having the object fit inside the box?

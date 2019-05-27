@@ -18,6 +18,6 @@ A fun tshirt design shared by Suncoast FLL.
 Original Design by ASU FLL. Files below created by Ben Stanley (Robot Obedience School)
 
  <li>
- <a href="translations/en-us/CoreValues/CoreValuesTshirt.pdf">PDF</a>
- <a href="translations/en-us/CoreValues/CoreValuesTshirt.svg">SVG</a>
+ <a href="http://www.flltutorials.com/assets/images/CoreValues/CoreValuesTshirt.pdf">PDF</a>
+ <a href="http://www.flltutorials.com/assets/images/CoreValues/CoreValuesTshirt.svg">SVG</a>
  </li>
