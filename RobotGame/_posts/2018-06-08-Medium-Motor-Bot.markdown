@@ -16,7 +16,9 @@ Note: This robot is not the "best or perfect robot" for competition. It is provi
 
 To view the attached file, you will have to install LEGO Digital Designer (LDD), a software that is freely available for download on the Internet. No build instructions are provided at this time and LDD generates very poor-quality instructions. Use the "hide" tool in LDD to hide sections and build.
 
+The .lxf below was updated in April 2019.
+
 Design by Jay Kinze
 
 Design Files:
- <a href="/translations/en-us/RobotGame/MediumMotorBot.lxf">LXF</a>
+ <a href="/translations/en-us/RobotGame/MediumMotorBotnew.lxf">LXF</a>
