@@ -7,7 +7,7 @@ minidescription:
 author: Droids
 categories:
 tag: HallOfFame
-featured: true
+featured: false
 
 ---
 
