@@ -9,7 +9,6 @@ categories: [ Team Management ]
 tag: CoachCorner
 featured: false
 ---
-This artcile is by Manjiri McCoy.
 
 I have been involved in FIRST for about 10 years as an FRC Judge. In September 2018, my daughter started kindergarten. I wanted to form a FIRST LEGO League team, but I did not know anyone at her school, so I approached the Parent Teacher Organization (PTO) and we organically formed a group of 6 kids through word-of-mouth. Another parent then told me that it is only “parents in the know” who benefit from these efforts, and it does not benefit all students who want to learn.
 
