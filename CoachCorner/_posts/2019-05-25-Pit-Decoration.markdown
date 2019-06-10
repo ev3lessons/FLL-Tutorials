@@ -5,7 +5,7 @@ image: "assets/images/CoachCorner/Pits.jpg"
 title: "Pit Decorations"
 minidescription: ""
 author: Multiple
-categories: [ Team Management ]
+categories: [ Resources ]
 tag: CoachCorner
 featured: false
 ---
