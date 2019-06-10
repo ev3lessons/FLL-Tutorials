@@ -5,7 +5,7 @@ image: "assets/images/CoachCorner/FLL.jpg"
 title: "Getting Started
 minidescription: "This article is about where to start."
 author: AshaSeshan
-categories: [ Resources ]
+categories: [ Team Management ]
 tag: CoachCorner
 featured: false
 ---
