@@ -1,0 +1,38 @@
+---
+layout: post
+language: "en"
+image: "assets/images/CoachCorner/PartsCover.jpeg"
+title: "Where do you start"
+minidescription: "This article is about where to start."
+author: AshaSeshan
+categories: [ Resources ]
+tag: CoachCorner
+featured: false
+---
+
+The following article was inspired by a post on Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn </a>.
+
+### Register a Team
+
+Create an account on FIRSTInspires.org. You will need to have two coaches for each team. Coaches will have to go through a youth protection application first. Once you have two coaches, you will be able to purchase products for your team. You can add students to your team at any time. You can either have students create an account and apply to be added to your team, or invite students to be on your team.
+
+### Find a place to meet
+
+FIRST LEGO League teams meet in a variety of places.  They meet at schools, shops, community centers, basements and living rooms. You will need enough space for a FIRST LEGO League table, a computer, place to store and build with LEGO and a place to practice presentations.
+
+### Equipment 
+
+1. A FIRST LEGO League table built according to challenge specifications.
+2. A Challenge Set for the year
+3. A LEGO MINDSTORMS robot or a SPIKE Prime robot
+4. Any extra LEGO for students to build with (such as the Expansion set)
+
+### Core Values
+
+Start early introducing your team to FIRST Core Values. This should be the foundation for your team. http://flltutorials.com/corevalues/team%20building/2018/06/07/Core-Values.html
+
+### Project
+
+Students will have to 
+
+### Robot
