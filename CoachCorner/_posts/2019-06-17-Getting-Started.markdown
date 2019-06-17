@@ -12,7 +12,7 @@ featured: false
 
 ### Step 1: Form a Team
 
-Find up to 10 interested students to be on the team. All students must not exceed the maximum age (or other restrictions detailed in the <a href="http://www.firstlegoleague.org/challenge?__hstc=212927755.b8dda8ff22df0199cde07a6839d08c2c.1529421494137.1560127661361.1560167416654.191&__hssc=212927755.1.1560167416654&__hsfp=3676243494#block-block-17">Participation Rules<a/>). If you have more than 10 students, see if you can recruit another parent to help you coach. Some teams do have an <a href="http://flltutorials.com/coachcorner/coaching/2018/07/24/Team-Applications.html">application process</a> to narrow the number of students to 10.
+Find up to 10 interested students to be on the team. All students must not exceed the maximum age (or other restrictions detailed in the <a href="http://www.firstlegoleague.org/challenge?__hstc=212927755.b8dda8ff22df0199cde07a6839d08c2c.1529421494137.1560127661361.1560167416654.191&__hssc=212927755.1.1560167416654&__hsfp=3676243494#block-block-17">Participation Rules<a/>. If you have more than 10 students, see if you can recruit another parent to help you coach. Some teams do have an <a href="http://flltutorials.com/coachcorner/coaching/2018/07/24/Team-Applications.html">application process</a> to narrow the number of students to 10.
 
 ### Step 2: Register a Team and Order Materials
 
@@ -28,12 +28,12 @@ FIRST LEGO League teams meet in a variety of places.  They meet at schools, shop
 
 ### Step 5: Materials Needed
 
-1. A Challenge Set for the year ($75). You can order that from your FIRST Inspires Dashboard. The set includes one Challenge Mat as well has numbered bags of LEGO brick. Intructions to build the models in the set will be availble on August 1 of each year. <a href="http://www.firstlegoleague.org/missionmodelbuildinginstructions> Build Instructions </a>
+1. A Challenge Set for the year ($75). You can order that from your FIRST Inspires Dashboard. The set includes one Challenge Mat as well has numbered bags of LEGO brick. <a href="http://www.firstlegoleague.org/missionmodelbuildinginstructions"> Build Instructions </a> will be availeble on August 1.
 2. A FIRST LEGO League table built according to challenge specifications (approx $100). The Challenge Mat will be positioned on this table according to instructions.
 3. A LEGO MINDSTORMS robot ($496) or a SPIKE Prime robot ($410). You can order one from the FIRST Inspires Dashboard or from the LEGO Education website. The Expansion set for each product is included in the bundle that you can purchase from FIRST.
 4. Any extra LEGO Technic for students to build with
 5. An electronic device with the software for MINDSTORMS or Spike Prime installed. A device with Internet access is needed to do project research, access all the Challenge Documents, download software, and to check for weekly rules updates.
-6. Other useful materials include a white board for team discussions, poster boards for presentations, calendar for a team schedule, pens/pencils, and storage boxes for robots. You might also need 
+6. Other useful materials include a white board for team discussions, poster boards for presentations, calendar for a team schedule, pens/pencils, and storage boxes for robots. Here is a useful <a href="http://flltutorials.com/coachcorner/resources/2017/09/15/Non-LEGO-Essentials.html">guide</a> on the subject.
 7. Engineering Notebooks and a Meeting Guide are provided with registration.
 
 ### Step 6: Team Meetings 
