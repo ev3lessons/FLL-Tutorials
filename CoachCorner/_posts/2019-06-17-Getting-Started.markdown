@@ -28,7 +28,7 @@ FIRST LEGO League teams meet in a variety of places.  They meet at schools, shop
 
 ### Step 5: Materials Needed
 
-1. A Challenge Set for the year ($75). You can order that from your FIRST Inspires Dashboard. The set includes one Challenge Mat as well has numbered bags of LEGO brick. <a href="http://www.firstlegoleague.org/missionmodelbuildinginstructions"> Build Instructions </a> will be availeble on August 1.
+1. A Challenge Set for the year ($75). You can order that from your FIRST Inspires Dashboard. The set includes one Challenge Mat as well has numbered bags of LEGO brick. <a href="http://www.firstlegoleague.org/missionmodelbuildinginstructions"> Build Instructions </a> will be available on August 1.
 2. A FIRST LEGO League table built according to challenge specifications (approx $100). The Challenge Mat will be positioned on this table according to instructions.
 3. A LEGO MINDSTORMS robot ($496) or a SPIKE Prime robot ($410). You can order one from the FIRST Inspires Dashboard or from the LEGO Education website. The Expansion set for each product is included in the bundle that you can purchase from FIRST.
 4. Any extra LEGO Technic for students to build with
