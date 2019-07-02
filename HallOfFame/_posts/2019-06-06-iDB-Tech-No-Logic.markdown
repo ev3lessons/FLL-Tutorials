@@ -1,60 +1,57 @@
 ---
 layout: post
 language: "en"
-image: "assets/images/HallOfFame/FastandCurious1.jpg"
-title: "Fast and Curious"
+image: "assets/images/HallOfFame/IDB.jpg"
+title: "iDB Tech-No-Logic"
 minidescription:
 author: Droids
 categories:
 tag: HallOfFame
-featured: true
+featured: false
 
 ---
 
-Meet Fast and Curious a FIRST LEGO League team from Lebanon. Their team competed for three years in FIRST LEGO League. They went to World Festival twice. In 2014, they were Champion's Finalist. In 2015, they won the Champion's award. 
+Meet iDB Tech-No-Logic, a FIRST LEGO League team from Verona, Italy. Their team competed in FIRST LEGO League since the Animal Allies season and participated in the World Festival in 2018 and 2019. Their team's achievements include two Champion’s Awards at the Italian Championship and a first place Presentation Award at the World Festival in Detroit of 2018. They ended our FIRST LEGO League journey in 2019 by winning the Champion’s Award at the World Festival in Houston.
+
 ### How did you come together as a team?
 
-We are a school team and many of us had previous experience with other teams in the same school. We competed for three years and each year new members join and others leave. 
+We all go to the same high school and most of us were already really good friends before participating. Then the school offered the opportunity to form a FIRST LEGO League team and we were all extremely excited to join. As the years went by we all got to bond and now we are all best friends.
 
 ### If you are a retired team, what did you do after FIRST LEGO League? 
 
-After winning World Champions we decided to retire from FIRST LEGO League, but we had some others dreams. We began to participate in FIRST Tech Challenge.
+Our team retired after the World Festival in 2019. Right now we are working on improving our project for the Global Innovation Award that will be next month. After that, we’ll probably keep working on implementing it and help with the training of the second team of younger kids at our school. We are also hosting lots of events and activities in which we explain our awesome experience and spread knowledge to teachers and mentors. Next year we will be going to volunteer at the events in Italy and also in foreign countries together with a judge we met at worlds.
 
 ### What is one unique thing about your team?
 
-We are one big family. Due to the time we shared preparing for the competition we became so close to each other. We worked on the 3 parts of the competition equally and we added some fun to spice things up. Our coach lived in another country so it was tough, but we overcome this obstacle. And we were dedicated to our work and to presenting the best of everything.
+We all had very different skills and through the years we learned to make the most of this by assigning different jobs to each one of us. This helped us in finding the right balance between collaborating and being as effective as possible. 
 
 ### Which FIRST LEGO League season was your favorite, and why?
 
-World Class was our favorite season. It was a mix of new strategies for learning with solutions for some difficulties which benefit the whole society. As for the missions they were interesting and fun just like the project. We addressed a worldwide problem and, on top of that, we had the core values that we enhanced by working in a team by sharing ideas, and facing every problem together.
+We think that our last year was the best. We definitely had the most fun and really enjoyed our last time working together as an FLL team. 
 
 ### What is something unique or memorable about your robot or a tip you want to share?
 
-In 2015, our robot used three color sensors and one ultrasonic sensor. All extensions or motorized arms were fixed and operating on the robot simultaneously as the time began. After a certain mission is complete, the robot arm responsible for it is removed from the robot. As the mission's time ends, you can notice that the size or volume of the robot has clearly decreased.This design structure proved to be very efficient as the robot operators didn't have to attach anything, but only remove parts which requires minimal time.
+A successful robot isn't one that relies only on advanced algorithms to complete missions. It’s one that is built taking into consideration the errors that could happen. First, build the robot and test by hand your ideas and mechanisms taking in mind some margin of error. Program it with measures to make more adjustments as possible: use lines, colors, walls and models to square up and when testing try to make it fail. Take notes on what doesn’t work and tweak first the hardware, then the software. Remember, it's not that few degrees you tweaked the night before that will make your robot work. One of the most common mistakes teams make is focusing on the number of points they can achieve in a perfect run while overshadowing reliability and effectiveness. Don't be afraid to discard a solution and start over. Some times is the best thing to do. A unique thing we’ve developed on our robot are handles and buttons extensions. Reaching the EV3’s buttons may be difficult, so extensions help a lot. To optimize time spent in base the attachments have built-in handles that allow us to remove them super easily. You can see it <a href="https://youtu.be/uQz5GhIiMYc">here</a>.
+
+> One of the most common mistakes teams make is focusing on the number of points they can achieve in a perfect run while overshadowing reliability and effectiveness
 
 ### Share some tips about the doing the research project
 
-We divided the work and each group worked either on the research (we brought information from many different resources and we gathered them in a well organized booklet), or the presentation (we created a play that explains our problem with very eye catching text and roles), or the solution (we created an application that helped people with dyslexia communicate with their environment and learn they school subjects in the easiest way).
+The most important thing is to find a problem that hasn’t been solved yet in virtually any way. Don’t be afraid to dedicate at least 30% of the research to that. It will assure you success when you find a solution since it will for sure be innovative. When selecting the idea to develop don’t avoid ridiculous ones: most of the times they hide great project seeds. This year we actually tackled more than 20 problems and spent two full months developing and discarding some of them.
 
 ### Share some tips about Core Values
 
-We followed the golden rule that in any team the “i” is changed into “we”. Our meetings were held after every working day where we shared what we have done. We always have each other's back no matter what and we overcome every obstacle together. We worked in parallel in the three parts of the competition. A very important moment that we can't forget was in the World Festival Core Values judging room where we were asked to build something out of some LEGO. First we had a small meeting, then we decided to build a plane to bring a member who couldn’t travel with us to participate in the World Festival so we can be together again.
-
-![]({{ site.baseurl }}/assets/images/HallOfFame/FastandCurious2.jpg)
-
+A team can’t be its best if the members don’t love being on it and spend the whole day looking forward going to the robotics lab to be together. That’s what makes our team so great. We meet 3 or 4 days a week from 3 to 7pm, and if necessary come to school on weekends and during holidays, make video calls till late at night and sleepover at school the days before a competition happens. Take team trips, go eat together, plan group sleepovers and celebrate birthdays with your teammates… the rest will come by itself.
 
 ### What is something you wish you knew when you started out in FIRST LEGO League?
 
-I didn't knew that when someone has a dream he or she can achieve it with hard work and persistent! Participating in the team was a goal that I worked for. Then, when I became a member, we had so many big dreams and one of them was being part of the World Festival. Not only did we attend World Festival, but we won the Champion's award and brought this title to our home country. Through this experience, I learned to chase my dreams always!
-
-> I learned to chase my dreams always!
-
-### How do you split the work?
-
-We split the work into 3 groups : 3 members worked on the project, 2 on the programming and 2 on the design, and we organized practice sessions for the core values. we had 2 mentors that were more than amazing and at the end of each practice session we shared what we did and we organized skype session with our coach each week
-
-Follow the team on their <a href="https://www.facebook.com/Fast-and-Curious-314667118644505/">Facebook Page</a>
-
-![]({{ site.baseurl }}/assets/images/HallOfFame/FastandCurious3.jpg)
+A successful team is not ten people that can build a robot. It’s an artist, an actor, a programmer, a designer, a technician, a musician, a researcher and somebody able to put everything together. We had all lots of different skills and wanted to make use of them. FIRST LEGO league is not a robotics only competition and figuring out that many aspects are involved and learning how to tackle all of them is key. Studying the rubrics is also important as they give lots of hints and useful ideas on how to approach problems and therefore be successful. On our first ever competition we didn't even read all the robot game rules…  we built a very tall structure and luckily later found that there wasn't a height limit, but if this happened this season, where the height limit was lowered to 12 inches, we would have definitely lost lots of points.
 
 
+### Why did you win your last year?
+
+The reason why we won the third year we participated is that our coach let us make our mistakes the previous years. We went through some epic fails and a lot of disappointments. That’s what gave us the boost to work harder, revisit our approach and improve it. 
+
+> Fail now and be the best!
+
+Follow the team on their <a href="tech-no-logic.weebly.com">Website</a>, <a href=" youtube.com/c/flldonbosco">YouTube</a>, and <a href="http://www.instagram.com/idb.tech.no.logic  )">Instagram</a>.
