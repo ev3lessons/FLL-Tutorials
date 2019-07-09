@@ -21,5 +21,5 @@ Design by Sam Last
 Design Files:
  <a href="/translations/en-us/RobotGame/MediumMotorChassis.lxf">LXF of Chassis
  </a>
- <br> <a href="/translations/en-us/RobotGame/MediumMotorChassisAttachment.lxf">LXF of Attachment
+ <br> <a href="/translations/en-us/RobotGame/MediumMotorAttachment.lxf">LXF of Sample Attachment
  </a>
