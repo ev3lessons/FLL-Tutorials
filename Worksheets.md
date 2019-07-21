@@ -21,18 +21,15 @@ comments: true
 <br><br><br>
             <div class="row listfeaturedtag">
 
-# CITY SHAPER Worksheets [Coming Soon!]
-- Learn the Missions
-- Mission Evaluation Worksheets
-- Strategy Planning Worksheets
-- Robot Design Worksheets
-- Pseudocode Worksheets
-- Project Selection Worksheets
-- Learn the Core Values
+<h2> CITY SHAPER Worksheets [Coming Soon!] </h2> <br>
+- Learn the Missions<br>
+- Mission Evaluation Worksheets<br>
+- Strategy Planning Worksheets<br>
+- Robot Design Worksheets<br>
+- Pseudocode Worksheets<br>
+- Project Selection Worksheets<br>
+- Learn the Core Values<br>
 
-# INTO ORBIT Worksheets
-- [Mission Evaluation Worksheets](http://flltutorials.com/translations/en-us/RobotGame/StrategyWorksheet.pdf)
-- [Pseudocode Worksheets](http://flltutorials.com/translations/en-us/RobotGame/PseudocodeWorksheet.pdf)
 
 
             {% for post in site.posts %}
