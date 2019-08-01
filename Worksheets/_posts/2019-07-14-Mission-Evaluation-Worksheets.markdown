@@ -10,4 +10,5 @@ tag: Worksheets
 featured: false
 ---
 
-Available Aug 1
+<a href="/translations/en-us/Worksheets/MissionEvaluation.pdf">PDF</a>
+
