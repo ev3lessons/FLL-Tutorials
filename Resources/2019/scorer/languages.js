@@ -296,6 +296,8 @@ if (language == "pt" || language == "pt-br") {
 
 
 } else if (language == "es") {
+    translatorCredit = "Traducido al español por Antonio Zumaquero, entrenador, mentor y juez FLL en España"
+
     yes = "Sí"
     no = "No"
     partly = "Parcialmente"
@@ -304,11 +306,11 @@ if (language == "pt" || language == "pt-br") {
     saveText = "Guardar"
     savescoreText="Guardar Puntuación"
     loadsaveText="Cargar Puntuación:"
-    deletesaveText="Eliminar Guardadas"
-    importsaveText="Importar Guardada"
-    exportsaveText="Exportar Guardada"
-    signin = "Iniciar sesión con"
-    signout = "Desconectar de"
+    deletesaveText="Eliminar Puntuaciones Guardadas"
+    importsaveText="Importar Archivo"
+    exportsaveText="Exportar Archivo"
+    signin = "Iniciar sesión como"
+    signout = "Desconectarse de"
     GoogleCreate = "Crear Nueva Hoja de Cálculo"
     GoogleOpen = "Abrir Hoja de Cálculo de Google"
     created = "Creada"
@@ -319,22 +321,20 @@ if (language == "pt" || language == "pt-br") {
     totalText = "Puntuación Total"
     savedText = "Guardada"
     loadedText = "Cargada"
-    googleSaveText = "Hojas de Google (Por Defecto)"
+    googleSaveText = "Hojas de Google (Por defecto)"
     localSaveText = "Almacenamiento en Navegador Local (Heredado)"
-    isIE = " El sistema de guardado de Google no es compatible con Microsoft Internet Explorer. Puede cambiar a otro navegador o continuar usando el sistema de guardado heredado (haga clic arriba)"
-    systemText="Sistema de ahorro: "
+    isIE = "El sistema de guardado de Google no es compatible con Microsoft Internet Explorer. Puede cambiar a otro navegador o continuar usando el sistema de guardado heredado (haga clic arriba)."
 
-    googleIntro = " Puede guardar sus puntuaciones en una hoja de cálculo de Google. Esto le ayuda a mantener un registro del progreso durante la temporada. Vea las instrucciones en la parte inferior de la página."
+    googleIntro = "Puede guardar sus puntuaciones en una hoja de cálculo de Google. Esto le ayuda a mantener un registro del progreso durante la temporada. Vea las instrucciones en la parte inferior de la página."
     pastSaves = "Anteriormente Guardadas"
     instructions = "Instrucciones"
-    instructionsA = " Los pasos clave para usar el sistema de guardado son:"
+    instructionsA = "Los pasos clave para usar el sistema de guardado son:"
     instructionsB = '1. Inicie sesión en su cuenta de Google. Puede recibir una advertencia de "Esta aplicación no está verificada". Si es así, haga clic en "Avanzado" y luego en "Ir a Marcador FLL (FLL Scorer) (inseguro)"'
     instructionsC = '2. Si no ha creado una hoja de cálculo anteriormente, haga clic en "Crear nueva hoja de cálculo"'
     instructionsD = '3. Si creó una hoja de cálculo anteriormente, asegúrese de que el campo ID de la hoja de Google esté completo y no esté "indefinido". Si desea compartir una hoja de cálculo entre dispositivos, debe introducir esta identificación manualmente.'
     instructionsE = '4. Cada vez que desee guardar una puntuación, haga clic en "Guardar puntuación"; esto actualizará la hoja de cálculo con la puntuación y la fecha actuales.'
     instructionsF = '5. Si desea inspeccionar su hoja de cálculo y editarla, haga clic en "Abrir hoja de cálculo de Google". Si alguna vez necesita el ID de la hoja de Google, se encuentra en la URL de su hoja de cálculo cuando la abra.'
     instructionsG = '6. También puede recuperar una puntuación anterior específica en el marcador al introducir el número de guardado con los botones "+" y "-" y luego hacer clic en el botón "Cargar guardada:"'
-
 
     var monthNames = ["","Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
     improvementText = "Mejora"
@@ -345,12 +345,74 @@ if (language == "pt" || language == "pt-br") {
     stopText = "Parar"
     pointsText = "Puntos"
 
-    timerText = "Minutero:"
-    stopwatchText = "Cronógrafo:"
+    systemText = "Sistema de Guardado: "
 
+    timerText = "Temporizador:"
+    stopwatchText = "Parar Reloj:"
 
-    translatorCredit = "Traducido al español por Antonio Zumaquero, entrenador y mentor FLL en España"
+    idText = "ID de Hoja de Google: "
+    undefinedText = "indefinido"
 
+    revisionText = "Marcador CITY SHAPER Versión "
+    copyrightText = "Copyright (c) 2019 Seshan Brothers"
+
+    title = "Marcador CITY SHAPER"
+
+    A00="Beneficio"
+    A00a="¿El Equipamiento del equipo cabe en la Zona de Inspección Menor?"
+    A00b="5 puntos añadidos a cada Misión 1-13 y 5 adicionales a M02."
+
+    M01="Pisos Elevados"
+    M01a="¿Está el Robot <b>Soportado</b> por el Puente?"
+    M01b=" ¿Cuántas Banderas están claramente levantadas a cualquier altura, solo debido al Robot? "
+
+    M02="Grúa"
+    M02a="¿El Módulo Azul enganchado está claramente bajado a cualquier distancia desde el Agujero de la Guía?"
+    M02b="¿El Módulo Azul enganchado es <b>Independiente</b> y está <b>Soportado</b> por otro Módulo Azul?"
+    M02c="¿El Primer Nivel está Completamente Dentro del Círculo Azul?"
+
+    M03="Dron de Inspección"
+    M03a="¿Está el Dron de Inspección <b>Soportado</b> por el eje (A) del Puente?"
+
+    M04="Diseño para la Vida Silvestre"
+    M04a="¿Está el Murciélago <b>Soportado</b> por la rama (B) del Árbol?"
+
+    M05="Casa en el Árbol"
+    M05a="¿Cuántos Módulos son <b>Independientes</b> y están <b>Soportados</b> por las Ramas Grandes del Árbol?"
+    M05b="¿Cuántos Módulos son <b>Independientes</b> y están <b>Soportados</b> por las Ramas Pequeñas del Árbol?"
+
+    M06="Atasco de Tráfico"
+    M06a="¿Está el Atasco de Tráfico levantado, su parte móvil es <b>Independiente</b> y está <b>Soportado</b> solo por sus bisagras?"
+
+    M07="Columpio"
+    M07a="¿Está el Columpio liberado?"
+
+    M08="Montacargas"
+    M08a="¿Las partes móviles del Montacargas son <b>Independientes</b> y están <b>Soportadas</b> solo por sus bisagras y están en la posición Coche Azul abajo?"
+    M08b="¿Las partes móviles del Montacargas son <b>Independientes</b> y están <b>Soportadas</b> solo por sus bisagras y están en la posición Equilibrado?"
+
+    M09="Factor de Seguridad"
+    M09a="¿Cuántas vigas han sido apartadas al menos a medio camino?"
+    M09b="El Edificio Piloto tiene que ser <b>Independiente</b> y estar <b>Soportado</b> solo por las vigas azules"
+
+    M10="Construcción de Acero"
+    M10a="¿Está la Estructura de Acero enhiesta, y es <b>Independiente</b> y está <b>Soportada</b> solo por sus bisagras?"
+
+    M11="Arquitectura Innovadora"
+    M11a="¿Está la estructura <b>Completamente</b> dentro de cualquier Círculo?"
+    M11b="¿Está la estructura <b>Parcialmente</b> dentro de cualquier Círculo?"
+    M11c="La estructura debe ser diseñada por el equipo y claramente mayor que un Módulo Azul. Tiene que estar construida solo con las piezas LEGO de la bolsa 10."
+
+    M12="Diseño y Construcción"
+    M12a="¿Cuántos Círculos tienen al menos un Módulo de color coincidente con el Círculo y están <b>Completamente</b> Dentro, y en Contacto Plano con el Tapete?"
+    M12b="Si hay Pilas <b>Independientes</b> al menos <b>Parcialmente</b> Dentro de cualquier Círculo, ¿cuál es la suma de todas sus alturas juntas?"
+    M12c="El Círculo Azul no es parte de la Misión 12. Una Pila es uno o más Módulos con el primer Nivel en Contacto Plano con el Tapete y cualquier Nivel superior en Contacto Plano con su Nivel inferior."
+
+    M13="Mejoras en Sostenibilidad"
+    M13a="¿Cuántas Mejoras (paneles solares, techos verdes, aislamientos) son <b>Independientes</b> y están <b>Soportadas</b> solo por una Pila que se encuentra al menos Parcialmente Dentro de cualquier Círculo?"
+
+    M14="Precisión"
+    M14a="¿Cuántos Testigos de Precisión quedan en el Terreno de Juego?"
 
 
 
