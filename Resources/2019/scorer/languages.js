@@ -124,8 +124,6 @@ translatorCredit = ""
 
 if (language == "pt" || language == "pt-br") {
 
-    undefinedText = "Indefinido"
-    idText = "ID da Planilha Google"
     yes = "Sim"
     no = "Não"
     partly = "Parcialmente"
@@ -140,7 +138,7 @@ if (language == "pt" || language == "pt-br") {
     signin = "Entrar como"
     signout = "Sair"
     GoogleCreate = "Criar Nova Planilha"
-    GoogleOpen = "Abrir Planilha do Google "
+    GoogleOpen = "Abrir Planilha do Google"
     created = "Criado"
     savedto = "Salvo em"
     teamText = "Time"
@@ -150,21 +148,19 @@ if (language == "pt" || language == "pt-br") {
     savedText = "Salvo"
     loadedText = "Carregado"
     googleSaveText = "Planilha Google (Padrão)"
-    localSaveText = " Armazenamento do Navegador Local (Legacy)"
-    isIE = "O armazenamento no sistema Google é incompatível com o Microsoft Internet Explorer. Você pode escolher outro navegador ou continuar utilizando o Sistema de salvamento Legacy (clique acima)"
-    systemText = "Sistema de Salvamento: "
+    localSaveText = "Armazenamento do Navegador Local(Legacy)"
+    isIE = " O armazenamento no sistema Google é incompatível com o Microsoft Internet Explorer. Você pode escolher outro navegador ou continuar utilizando o Sistema de salvamento Legacy (clique acima)"
 
-    googleIntro = " Você pode salvar suas pontuações em uma planilha do Google. Isso ajuda você a acompanhar o progresso durante a temporada. Veja as instruções na parte inferior da página."
-    pastSaves = "Pontuações Anteriores"
+    googleIntro = "Você pode salvar suas pontuações em uma planilha do Google. Isso ajuda você a acompanhar o progresso durante a temporada. Veja as instruções na parte inferior da página."
+    pastSaves = " Pontuações Anteriores"
     instructions = "Instruções"
-    instructionsA = " Os principais passos para usar o sistema de salvamento são:"
+    instructionsA = "Os principais passos para usar o sistema de salvamento são:"
     instructionsB = '1. Faça login na sua conta do Google. Você pode receber um aviso "Este app não foi verificado". Se assim for, clique em "Avançado" e depois "Acessar flltutorials.com (não seguro)"'
     instructionsC = '2. Se você não criou uma planilha no passado - clique em "Criar Nova Planilha"'
     instructionsD = '3. Se você criou uma planilha no passado, verifique se o campo ID da planilha do Google está preenchido e não "undefined". Se você deseja compartilhar uma planilha entre dispositivos, é necessário inserir esse ID manualmente.'
     instructionsE = '4. Sempre que quiser salvar uma pontuação, clique em "Salvar Pontuação". Isso atualizará a planilha com a pontuação e data atuais.'
     instructionsF = '5. Se você desejar inspecionar sua planilha e editá-la, clique em "Abrir Planilha do Google". Se você precisar do ID da planilha do Google, ela estará na URL da sua planilha quando você a abrir.'
-    instructionsG = '6. Você também pode recuperar uma pontuação passada específica no marcador, entrando com o número de salvamento com os botões "+" e "-" e, em seguida, clicando no botão "Carregar Pontuação:" '
-
+    instructionsG = '6. Você também pode recuperar uma pontuação passada específica no marcador, entrando com o número de salvamento com os botões "+" e "-" e, em seguida, clicando no botão "Carregar Pontuação:"'
 
     var monthNames = ["","Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"];
     improvementText = "Evolução"
@@ -175,13 +171,76 @@ if (language == "pt" || language == "pt-br") {
     stopText = "Parar"
     pointsText = "Pontos"
 
+    systemText = "Sistema de Salvamento: "
+
     timerText = "Temporizador:"
-    stopwatchText = " Cronômetro:"
+    stopwatchText = "Cronômetro:"
 
+    idText = "ID Planilha Google: "
+    undefinedText = "indefinido"
 
-    translatorCredit = "Traduzido para o Português (Brasil) por Anderson Harayashiki Moreira"
+    revisionText = "Marcador CITY SHAPER Versão "
+    copyrightText = "Copyright (c) 2019 Seshan Brothers"
 
+    title = "Marcador CITY SHAPER"
 
+    A00="Vantagem"
+    A00a="O equipamento do time cabe na Área de Inspeção Pequena?"
+    A00b="5 pontos adicionados a cada missão de 1 a 13 e um adicional de 5 para a M02."
+
+    M01="Lugares elevados"
+    M01a="O Robô está <b>Apoiado</b> sobre a ponte?"
+    M01b="Quantas Bandeiras estão claramente levantadas a qualquer altura, somente pelo Robô"
+
+    M02="Guindaste"
+    M02a="O módulo Azul está claramente em uma posição mais baixa que a posição inicial?"
+    M02b="O módulo Azul está <b>Independente</b> e <b>Apoiado</b> sobre outro módulo Azul?"
+    M02c="O modulo de baixo está completamente dentro do círculo azul?"
+
+    M03="Drone de inspeção"
+    M03a="O Drone de Inspeção está <b>Apoiado</b> sobre o eixo (A) na Ponte?"
+
+    M04="Design para os animais"
+    M04a="O morcego está <b>Apoiado</b> pelo galho (B) da Árvore?"
+
+    M05="Casa na árvore"
+    M05a="Quantos módulos estão <b>Independentes</b> e <b>Apoiados</b> pelos Galhos Grandes da Árvore?"
+    M05b="Quantos módulos estão <b>Independentes</b> e <b>Apoiados</b> pelos Galhos Pequenos da Árvore?"
+
+    M06="Engarrafamento"
+    M06a="O Engarrafamento está levantado, e sua parte móvel está <b>Independente</b> e <b>Apoiada</b> apenas pela própria articulação da estrutura?"
+
+    M07="Balanço"
+    M07a="O Balanço está solto?"
+
+    M08="Elevador"
+    M08a="As partes móveis do Elevador estão <b>Independentes</b> e <b>Apoiadas</b> apenas pela própria articulação da estrutura com o carro azul para baixo?"
+    M08b=" As partes móveis do Elevador estão <b>Independentes</b> e <b>Apoiadas</b> apenas pela própria articulação da estrutura em equilíbrio?"
+
+    M09="Fator de Segurança"
+    M09a="Quantas vigas azuis foram derrubadas?"
+    M09b="O Edifício Teste está <b>Independente</b> e <b>Apoiado</b> somente pelas vigas azuis?"
+
+    M10="Construção em Aço"
+    M10a="A Estrutura em Aço está em pé e <b>Independente</b> e <b>Apoiada</b> somente pela própria articulação da estrutura?"
+
+    M11="Arquitetura Inovadora"
+    M11a="A estrutura está <b>Completamente</b> dentro de algum Círculo?"
+    M11b=" A estrutura está <b>Parcialmente</b> em algum Círculo?"
+    M11c="A estrutura criada pela equipe, deve ser claramente maior que o Módulo de Construção Azul e construída usando apenas blocos LEGO brancos."
+
+    M12="Planeje & Construa"
+    M12a="Quantos Círculos possuem ao menos um modulo da mesma cor <b>Completamente</b> Dentro, e Tocando o Tapete?"
+    M12b="Se existirem Pilhas <b>Independentes</b> que estejam pelo menos <b>Parcialmente</b> dentro de qualquer Círculo, qual a soma de todas as alturas juntas?"
+    M12c=" O Círculo Azul não é Parte da Missão 12. Uma Pilha corresponde a um ou mais Módulos de Construção, o nível 1 deve estar completamente dentro e tocando o Tapete. Os níveis superiores também devem estar tocando no nível inferior completamente)."
+
+    M13="Melhorias de Sustentabilidade"
+    M13a="Quantas melhorias (painéis solares, jardim no teto, isolamento) estão <b>Independente</b> e <b>Apoiadas</b> sobre uma Pilha que está pelo menos parcialmente dentro de qualquer Círculo?"
+
+    M14="Precisão"
+    M14a="Quantos discos de precisão foram deixados no campo?"
+
+    
 
 } else if (language == "de") {
     yes = "Ja"
