@@ -1,6 +1,8 @@
 
 // Default Language (English/en)
 
+translatorCredit = "If you would like to help us translate this scorer into another language, please download <a rel='external' data-ajax='false' href='CityShaper-translations-latest.rtf'>this file</a> and follow the instructions."
+
 yes = "Yes"
 no = "No"
 partly = "Partly"
@@ -117,13 +119,13 @@ M13a="How many Upgrades (solar panels, roof garden, insulation) are <b>Independe
 M14="Precision"
 M14a="How many Precision Tokens are left on the field?"
 
-translatorCredit = ""
 
 
 
 
 if (language == "pt" || language == "pt-br") {
-
+    translatorCredit = "Traduzido para Português (Brasil) por Anderson Harayashiki Moreira"
+    
     yes = "Sim"
     no = "Não"
     partly = "Parcialmente"
