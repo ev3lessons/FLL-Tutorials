@@ -302,18 +302,19 @@ if (language == "pt" || language == "pt-br") {
     translatorCredit = "Übersetzung von Tim@Cassapeia"
 
 } else if (language == "nl") {
+    translatorCredit = "Vertaald in het Nederlands door Irene Hulsen"
 
     yes = "Ja"
     no = "Nee"
-    partly = "Gedeeltelijk"
+    partly = "Gedeetelijk"
     completely = "Volledig"
     resetText = "Reset"
     saveText = "Opslaan"
-    savescoreText="Sla score op"
-    loadsaveText="Laad score:"
+    savescoreText="Score opslaan"
+    loadsaveText="Score laden:"
     deletesaveText="Verwijder scores"
-    importsaveText="Importeer scores"
-    exportsaveText="Exporteer scores"
+    importsaveText="Importeer bestand"
+    exportsaveText="Exporteer bestand"
     signin = "Aanmelden met"
     signout = "Uitloggen"
     GoogleCreate = "Nieuwe spreadsheet maken"
@@ -322,28 +323,26 @@ if (language == "pt" || language == "pt-br") {
     savedto = "Opgeslagen in"
     teamText = "Team"
     roundText = "Ronde"
-    dateText = "Datum/tijd"
+    dateText = "Datum/Tijd"
     totalText = "Totaal aantal punten"
     savedText = "Opgeslagen"
     loadedText = "Geladen"
-    googleSaveText = "Google Sheets (standaard)"
-    localSaveText = "Lokale browseropslag (oud)"
+    googleSaveText = "Google sheets (standaard)"
+    localSaveText = "Lokale browser opslag (oud)"
     isIE = "Google-opslagsysteem is niet compatibel met Microsoft Internet Explorer. Je kunt naar een andere browser overschakelen of doorgaan met het oude opslagsysteem (klik hierboven)"
-    systemText = "Opslagsysteem: "
 
-    googleIntro = "Je kunt je scores bewaren in een Google spreadsheet. Dit helpt je om de voortgang gedurende het seizoen bij te houden. Zie instructies onderaan de pagina."
+    googleIntro = "Je kunt je scores bewaren in een Google spreadsheet. Dit helpt je de voortgang gedurende het seizoen bij te houden. Zie instructies onderaan de pagina."
     pastSaves = "Opgeslagen scores"
     instructions = "Instructies"
     instructionsA = " De belangrijkste stappen om het opslagsysteem te gebruiken zijn:"
     instructionsB = '1. Meld je aan met je Google account. Je kunt de waarschuwing "Deze app is niet geverifieerd" krijgen. Indien dit het geval is, klik op "Geavanceerd" en vervolgens op "Ga naar FLL Scorer(onveilig)"'
-    instructionsC = '2. Indien je nog geen spreadsheet hebt gemaakt – klik op "Nieuwe spreadsheet maken"'
+    instructionsC = '2. Indien je nog geen spreadsheet hebt gemaakt – klik op "Nieuwe spreadsheet maken".'
     instructionsD = '3. Indien je al een spreadsheet hebt gemaakt, moet je ervoor zorgen dat je het Google Sheet ID hebt ingevoerd (niet "undefined"). Indien je de spreadsheet op meerdere apparaten wilt gebruiken, moet je dit ID handmatig invoeren.'
-    instructionsE = '4. Elke keer als je een score wilt opslaan, klik je op "Sla score op " - dit zal de spreadsheet bijwerken met de huidige score en datum '
-    instructionsF = '5. Indien je je spreadsheet wilt bekijken en bewerken, klik je op "Google Spreadsheet openen". Indien je het Google-spreadsheet-ID nodig hebt, vind je deze in de URL van de geopende spreadsheet.'
-    instructionsG = '6. Je kunt ook een specifieke oude score ophalen in de scorer door het opslagnummer in te voeren met de "+" en "-" knoppen en dan te klikken op de "Laad score:" knop '
+    instructionsE = '4. Elke keer als je een score wilt opslaan, klik je op "Score opslaan" - de spreadsheet wordt bijgewerkt met de huidige score en datum.'
+    instructionsF = '5. Indien je de spreadsheet wilt bekijken en bewerken, klik je op "Google Spreadsheet openen". Indien je het Google-spreadsheet-ID nodig hebt, vind je deze in de URL van de geopende spreadsheet.'
+    instructionsG = '6. Je kunt ook een specifieke oude score ophalen in de scorer door het opslagnummer in te voeren met de "+" en "-" knoppen en dan te klikken op de "Score laden:" knop'
 
-
-    var monthNames = ["","januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "october", "november", "december"];
+    var monthNames = ["","januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"];
     improvementText = "Verbetering"
     scorerText = "Scorer"
     timersText = "Timers"
@@ -352,9 +351,74 @@ if (language == "pt" || language == "pt-br") {
     stopText = "Stop"
     pointsText = "Punten"
 
+    systemText = "Opslag systeem: "
+
     timerText = "Timer:"
     stopwatchText = "Stopwatch:"
 
+    idText = "Google Sheet ID: "
+    undefinedText = "undefined"
+
+    revisionText = "CITY SHAPER Scorer Versie "
+    copyrightText = "Copyright (c) 2019 Seshan Brothers"
+
+    title = "CITY SHAPER Scorer"
+
+    A00="Voordeel"
+    A00a=" Past de uitrusting van het team in het kleine inspectiegebied?"
+    A00b="5 extra punten per voltooide missie(M01-M13), en nog eens 5 extra punten voor missie M02."
+
+    M01="Verhoogde plaatsen"
+    M01a=" Wordt de robot <b>ondersteund</b> door de brug?"
+    M01b="Hoeveel vlaggen zijn duidelijk op enige afstand opgeheven, alleen door de robot"
+
+    M02="Kraan"
+    M02a="Is de aangehaakte blauwe unit duidelijk verlaagd op enige afstand van het geleidegat?"
+    M02b="Is de aangehaakte blauwe unit <b>onafhankelijk</b> en  <b>ondersteund</b> door een andere blauwe unit?"
+    M02c="Is niveau 1 volledig in de blauwe cirkel?"
+
+    M03="Inspectiedrone"
+    M03a="Wordt de inspectiedrone <b>ondersteund</b> door de as (A) van de brug?"
+
+    M04="Ontwerp voor dieren in het wild"
+    M04a="Wordt de vleermuis <b>ondersteund</b> door de bruine tak (B) aan de boom?"
+
+    M05="Boomhut"
+    M05a="Aantal units <b>onafhankelijk</b> en <b>ondersteund</b> door de grote takken van de boom?"
+    M05b=" Aantal units <b>onafhankelijk</b> en <b>ondersteund</b> door de kleine takken van de boom?"
+
+    M06="File"
+    M06a="Staat de file omhoog, is zijn bewegende deel <b>onafhankelijk</b> en alleen <b>ondersteund</b> door zijn scharnieren?"
+
+    M07="Schommel"
+    M07a="Is de schommel vrijgegeven?"
+
+    M08="Lift"
+    M08a="De bewegende delen van de lift zijn <b>onafhankelijk</b> en alleen <b>ondersteund</b> door zijn scharnieren in de positie: blauwe wagen omlaag."
+    M08b="De bewegende delen van lift zijn <b>onafhankelijk</b> en alleen <b>ondersteund</b> door zijn scharnieren in de positie: in evenwicht."
+
+    M09="Veiligheidsfactor"
+    M09a="Hoeveel balken zijn ten minste halverwege omgeduwd?"
+    M09b="Het testgebouw moet <b>onafhankelijk</b> zijn en alleen  <b>ondersteund</b> worden door de blauwe balken."
+
+    M10="Staalconstructie"
+    M10a="Staat de staalconstructie, <b>onafhankelijk</b> en alleen <b>ondersteund</b> door zijn scharnieren?"
+
+    M11="Innovatieve architectuur"
+    M11a="Is de constructie <b>volledig</b> in een willekeurige cirkel?"
+    M11b="Is de constructie <b>gedeeltelijk</b> in een willekeurige cirkel?"
+    M11c="De constructie moet door het team zijn ontworpen, duidelijk groter zijn dan een blauwe unit en gebouwd zijn van de teams LEGO stenen uit zakje 10."
+
+    M12="Ontwerp & bouw"
+    M12a=" In hoeveel cirkels bevindt zich ten minste één unit van dezelfde kleur, <b>volledig</b> in en vlak op de mat?"
+    M12b="Als er <b>onafhankelijke</b> stapels zijn die zich ten minste <b>gedeeltelijk</b> in een willekeurige cirkel bevinden, wat is dan de som van al hun hoogten?"
+    M12c="De blauwe cirkel maakt geen deel uit van missie 12. Een stapel is één of meer gebouwunits waarbij niveau 1 de mat vlak raakt, en hogere niveaus het onderliggende niveau vlak raken."
+
+    M13="Duurzaamheid upgrades"
+    M13a="Hoeveel upgrades (zonnepanelen, daktuin, isolatie) zijn <b>onafhankelijk</b> en <b>ondersteund</b> op een stapel welke zich ten minste gedeeltelijk in een willekeurige cirkel bevindt?"
+
+    M14="Precisie"
+    M14a="Hoeveel precisie tekens zijn er op het veld gebleven?"
 
 } else if (language == "es") {
     translatorCredit = "Traducido al español por Antonio Zumaquero, entrenador, mentor y juez FLL en España"
@@ -565,61 +629,124 @@ translatorCredit = "Az appot magyarra fordította: a Tövis&ASAP csapat."
 
 
 } else if (language == "el") {
+    translatorCredit = "Μεταφρασμένο στα Ελληνικά από Δώρα Παζολίδου"
+
     yes = "Ναι"
     no = "Όχι"
     partly = "Μερικώς"
-    completely = " Εντελώς "
-    resetText = "Επανεκκίνηση"
+    completely = "Εντελώς"
+    resetText = "Επαναφορά"
     saveText = "Αποθήκευση"
     savescoreText="Αποθήκευση Βαθμολογίας"
-    loadsaveText="Άνοιγμα Βαθμολογίας:"
-    deletesaveText="Διαγραφή Βαθμολογίας "
-    importsaveText="Εισαγωγή Βαθμολογίας "
-    exportsaveText="Εξαγωγή Βαθμολογίας "
-    signin = " Συνδεθείτε με "
-    signout = " Αποσυνδεθείτε"
-    GoogleCreate = "Δημιουργήστε Νέο Φύλλο Εργασίας"
-    GoogleOpen = "Άνοιγμα Google Φύλλο Εργασίας "
-    created = " Δημιουργήθηκε "
-    savedto = " Αποθηκεύτηκε στο "
+    loadsaveText="Εμφάνιση Βαθμολογίας:"
+    deletesaveText="Διαγραφή Αποθηκευμένων Βαθμολογιών"
+    importsaveText="Εισαγωγή Αρχείου"
+    exportsaveText="Εξαγωγή Αρχείου"
+    signin = "Σύνδεση"
+    signout = "Αποσύνδεση"
+    GoogleCreate = "Δημιουργία νέου Spreadsheet"
+    GoogleOpen = "Άνοιγμα Google Spreadsheet"
+    created = "Δημιουργήθηκε"
+    savedto = "Αποθηκεύτηκε"
     teamText = "Ομάδα"
     roundText = "Γύρος"
     dateText = "Ημερομηνία/Ώρα"
-    totalText = "Συνολικοί Πόντοι"
+    totalText = "Σύνολο Πόντων"
     savedText = "Αποθηκευμένο"
     loadedText = "Φορτωμένο"
-    googleSaveText = " Φύλλα Εργασίας Google (Προκαθορισμένο)"
-    localSaveText = "Τοπικό σύστημα αποθήκευσης (Πρόσφατο)"
-    isIE = " Το σύστημα αποθήκευσης Google δεν είναι συμβατό με τον Microsoft Internet Explorer. Μπορείτε είτε να μεταβείτε σε άλλο πρόγραμμα περιήγησης είτε να συνεχίσετε χρησιμοποιώντας το παλαιό σύστημα αποθήκευσης (κάντε κλικ παραπάνω)"
+    googleSaveText = "Google Sheets (Προεπιλογή)"
+    localSaveText = "Τοπική Αποθήκευση Browser (Παλαιού τύπου)"
+    isIE = "Το σύστημα αποθήκευσης Google δεν είναι συμβατό με τον Microsoft Internet Explorer. Μπορείτε είτε να μεταβείτε σε άλλο πρόγραμμα περιήγησης είτε να συνεχίσετε χρησιμοποιώντας το παλαιό σύστημα αποθήκευσης (κάντε κλικ παραπάνω)"
 
-    googleIntro = " Μπορείτε να αποθηκεύσετε τα αποτελέσματά σας σε ένα Φύλλο Εργασίας Google. Αυτό σας βοηθά να παρακολουθείτε την πρόοδο της περιόδου. Δείτε τις οδηγίες στο κάτω μέρος της σελίδας."
+    googleIntro = "Μπορείτε να αποθηκεύσετε τα αποτελέσματά σας σε ένα Google Spreadsheet. Αυτό σας βοηθά να παρακολουθείτε την πρόοδο της σεζόν. Δείτε τις οδηγίες στο κάτω μέρος της σελίδας."
     pastSaves = "Προηγούμενες Αποθηκεύσεις"
     instructions = "Οδηγίες"
-    instructionsA = "Τα βασικά βήματα χρήσης του συστήματος αποθήκευσης είναι:"
-    instructionsB = '1. Συνδεθείτε στο λογαριασμό σας στο Google. Μπορεί να δείτε το παρακάτω μήνυμα «Η εφαρμογή δεν είναι πιστοποιημένη». Αν ναι, πατήστε στο «για προχωρημένους» και μετά στο  "Go to FLL Scorer (Μη Ασφαλές)"'
-    instructionsC = '2. Εάν δεν έχετε δημιουργήσει Φύλλο Εργασίας ξανά στο παρελθόν – πατήστε στη "Δημιουργία Νέου Spreadsheet"'
-    instructionsD = '3. Εάν έχετε δημιουργήσει Φύλλο Εργασίας στο παρελθόν, σιγουρέψτε ότι το πεδίο Google Sheet ID είναι συμπληρωμένο και όχι κενό " απροσδιόριστο". Εάν επιθυμείτε να μοιραστείτε το Φύλλο Εργασίας με άλλες συσκευές, θα πρέπει να εισάγεται το ID σας ξανά.'
-    instructionsE = '4. Κάθε φορά που επιθυμείτε να αποθηκεύσετε τη βαθμολογία αποτελέσματα, πατήστε  "Αποθήκευση Βαθμολογίας" – αυτομάτως θα ενημερώνει το Φύλλο Εργασίας με την τρέχουσα Βαθμολογία και Ημερομηνία'
-    instructionsF = '5. Αν θέλετε να ελέγξετε το Φύλλο Εργασίας σας και να το επεξεργαστείτε, κάντε κλικ στο "Άνοιγμα του Φύλλο Εργασίας Google". Εάν χρειάζεστε ποτέ το Google Sheet ID - βρίσκεται στη URL διεύθυνση του Φύλλο Εργασίας όταν το ανοίγετε.'
-    instructionsG = '6. Μπορείτε επίσης να ανακτήσετε μια προηγούμενη βαθμολογία πληκτρολογώντας τον αριθμό αποθήκευσης που δώσατε και το πλήκτρο "+" και "-" στη συνέχεια πατήστε το πλήκτρο " Φόρτωση Αποθήκευσης:" '
+    instructionsA = "Τα βασικά βήματα για τη χρήση του συστήματος αποθήκευσης είναι:"
+    instructionsB = '1. Συνδεθείτε με το Google λογαριασμό σας. Μπορεί να εμφανιστεί η προειδοποίηση "Αυτή η εφαρμογή είναι άγνωστης προέλευσης" . Αν ναι,  πατήστε "Advanced" και μετά "Go to FLL Scorer (μη ασφαλής)"'
+    instructionsC = '2. Αν δεν έχετε δημιουργήσει ένα spreadsheet στο παρελθόν  - πατήστε "Δημιουργία Νέου Spreadsheet"'
+    instructionsD = '3. Αν έχετε δημιουργήσει ένα spreadsheet στο παρελθόν , σιγουρευτείτε ότι το πεδίο Google Sheet ID είναι συμπληρωμένο  και όχι "απροσδιόριστο ". Αν θέλετε να μοιραστείτε ένα spreadsheet μεταξύ συσκευών, χρειάζεται να εισάγετε εσείς αυτό το ID.'
+    instructionsE = '4. Κάθε φορά που θέλετε να αποθηκεύσετε μία βαθμολογία, πατήστε "Αποθήκευση Βαθμολογίας" – αυτό θα ανανεώσει το spreadsheet με την τωρινή βαθμολογία και ημερομηνία'
+    instructionsF = '5. Αν θέλετε να δείτε το δικό σας spreadsheet και να το επεξεργαστείτε, πατήστε στο "Άνοιγμα Google Spreadsheet". Αν ποτέ χρειαστείτε το Google Sheet ID – είναι στο URL του spreadsheet σας όταν το ανοίγετε.'
+    instructionsG = '6. Επίσης μπορείτε να ανακτήσετε μια συγκεκριμένη προηγούμενη βαθμολογία στην εφαρμογή εισάγοντας τον αριθμό αποθήκευσης με τα κουμπιά "+" και "-" και κάνοντας κλικ στο πλήκτρο "Εμφάνιση Βαθμολογίας:"'
 
 
-    var monthNames = ["","Ιανουάριος", "Φεβρουάριος", "Μάρτιος", "Απρίλιος", "Μάϊος", "Ιούνιος", "Ιούλιος", "Αύγουστος", "Σεπτέμβριος", "Οκτώβριος", "Νοέμβριος", "Δεκέμβριος"];
-    improvementText = " Βελτιώσεις"
-    scorerText = "Βαθμολογίες"
-    timersText = "Μετρητές"
+    var monthNames = ["","Ιανουάριος", "Φεβρουάριος", "Μάρτιος", "Απρίλιος", "Μάιος", "Ιούνιος", "Ιούλιος", "Άυγουστος", "Σεπτέμβριος", "Οκτώβριος", "Νοέμβριος", "Δεκέμβριος"];
+    improvementText = "Βελτίωση"
+    scorerText = "Σκόρερ"
+    timersText = "Χρόνοι"
     savesText = "Αποθηκεύσεις"
     startText = "Εκκίνηση"
-    stopText = "Τερματισμός"
+    stopText = "Διακοπή"
     pointsText = "Πόντοι"
 
-    systemText = "Σύστημα Αποθήκευσης:"
+    systemText = "Σύστημα αποθήκευσης: "
 
-    timerText = "Χρονοδιακόπτης:"
-    stopwatchText = "Χρονόμετρο:"
+    timerText = "Χρονόμετρο:"
+    stopwatchText = "Διακοπή χρονομέτρου:"
 
+    idText = "Google Sheet ID: "
+    undefinedText = "απροσδιόριστο"
 
-    translatorCredit = "Μετάφραση από το WEB STAR - ΗΛΙΑΔΗΣ ΝΕΚΤΑΡΙΟΣ"
+    revisionText = "Έκδοση CITY SHAPER Σκόρερ "
+    copyrightText = "Πνευματική ιδιοκτησία  (c) 2019 Seshan Brothers"
+
+    title = "CITY SHAPER Σκόρερ "
+
+    A00="Πλεονέκτημα"
+    A00a="Χωράει ο εξοπλισμός της ομάδας στην Μικρή Περιοχή Επιθεώρησης?"
+    A00b="5 Πόντοι προστίθενται σε κάθε Αποστολή 1-13 και επιπλέον 5 στην M02."
+
+    M01="Ανυψωμένες Θέσεις"
+    M01a="<b>Υποστηρίζετε</b>το ρομπότ από την γέφυρα?"
+    M01b="Πόσες σημαίες έχουν σηκωθεί σε οποιαδήποτε απόσταση, μόνο από το ρομπότ"
+
+    M02="Γερανός"
+    M02a="Είναι η κρεμασμένη μπλε μονάδα εμφανώς κατεβασμένη σε οποιαδήποτε απόσταση από το Guide Hole?"
+    M02b="Είναι η κρεμασμένη μπλε μοναδα<b>ανεξάρτητη</b> και <b> υποστηρίζεται</b> από μία άλλη μπλε μονάδα?"
+    M02c="Είναι το επίπεδο 1 εντελώς μέσα στον μπλε κύκλο?"
+
+    M03="Inspection Drone"
+    M03a="<b>Στηρίζεται</b> το Inspection Drone από τον άξονα (A) στη γέφυρα?"
+
+    M04="Σχεδιασμένο για άγρια ζωή "
+    M04a="<b>Στηρίζεται</b> η νυχτερίδα από το καφέ κλαδί (B) στο δένδρο?"
+
+    M05="Δενδρόσπιτο "
+    M05a="Πόσες μονάδες είναι <b>Ανεξάρτητες</b> και <b>Στηρίζονται</b> από τα μεγάλα κλαδιά του δένδρου?"
+    M05b="Πόσες μονάδες είναι <b>Ανεξάρτητες</b> και <b>Στηρίζονται</b> από τα μικρά κλαδιά του δένδρου?"
+
+    M06="Κυκλοφοριακή κίνηση"
+    M06a="Ειναι η κυκλοφοριακή κίνηση σηκωμένη, δηλ. Το κινούμενο κομμάτι είναι <b>ανεξάρτητο</b> και <b>στηρίζεται</b> μόνο από τους μεντεσέδες του?"
+
+    M07="Κούνια "
+    M07a="Είναι η κούνια απελευθερωμένη?"
+
+    M08="Ανελκυστήρας"
+    M08a="Είναι τα κινούμενα κομμάτια του ανελκυστήρα <b>Ανεξάρτητα</b> και <b> Στηρίζονται</b> μόνο από τους μεντεσέδες όταν είναι κάτω το μπλε αυτοκίνητο?"
+    M08b="Είναι τα κινούμενα κομμάτια του ανελκυστήρα <b>Ανεξάρτητα</b> και <b> Στηρίζονται</b> μόνο από τους μεντεσέδες στην στάση ισορροπίας?"
+
+    M09="Παράγοντας ασφαλείας "
+    M09a="Πόσοι δοκοί έχουν πέσει τουλάχιστον μέχρι τη μέση της διαδρομής?"
+    M09b="Το Κτίριο Δοκιμασίας πρέπει να είναι <b>Ανεξάρτητο</b> και <b>Στηρίζεται</b> μόνο από τα μπλε δοκάρια"
+
+    M10="Ατσάλινη Κατασκευή"
+    M10a="Στέκεται η ατσάλινη κατασκευή , και είναι <b>Ανεξάρτητη</b> και <b> Στηρίζεται</b> μόνο από τους μεντεσέδες της?"
+
+    M11="Πρωτοποριακή αρχιτεκτονική "
+    M11a="Είναι η κατασκευή <b>Εντελώς</b> μέσα σε οποιοδήποτε κύκλο?"
+    M11b="Είναι η κατασκευή <b>Μερικώς</b> μέσα σε οποιοδήποτε κύκλο?"
+    M11c="Η Κατασκευή πρέπει να είναι σχεδιασμένη από την ομάδα και εμφανώς μεγαλύτερη από την μπλε μονάδα. Πρέπει να είναι κατασκευασμένο από τα LEGO κομμάτια της ομάδας από το σακουλάκι 10."
+
+    M12="Σχέδιο & Κατασκευή "
+    M12a="Πόσοι κύκλοι έχουν τουλάχιστον μία μονάδα αντίστοιχου χρώματος <b>Εντελώς</b> μέσα και ακουμπάνε κάτω στο Mat?"
+    M12b="Αν υπάρχουν <b>Ανεξάρτητες</b> Στοίβες τουλάχιστον <b>Μερικώς</b> μεσα σε οποιοδήποτε Κύκλο, ποιό είναι το άθροισμα όλων των υψών τους?"
+    M12c="Ο Μπλέ Κύκλος δεν είναι Μέρος της Αποστολής 12. Μια Στοίβα είναι μία ή περισσότερες Κτιριακές Μονάδες με Επίπεδο 1 και το Κάτω Επίπεδο αγγίζει το Mat, και οποιαδήποτε υψηλότερα επίπεδα αγγίζουν με το Κάτω Μέρος τους στο επίπεδο που ακολουθεί"
+
+    M13="Αναβαθμίσεις βιωσιμότητας"
+    M13a="Πόσες Αναβαθμίσεις(ηλιακά πάνελ, κήπος σε ταράτσα, μόνωση) είναι <b>Ανεξάρτητα</b> και <b>Στηριζόμενα</b> σε μια Στοίβα που είναι τουλάχιστον εν μέρει σε οποιονδήποτε Κύκλο?"
+
+    M14="Ακρίβεια"
+    M14a="Πόσα Precision Tokens έχουν μείνει στην πίστα?"
 
 
 } else if (language == "fr") {
