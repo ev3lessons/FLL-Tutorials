@@ -245,61 +245,123 @@ if (language == "pt" || language == "pt-br") {
     
 
 } else if (language == "de") {
+    translatorCredit = "Übersetzung von Tim Waibel (Team Cassapeia)"
+
     yes = "Ja"
     no = "Nein"
     partly = "Teilweise"
-    completely = "Komplett"
+    completely = "Vollständig"
     resetText = "Zurücksetzen"
     saveText = "Speichern"
-    savescoreText="Score Speichern"
-    loadsaveText="Gespeicherten Score laden:"
-    deletesaveText="Gespeicherte Scores löschen"
-    importsaveText="Gespeicherten Score importieren"
-    exportsaveText="Gespeicherten Score exportieren"
+    savescoreText="Punktzahl speichern"
+    loadsaveText="Punktzahl laden:"
+    deletesaveText="Gespeicherte Punktzahlen laden"
+    importsaveText="Datei importieren"
+    exportsaveText="Datei exportieren"
     signin = "Anmelden mit"
-    signout = "Abmelden von"
-    GoogleCreate = "Neues Spreadsheet erstellen"
+    signout = "Abmelden aus"
+    GoogleCreate = "Neues Google Spreadsheet erstellen "
     GoogleOpen = "Google Spreadsheet öffnen"
     created = "Erstellt"
-    savedto = "Gespeichert nach"
+    savedto = "Gespeichert unter"
     teamText = "Team"
     roundText = "Runde"
     dateText = "Datum/Uhrzeit"
-    totalText = "Gesamt Punkte"
+    totalText = "Gesamtpunktzahl"
     savedText = "Gespeichert"
     loadedText = "Geladen"
     googleSaveText = "Google Sheets (Standard)"
-    localSaveText = "Lokaler Speicher des Browsers"
-    isIE = "Das System zum Abspeichern der Daten mit Google ist nicht kompatibel mit dem Internet Explorer. Sie können einen anderen Browser erwenden oder die Daten lokal speichern (siehe oben)"
+    localSaveText = "Festplatte"
+    isIE = "In Google speichern funktioniert nicht im Internet Explorer. Du kannst entweder einen anderen Browser benutzen oder auf der Festplatte speichern (siehe oben)."
 
-    googleIntro = "Soe können die Scores in ein Google Spreadsheet speichern. Das erleichtert das Verfolgen der Scores im Verlauf der Saison. Die Anleitung hierzu befindet sich am Ende der Seite."
-    pastSaves = "Abgespeicherte Scores"
+    googleIntro = "Du kannst deine Punktzahlen in einem Google Spreadsheet speichern. Das hilft Dir, deinen Fortschritt während der Saison zu verfolgen. Für eine Anleitung an das Ende der Seite scrollen."
+    pastSaves = "Gespeicherte Punktzahlen"
     instructions = "Anleitung"
-    instructionsA = "Die wichtigsten Schritte, um das Speichersystem zu nutzen:"
-    instructionsB = '1. Melden Sie sich mit Ihrem Google Account an. Evtl. erscheint eine Warnung, dass diese App nicht verifiziert ist. Falls dies geschieht, klicken sie auf "Erweitert" und "Zu FLL Scorer fortfahren (unsicher)"'
-    instructionsC = '2. Wenn Sie noch kein Spreadsheet angelegt haben, klicken Sie auf "Neues Spreadsheet erstellen"'
-    instructionsD = '3. Wenn Sie schon ein Spreadsheet angelegt haben, stellen Sie sicher, dass sie die Google Sheet ID eingetragen haben (und nicht "Undefined"). Wenn Sie das Spreadsheet auf mehreren Geräten benutzen möchten, müssen Sie diese ID manuell eintragen.'
-    instructionsE = '4. Wenn Sie einen Score speichern möchten, klicken Sie "Score Speichern" - dadurch werden Score und das aktuelle Datum in das Spradsheet eingetragen'
-    instructionsF = '5. Wenn Sie ihr Spreadsheet ansehen und bearbeiten möchten, klicken Sie auf "Google Spreadsheet öffnen". Sollten Sie die Google Sheet ID benötigen, finden Sie diese in der URL ihres geöffneten Spreadsheets.'
-    instructionsG = '6. Sie können einen beliebigen alten Score wieder im Scorer anzeigen lassen, indem Sie die Speichernummer des Scores und die "+" und "-" sowie den "Gespeicherten Score laden" Button benutzen.'
-
+    instructionsA = "Die Hauptschritte beim Speichern und Laden von Punktzahlen sind:"
+    instructionsB = '1. Melde Dich in Deinem Google-Account an. Evtl. Erhältst Du eine Warnung “diese App ist nicht verifiziert”. Falls das der Fall ist, klicke auf “Erweitert” und fahre dann “Fortfahren (unsicher)”.'
+    instructionsC = '2. Falls Du noch kein Spreadsheet erstellt hast, klicke auf “Neues Spreadsheet erstellen”.'
+    instructionsD = '3. Falls Du schon ein Spreadsheet erstellt hast, überprüfe, dass das Feld für die Google Sheet ID ausgefüllt ist und nicht “undefiniert”. Falls Du das Spreadsheet auf verschiedenen Geräten verwenden möchtest, must Du diese ID manuell eingeben.'
+    instructionsE = '4. Um eine Punktzahl zu speichern, klicke auf “Punktzahl speichern”. Dies wird die aktuelle Punktzahl und das aktuelle Datum in das Spreadsheet eintragen.'
+    instructionsF = '5. Um Dein Spreadsheet zo öffnen und zu editieren, klicke auf “Google Spreadsheet öffnen”. Die Google Sheet ID ist Teil der URL des geöffneten Spreadsheets.'
+    instructionsG = '6. Du kannst bestimmte Punktzahlen auch laden, indem du die ID der Punktzahl mit den “+” und “-“ Buttons einstellst und dann auf “Punktzahl laden” klickst.'
 
     var monthNames = ["","Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"];
     improvementText = "Verbesserung"
     scorerText = "Punkterechner"
-    timersText = "Timer"
-    savesText = "Gespeicherte Scores"
+    timersText = "Zeitnehmer"
+    savesText = "Punktzahlen"
     startText = "Start"
     stopText = "Stop"
     pointsText = "Punkte"
 
-    systemText = "System speichern: "
+    systemText = "Speicherort: "
 
     timerText = "Timer:"
     stopwatchText = "Stoppuhr:"
 
+    idText = "Google Sheet ID: "
+    undefinedText = "undefiniert"
 
-    translatorCredit = "Übersetzung von Tim@Cassapeia"
+    revisionText = "CITY SHAPER Punkterechner Version "
+    copyrightText = "Copyright (c) 2019 Seshan Brothers"
+
+    title = "CITY SHAPER Punkterechner"
+
+    A00="Bonus"
+    A00a="Passt das komplette Material des Teams in die kleine Inspektionszone?"
+    A00b="5 Zusatzpunkte für jede (teilweise) gelöste Aufgabe 1-13 und nochmal 5 Punkte für Aufgabe 2."
+
+    M01="Brücke"
+    M01a="<b>Trägt</b> die Brücke den Roboter?"
+    M01b="Wie viele Flaggen sind eindeutig – nur durch den Roboter – beliebig weit gehisst?"
+
+    M02="Kran"
+    M02a="Ist die hängende blaue Wohneinheit eindeutig und beliebig weit weg von der grauen Seilführung an der Kranspitze abgesenkt?"
+    M02b=" Ist die hängende blaue Wohneinheit <b>eigenständig</b> und wird von einer anderen blauen Wohneinheit <b>getragen</b>?"
+    M02c="Ist die untere Wohneinheit vollständig im blauen Kreis?"
+
+    M03="Inspektionsdrohne"
+    M03a="Wird die Inspektionsdrohne von der Achse (A) an der Brücke <b>getragen</b>?"
+
+    M04="Lebensraum für Tiere"
+    M04a="Wird die Fledermaus vom Ast (B) des Baums <b>getragen</b>?"
+
+    M05="Baumhaus"
+    M05a="Wie viele Wohneinheiten sind <b>eigenständig</b> und werden von den großen Ästen des Baums <b>getragen</b>?"
+    M05b=" Wie viele Wohneinheiten sind <b>Eigenständig</b> und werden von den kleinen Ästen des Baums <b>getragen</b>?"
+
+    M06="Stau"
+    M06a="Ist der Stau angehoben, wobei der bewegliche Teil <b>eigenständig</b> ist und nur von seinen Scharnieren <b>getragen</b> wird?"
+
+    M07="Schaukel"
+    M07a="Ist die Schaukel ausgeklinkt?"
+
+    M08="Aufzug"
+    M08a="Sind die beweglichen Teile des Aufzugs <b>eigenständig</b>, nur von ihren Scharnieren <b>getragen</b> und die blaue Kabine befindet sich unten?"
+    M08b=" Sind die beweglichen Teile des Aufzugs <b>eigenständig</b>, nur von ihren Scharnieren <b>getragen</b> und der Aufzug ist ausbalanciert?"
+
+    M09="Testgebäude"
+    M09a="Wie viele Träger sind mindestens zur Hälfte herausgeschlagen?"
+    M09b="Das Testgemäude muss <b>eigenständig</b> sein und nur von den blauen Trägern <b>Getragen</b> warden."
+
+    M10="Stahlbau"
+    M10a="Steht die Stahlkonstruktion <b>eigenständig</b> und wird dabei nur von ihren Scharnieren <b>getragen</b>?"
+
+    M11="Innovative Architektur"
+    M11a="Ist die Konstruktion <b>vollständig</b> in einem beliebigen Kreis?"
+    M11b="Ist die Konstruktion <b>teilweise</b> in einem beliebigen Kreis?"
+    M11c="Die Konstruktion muss von eurem Team gestaltet sein und eindeutig größer al seine blaue Wohneinheit sein. Sie darf nur aus den Legoteilen aus Beutel 10 bestehen. "
+
+    M12="Entwerfen & Bauen"
+    M12a="In wie vielen Kreisen befindet sich mindestens eine farblich passende Wohneinheit <b>vollständig</b> und steht flach auf der Spielfeldmatte?"
+    M12b="Falls es <b>eigenständige</b> Stapel gibt, die sich mindestens <b>teilweise</b> in einem beliebigen Kreis befinden, was ist die Summe all ihrer Etagen?"
+    M12c="Der blaue Kreis ist nicht Teil von Aufgabe 12. Ein Stapel ist eine oder mehrere Wohneinheiten, deren unterste Etage flach auf der Spielfeldmatte liegt und jede höhere Etage liegt flach auf der darunterliegenden Etage."
+
+    M13="Nachhaltigkeit "
+    M13a="Wie viele Nachrüstungen (Solarmodule, Dachgarten, Isolierung) sind <b>eigenständig</b> und warden von einem Stapel <b>getragen</b>, der mindestens teilweise in einem beliebigen Kreis steht?"
+
+    M14="Präzision"
+    M14a="Wie viele Präzisionsmarken befinden sich noch auf dem Spielfeld?"
 
 } else if (language == "nl") {
     translatorCredit = "Vertaald in het Nederlands door Irene Hulsen"
