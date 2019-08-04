@@ -11,6 +11,6 @@ featured: false
 ---
 
 Nina Chase: <a href="/translations/en-us/Worksheets/NinaChase.pdf">PDF</a>
-StephenLee: <a href="/translations/en-us/Worksheets/StephenLee.pdf">PDF</a>
+Stephen Lee: <a href="/translations/en-us/Worksheets/StephenLee.pdf">PDF</a>
 
 

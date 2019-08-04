@@ -1,5 +1,5 @@
 ---
-title: "Kickoff Presentation"
+title: "CITY SHAPER Kickoff Presentation"
 searchterms: 
 layout: post
 language: "en"
@@ -10,6 +10,6 @@ tag: Worksheets
 featured: false
 ---
 
-KickoffPresentation: <a href="/translations/en-us/Worksheets/KickoffPresentation.pdf">PDF</a>
+Kickoff Slides: <a href="/translations/en-us/Worksheets/KickoffPresentation.pdf">PDF</a>
 
 
