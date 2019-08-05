@@ -3,8 +3,8 @@
 all_mission = []
 
 function createbutton(mission,points,description){
-  window[mission] = 0
-  window[mission+'save'] = 0
+    window[mission] = 0
+    window[mission+'save'] = 0
     document.write('<tr>\
 <td style="font-size: 90%; padding-left: 10px; padding-right: 5px; background-color: sky;"><!--<i class="only-print">__/'+points.toString()+'</i>-->\
   '+description+'\
@@ -23,8 +23,8 @@ function createbutton(mission,points,description){
 }
 
 function create3button(mission,points,points2,description){
-  window[mission] = 0
-  window[mission+'save'] = 0
+    window[mission] = 0
+    window[mission+'save'] = 0
     document.write('<tr>\
   <td style="font-size: 90%; padding-left: 10px; padding-right: 5px; background-color: sky;">\
   '+description+'\
@@ -45,7 +45,7 @@ function create3button(mission,points,points2,description){
 }
 
 function createcomment(description){
-  document.write('<tr>\
+    document.write('<tr>\
   <td style="font-size: 90%; padding-left: 10px; padding-right: 5px; color: #990000">\
   '+description+'\
   </td>\
@@ -53,11 +53,11 @@ function createcomment(description){
 }
 
 function createrange(mission, increment, min, max, start, description,js) {
-  window[mission] = 0
-  window[mission+'save'] = 0
-  window[mission+'inc'] = increment
+    window[mission] = 0
+    window[mission+'save'] = 0
+    window[mission+'inc'] = increment
 
-  document.write('<tr>\
+    document.write('<tr>\
   <td style="font-size: 90%; padding-left: 10px; padding-right: 5px; background-color: white;">\
   '+description+'	  </td>\
   </tr>\
@@ -76,17 +76,24 @@ function createrange(mission, increment, min, max, start, description,js) {
 
 
 function starttable(mission, title, image, children, extrarows){
-  x = 0
-  //width="'+(window.innerWidth/columnCount-5)+'"
-  element = 1 + 2*children.length + extrarows
-  all_mission = all_mission.concat([[mission,children]])
-  document.write('\
+    x = 0
+
+    if (mission == "A00") {
+	missionDisp = ""
+    }
+    else {
+	missionDisp = missionNumbering + mission.split("M")[1] + " - "
+    }
+    //width="'+(window.innerWidth/columnCount-5)+'"
+    element = 1 + 2*children.length + extrarows
+    all_mission = all_mission.concat([[mission,children]])
+    document.write('\
   <div class="missionFmt">\
   <table style="width:100%; border: 1px solid indigo; border-collapse: collapse; " border="1">\
   <tr>\
     <td rowspan="'+element+'" width="60px"> <img src="missions/'+image+'" width="58px"></td>\
     <td style="font-size: 110%; text-align: center; background-color: blue; color: white;">\
-  '+mission+" - "+title+": "+'\
+  '+missionDisp+""+title+": "+'\
       <i style="font-style: normal;" id="'+mission+'pts">0</i>\
     </td>\
   </tr>\
@@ -94,29 +101,29 @@ function starttable(mission, title, image, children, extrarows){
 }
 
 function endtable() {
-  document.write('</tr></td></table></div>')
+    document.write('</tr></td></table></div>')
 }
 
 function startrow(width) {
-  if (window.innerWidth > width) {
-    //alert(screen.width)
-    //alert(width)
-    document.write('<td width="'+(100/columnCount)+'%" style="padding-right: 2px; padding-left: 2px;" valign="top">')
-  }
+    if (window.innerWidth > width) {
+	//alert(screen.width)
+	//alert(width)
+	document.write('<td width="'+(100/columnCount)+'%" style="padding-right: 2px; padding-left: 2px;" valign="top">')
+    }
 }
 function endrow(width) {
-  if (window.innerWidth < width) {
-    //alert('activate')
-    document.write('</td>')
-  }
+    if (window.innerWidth < width) {
+	//alert('activate')
+	document.write('</td>')
+    }
 }
 
 function breakrow(minwidth, maxwidth) {
-  if (window.innerWidth > minwidth && window.innerWidth < maxwidth) {
-    document.write('</td>')
-    document.write('<td width="'+(100/columnCount)+'%" style="padding-right: 2px;" valign="top">')
-  } else {
-  }
+    if (window.innerWidth > minwidth && window.innerWidth < maxwidth) {
+	document.write('</td>')
+	document.write('<td width="'+(100/columnCount)+'%" style="padding-right: 2px;" valign="top">')
+    } else {
+    }
 }
 
 //document.write('hi')

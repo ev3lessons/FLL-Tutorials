@@ -281,21 +281,22 @@
             <div style="max-width: 600px">
               <div class="no-mobile no-print">
                 <text id="systemText">Saving System:</text> <select style="" data-role="none" data-hide-during-focus="false" data-tap-toggle="false" onchange="document.getElementById('google').style.display = 'none'; document.getElementById('legacy').style.display = 'none'; document.getElementById(this.value).style.display = 'inline';">
-                  <option id="googleText" value="google">Google Sheets (Default)</option>
+
                   <option id="localText" value="legacy">Local Browser Storage (Legacy)</option>
+		  <option id="googleText" value="google">Google Sheets (Default)</option>
                 </select>
               </div>
 
               <br><br>
 
               <!--	      Google Saving System v1.0 -->
-              <div id="google" class="no-mobile">
+              <div id="google" class="mobile-only" style="display:none">
 		<div id="notIE">
                   <p>
                     <text id="googleIntro">You can save your scores to a Google Spreadsheet. This helps you keep track of progress over the season. See instructions at the bottom of the page.</text>
                   </p>
 
-                  <button id="authorize_button" style="display: none;"><text id="signin-Google">Sign in to </text> <img style="height:20px; vertical-align:bottom" src="images/Googlelogo.png"></button>
+                  <button id="authorize_button" style="display: none;"><text id="signin-Google" style="display:none;">Sign in to </text> <img style="height:40px; vertical-align:bottom" src="images/btn_google_signin_dark_focus_web.png"></button>
                   <button id="signout_button" style="display: none;"><text id="signout-Google">Sign out of </text> <img style="height:20px; vertical-align:bottom" src="images/Googlelogo.png"></button>
 
                   <script src="google-saver.js"></script>
@@ -392,7 +393,7 @@
 
 
               <!-- Legacy Local Saver -->
-              <div id="legacy" class="only-mobile" style="max-width:500px">
+              <div id="legacy" class="no-mobile" style="max-width:500px">
 
                 <button  type="button" id="saveText" onclick="sharksave=0; saver();displaysaves(); drawBasic(); maximum = window.localStorage.DRCSSscorer.split('/').length-1" >Save Score</button>
 
@@ -600,12 +601,12 @@
 </div>
 <div style="padding-left: 10px; " class="no-print">
 
-  <text id="revisionText">INTO ORBIT Scorer Revision</text> 1.4 - 04/08/2019
-  <!-- Scorer v3.4.0 -->
+  <text id="revisionText">INTO ORBIT Scorer Revision</text> <text id="versionText">1.4 - 04/08/2019</text>
+  <!-- Scorer v3.4.5 -->
   <br>
   <br><text id="copyrightText">Copyright (c) 2019 Seshan Brothers</text><br>
   <br>
-  <text id="translatorCredit"></text>
+  <text id="translatorCredit">If you would like to help us translate this scorer into another language, please download <a rel='external' data-ajax='false' href='CityShaper-translations-latest.rtf'>this file</a> and follow the instructions.</text>
 </div>
 <script>
   if (language =='he') {
@@ -674,9 +675,11 @@
 
       document.getElementById('idText').innerHTML = idText
 
-      //      if (translatorCredit != "") {
-      document.getElementById('translatorCredit').innerHTML = translatorCredit
-      //    }
+      document.getElementById('versionText').innerHTML = version
+
+      if (translatorCredit != "") {
+	  document.getElementById('translatorCredit').innerHTML = translatorCredit
+      }
 
       if ((navigator.userAgent.indexOf("MSIE") != -1 ) || (!!document.documentMode == true )) {
 	  document.getElementById('notIE').style.display = 'none'
