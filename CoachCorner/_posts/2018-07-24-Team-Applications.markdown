@@ -34,22 +34,25 @@ Be as up front as possible from the beginning. Here are some points to consider 
 11) What is your coaching philisophy/mission/goal for the team?
 
 
-### Sample Applications and Contracts
+### Sample Student Applications, Student Contracts, Parent Contracts
 
 ![]({{ site.baseurl }}/assets/images/CoachCorner/TeamMember2.png)
 
-<a href="http://decaturrobotics.org/wp-content/uploads/2018/04/Decatur-Robotics-Application-2018.pdf">Decatur Robotics FLL Application</a>
+<a href="http://decaturrobotics.org/wp-content/uploads/2018/04/Decatur-Robotics-Application-2018.pdf">Sample 1 </a>
 
-<a href="http://decaturrobotics.org/wp-content/uploads/2018/04/Code-of-Conduct.pdf"> Decatur Robotics Code of Conduct</a>
+<a href="http://decaturrobotics.org/wp-content/uploads/2018/04/Code-of-Conduct.pdf"> Sample 2</a>
 
-<a href="http://outreach.engineering.asu.edu/wp-content/uploads/2012/10/Contract-for-Children-Parents.pdf"> Application Form and Contract</a>
+<a href="http://outreach.engineering.asu.edu/wp-content/uploads/2012/10/Contract-for-Children-Parents.pdf"> Sample 3</a>
 
-<a href="https://www.sps186.org/downloads/attachments/52091/FLL2016-2017Application-2.pdf"> Sample School team Application Form 1</a>
+<a href="https://filecabinet9.eschoolview.com/21DD6721-F6A5-43B5-A5D1-EC1ABB8F0D64/SylvaniaFLLApplication2018_19.pdf"> Sample 4</a>
 
 
-<a href="https://gravelyes.pwcs.edu/UserFiles/Servers/Server_407117/File/Webmaster/2016%20Robotics%20Application(1).pdf"> School Team Application and Teacher Recommendation Forms 2 </a>
+<a href="https://www.sps186.org/downloads/attachments/52091/FLL2016-2017Application-2.pdf"> Sample 5</a>
 
-<a href="http://www.ccisd.net/common/pages/DisplayFile.aspx?itemId=2595345"> School Team Application and Teacher Recommendation Forms 3</a>
+<a href="http://www.sps186.org/downloads/attachments/65149/FLL%202018-2019%20application.pdf"> Sample 6</a>
 
-<a href="https://lookaside.fbsbx.com/file/2018-2019%20Robotics%20Information%20%20Application%20-%20New%20Core%20Values.pdf?token=AWwU_uwFBJcGPqBa0b1zIR152PqXQbG1Jo3GzDk0UIrnm_Hic2QS-yBta_CTLfqm1JyZ1irU2fYaE1zRHJb9CMawqArO-kvFd59rmfq-t1U3MXphjCMf-ZU9YRom6Et3B9A6ZWaoxW4cKXOZM5ByFMnm">School Team Application Form 4</a>
+
+<a href="https://www.hellgate.k12.mt.us/cms/lib/MT15000294/Centricity/Domain/19/RoboticsClubFiles/FLL%20STUDENT%20Contract%20bcedits.doc"> Sample 7</a>
+
+<a href="http://outreach.engineering.asu.edu/wp-content/uploads/2012/10/FLLBurrellbotsParentContract.pdf"> Sample 8</a>
 
