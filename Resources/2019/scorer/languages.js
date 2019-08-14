@@ -1,5 +1,5 @@
 // Universal
-version = "1.6 - 07/08/2019"
+version = "1.7 - 14/08/2019"
 
 // Default Language (English/en)
 
@@ -1102,6 +1102,129 @@ if (language == "pt" || language == "pt-br") {
 
     M14="Precisione"
     M14a="Quanti Gettoni di Precisione sono rimasti sul campo?"
+    
+} else if (language == "eu") {
+
+    translatorCredit = "Euskaratuta Anartz San Juan-engatik Edurobotic FIRST LEGO League-en taldekidea"
+
+    yes = "Bai"
+    no = "Ez"
+    partly = "Partzialki"
+    completely = "Guztiz"
+    resetText = "Berrabiarazi"
+    saveText = "Gorde"
+    savescoreText="Puntuaketa Gorde"
+    loadsaveText="Puntuaketa Kargatu:"
+    deletesaveText="Ezabatu Gordetakoak"
+    importsaveText="Inportatu Gordetakoa"
+    exportsaveText="Exportatu gordetakoa"
+    signin = "Sartu honekin"
+    signout = "Deskonektatu hemendik"
+    GoogleCreate = "Sortu Kalkulu orri berri bat"
+    GoogleOpen = "Zabaldu Google kalkulu orri bat"
+    created = "Sortuta"
+    savedto = "Gordeta nola"
+    teamText = "Taldea"
+    roundText = "Erronda"
+    dateText = "Data/Ordua"
+    totalText = "Emaitza totala"
+    savedText = "Gordeta"
+    loadedText = "Kargatuta"
+    googleSaveText = "Googleren orriak (Lehenespenez)"
+    localSaveText = "Nabigatzaile Lokaleko Almazenamendua (Heredatua)"
+    isIE = " Googleren gordetze sistema ez da bateragarria Internet Explorerrekin. Nabigatzailez aldatu dezakezu edo heredatutako gordetze sistema erabiltzen jarrai dezakezu (klikatu goian)"
+
+    googleIntro = "Zure puntuazioak Google-ren kalkulu horri batean gorde ditzakezu. Honek denboraldi osoan zehar egin dituzun aurrerapenak gordetzen lagundu zaitzake. Ikusi argibideak orriaren behealdean."
+    pastSaves = "Lehendik gordeta"
+    instructions = "Argibideak"
+    instructionsA = "Gordetze sistema erabiltzeko pausoak hauek dira:"
+    instructionsB = '1. Hasi saioa zure Google kontuarekin. Beharbada "Aplikazio hau ez dago egiaztatua oharra jaso dezakezu. Hori gertatzen bada, klikatu "Aurreratua" eta orduan "FLL Zenbatzailera joan (ez segurua)"'
+    instructionsC = '2. Lehenagotik ez baduzu kalkulu orri bat sortu klikatu "Sortu Kalkulu Orri Berria"'
+    instructionsD = '3. Lehenagotik kalkulu orri bat sortu baduzu, ziurtatu zaitez kalkulu orriko ID eremua beteta dagoela eta ez "mugagabea". Orria beste gailu batzuekin partekatu nahi baduzu, identifikazio hori eskuz idatzi behar duzu.'
+    instructionsE = '4. Puntuaketa bat gorde nahi duzun bakoitzean, klikatu "Gorde Puntuaketa" honek kalkulu orriak gaurkotuko ditu puntuazio eta data berriarekin.'
+    instructionsF = '5. Zure kalkulu orria ikuskatu eta editatu nahi baduzu, sakatu "Zabaldu Google-ren Kalkulu Orriak". Uneren batean kalkulu orriaren ID-a behar baduzu, zure kalkulu orriaren URL-an aurkitu dezakezu.'
+    instructionsG = '6. Aintzinako puntuazio jakin bat ere berreskuratu dezakezu zenbatzailean "+" eta "-" botoiekin gordetze zenbakia ipiniz eta gero "Kargatu Gordetakoa:" sakatuz'
+
+    var monthNames = ["","Urtarrila", "Otsaila", "Martxoa", "Apirila", "Maiatza", "Ekaina", "Uztaila", "Abuztua",
+		      "Iraila", "Urria", "Azaroa", "Abendua"];
+    improvementText = "Hobespena"
+    scorerText = "Zenbatzailea"
+    timersText = "Kronometroa"
+    savesText = "Gordetakoak"
+    startText = "Hasi"
+    stopText = "Gelditu"
+    pointsText = "Puntuak"
+
+    systemText = "Gordetze sistema: "
+
+    timerText = "Denbora zenbatzailea:"
+    stopwatchText = "Kronografoa:"
+
+    idText = "Google Orriaren ID-a: "
+    undefinedText = "zehaztugabea "
+
+    revisionText = "Zenbatzaile errebisioa CITY SHAPER"
+    copyrightText = "Copyright (c) 2019 Seshan Brothers"
+
+    title = "CITY SHAPER Zenbatzailea"
+
+    missionNumbering = "M" // i.e. honela erakusten da: M01, M02, etc. ("Mission"-en lehenengo hizkia zure hizkuntzan)
+
+    A00="Abantaila"
+    A00a="Ekipamendua inspekzio zona txikian sartzen da?"
+    A00b="5 puntu gehitzen dira 1-13 misioetara eta 5 gehiago M02era."
+
+    M01="Pieza Garaiak"
+    M01a="Ba al dago errobota zubiarengatik <b>Eutsita</b>?"
+    M01b="Zenbat bandera daude nabarmen altxatuta bakarrik errobotari esker?"
+
+    M02="Garabia"
+    M02a="Ba al dago zintzilikatuta dagoen modulu urdina nabarmen jaitsita edozein distantziara garabiaren zulotik?"
+    M02b="Ba al dago zintzilikatuta dagoen modulu urdina <b>Independientea</b> eta beste modulu urdin batengatik <b>Eutsita</b>?"
+    M02c="Ba al dago lehenengo maila guztiz zirkulu urdinaren barruan?"
+
+    M03="Ikuskatzeko Drone-a"
+    M03a="Ba al dago ikuskatzeko drone-a (A) ardatzagatik <b>Eutsita</b> zubian?"
+
+    M04="Faunarako Diseinua"
+    M04a="Ba al dago saguzarra (B) adarrarengatik <b>Eutsita</b> zuhaitzean?"
+
+    M05="Zuhaitzeko Etxea"
+    M05a="Zenbat modulu dira <b>Independiente</b> eta Zuhaitzaren Adar Handiengatik <b>Eutsita</b> daude?"
+    M05b="Zenbat modulu dira <b>Independiente</b> eta Zuhaitzaren Adar Txikiengatik <b>Eutsita</b> daude?"
+
+    M06="Trafiko Trabatzea"
+    M06a="Ba al dago Trafiko Trabatzea altxatuta eta bere parte mugikorra <b>Independientea</b> da eta bakarrik bere bandengatik <b>Eutsita</b>?"
+
+    M07="Kulunka"
+    M07a="Askatuta al dago kulunka?"
+
+    M08="Karga-jasogailua"
+    M08a="Ba al daude karga-jasogailuaren parte mugikorrak   <b>Independiente</b> eta bakarrik bere bandengatik <b>Eutsita</b> eta Kotxe Urdinaren posizioan daude behean?"
+    M08b="Ba al daude karga-jasogailuaren parte mugikorrak <b>Independiente</b> eta bakarrik bere bandengatik <b>Eutsita</b> eta Orekatze posizioan daude?"
+
+    M09="Segurtasun Eragilea"
+    M09a="Zenbat laza bidetik kendu dira gutxienez bide erdirarte?"
+    M09b="Eraikin pilotua <b>Independientea</b> da eta laza urdinengatik bakarrik <b>Eutsita</b> dago"
+
+    M10="Altzairu eraikuntza"
+    M10a="Ba al dago altzairuzko egitura altxatuta eta <b>Independientea</b> da eta bere bandengatik <b>Eutsita</b> dago?"
+
+    M11="Arkitektura Berriztatzailea"
+    M11a="Egitura borobil baten barruan <b>Guztiz</b> sartuta dago?"
+    M11b="Egitura borobil baten barruan <b>Partzialki</b> sartuta dago?"
+    M11c="Egitura taldeak diseinatutakoa izan behar da eta modulu urdin bat baino handiagoa izan behar da. Hamargarren poltsako LEGO piezekin egindakoa izan behar da."
+
+    M12="Diseinua eta Eraikuntza"
+    M12a="Zenbat zirkuluk dute gutxienez modulu bat zeinen koloreak zirkuluarekin bat egiten duten eta <b>Guztiz</b> barruan daude eta tapetearekin kontaktu planoan?"
+    M12b="Baldin eta multzo <b>Independienteak</b> badaude gutxienez <b>Partzialki</b> edozein zirkuluren barruan, zein da haien guztien altueraren batuketaren emaitza?"
+    M12c="Zirkulu urdina ez da hamabigarren misioaren parte. Multzo bat da noiz modulu batek edo gehiagok zeinen lehenengo mailak tapetea ukitzen duen era plano batean eta edozein goreneko maila lehenengo mailaren gainean era plano batean daudenean"
+
+    M13="Iraunkortasun Gaurkotzea"
+    M13a="Zenbat gaurkotze (eguzki panelak, sabai berdeak, isolatzeak) daude <b>Independiente</b> eta edozein zirkuluren barruan (gutxienez partzialki) dagoen multzo batengatik <b>Eutsita</b>?"
+
+    M14="Zehaztasuna"
+    M14a="Zenbat zehaztasun lekuko daude joko lurrazalean?"
 }
 
 
