@@ -10,7 +10,7 @@ tag: CoachCorner
 featured: false
 ---
 
- Here are som tips ideas shared by members of the <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn </a> group. The total build time for one person to build a CITY SHAPER set is three hours. As a team, you should be able to work together and get it done pretty quickly.  There are multiple bags with the same number as well as two bags with no number. Take your time to  build the models correctly.
+ Here are some tips ideas shared by members of the <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn </a> group. The total build time for one person to build a CITY SHAPER set is three hours. As a team, you should be able to work together and get it done pretty quickly.  There are multiple bags with the same number as well as two bags with no number. Take your time to  build the models correctly.
 
 ## Mission Model Building
 
