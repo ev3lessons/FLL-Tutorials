@@ -32,8 +32,10 @@ featured: false
 
 9) There are always some leftovers. They tend to be smaller elements usually. 
 
-10) If you are missing items, check the bags, check the ground, check to see that the element was not used earlier in another step by mistake. Check the box for dual lock. Check the unnumbered bags. All large elements are only in the unnumbered bags. If you can't find it, call LEGO for help: 1-800-422-5346 in the USA.
+10) Some times, there are no build instructions. In the City Shaper season, the elements of Bag 10 are used by the team to build M11 (Innovative Architecture). Follow the rules for M11 in the Game Guide and the Challenge Update document for what to build.
 
-11) Always build exactly what the instructions tell you. Do not improvise or improve the model. Your model must look like and behave exactly the same way the ones at the competition will. Have your coach or adult check the build or compare with another team’s set if needed.
+11) If you are missing items, check the bags, check the ground, check to see that the element was not used earlier in another step by mistake. Check the box for dual lock. Check the unnumbered bags. All large elements are only in the unnumbered bags. If you can't find it, call LEGO for help: 1-800-422-5346 in the USA.
 
-12) Once everything looks correct, follow the set-up instructions to place the dual lock on the Challenge mat and place each model in the correct location.
+12) Always build exactly what the instructions tell you. Do not improvise or improve the model. Your model must look like and behave exactly the same way the ones at the competition will. Have your coach or adult check the build or compare with another team’s set if needed.
+
+13) Once everything looks correct, follow the set-up instructions to place the dual lock on the Challenge mat and place each model in the correct location.
