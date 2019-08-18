@@ -1,7 +1,7 @@
 ---
 layout: post
 language: "en"
-image: "assets/images/CoachCorner/CityShaperModels.jpg"
+image: "assets/images/CoachCorner/CityShaperModels.png"
 title: "Mission Model Building Tips"
 minidescription: "This article is about using any software you want this season"
 author: SeshanBrothers
