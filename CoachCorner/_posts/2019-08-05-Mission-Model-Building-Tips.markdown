@@ -38,4 +38,6 @@ featured: false
 
 12) Always build exactly what the instructions tell you. Do not improvise or improve the model. Your model must look like and behave exactly the same way the ones at the competition will. Have your coach or adult check the build or compare with another team’s set if needed.
 
-13) Once everything looks correct, follow the set-up instructions to place the dual lock on the Challenge mat and place each model in the correct location.
+13) Place finished models loosely on the challenge mat. Be sure to follow the text and images in the Field Setup section of the Game guide very carefully. They will tell you which way a model should face. In addtion, use the markings on the challenge mat iteself as alignment points. If it doesn't align, it could be an indication of something wrong with the build itself.
+
+14) Once everything looks correct, follow the set-up instructions to place the dual lock on the Challenge mat and press the models down in place.
