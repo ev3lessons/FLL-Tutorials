@@ -3,7 +3,9 @@
 // JS code to save and load saves to/from localStorage or a variable
 // Legacy opt-in code --> replaced with the Google Sheets API
 
-// Kept for compatibility with IE and iOS and Android webView
+// This file is still necessary for the getvar() and loadsave(save) functions, which are used throughout
+
+// Kept for compatibility with IE and iOS/Android (WK)webView
 
 //Init vars
 n = 0;
@@ -17,7 +19,7 @@ if (window.localStorage.DRCSS1scorer == undefined){
   window.localStorage.DRCSS1scorer = ''
 }
 
-// Function to get status check of all missions and store in var store
+// Function to get status check of all missions and store in var store (also returned)
 function getvar() {
   count = 0
   count1 = 0

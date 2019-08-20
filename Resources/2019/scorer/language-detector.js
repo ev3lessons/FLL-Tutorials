@@ -1,7 +1,15 @@
-  //langs=['en-us:United States:English','es:Spain:Español','nl:Netherlands:Nederlands','ar:Saudi Arabia:العَرَبِيةُ‎‎','pt-br:Brazil:Portugues','el:Greece:Ελληνικά','fr:France:français','ct:../ct:català','he:Israel:עברית','de:Germany:Deutsche']
+// Language detection system for EV3Lessons.com - v3.5
 
-  //  langs=['en-us:United States:English (USA)']
-  
+// Note: this is mainly used for external links abd compatiblity. v4.0 scorer language system is built into the other files. This is still used to determine language from the cookie, however.
+// Fully compatible with v2.0
+// First looks if language cookie is avaliable
+// Then looks for browser set language
+// Gets language from URI component ?lang=<2 (4 for v3.0 compat) letter lang code>
+// v2.0 compat --> <URL>#<2/4 letter lang code>
+// Saves determinied language to cookie
+// Determined langauge is in global variable "language"
+
+// Update: Cookie has been replaced with localStorage due to more capabilities.
  
 
   function get_browser_version(){

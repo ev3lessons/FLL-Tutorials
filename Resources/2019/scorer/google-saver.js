@@ -2,6 +2,7 @@
 // WARNING: This is not standalone and requires saver.js (Legacy Saving System) currently. It calculates the getvar() function.
 //          loadsave() is also used from saver.js. They will (hopefullly) be ported to this saver eventually.
 //          Currently not compatible with IE or iOS/Android WebView --> Use Legacy Version.
+// ALERT: Due to insecure authentication over HTTP, Google has currently disabled new users to use this feature as on 18 Aug. 2019.
 
 // Client ID and API key from the Developer Console
 var CLIENT_ID = "770638819380-bs28pclo8lguc58e01oju4ei1r88i320.apps.googleusercontent.com";

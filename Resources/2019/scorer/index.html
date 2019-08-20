@@ -124,20 +124,16 @@
 
 
       </style>
-      <script>
-	//langs=['en:United States:English','pt:Brazil:Portugues','de:Germany:Deutsche','es:Spain:Español','sk:Slovakia:Slovenský','nl:Netherlands:Nederlands','el:Greece:ελληνικά','hu:Hungary:Magyar','he:Israel:עִבְרִית‎','fr:France:français']
-	langs=['en:United States:English','es:Spain:Español','pt:Brazil:Portugues','nl:Netherlands:Nederlands','el:Greece:ελληνικά','de:Germany:Deutsche','it:Italy:Italiano','eu:Basque:Euskara']
-	//  langs=['en:United States:English','es:Spain:Español','pt:Brazil:Portugues','de:Germany:Deutsche','el:Greece:ελληνικά','tr:Turkey:Türk','ro:Romania:Română','nl:Netherlands:Nederlands','hu:Hungary:Magyar','it:Italy:Italiano']
-      </script>
-      <script src="language-detector.js">  </script>
       <script src="languages.js"></script>
+
+      <script src="language-detector.js">  </script>
 
 
     </head>
 
 
 
-    <body >
+    <body id="wholeBody">
 
       <br>
       <table style="padding-left: 10px; " class="no-mobile no-print">
@@ -159,7 +155,8 @@
         <tr>
           <td style="width:25%; text-align:left">
             <script>
-              var page = window.location.href.split("?")[0].split("#")[0] + '?lang=';
+              var page = '';
+//              var page = window.location.href.split("?")[0].split("#")[0] + '?lang=';
               var i;
               for (i = 0; i < langs.length; i++) {
 		  window[langs[i].split(':')[0].split('-')[0]] = page + langs[i].split(':')[0];
@@ -167,7 +164,7 @@
               var i;
               for (i = 0; i < langs.length; i++) {
 		  document.write('\
-              <a class="no-print no-mobile" data-ajax="false" href="'+ window[langs[i].split(":")[0].split("-")[0]] +'" onclick="createCookie(\''+langs[i].split(":")[0]+'\');window.location.href="'+window[langs[i].split(":")[0].split("-")[0]]+'";setTimeout(function(){location.reload(true);},100)" style=" text-decoration: none">\
+              <a class="no-print no-mobile" data-ajax="false" href="" onclick="createCookie(\''+langs[i].split(":")[0]+'\');language=\''+window[langs[i].split(":")[0].split("-")[0]]+'\';initpage();" style=" text-decoration: none">\
               <img src="images/icons/countries/small/'+langs[i].split(":")[1]+'.png" alt="'+langs[i].split(":")[2]+'" title="'+langs[i].split(":")[2]+'" width="26" height="26" border="0">\
               </a>\
               ')
@@ -194,7 +191,10 @@
           </script>
 
           <td style="width:50%; font-size:24px; text-align:center">
-            <b id='title'>JavaScript is either disabled or not supported in your browser. Please enable to use this site.</b>
+            <b id='title'>JavaScript is either disabled or not
+            supported in your browser. Please enable to use this
+            site. Compatible browsers: MSIE, Chrome, Firefox, Edge,
+            and others.</b>
           </td>
           <td style="width:25%; font-size:12px; text-align:right">
             <img alt="FLL..." style="border:1px solid #021a40;"
@@ -311,13 +311,6 @@
 
                   <br>
                   <text id="idText">Google Sheet ID:</text> <input type="text" onchange="window.localStorage.DRCSGoogleSheet = this.value" id="sheetId"  />
-		  <script>
-    		    if (window.localStorage.DRCSGoogleSheet != undefined) {
-			document.getElementById('sheetId').value = window.localStorage.DRCSGoogleSheet;
-		    } else {
-			document.getElementById('sheetId').value = undefinedText;
-		    }
-                  </script>
 
                   <br>
 
@@ -579,44 +572,61 @@
 </script>
 
 <div class="no-mobile">
-  <script>
-    countrycode = language.split('-')[0]
 
-    document.write('<a target="_blank" class="no-print"\
-    href="https://apps.apple.com/app/fll-city-shaper-scorer/id1473760751?ls=1">\
-    <img height="68" style="padding: 15px" \
-    src="app-store/'+language+'.svg"></a><br>')
+  <a target="_blank" class="no-print"
+  href="https://play.google.com/store/apps/details?id=com.ev3lessons.fllcityshaperscorer">
+  <img id="googleplay" height="100" 
+       src="google-play/en_get.svg"></a><br>
 
+  <a target="_blank" class="no-print"
+    href="https://apps.apple.com/app/fll-city-shaper-scorer/id1473760751?ls=1">
+    <img id="appstore" height="68" style="padding: 15px" 
+    src="app-store/en.svg"></a>
+  
 
-    if (language == 'he') {
-	countrycode = "iw"
-    }
-
-    document.write('<a target="_blank" class="no-print"\
-  href="https://play.google.com/store/apps/details?id=com.ev3lessons.fllcityshaperscorer&hl='+countrycode+'">\
-  <img height="100" \
-  src="google-play/'+countrycode+'_get.svg"></a>')
-
-						 </script>
 </div>
 <div style="padding-left: 10px; " class="no-print">
 
-  <text id="revisionText">INTO ORBIT Scorer Revision</text> <text id="versionText">1.4 - 04/08/2019</text>
-  <!-- Scorer v3.4.5 -->
+  <text id="revisionText">Scorer </text> <text id="versionText">v3.5.0
+  Dynamic Content Replacer</text>
+  <!-- Scorer v3.5.0 -->
   <br>
-  <br><text id="copyrightText">Copyright (c) 2019 Seshan Brothers</text><br>
+  <br><text id="copyrightText">Copyright</text><br>
   <br>
-  <text id="translatorCredit">If you would like to help us translate this scorer into another language, please download <a rel='external' data-ajax='false' href='CityShaper-translations-latest.rtf'>this file</a> and follow the instructions.</text>
+  <text id="translatorCredit">Translated</text>
 </div>
 <script>
-  if (language =='he') {
-      document.write('<style>td {text-align: right;}</style>')
+
+
+	    function initpage() {
+		languageInit()
+
+		if (window.localStorage.DRCSGoogleSheet != undefined) {
+		    document.getElementById('sheetId').value = window.localStorage.DRCSGoogleSheet;
+		    } else {
+			document.getElementById('sheetId').value = undefinedText;
+		    }
+
+
+		if (language =='he' || language == 'ar') {
+      document.getElementById("wholeBody").style.textAlign = "right"
+  } else {
+      document.getElementById("wholeBody").style.textAlign = "left"
+
   }
 
+		countrycode = language.split('-')[0]
+		    if (language == 'he') {
+			countrycode = "iw"
+		    }
+		
+		document.getElementById("appstore").src = "app-store/"+language+".svg"
+		document.getElementById("googleplay").src = "google-play/"+countrycode+"_get.svg"
 
-  function initpage() {
       document.getElementById('title').innerHTML = title
       document.getElementById('resetTxt').value = resetText
+      $('#resetTxt').button('refresh');
+
       document.getElementById('pointsTxt').innerHTML = pointsText
       document.getElementById('pointsTxt2').innerHTML = pointsText + ": "
 
@@ -675,10 +685,12 @@
 
       document.getElementById('idText').innerHTML = idText
 
-      document.getElementById('versionText').innerHTML = version
+      document.getElementById('versionText').innerHTML = versionText
 
       if (translatorCredit != "") {
 	  document.getElementById('translatorCredit').innerHTML = translatorCredit
+      } else {
+	  document.getElementById('translatorCredit').innerHTML = "If you would like to help us translate this scorer into another language, please download <a rel='external' data-ajax='false' href='CityShaper-translations-latest.rtf'>this file</a> and follow the instructions."
       }
 
       if ((navigator.userAgent.indexOf("MSIE") != -1 ) || (!!document.documentMode == true )) {
@@ -688,7 +700,53 @@
       }
 
 
+
+
+      var variables = ""
+      for (var name in this){
+	  if (name[0] == "M" || name[0] == "A" && name != "API_KEY") {
+	    variables += name + "\n";
+	    console.log(name)
+	    document.getElementById(name).innerHTML = window[name]
+	  }
+
+	  if (name.indexOf("yesText") != -1) {
+	    variables += name + "\n";
+	    console.log(name)
+	    document.getElementById(name).innerHTML = yes
+	  }
+	  
+	  if (name.indexOf("noText") != -1) {
+	    variables += name + "\n";
+	    console.log(name)
+	    document.getElementById(name).innerHTML = no
+	  }
+	  
+	  if (name.indexOf("partlyText") != -1) {
+	    variables += name + "\n";
+	    console.log(name)
+	    document.getElementById(name).innerHTML = partly
+	  }
+
+	  if (name.indexOf("completelyText") != -1) {
+	    variables += name + "\n";
+	    console.log(name)
+	    document.getElementById(name).innerHTML = completely
+	  }
+
+	  if (name.indexOf("mNum") != -1) {
+	    variables += name + "\n";
+	    console.log(name)
+	    document.getElementById(name).innerHTML = missionNumbering
+	  }
+      }
+
+      displaysaves()
+      drawBasic()
+
+
   }
+	    
   initpage();
 
   </script>
