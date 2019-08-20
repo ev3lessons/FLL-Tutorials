@@ -19,7 +19,7 @@
 
   </style>
 
-
+<head>
 
   <a id="sampurl" download="canvas.png"></a>
   <link rel="icon" type="image/vnd.microsoft.icon"  href="/favicon.ico" />
@@ -76,8 +76,23 @@
 	  //  background-color: white;
 	  //  border: 2px solid red;
       }
+    .button:hover {
+        //background-color: #4CAF50 !important; /* Green */
+        //color: white;
+        border-style: solid;
+        border-width: 5px;
+        border-color: green !important;
+    }
+    .button:active {
+        //background-color: #4CAF50 !important; /* Green */
+        //color: white;
+        border-style: solid;
+        border-width: 5px;
+        border-color: black !important;
+    }
     </style>
-
+    <title> FLL CITY SHAPER Sketch Planner</title>
+</head>
     <div data-role="tabs">
       <div data-tap-toggle="false" data-role="header" data-position="fixed" style="z-index: 20000000000000000000000000000">
 	<div data-role="navbar">
@@ -219,7 +234,22 @@
       <button data-inline="true" class="no-mobile" onclick="exporter();">Export Drawing as PNG</button>
       <input onchange="" style=" display:none; position: fixed;    bottom: -10000;   left: -100000; }, 30);" type="file" id="fileInput"><br>
       <!--Drawplan Scoring System Version 4.1.0 Beta<br>-->
-     <p style="color:black; background-color: white; max-width: 300px; z-index: 99;position: relative;"> Drawplan CITY SHAPER Verison 2.0</p>
+     <p style="
+      z-index: 99;position: relative;"> Drawplan CITY SHAPER Verison
+      2.1</p>
+
+
+        <a target="_blank" class="no-print"
+  href="https://play.google.com/store/apps/details?id=com.ev3lessons.fllcityshapersketchplanner">
+  <img id="googleplay" height="100" 
+       src="google-play/en_get.svg"></a><br>
+
+  <a target="_blank" class="no-print"
+    href="https://apps.apple.com/app/fll-city-shaper-sketch-planner/id1476772135?ls=1">
+    <img id="appstore" height="68" style="padding: 15px" 
+      src="app-store/en.svg"></a>
+
+
     </div>
   </div>
 </div>
