@@ -18,7 +18,7 @@ featured: false
 
 2) Empty the parts out so you can see them. It is hard finding parts in a bag as you build. If you sort the parts first, you will save some time trying to find them. You can use the sorting tray inside the EV3 set, paper plates, small bowls, EV3 box lids, cafeteria trays, dollar store cookie sheet, etc.  Be creative and use whatever you have. 
 
-3) Parts tend to roll off the table. Adding a tea towel of using a felt-backed vinly tablecloth will prevent parts from rolling off the table.
+3) Parts tend to roll off the table. Adding a tea towel of using a felt-backed vinyl tablecloth will prevent parts from rolling off the table.
 
 4) Building in pairs or small groups works well. One person finds the parts for the step, one person puts the pieces together, and one person checks to make sure the step was done correctly. Change roles every few steps.
 
