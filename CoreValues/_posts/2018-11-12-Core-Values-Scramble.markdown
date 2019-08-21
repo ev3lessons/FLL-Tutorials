@@ -3,7 +3,7 @@ layout: post
 language: "en"
 keywords:
 image: "assets/images/CoreValues/Playdough1.jpg"
-title: "Core Value Symbols"
+title: "Symbolizing the Core Values"
 minidescription: "Learn the Core Values"
 author: SeshanBrothers
 categories:  [ Team Building ]
