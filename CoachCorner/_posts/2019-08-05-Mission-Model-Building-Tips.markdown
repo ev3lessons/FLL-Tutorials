@@ -16,7 +16,7 @@ featured: false
 
 1) Begin by sorting the bags in your box. For the CITY SHAPER season, you should find the following bags of LEGO brick in the box: Bag #1 - 3 , Bag #2 - 5, Bag #3 - 2, Bag #4 -3, Bag #5 - 3, Bag #6 - 3, Bag #7- 3, Bag #8 - 3, Bag #9 - 3, Bag #10 - 3 and 2 unnumbered bags. In addition there should be a sheet of 3M duallock at the very bottom of the cardoard box.
 
-2) Empty the parts out so you can see them. It is hard finding parts in a bag as you build. If you sort the parts first, you will save some time trying to find them. You can use the sorting tray inside the EV3 set, paper plates, small bowls, EV3 box lids, cafeteria trays, dollar store cookie sheet, etc.  Be creative and use whatever you have. 
+2) Empty the parts out so you can see them. It is hard finding parts in a bag as you build. If you sort the parts first into type of element (axles, pins, etc), you will save some time trying to find them. You can use the sorting tray inside the EV3 set, paper plates, small bowls, EV3 box lids, cafeteria trays, dollar store cookie sheet, etc.  Be creative and use whatever you have. 
 
 3) Parts tend to roll off the table. Adding a tea towel of using a felt-backed vinyl tablecloth will prevent parts from rolling off the table.
 
@@ -30,14 +30,20 @@ featured: false
 
 8) Larger elements such as hoses and 15M beams are not in the number bags. They are found in the two unnumbered bags. Therefore, if you are trying to presort by mission model so that a student can take elements home and build, be sure you look for all the larger items in the unnumbered bags.
 
-9) There are always some leftovers. They tend to be smaller elements usually. 
+9) There are always some leftovers. They tend to be smaller elements usually. In Bag 1, the leftovers are axles of different lengths. These will get used later to install the bridge onto your robot game table.
 
 10) Some times, there are no build instructions. In the City Shaper season, the elements of Bag 10 are used by the team to build M11 (Innovative Architecture). Follow the rules for M11 in the Game Guide and the Challenge Update document for what to build.
 
-11) If you are missing items, check the bags, check the ground, check to see that the element was not used earlier in another step by mistake. Check the box for dual lock. Check the unnumbered bags. All large elements are only in the unnumbered bags. If you can't find it, call LEGO for help: 1-800-422-5346 in the USA.
+11) Be sure to pay attention to the multiplier symbols (e.g. X2, X5) symbols on a page. You can construct them at the same time. The only exception to this is the bridge model. Step 103 of Book 2 insdicates a X2. You cannot build two bridges with one set. This is just for tournament organizers or those with two tables.
 
-12) Always build exactly what the instructions tell you. Do not improvise or improve the model. Your model must look like and behave exactly the same way the ones at the competition will. Have your coach or adult check the build or compare with another team’s set if needed.
+12) If you are missing items, check the bags, check the ground, check to see that the element was not used earlier in another step by mistake. Check the box for dual lock. Check the unnumbered bags. All large elements are only in the unnumbered bags. If you can't find it, call LEGO for help: 1-800-422-5346 in the USA.
 
-13) Place finished models loosely on the challenge mat. Be sure to follow the text and images in the Field Setup section of the Game guide very carefully. They will tell you which way a model should face. In addtion, use the markings on the challenge mat iteself as alignment points. If it doesn't align, it could be an indication of something wrong with the build itself.
+13) Always build exactly what the instructions tell you. Do not improvise or improve the model. Your model must look like and behave exactly the same way the ones at the competition will. Have your coach or adult check the build or compare with another team’s set if needed.
 
-14) Once everything looks correct, follow the set-up instructions to place the dual lock on the Challenge mat and press the models down in place.
+14) Place finished models loosely on the challenge mat. Be sure to follow the text and images in the Field Setup section of the Game guide very carefully. They will tell you which way a model should face. In addtion, use the markings on the challenge mat iteself as alignment points. If it doesn't align, it could be an indication of something wrong with the build itself.
+
+15) Once everything looks correct, follow the set-up instructions to place the dual lock on the Challenge mat and press the models down in place.
+
+16) If you need to pack up and put away your challenge set, the models are very durable. The only part that needs some care is the ramp that leads up the bridge. But there is very clever solution for that.  If you turn your bridge over, you will see 4 exposed blue studs. Just stick your ramp under the bridge!
+
+![]({{ site.baseurl }}/assets/images/CoachCorner/ramp.jpg)
