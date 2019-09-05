@@ -10,6 +10,8 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/CraneMissionTips.pdf">PDF</a>
+<a href="/translations/en-us/Worksheets/CraneMissionTipsFullVersion.pdf">Full Software Version PDF</a>
+<a href="/translations/en-us/Worksheets/CraneMissionTipsAppVersion.pdf">Chromebook/Tablet Software Version PDF</a>
+<a href="/translations/en-us/Worksheets/CraneMissionApp.ev3m">Chromebook/Tablet Code File (.ev3m)</a>
 
 
