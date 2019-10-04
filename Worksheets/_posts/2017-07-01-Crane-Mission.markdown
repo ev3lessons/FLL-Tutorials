@@ -9,9 +9,9 @@ categories: Worksheets
 tag: Worksheets
 featured: false
 ---
-<a href="/translations/en-us/Worksheets/RobotLessons1-7.pdf">Robot Lessons 1-7</a>
-<a href="/translations/en-us/Worksheets/CraneMissionTipsFullVersion.pdf">Full Software Version PDF</a>
-<a href="/translations/en-us/Worksheets/CraneMissionTipsAppVersion.pdf">Chromebook/Tablet Software Version PDF</a>
-<a href="/translations/en-us/Worksheets/CraneMissionApp.ev3m">Chromebook/Tablet Code File (.ev3m)</a>
+<a href="/translations/en-us/Worksheets/RobotLessons1-7.pdf">Robot Lessons 1-7</a>, 
+<a href="/translations/en-us/Worksheets/CraneMissionTipsFullVersion.pdf">Full Software PDF</a>, 
+<a href="/translations/en-us/Worksheets/CraneMissionTipsAppVersion.pdf">Chromebook/Tablet PDF</a>, 
+<a href="/translations/en-us/Worksheets/CraneMissionApp.ev3m">ev3m Code File (.ev3m)</a>
 
 
