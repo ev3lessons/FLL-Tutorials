@@ -32,7 +32,7 @@ Count out loud to x [number of team members] in order.  No talking, planning, no
 •    Different team member should start the counting at one. 
 •    The next number CANNOT be called out by the team member to the left or right of the last to call out a number .
 •    Every team member should call out a number by the end (so each should only say a number one time)
-•    If two team member call out the same number, then you have to start back at 1
+•    If two team members call out the same number, then you have to start back at 1
 
 
 <b>Notes:</b>
