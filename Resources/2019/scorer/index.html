@@ -14,7 +14,7 @@
 	    $.mobile.pushStateEnabled = false;
 	});
 
-
+	language="en"
       </script>
       <script src="highcharts.js"></script>
       <script src="exporting.js"></script>
@@ -449,7 +449,7 @@
             <button id="deleteText" class="ui-button ui-widget ui-corner-all" type="button" onclick="window.localStorage.DRCSSscorer = ''; window.localStorage.DRCSS1scorer = ''; displaysaves(); drawBasic(); alert('Deleted Saves')">Delete Save</button>
 
             <div >
-              <div id="container" style="width:100%; max-width: 500px; height: 200px; margin: 0 auto"></div>
+              <div id="container" style="max-width: 500px; height: 200px; margin: 0 auto"></div>
               <div id="saves" ></div>
 
               <button id="importText" class="ui-mini no-mobile" onclick=" document.getElementById('fileInput').click() ;
