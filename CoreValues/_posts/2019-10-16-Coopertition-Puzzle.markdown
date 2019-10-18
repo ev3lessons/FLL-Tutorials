@@ -16,7 +16,7 @@ Core Values Activity:  Coopertition Puzzle
 <!--more-->
 
 <b>Objectives:</b>
-- Work with another team with competing against them
+- Work with another team while competing against them
 
 <b>Materials:</b>
 - Two small puzzles
