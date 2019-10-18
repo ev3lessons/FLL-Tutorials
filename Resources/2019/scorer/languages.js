@@ -5,7 +5,7 @@
 // Note that the line "langs=[XXX]" has no effect in old versions of the scorer and will just be ignored. To update the language list in old versions, copy that line to the equivalent place in index.html
 
 // Universal
-versionText = "1.9 - 15/10/2019"
+versionText = "1.10 - 10/18/2019"
 
 //langs=['en:United States:English','pt:Brazil:Portugues','de:Germany:Deutsche','es:Spain:Español','sk:Slovakia:Slovenský','nl:Netherlands:Nederlands','el:Greece:ελληνικά','hu:Hungary:Magyar','he:Israel:עִבְרִית‎','fr:France:français']
 langs=['en:United States:English','es:Spain:Español','pt:Brazil:Portugues','nl:Netherlands:Nederlands','el:Greece:ελληνικά','de:Germany:Deutsche','it:Italy:Italiano','eu:Basque:Euskara','ro:Romania:Românește']
