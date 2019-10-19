@@ -59,8 +59,6 @@ While the performance is focal, there are three other areas that are independent
 
 The idea here to empower kids using Kanban board and take initiative instead of them waiting for their coaches and mentors to provide the directions. Making them truly self-organized team ! Our team is called LightingBots. We’re made up of six middle schoolers between the ages of 12 and 13 along with two high school mentors. We are getting ready for our season, and would like share some of the best practices that directly apply to my profession of leading teams in enterprise technology.
 
-![]({{ site.baseurl }}/assets/images/CoachCorner/BrainyKanban.jpg)
-Team Binary McBrickBots' Kanban Boad
 
 ## How Kanban Board works
 
@@ -128,8 +126,3 @@ With the help of Kanban board, I can say that kids on my team know what they are
 If you have any questions, feel free to reach out to me directly via email at ektatrivedi@hotmail.com
 
 This article was written by Ekta Trivedi (Coach-Team LightningBots)
-
-Additional Photos of Kanban Boards from FIRST LEGO League provided by Team 2616 Binary McBrickBots from Ohio, USA.
-
-![]({{ site.baseurl }}/assets/images/CoachCorner/BrainyKanbanComplete.jpg)
-Team Binary McBrickBots' Kanban Boad
