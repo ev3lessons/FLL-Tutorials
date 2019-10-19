@@ -60,6 +60,9 @@ While the performance is focal, there are three other areas that are independent
 The idea here to empower kids using Kanban board and take initiative instead of them waiting for their coaches and mentors to provide the directions. Making them truly self-organized team ! Our team is called LightingBots. We’re made up of six middle schoolers between the ages of 12 and 13 along with two high school mentors. We are getting ready for our season, and would like share some of the best practices that directly apply to my profession of leading teams in enterprise technology.
 
 
+![]({{ site.baseurl }}/assets/images/CoachCorner/Kanban1.jpg)
+Team LightningBots' KanbanBoard
+
 ## How Kanban Board works
 
 So mixing up my professional career and robotics coach role, I was excited to apply Agile development principles to the process and see if it would work with bunch of middle-schoolers and pile of Lego bricks. We put up a Kanban board. Our Kanban board consists everything (Project research, robot building and programming, and core values). If this is too much, you can setup 3 separate cards for each challenge area.
@@ -95,9 +98,6 @@ without me – and they do really well.<br>
 
 Once we reach our milestone, we do retrospectives. I have tripod board with column and stickie’s. (You can utilize development computer to large tv, Trello board and make fully electronic board as well.)
 
-![]({{ site.baseurl }}/assets/images/CoachCorner/Kanban1.jpg)
-Team LightningBots' KanbanBoard
-
 ## Why Kanban Board ?
 
 I cannot say that these methods alone made us wildly successful, but it definitely made the team practices engaging and enjoyable. These principles facilitated learning and collaboration, which is what it is all about.
@@ -126,3 +126,11 @@ With the help of Kanban board, I can say that kids on my team know what they are
 If you have any questions, feel free to reach out to me directly via email at ektatrivedi@hotmail.com
 
 This article was written by Ekta Trivedi (Coach-Team LightningBots)
+
+Please see picture of Ekta's FIRST LEGO League Team, LightningBots, and their Kanban Board. The kids are brainstorming and creating stickies for the robot game.
+
+![]({{ site.baseurl }}/assets/images/CoachCorner/Kanban3.jpg)
+Team LightningBots' KanbanBoard
+
+
+
