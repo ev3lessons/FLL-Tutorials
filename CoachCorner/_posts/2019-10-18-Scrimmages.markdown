@@ -5,7 +5,7 @@ image: "assets/images/CoachCorner/Scrimmage.jpg"
 title: "Why Your Team Should Attend a Scrimmage"
 minidescription: "This article is about attending scrimmages"
 author: Emily Locke
-categories: [ Core Values ]
+categories: [ Tournament ]
 tag: CoachCorner
 featured: false
 ---

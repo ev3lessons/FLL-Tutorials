@@ -5,7 +5,7 @@ image: "assets/images/CoachCorner/Kanban2.jpg"
 title: "Kanban for FIRST LEGO League"
 minidescription: "This article is about attending scrimmages"
 author: Ekta Trivedi
-categories: [ Core Values ]
+categories: [ Team Management ]
 tag: CoachCorner
 featured: false
 ---
