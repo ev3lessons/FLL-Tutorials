@@ -10,7 +10,7 @@ tag: CoachCorner
 featured: false
 ---
 
-Useful link: <a href="https://www.post-it.com/3M/en_US/post-it/ideas/articles/agile-scrum-first/">PLE LESSON: APPLYING AGILE/SCRUM TO GROUP PROJECTS</a>
+Useful link: <a href="https://www.post-it.com/3M/en_US/post-it/ideas/articles/agile-scrum-first/">Article by FIRST for Post-it on Agile</a>
 
 ## What is Agile
 
