@@ -19,7 +19,7 @@ Be sure to heck with your tournament organizer to see where food and beverages a
 
 ## Keep Track of Time
 
-It is the coach's team to get the team to the right location at the right time. Set reminders or set a parent to help you with that.
+It is the coach's job to get the team to the right location at the right time. Set reminders or get a parent to help you with that.
 
 
 ## Share Schedules
@@ -29,7 +29,7 @@ Especially helpful with multiple teams.
 
 You can also print a small copy of the team's schedule and add it to lanyards. 
  
- Take a picture of your schedule and set it as the screen saver on your phone. 
+ Take a picture of your schedule and set it as the screen saver on your phone.  Send the photo to all team parents.
 
 ## Activities for Downtimes
 
