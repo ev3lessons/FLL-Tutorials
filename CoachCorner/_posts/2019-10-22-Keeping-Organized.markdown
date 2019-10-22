@@ -9,7 +9,7 @@ categories: [ Team Management ]
 tag: CoachCorner
 featured: false
 ---
-The following article takes ideas and discussions shared from the Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn </a>. It discusses project management tips for FIRST LEGO League teams. 
+The following article takes ideas and discussions shared from the Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn </a>. It discusses project management tips for FIRST LEGO League teams shared by teams.
  
 
 ## The Basics
@@ -27,7 +27,7 @@ Teams sometimes need to be able to visualize the tasks they need to complete. Th
 5)  Keep the Work in Progress (Doing) section small (3-5 items). <br>
 
 ![]({{ site.baseurl }}/assets/images/CoachCorner/BrainyKanbanComplete.jpg)
-<br>Photo Credit: Brainy McBrickBots from Ohio
+<br>Photo Credit: BrainyMcBrickBots from Ohio
 
 
 ## Let the Team Own It
