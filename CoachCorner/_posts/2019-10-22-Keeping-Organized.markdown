@@ -16,7 +16,7 @@ The following article takes ideas and discussions shared from the Facebook Group
 
 Teams sometimes need to be able to visualize the tasks they need to complete. This can be accomplished using a To Do-Doing-Done (or Kanban) board. The goal is for the team to come up with all the tasks they need to complete and physically move them left to right on a board as they complete each one.
 
-1) Draw 3 columns and label them "To Do, Doing, and Done".  Variations: "To do, Studying, Doing, Testing, Done", or "To Do, Work in Progress, Done" or similar <br>
+1) Draw 3 columns and label them "To Do, Doing, and Done".  Variations: "To do, Studying, Doing, Testing, Done", or "To Do, Work in Progress, Complete" or similar <br>
 
 2) Get some sticky-notes in various colors. Colors can signify the different parts of FIRST LEGO League (Innovation Project, Core Values, Robot Design, Robot Game) or different team members <br>
 
@@ -24,7 +24,9 @@ Teams sometimes need to be able to visualize the tasks they need to complete. Th
 
 4) Team members can pick which tasks they are working on and put their initials in the corner of a post it note. <br>
 
-5)  Keep the Work in Progress (Doing) section small (3-5 items). <br>
+5)  As the team completes tasks, move the stickies to the right. Remember to keep the Work in Progress (Doing) section small (3-5 items). <br>
+
+6) At the end of the season, all the stickies should be in the Done section!
 
 ![]({{ site.baseurl }}/assets/images/CoachCorner/BinaryKanbanComplete.jpg)
 <br>Photo Credit: BinaryMcBrickBots from Ohio
