@@ -1,7 +1,7 @@
 ---
 layout: post
 language: "en"
-image: "assets/images/CoachCorner/BrainyKanban.jpg"
+image: "assets/images/CoachCorner/BinaryKanban.jpg"
 title: "Keeping Organized"
 minidescription: "This article is about project managment"
 author: Multiple
@@ -26,8 +26,8 @@ Teams sometimes need to be able to visualize the tasks they need to complete. Th
 
 5)  Keep the Work in Progress (Doing) section small (3-5 items). <br>
 
-![]({{ site.baseurl }}/assets/images/CoachCorner/BrainyKanbanComplete.jpg)
-<br>Photo Credit: BrainyMcBrickBots from Ohio
+![]({{ site.baseurl }}/assets/images/CoachCorner/BinaryKanbanComplete.jpg)
+<br>Photo Credit: BinaryMcBrickBots from Ohio
 
 
 ## Let the Team Own It
