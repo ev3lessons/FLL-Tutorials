@@ -27,7 +27,7 @@ Teams sometimes need to be able to visualize the tasks they need to complete. Th
 5)  Keep the Work in Progress (Doing) section small (3-5 items). <br>
 
 ![]({{ site.baseurl }}/assets/images/CoachCorner/BrainyKanbanComplete.jpg)
-Photo Credit: Brainy McBrickBots from Ohio
+<br>Photo Credit: Brainy McBrickBots from Ohio
 
 
 ## Let the Team Own It
