@@ -16,7 +16,7 @@ The following article takes ideas and discussions shared from the Facebook Group
 
 Teams sometimes need to be able to visualize the tasks they need to complete. This can be accomplished using a To Do-Doing-Done (or Kanban) board. The goal is for the team to come up with all the tasks they need to complete and physically move them left to right on a board as they complete each one.
 
-1) Draw 3 columns and label them "To Do, Doing, and Done".  Variations: "To do, Studying, Doing, Testing, Done", or "To Do, Work in Progress, Done" or simillar <br>
+1) Draw 3 columns and label them "To Do, Doing, and Done".  Variations: "To do, Studying, Doing, Testing, Done", or "To Do, Work in Progress, Done" or similar <br>
 
 2) Get some sticky-notes in various colors. Colors can signify the different parts of FIRST LEGO League (Innovation Project, Core Values, Robot Design, Robot Game) or different team members <br>
 
@@ -52,10 +52,11 @@ This idea helped the kids on Mindbuilders visualize the work across Robot Design
 Tools such as Trello offer a wonderful way to keep organized while still being visual. Virtual cards can be color-coded and moved. Deadlines and reminders can be added. They also let you store extra information in each card (links, details). The big advantage is that everyone on the team has access to the board from anywhere.
 
 ![]({{ site.baseurl }}/assets/images/CoachCorner/Trello.png)
+<br>
 Photo Credit: Droids Robotics
 
 
-3M is a FIRST Sponsor. Here is a <a href= "https://www.post-it.com/3M/en_US/post-it/ideas/articles/agile-scrum-first/"> useful article </a>.
+3M is a FIRST Sponsor. Here is a <a href= "https://www.post-it.com/3M/en_US/post-it/ideas/articles/agile-scrum-first/"> useful and related article </a> written by FIRST for 3M/Post-it.
 
 
 
