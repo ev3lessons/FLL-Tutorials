@@ -23,9 +23,9 @@ We asked World Festival and State-Level Project Judges for tips and advice they 
 
 6) Many teams spend more time on their skits than on their research. Cute costumes and a complicated storyline will never take the place of facts. Focus on the facts first.
 
-7) Judges don't have time to look through your binder for information. Make sure that the team TELLS the judges everything they need to know. Convey everything you need to in your 5mins. 
+7) Judges don't have time to look through a binder (if you keep one) for information. Make sure that the team TELLS the judges everything they need to know. Convey everything you need to in your 5mins. 
 
-8) Bring your binder, but also 1 or 2 pages with bullet points that list the information required for the highest areas of the rubric. That way when the judges go to score you, they have the information handy to refresh their memories.
+8) Bring your teram's research binder (if you keep one) and/or poster board, but also 1 or 2 pages with bullet points that list the information required for the highest areas of the rubric. That way when the judges go to score you, they have the information handy to refresh their memories.
 
 9) The rubric is your best resource for success. Have the team score themselves using the rubric and see where they want to improve.
 
