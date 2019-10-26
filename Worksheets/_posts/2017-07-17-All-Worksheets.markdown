@@ -10,4 +10,6 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/AllWorksheets.pdf">PDF</a>
+<a href="/translations/en-us/Worksheets/AllWorksheets.pdf">English</a>
+<br>
+<a href="/translations/en-us/Worksheets/AllWorksheets-de.pdf">German</a>
