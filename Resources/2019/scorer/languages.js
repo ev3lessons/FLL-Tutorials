@@ -5,17 +5,18 @@
 // Note that the line "langs=[XXX]" has no effect in old versions of the scorer and will just be ignored. To update the language list in old versions, copy that line to the equivalent place in index.html
 
 // Universal
-versionText = "1.10 - 10/18/2019"
 
-versionNum = "1.11"
-versionDay = 30
-versionMonth = 10
-versionYear = "2019"
+versionNum = "1.13"
+versionDay = 4
+versionMonth = 11
+versionYear = 2019
+versionText = ""
 
 //langs=['en:United States:English','pt:Brazil:Portugues','de:Germany:Deutsche','es:Spain:Español','sk:Slovakia:Slovenský','nl:Netherlands:Nederlands','el:Greece:ελληνικά','hu:Hungary:Magyar','he:Israel:עִבְרִית‎','fr:France:français']
-langs=['en:United States:English','es:Spain:Español','pt:Brazil:Portugues','nl:Netherlands:Nederlands','el:Greece:ελληνικά','de:Germany:Deutsche','it:Italy:Italiano','eu:Basque:Euskara','ro:Romania:Românește']
+langs=['en:United States:English','es:Spain:Español','pt:Brazil:Portugues','nl:Netherlands:Nederlands','el:Greece:ελληνικά','de:Germany:Deutsche','it:Italy:Italiano','eu:Basque:Euskara','ro:Romania:Română']
 //  langs=['en:United States:English','es:Spain:Español','pt:Brazil:Portugues','de:Germany:Deutsche','el:Greece:ελληνικά','tr:Turkey:Türk','ro:Romania:Română','nl:Netherlands:Nederlands','hu:Hungary:Magyar','it:Italy:Italiano']
 
+monthNames = []
 
 // Default Language (English/en)
 
@@ -79,6 +80,7 @@ function languageInit() {
 
     revisionText = "CITY SHAPER Scorer Version "
     copyrightText = "Copyright (c) "+versionYear+" Seshan Brothers"
+    tournamentText = "A version of this scorer with added features needed for a tournament can be found <a href='http://tournament.flltutorials.com/'>here</a>."
 
     title = "CITY SHAPER Scorer"
 
@@ -1305,10 +1307,12 @@ function languageInit() {
     }
 
 
+    versionText = versionNum + " - " + versionDay + " " + monthNames[versionMonth] + " " + versionYear
 
 
     improvement= improvementText
-    versionText = versionNum + " - " + versionDay + " " + monthNames[versionMonth] + " " + versionYear
+
+    window.monthNames = monthNames
 }
 
 languageInit()
