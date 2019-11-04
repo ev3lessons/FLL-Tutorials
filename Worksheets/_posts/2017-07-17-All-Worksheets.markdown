@@ -12,4 +12,4 @@ featured: false
 
 <a href="/translations/en-us/Worksheets/AllWorksheets.pdf">English</a>
 <br>
-<a href="/translations/en-us/Worksheets/AllWorksheets-de.pdf">German</a>
+<a href="/translations/de/Worksheets/AllWorksheets.pdf">German</a>
