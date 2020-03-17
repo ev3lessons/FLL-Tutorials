@@ -12,4 +12,4 @@ featured: false
 
 
 
-<a href="/translations/en-us/RobotGame/BuildLesson1.pdf">Lesson 1</a>, <a href="/translations/en-us/RobotGame/Lesson2.pdf">Coming Soon </a>
+<a href="/translations/en-us/RobotGame/BuildLesson1.pdf">Lesson 1</a>, More each week </a>
