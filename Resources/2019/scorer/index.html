@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
   <div class="page">
+        <img src="loading.gif" id="loadingGif" style="background-color:white; width:100px; height: auto;position:fixed;left:50%;top:50%;z-index:10000000000000000000000000000000000000000;">
+
     <head>
       <title>FLL CITY SHAPER Scorer</title>
       <meta charset="UTF-8" />
@@ -132,8 +134,9 @@
     </head>
 
 
-
+    
     <body id="wholeBody">
+
 
       <br>
       <table style="padding-left: 10px; " class="no-mobile no-print">
@@ -587,6 +590,8 @@
 </div>
 <div style="padding-left: 10px; " class="no-print">
 
+<!--  <text id="tournamentText">Tournament</text><br><br>-->
+
   <text id="revisionText">Scorer </text> <text id="versionText">v3.5.0
   Dynamic Content Replacer</text>
   <!-- Scorer v3.5.0 -->
@@ -601,6 +606,8 @@
 	    function initpage() {
 		languageInit()
 
+
+		
 		if (window.localStorage.DRCSGoogleSheet != undefined) {
 		    document.getElementById('sheetId').value = window.localStorage.DRCSGoogleSheet;
 		    } else {
@@ -687,6 +694,8 @@
 
       document.getElementById('versionText').innerHTML = versionText
 
+//	document.getElementById('tournamentText').innerHTML = tournamentText
+
       if (translatorCredit != "") {
 	  document.getElementById('translatorCredit').innerHTML = translatorCredit
       } else {
@@ -744,6 +753,7 @@
       displaysaves()
       drawBasic()
 
+		document.getElementById('loadingGif').style.display = 'none'
 
   }
 	    
