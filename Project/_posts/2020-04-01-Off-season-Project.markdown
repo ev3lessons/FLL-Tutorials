@@ -12,4 +12,4 @@ featured: false
 
 Download:
 
- <a href="/translations/en-us/Project/SteamCityChallege.pdf">PDF</a> 
+ <a href="/translations/en-us/Project/SteamCityChallenge.pdf">PDF</a> 
