@@ -12,4 +12,6 @@ featured: false
 
 Download:
 
- <a href="/translations/en-us/Project/SteamCityChallenge.pdf">PDF</a> 
+ <a href="/translations/en-us/Project/SteamCityChallenge.pdf">English</a> 
+ <a href="/translations/pt-br/Project/DesafioSTEAMCity.pdf">Portuguese</a> 
+
