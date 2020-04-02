@@ -14,4 +14,4 @@ featured: false
 <br>
 <a href="/translations/de/Worksheets/AllWorksheets.pdf">German</a>
 <br>
-<a href="/translations/pt-br/Worksheets/AllWorksheets-pt.pdf">Portuguese</a>
+<a href="/translations/pt-br/Worksheets/AllWorksheets.pdf">Portuguese</a>
