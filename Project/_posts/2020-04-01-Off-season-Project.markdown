@@ -14,4 +14,4 @@ Download:
 
  <a href="/translations/en-us/Project/SteamCityChallenge.pdf">English</a> 
  <a href="/translations/pt-br/Project/DesafioSTEAMCity.pdf">Portuguese</a> 
- <a href="/translations/pt-br/Project/RetoCiudadSTEAM.pdf">Spanish</a> 
+ <a href="/translations/es/Project/RetoCiudadSTEAM.pdf">Spanish</a> 
