@@ -10,5 +10,5 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/LearnMissions.pdf">PDF</a>
-
+<a href="/translations/en-us/Worksheets/LearnMissions.pdf">City Shaper</a>
+<br> RePlay in August 2020

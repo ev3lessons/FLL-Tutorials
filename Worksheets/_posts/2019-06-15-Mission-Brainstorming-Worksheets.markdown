@@ -1,6 +1,6 @@
 ---
 title: "Mission Brainstorming Worksheets"
-searchterms: 
+searchterms:
 layout: post
 language: "en"
 image: "assets//images/Project/GenericLesson.png"
@@ -11,4 +11,5 @@ featured: false
 ---
 
 
- <a href="/translations/en-us/Worksheets/MissionBrainstorming.pdf">PDF</a>
+ <a href="/translations/en-us/Worksheets/MissionBrainstorming.pdf">City Shaper</a>
+ <br> RePlay in August 2020
