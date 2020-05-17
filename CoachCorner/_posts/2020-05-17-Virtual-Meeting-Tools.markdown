@@ -9,13 +9,13 @@ categories: [ Team Management ]
 tag: CoachCorner
 featured: false
 ---
-Here are popular video conferencing/meeting tools commonly used by FIRST Teams.
+Here are popular free video conferencing/meeting tools commonly used by FIRST Teams.
 
 ## <a href="https://zoom.us/">Zoom</a>
 - Easy to use <br>
 - Can enable Breakout Rooms, but process is controlled by host <br>
 - Can add Virtual Backgrounds<br>
-- Can take polls during the meeting (br>)
+- Can take polls during the meeting <br>
 - Free for 40mins<br>
 
 ## <a href="https://hangouts.google.com/">Google Meet</a>
@@ -38,11 +38,30 @@ Here are popular video conferencing/meeting tools commonly used by FIRST Teams.
 - Can share screen, video conference, call, text<br>
 - Can organize channels that you join and leave as needed<br>
 - Easy for coach/mentor to see what everyone is doing<br>
+- Installing the App on the computer (not just using the web browser version) gives you additional features <br>
 
 ## <a href="https://slack.com/">Slack</a>
 - Very popular tool among older teams <br>
-- Can video conference, call, text<br>
+- Can video conference with one person (paid plan has additional features)<br>
+- Slack does have significant discounts for non-profits and schools
 - Can organize into “channels" that students join<br>
+
+## Useful Features for FIRST LEGO League Teams
+
+All of the above tools support group video/audio conferencing and some chat/text messaging. 
+
+In addition, here are some useful features to look for:
+
+- <b>Messaging</b>. While, most tools have a chat/message feature, the level of support varies. Some support only messaging to all participants, while others allow private and group messages as well.
+
+- <b>Multi-platform support</b>. You may want to check how well the platform supports mobile devices, chromebooks, etc.
+
+- <b>Polls</b>. Some systems give easy ways for hosts to create polls, collect yes/no answers, allow students to raise hands or provide feedback.
+
+- <b>Meeting management</b>. Some systems give greater control to the host on managing participants - e.g. muting participants.
+
+- <b>Other applications</b>. Integration with shared whiteboard tools, shared document editors and other applications can help.
+
 
 
 ## Tips for Successful Virtual Team Meetings
@@ -55,7 +74,7 @@ Here are popular video conferencing/meeting tools commonly used by FIRST Teams.
 
 4) Encourage everyone to stay on "mute" until they want to speak<br>
 
-5) Most tools have a chat/message feature. Students can use that to post questions/comments as others speak. Some, like Zoom, even have a "raise hand" feature. <br>
+
 
 6) Make sure students learn how to share their screens so that they can share any documents or presentations they make. <br>
 
