@@ -2,7 +2,7 @@
 layout: post
 language: "en"
 image: "assets/images/CoachCorner/VirtualTools.png"
-title: "Virtual Team Meeting Tools and Tips"
+title: "Virtual Team Meetings Tools and Tips"
 minidescription: "This article is about online meeting tools"
 author: Multiple
 categories: [ Team Management ]
@@ -45,7 +45,7 @@ Here are popular video conferencing/meeting tools commonly used by FIRST Teams.
 - Can organize into “channels" that students join<br>
 
 
-## Tips for Successful Virtual Team Meetings</a>
+## Tips for Successful Virtual Team Meetings
 
 1) Everyone needs to have access to a computer with Internet access <br>
 
