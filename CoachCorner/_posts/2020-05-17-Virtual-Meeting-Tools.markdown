@@ -9,7 +9,7 @@ categories: [ Team Management ]
 tag: CoachCorner
 featured: false
 ---
-Here are popular free video conferencing/meeting tools commonly used by FIRST Teams.
+Here are popular free video conferencing/meeting tools commonly used by FIRST Teams. Several of these tools do have additional features if you pay for the service. Note that several also offer free (or discounted) services for non-profits.
 
 ## <a href="https://zoom.us/">Zoom</a>
 - Easy to use <br>
@@ -21,7 +21,8 @@ Here are popular free video conferencing/meeting tools commonly used by FIRST Te
 ## <a href="https://hangouts.google.com/">Google Meet</a>
 - Easy to use<br>
 - Integrated with other Google Apps (like Calendar)<br>
-- Unlimited time<br>
+- Unlimited time
+- Google G Suite can be approved for a free account for non-profits.This will allow recording Google Meet and other options (e.g. having 250 participants)<br>
 
 ## <a href="https://www.skype.com/en/">Skype</a>
 - Easy to use<br>
