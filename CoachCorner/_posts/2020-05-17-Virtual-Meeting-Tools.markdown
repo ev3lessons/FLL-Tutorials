@@ -16,6 +16,7 @@ Here are popular free video conferencing/meeting tools commonly used by FIRST Te
 - Can enable Breakout Rooms, but process is controlled by host <br>
 - Can add Virtual Backgrounds<br>
 - Can take polls during the meeting <br>
+- Annotate and Remote Access features for shared screens <br>
 - Free for 40mins<br>
 
 ## <a href="https://hangouts.google.com/">Google Meet</a>
