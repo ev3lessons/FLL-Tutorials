@@ -27,7 +27,6 @@ You will need to access the online puzzles located at http://www.epuzzle.info/mu
 - Once the link is generated, send that link to the rest of your team members so they can join that game.
 
 
-
 <b>Instructions to Team:</b>
 
 Work together to solve the online puzzle with your team. Coordinate so that you solve the puzzle in the least amount of moves.
