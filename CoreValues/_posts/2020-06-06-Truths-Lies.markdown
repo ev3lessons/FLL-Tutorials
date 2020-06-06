@@ -12,7 +12,7 @@ featured: false
 excerpt_separator: <!--more-->
 ---
 
-Team Building Activity: Two Truths One Lie
+Team Building Activity: Two Truths One Lie<br>
 Author: Ramsey from FRC 8027
 <!--more-->
 

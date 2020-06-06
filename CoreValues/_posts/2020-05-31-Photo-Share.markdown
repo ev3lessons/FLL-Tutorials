@@ -12,7 +12,7 @@ featured: false
 excerpt_separator: <!--more-->
 ---
 
-Team Building Activity:  Photo Sharing
+Team Building Activity:  Photo Sharing<br>
 Author: Arvind from FRC 8027
 <!--more-->
 

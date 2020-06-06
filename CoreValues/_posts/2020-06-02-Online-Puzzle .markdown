@@ -12,7 +12,7 @@ featured: false
 excerpt_separator: <!--more-->
 ---
 
-Team Building Activity:  Online Multi-player Jigsaw Puzzle
+Team Building Activity:  Online Multi-player Jigsaw Puzzle<br>
 Author: Anand from FRC 8027
 <!--more-->
 
