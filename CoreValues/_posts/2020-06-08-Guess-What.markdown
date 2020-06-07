@@ -2,7 +2,7 @@
 layout: post
 language: "en"
 keywords:
-image: "assets/images/CoreValues/VTB4.png"
+image: "assets/images/CoreValues/VTB5.png"
 title: "Guess What"
 minidescription: "Collaboration"
 author: 8027
