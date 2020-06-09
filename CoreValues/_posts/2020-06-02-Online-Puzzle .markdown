@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 ---
 
 Team Building Activity:  Online Multi-player Jigsaw Puzzle<br>
-Author: Anand from FRC 8027
+Author: Ananth from FRC 8027
 <!--more-->
 
 <b>Objectives:</b>
