@@ -12,7 +12,7 @@ featured: false
 excerpt_separator: <!--more-->
 ---
 
-Team Building Activity: Best Sell
+Team Building Activity: Best Sell<br>
 Author: Eli from FRC 8027
 <!--more-->
 
