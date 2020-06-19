@@ -50,7 +50,6 @@ comments: true
             {% for post in site.posts %}
                   
                 {% if post.language == page.lang %}
-                {{post.language}}
                 {% if post.tag == "CoreValues" %}
                     {% unless post.categories contains "draft" %}
 
