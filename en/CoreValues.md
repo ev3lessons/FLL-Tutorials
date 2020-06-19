@@ -48,8 +48,7 @@ comments: true
             <div class="row listfeaturedtag">
 
             {% for post in site.posts %}
-                        {{page.lang}}
-                        {{post.language}}
+                  
                 {% if post.language == page.lang %}
                 {{post.language}}
                 {% if post.tag == "CoreValues" %}
