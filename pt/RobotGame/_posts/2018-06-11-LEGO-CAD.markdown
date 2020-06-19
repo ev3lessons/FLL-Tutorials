@@ -1,0 +1,21 @@
+---
+layout: post
+title: "LEGO CAD"
+image: "assets/images/RobotGame/GenericLesson.png"
+searchterms: "lesson"
+language: "pt"
+categories: [ LDD, LEGO CAD, Engineering Journal ]
+author: SeshanBrothers
+tag: RobotGame
+featured: false
+excerpt_separator: <!--more-->
+---
+
+
+
+Slides: 
+<a href="/translations/en-us/RobotGame/LEGOCAD.pptx">PPTX</a>, 
+<a href="/translations/en-us/RobotGame/LEGOCAD.pdf">PDF </a>
+<a href="/translations/pt-br/RobotGame/LEGOCAD.pptx">PPTX (pt)</a>, 
+<a href="/translations/pt-br/RobotGame/LEGOCAD.pdf">PDF (pt)</a>
+<!--more-->

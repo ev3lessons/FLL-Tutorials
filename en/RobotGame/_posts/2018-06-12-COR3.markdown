@@ -1,0 +1,24 @@
+---
+layout: post
+title: "COR3"
+image: "assets/images/RobotGame/COR3.png"
+searchterms: "lesson"
+language: "en"
+categories: [ Building, One Kit Build ]
+author: SeshanBrothers
+tag: RobotDesigns
+featured: true
+excerpt_separator: <!--more-->
+---
+
+This is one-kit, compact robot design that uses only one EV3 Core set. Also included are some general attachment tools for collecting and dispensing.
+<!--more-->
+
+The robot features a brick that pivots so that you can easily access your battery.
+
+Note: This robot is not the "best or perfect robot" for competition. It is provided here for learning purposes so that teams can try and build different models and learn some features from them. If you use it as a base for a competition, be sure to credit the source of the idea (and name the original designer) in your Robot Design presentation and/or Engineering Journal.
+
+Design by Michael Buss Andersen
+
+Design Files:
+ <a href="/translations/en-us/RobotGame/COR3.pdf">PDF</a>

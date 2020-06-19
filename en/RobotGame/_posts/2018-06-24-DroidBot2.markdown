@@ -1,0 +1,25 @@
+---
+layout: post
+title: "DroidBot 2.0"
+image: "assets/images/RobotGame/DroidBot2.png"
+searchterms: "lesson"
+language: "en"
+categories: [ Building, One Kit Build ]
+author: SeshanBrothers
+tag: RobotDesigns
+featured: false
+excerpt_separator: <!--more-->
+---
+
+This is one-kit robot design that uses only one Education EV3 Core set with the addition of a color sensor.
+<!--more-->
+The green 3M beam in front lifts off and is a locking mechanism to hold attachments in place. Some basic attachment designs are available.
+
+This robot has been designed for teams to learn some building concepts that may be useful to consider when designing a robot for FIRST LEGO League. It has been used by FIRST LEGO League teams in the last three years as a starting point from which they developed their own designs.
+
+Note: This robot is not the "best or perfect robot" for competition. It is provided here for learning purposes so that teams can try and build different models and learn some features from them. If you use it as a base for a competition, be sure to credit the source of the idea (and name the original designer) in your Robot Design presentation and/or Engineering Journal.
+
+Design by Seshan Brothers.
+
+Design Files:
+<a href="/translations/en-us/RobotGame/DroidBot2.lxf">Robot LXF</a>, <a href="/translations/en-us/RobotGame/Snap2.lxf">Attachment LXF</a>, <a href="/translations/en-us/RobotGame/DroidBot2BuildInstructions.pdf">Photo-based PDF</a>

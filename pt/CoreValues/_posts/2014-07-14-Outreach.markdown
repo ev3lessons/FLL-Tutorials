@@ -1,0 +1,22 @@
+---
+layout: pt/post
+title: "Outreach in FIRST LEGO League"
+searchterms:
+image: "assets/images/CoreValues/GenericLesson.png"
+language: "pt"
+author: SeshanBrothers
+categories:  [ Outreach ]
+tag: CoreValues
+featured: true
+excerpt_separator: <!--more-->
+---
+What is "doing outreach" in FIRST LEGO League?
+ <!--more-->
+
+ <li class="ng-binding">Slides:
+ <a href="/translations/en-us/CoreValues/Outreach.pptx">PPTX English</a>,
+ <a href="/translations/en-us/CoreValues/Outreach.pdf">PDF English</a>
+ <a href="/translations/pt-br/CoreValues/Divulgacao.pptx">PPTX Portuguese</a>,
+ <a href="/translations/pt-br/CoreValues/Divulgacao.pdf">PDF Portuguese</a>
+
+ </li>

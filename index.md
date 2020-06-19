@@ -1,100 +1,77 @@
 ---
-layout: default
-title: Home
+layout: none
 ---
 
-</div>
-</div>
-<!-- We've temporary closed main-content and container to have a full width intro -->    
+
+<script>
+  //langs=['en:United States:English','es:Spain:Español','nl:Netherlands:Nederlands','ar:Saudi Arabia:العَرَبِيةُ‎‎','pt:Brazil:Portugues','el:Greece:Ελληνικά','fr:France:français','ct:../ct:català','he:Israel:עברית','it:Italy:Italiano']
+
+  langs=['{{ site.all_langs | join: "', '" }}']
 
 
-<!-- Home Jumbotron
-================================================== -->    
-<section class="intro">
-    <div class="wrapintro">
-        <h1>FLL Tutorials<br>teach - share - learn</h1>
-        <h2 class="lead">This website is powered by FRC 8027 who are MINDSTORMS Community Partners, founders of EV3Lessons, and the 2018 World Festival Champion's award winners.
-        <br> <br>
-        Through this website, we hope to share our knowledge, as well best practices for getting the most out of your FIRST LEGO League journey. Our goal is to teach, share, and learn together.</h2>    
+function get_browser_version(){
+  var N=navigator.appName, ua=navigator.userAgent, tem;
+  var M=ua.match(/(opera|chrome|safari|firefox|msie)\/?\s*(\.?\d+(\.\d+)*)/i);
+  if(M && (tem= ua.match(/version\/([\.\d]+)/i))!= null) M[2]= tem[1];
+  M=M? [M[1], M[2]]: [N, navigator.appVersion, '-?'];
+  return M[1];
+}
+
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
+var browser = navigator.appName;
+var version = get_browser_version();
+
+if (browser=="Microsoft Internet Explorer") {
+    if (version<="8.0")
+        document.location.href="http://classic.ev3lessons.com/"
+}
 
 
-    </div>
-</section>   
 
-<!-- We reopen main-content and container -->
+if (getParameterByName('lang') != null) {
+    var language = getParameterByName('lang');
+} else if (localStorage.lang) {
+    var language = localStorage.lang.split('ev3cookie');
+} else if (window.location.hash) {
+    var language = window.location.hash.substring(1);
+} else {
+    var language = navigator.language.split('-')[0];
+}
 
-<div class="container-fluid">
-
-    <div class="main-content">
-
-    <section id="services">
-        <div class="container-fluid">
-
-            <div class="row">
-            <div class="col-sm-4">
-                {% include sidebar.html %}
-            </div>
-            <div class="col-sm-8">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">FIRST LEGO League</h2>
-                    <h3 class="section-subheading text-muted">Resources for all three parts of FIRST LEGO League</h3>
-                </div>
-            </div>
-                        <div class="row text-center">
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-cog fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading"> <a href="{{ site.baseurl }}/RobotGame.html">Robot Game</a></h4>
-                    <p class="text-muted">This section has resources designed for the Robot Game portion of the competition. It includes robot designs.</p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-heart fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading"> <a href="{{ site.baseurl }}/CoreValues.html">Core Values</a></h4>
-                    <p class="text-muted">This section features over forty Core Value activities. It also includes Core Values posters and a t-shirt design. </p>
-                </div>
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-rocket fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading"> <a href="{{ site.baseurl }}/Project.html">Project</a></h4>
-                    <p class="text-muted">This section features resources for the project portion of the competition. It includes lessons about the entire research project process.</p>
-                </div>
-            </div>
-            </div>
-            </div>
-        </div>
-    </section>
+localStorage.lang = language;
 
 
-        <!-- Featured
-        ================================================== -->
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Featured Posts</h2>
-            </div>
-        </div>
-        <br><br>
-        <section class="featured-posts">
+if (language == "en-us") {
+    language = "en";
+} else if (language == "pt-br") {
+    language = "pt";
+} else if (language == "br") {
+    language = "pt";
+}
 
-                <div class="row listfeaturedtag">
 
-                    {% for post in site.posts %}
 
-                        {% if post.featured == true %}
+if ((String(langs).indexOf(language+":")) == -1) {
+    language = "en";
+}
 
-                            {% include featuredbox.html %}
 
-                        {% endif %}
+if (getParameterByName('target')) {
+    var page = window.location.href.split("?")[0].split("#")[0].split("index.html")[0] + ''+language + '/' + getParameterByName('target');
+} else {
+    var page = window.location.href.split("?")[0].split("#")[0].split("index.html")[0] + ''+language;
+}
 
-                    {% endfor %}
+window.location.href = page;
 
-                </div>
 
-        </section>
+</script>
