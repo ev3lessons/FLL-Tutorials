@@ -2,7 +2,7 @@
 layout: post
 language: "en"
 keywords:
-image: "assets/images/CoreValues/VTB8.png"
+image: "assets/images/CoreValues/VTB10.png"
 title: "Best Sell"
 minidescription: "Collaboration"
 author: 8027
