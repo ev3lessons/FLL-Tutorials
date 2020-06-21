@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: en/default
 ---
 
 
@@ -80,13 +80,13 @@ if ((String(langs).indexOf(language+":")) == -1) {
     window.location.href = "/"+language+"/CoachCorner.html"
   } else if (page == "HallOfFame.html") {
     window.location.href = "/"+language+"/HallOfFame.html"
-  } else if (page == "translations") {
-    tmplang = window.location.href.split('/')[4].split('-')[0]	 
-    file = window.location.href.split('/')[5] + "/" + window.location.href.split('/')[6]	 
-   window.location.href = "/"+tmplang+"/ProgrammingLessons/"+file
-  } else if (page == "coachcorner" || page == "coachcorner.html") {
-   window.location.href = "http://www.flltutorials.com/CoachCorner.html"
-  }
+  } else if (page == "corevalues") {
+   file = window.location.href.split("/corevalues/")[1]
+   window.location.href = "/"+language+"/corevalues/"+file
+  } else if (page == "coachcorner") {
+   file = window.location.href.split("/coachcorner/")[1]
+   window.location.href = "/"+language+"/coachcorner/"+file
+  } 
 
 </script>
 
