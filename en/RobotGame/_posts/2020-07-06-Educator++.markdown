@@ -11,10 +11,10 @@ featured: true
 excerpt_separator: <!--more-->
 ---
 
-This base robot can be built with the core education kit with a few extra parts (additional color sensor and two J beams).
+This base robot can be built with the core education kit with a few extra parts (additional color sensor and two liftarms).
 
 Design by Einav Bar-Nir
 
 Design Files:
  <a href="/en/RobotGame/Educator++ English.pdf">PDF English</a>
- <a href="/en/RobotGame/Educator++.pdf">PDF עִברִית</a>
+ <a href="/enm/RobotGame/Educator++.pdf">PDF עִברִית</a>
