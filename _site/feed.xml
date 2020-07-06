@@ -5,9 +5,81 @@
     <description>A one stop shop for everything FIRST LEGO League</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jun 2020 00:10:41 +0100</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2020 00:10:41 +0100</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2020 17:23:23 +0100</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2020 17:23:23 +0100</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>Educator++</title>
+        <description>&lt;p&gt;This base robot can be built with the core education kit with a few extra parts (additional color sensor and two J beams).&lt;/p&gt;
+
+&lt;p&gt;Design by Einav Bar-Nir&lt;/p&gt;
+
+&lt;p&gt;Design Files:
+ &lt;a href=&quot;/en/RobotGame/Educator++ English.pdf&quot;&gt;PDF English&lt;/a&gt;
+ &lt;a href=&quot;/en/RobotGame/Educator++.pdf&quot;&gt;PDF עִברִית&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Jul 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/en/robotgame/building/one%20kit%20build/2020/07/06/Educator++.html</link>
+        <guid isPermaLink="true">http://localhost:4000/en/robotgame/building/one%20kit%20build/2020/07/06/Educator++.html</guid>
+        
+        <category>RobotDesigns</category>
+        
+        
+        <category>en</category>
+        
+        <category>RobotGame</category>
+        
+        <category>Building</category>
+        
+        <category>One Kit Build</category>
+        
+      </item>
+    
+      <item>
+        <title>Minecraft Server</title>
+        <description>&lt;p&gt;Team Building Activity: Minecraft Server&lt;br /&gt;
+Author: Sanjay from FRC 8027
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Objectives:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Team bonding&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Materials:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Each student will need a copy of the same edition of Minecraft&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Setup:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Set up your own multiplayer, private Minecraft server. Follow instructions below:&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.minecraft.net/en-us/download/server/&quot;&gt; Java Edition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.minecraft.net/en-us/download/server/bedrock/?fbclid=IwAR0HLjchnLOuu3gt3Fx8jNaKWxo_DEaX33-HwAr04-rq6--MBczZyFHMEos&quot;&gt; Bedrock Edition &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Instructions to Team:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Join the server to play with each other. One student will have to host and setup &lt;a href=&quot;https://www.noip.com/support/knowledgebase/general-port-forwarding-guide/&quot;&gt;port forwarding&lt;/a&gt; on his or her router so that the rest of the team can access the server. You can talk to each other over Zoom or Discord to chat at the same time.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Notes:&lt;/b&gt;
+Minecraft is a popular block building game. There are many publicly available Minecraft servers. Some are moderated and others are not. For a FIRST LEGO League team, we recommend that you set up a private one yourself so that your team and your invited guests know it will be a safe environment. &lt;a href=&quot;https://www.digitaltrends.com/gaming/how-to-make-minecraft-server/&quot;&gt; Article on Minecraft servers&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Jun 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/en/corevalues/team%20building/2020/06/18/Minecraft.html</link>
+        <guid isPermaLink="true">http://localhost:4000/en/corevalues/team%20building/2020/06/18/Minecraft.html</guid>
+        
+        <category>CoreValues</category>
+        
+        
+        <category>en</category>
+        
+        <category>CoreValues</category>
+        
+        <category>Team Building</category>
+        
+      </item>
     
       <item>
         <title>Deserted Island</title>
@@ -355,118 +427,6 @@ Author: Arvind from FRC 8027
         <category>CoreValues</category>
         
         <category>Team Building</category>
-        
-      </item>
-    
-      <item>
-        <title>RePLAY Getting Started Guide</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/translations/en-us/Worksheets/RePLAYGettingStarted.pdf&quot;&gt;RePLAY Offseason&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 May 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/en/worksheets/2020/05/19/RePLAY-Getting-Started.html</link>
-        <guid isPermaLink="true">http://localhost:4000/en/worksheets/2020/05/19/RePLAY-Getting-Started.html</guid>
-        
-        <category>Worksheets</category>
-        
-        
-        <category>en</category>
-        
-        <category>Worksheets</category>
-        
-      </item>
-    
-      <item>
-        <title>Virtual Team Meetings Tools and Tips</title>
-        <description>&lt;p&gt;Here are popular free video conferencing/meeting tools commonly used by FIRST Teams. Several of these tools do have additional features if you pay for the service. Note that several also offer free (or discounted) services for non-profits.&lt;/p&gt;
-
-&lt;h2 id=&quot;zoom&quot;&gt;&lt;a href=&quot;https://zoom.us/&quot;&gt;Zoom&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Easy to use &lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Can enable Breakout Rooms, but process is controlled by host &lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Can add Virtual Backgrounds&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Can take polls during the meeting &lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Annotate and Remote Access features for shared screens &lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Free for 40mins&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;google-meet&quot;&gt;&lt;a href=&quot;https://hangouts.google.com/&quot;&gt;Google Meet&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Easy to use&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Integrated with other Google Apps (like Calendar)&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Unlimited time&lt;/li&gt;
-  &lt;li&gt;Google G Suite can be approved for a free account for non-profits.This will allow recording Google Meet and other options (e.g. having 250 participants)&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;skype&quot;&gt;&lt;a href=&quot;https://www.skype.com/en/&quot;&gt;Skype&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Easy to use&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Blur background&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Unlimited meeting time&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;cisco-webex&quot;&gt;&lt;a href=&quot;https://www.webex.com/&quot;&gt;Cisco Webex&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;More professional use&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Less commonly used&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Unlimited meeting time&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;discord&quot;&gt;&lt;a href=&quot;https://discord.com/&quot;&gt;Discord&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Very popular tool among older teams &lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Can share screen, video conference, call, text&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Can organize channels that you join and leave as needed&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Easy for coach/mentor to see what everyone is doing&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Installing the App on the computer (not just using the web browser version) gives you additional features &lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;slack&quot;&gt;&lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Very popular tool among older teams &lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Can video conference with one person (paid plan has additional features)&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Slack does have significant discounts for non-profits and schools&lt;/li&gt;
-  &lt;li&gt;Can organize into “channels” that students join&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;useful-features-for-first-lego-league-teams&quot;&gt;Useful Features for FIRST LEGO League Teams&lt;/h2&gt;
-
-&lt;p&gt;All of the above tools support group video/audio conferencing and some chat/text messaging.&lt;/p&gt;
-
-&lt;p&gt;In addition, here are some useful features to look for:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Messaging&lt;/b&gt;. While, most tools have a chat/message feature, the level of support varies. Some support only messaging to all participants, while others allow private and group messages as well.&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Multi-platform support&lt;/b&gt;. You may want to check how well the platform supports mobile devices, chromebooks, etc.&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Polls&lt;/b&gt;. Some systems give easy ways for hosts to create polls, collect yes/no answers, allow students to raise hands or provide feedback.&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Meeting management&lt;/b&gt;. Some systems give greater control to the host on managing participants - e.g. muting participants.&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Other applications&lt;/b&gt;. Integration with shared whiteboard tools, shared document editors and other applications can help.&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tips-for-successful-virtual-team-meetings&quot;&gt;Tips for Successful Virtual Team Meetings&lt;/h2&gt;
-
-&lt;p&gt;1) Everyone needs a computer with Internet access &lt;br /&gt;
-2) A webcam will help the team feel more connected to each other. Depending upon the tool, the student can blur the background or create a virtual one. &lt;br /&gt;
-3) A pair of headphones with a microphone will eliminate background noise and increase concentration &lt;br /&gt;
-4) Encourage everyone to stay on “mute” until they want to speak&lt;br /&gt;
-6) Make sure students learn how to share their screens so that they can share any documents or presentations they make. &lt;br /&gt;
-7) Teach good video conferencing etiquette - everyone can’t speak at once, so you have to learn to take turns and cooperate.&lt;br /&gt;
-8) Some tools have breakout rooms. These can be useful for having simultaneous subteam meetings and where the coach can so by and visit. So for example, you could have half the team working on the research project while the other half are brainstorming what their robot should look like.&lt;br /&gt;
-9) Remember to ensure that the teams are having fun. You might encourage themed meetings - “wear a silly hat”, “orange day”, “bring a snack”, etc. You can still celebrate birthdays and other achievements.&lt;br /&gt;
-10) Remember that students who are FLL-age probably do not enjoy long meeting times. Encourage some independent work after initial brainstorming and then have them report back/share their work. The breakout rooms will also help break up longer meetings.&lt;br /&gt;
-11) Parents should be encouraged to help the students get set up and to also make sure that the student is using the Internet responsibly when participating in FIRST LEGO League.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 17 May 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/en/coachcorner/team%20management/2020/05/17/Virtual-Meeting-Tools.html</link>
-        <guid isPermaLink="true">http://localhost:4000/en/coachcorner/team%20management/2020/05/17/Virtual-Meeting-Tools.html</guid>
-        
-        <category>CoachCorner</category>
-        
-        
-        <category>en</category>
-        
-        <category>CoachCorner</category>
-        
-        <category>Team Management</category>
         
       </item>
     

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "תוכנתמידולבלגו"
+image: "assets/images/RobotGame/GenericLesson.png"
+searchterms: "lesson"
+language: "he"
+categories: [ LDD, LEGO CAD, Engineering Journal ]
+author: SeshanBrothers
+tag: RobotGame
+featured: false
+excerpt_separator: <!--more-->
+---
+
+
+
+Slides: 
+<a href="/he/RobotGame/files/LEGOCAD.pptx">PPTX</a>, 
+<a href="/he/RobotGame/files/LEGOCAD.pdf">PDF </a>
+
+<!--more-->
