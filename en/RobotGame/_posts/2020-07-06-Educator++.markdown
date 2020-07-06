@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
 This base robot can be built with the core education kit with a few extra parts (additional color sensor and two liftarms).
 
-Design by Einav Bar-Nir
+Design by Einav Bar-Nir, D-Bug FRC 3316
 
 Design Files:
  <a href="/en/RobotGame/Educator++ English.pdf">PDF English</a>
