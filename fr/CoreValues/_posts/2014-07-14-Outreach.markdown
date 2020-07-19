@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Les valeurs fondamentales –Vulgarisation"
+searchterms:
+image: "assets/images/CoreValues/GenericLesson.png"
+language: "fr"
+author: SeshanBrothers
+categories:  [ Outreach ]
+tag: CoreValues
+featured: true
+excerpt_separator: <!--more-->
+---
+What is "doing outreach" in FIRST LEGO League?
+ <!--more-->
+
+ <li class="ng-binding">Slides:
+ <a href="/fr/CoreValues/Outreach.pdf">PDF</a>
+
+ </li>

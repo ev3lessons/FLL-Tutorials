@@ -5,21 +5,21 @@
     <description>A one stop shop for everything FIRST LEGO League</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Jul 2020 17:23:23 +0100</pubDate>
-    <lastBuildDate>Mon, 06 Jul 2020 17:23:23 +0100</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2020 14:32:35 -0400</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2020 14:32:35 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
         <title>Educator++</title>
-        <description>&lt;p&gt;This base robot can be built with the core education kit with a few extra parts (additional color sensor and two J beams).&lt;/p&gt;
+        <description>&lt;p&gt;This base robot can be built with the core education kit with a few extra parts (additional color sensor and two liftarms).&lt;/p&gt;
 
-&lt;p&gt;Design by Einav Bar-Nir&lt;/p&gt;
+&lt;p&gt;Design by Einav Bar-Nir, D-Bug FRC 3316&lt;/p&gt;
 
 &lt;p&gt;Design Files:
- &lt;a href=&quot;/en/RobotGame/Educator++ English.pdf&quot;&gt;PDF English&lt;/a&gt;
+ &lt;a href=&quot;/en/RobotGame/Educator%2B%2BEnglish.pdf&quot;&gt;PDF English&lt;/a&gt;
  &lt;a href=&quot;/en/RobotGame/Educator++.pdf&quot;&gt;PDF עִברִית&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 Jul 2020 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 06 Jul 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/en/robotgame/building/one%20kit%20build/2020/07/06/Educator++.html</link>
         <guid isPermaLink="true">http://localhost:4000/en/robotgame/building/one%20kit%20build/2020/07/06/Educator++.html</guid>
         
@@ -66,7 +66,7 @@ Author: Sanjay from FRC 8027
 &lt;p&gt;&lt;b&gt;Notes:&lt;/b&gt;
 Minecraft is a popular block building game. There are many publicly available Minecraft servers. Some are moderated and others are not. For a FIRST LEGO League team, we recommend that you set up a private one yourself so that your team and your invited guests know it will be a safe environment. &lt;a href=&quot;https://www.digitaltrends.com/gaming/how-to-make-minecraft-server/&quot;&gt; Article on Minecraft servers&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 18 Jun 2020 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 18 Jun 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/en/corevalues/team%20building/2020/06/18/Minecraft.html</link>
         <guid isPermaLink="true">http://localhost:4000/en/corevalues/team%20building/2020/06/18/Minecraft.html</guid>
         
@@ -109,7 +109,7 @@ Author: Alex from FRC 8027
 &lt;p&gt;&lt;b&gt;Notes:&lt;/b&gt;
 Everyone must participate. The scenario is to be kept as realistic as possible. For example, there is no phone service or wifi on the island.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 11 Jun 2020 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 11 Jun 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/en/corevalues/team%20building/2020/06/11/Deserted-Island.html</link>
         <guid isPermaLink="true">http://localhost:4000/en/corevalues/team%20building/2020/06/11/Deserted-Island.html</guid>
         
@@ -153,7 +153,7 @@ Author: Lucas from FRC 8027
 &lt;p&gt;&lt;b&gt;Notes:&lt;/b&gt;
 This activity can be completed even if there are new students on the team. If a pair of students have never interacted before, they can instead write about what they would like to know about their partner.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 10 Jun 2020 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 10 Jun 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/en/corevalues/team%20building/2020/06/10/Acts-of-Kindness.html</link>
         <guid isPermaLink="true">http://localhost:4000/en/corevalues/team%20building/2020/06/10/Acts-of-Kindness.html</guid>
         
@@ -200,7 +200,7 @@ After all the pitches are given everyone votes, for whatever they think was the 
 &lt;p&gt;&lt;b&gt;Notes:&lt;/b&gt;
  This activity can also be done in teams. Another variation is for each student to come up with a wacky invention idea, but has to trade with someone else on the team. This way, they will be creating a pitch for another student’s idea.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 09 Jun 2020 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 09 Jun 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/en/corevalues/team%20building/2020/06/09/Best-Sell.html</link>
         <guid isPermaLink="true">http://localhost:4000/en/corevalues/team%20building/2020/06/09/Best-Sell.html</guid>
         
@@ -242,7 +242,7 @@ Author: Ben from FRC 8027
 
 &lt;p&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 08 Jun 2020 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 08 Jun 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/en/corevalues/team%20building/2020/06/08/Guess-What.html</link>
         <guid isPermaLink="true">http://localhost:4000/en/corevalues/team%20building/2020/06/08/Guess-What.html</guid>
         
@@ -284,7 +284,7 @@ The objective of this game is to get to know personal information about the othe
 
 &lt;p&gt;The members of the call can split into teams, depending on the number of players you can have anywhere from 2 to 4 teams. Each team selects one member from their team to read their statements and it’s up to the other teams to guess which statement is wrong. If a member of your team guesses correct you get a point. The first team to score 5 points wins.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 06 Jun 2020 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 06 Jun 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/en/corevalues/team%20building/2020/06/06/Truths-Lies.html</link>
         <guid isPermaLink="true">http://localhost:4000/en/corevalues/team%20building/2020/06/06/Truths-Lies.html</guid>
         
@@ -332,7 +332,7 @@ This team building exercise is good for communication practice amongst team memb
 
 &lt;p&gt;Additionally, instead of separating into two smaller groups, you can stay in one larger group and try to get a high score and beat a personal goal (not competing against any other team).&lt;/p&gt;
 </description>
-        <pubDate>Thu, 04 Jun 2020 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 04 Jun 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/en/corevalues/team%20building/2020/06/04/Online-Pictionary.html</link>
         <guid isPermaLink="true">http://localhost:4000/en/corevalues/team%20building/2020/06/04/Online-Pictionary.html</guid>
         
@@ -372,7 +372,7 @@ You will need to access the online puzzles located at http://www.epuzzle.info/mu
 
 &lt;p&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 02 Jun 2020 00:00:00 +0100</pubDate>
+        <pubDate>Tue, 02 Jun 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/en/corevalues/team%20building/2020/06/02/Online-Puzzle.html</link>
         <guid isPermaLink="true">http://localhost:4000/en/corevalues/team%20building/2020/06/02/Online-Puzzle.html</guid>
         
@@ -415,7 +415,7 @@ Author: Arvind from FRC 8027
 
 &lt;p&gt;&lt;b&gt;Notes:&lt;/b&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 31 May 2020 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 31 May 2020 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/en/corevalues/team%20building/2020/05/31/Photo-Share.html</link>
         <guid isPermaLink="true">http://localhost:4000/en/corevalues/team%20building/2020/05/31/Photo-Share.html</guid>
         
