@@ -14,5 +14,5 @@ excerpt_separator: <!--more-->
  <!--more-->
 
  <li class="ng-binding">Slides:
- <a href="/fr/CoreValues/01-CV-Introduction-202005">PDF</a>
+ <a href="/fr/CoreValues/01-CV-Introduction-202005.pdf">PDF</a>
  </li>

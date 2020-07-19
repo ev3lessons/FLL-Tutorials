@@ -14,6 +14,6 @@ What is "doing outreach" in FIRST LEGO League?
  <!--more-->
 
  <li class="ng-binding">Slides:
- <a href="/fr/CoreValues/Outreach.pdf">PDF</a>
+ <a href="/fr/CoreValues/02-CV-Vulgarisation-202005.pdf">PDF</a>
 
  </li>
