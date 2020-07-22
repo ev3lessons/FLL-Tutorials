@@ -1,5 +1,5 @@
 ---
-title: "RePLAY Getting Started Guide"
+title: "RePLAY Offseason Getting Started Guide"
 searchterms:
 layout: post
 language: "en"

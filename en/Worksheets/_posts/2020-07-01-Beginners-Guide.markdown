@@ -1,5 +1,5 @@
 ---
-title: "13-Week Beginner's Guide to FIRST LEGO League"
+title: "13-Week Beginner's Guide to RePLAY"
 searchterms:
 layout: post
 language: "en"
