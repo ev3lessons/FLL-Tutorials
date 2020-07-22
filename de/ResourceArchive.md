@@ -15,6 +15,6 @@ comments: true
 <p> <a href="{{ site.baseurl }}/Resources/2016" class="btn btn-warning" role="button">Animal Allies Resources</a></p>
 <p> <a href="{{ site.baseurl }}/Resources/2017" class="btn btn-info" role="button">Hydro Dynamics Resources</a></p>
 <p> <a href="{{ site.baseurl }}/Resources/2018" class="btn btn-danger" role="button">INTO ORBIT Resources</a></p>
-<p> <a href="{{ site.baseurl }}/Resources/2019" class="btn btn-secondary" role="button">CITY SHAPER Resources</a></p>
+<p> <a href="{{ site.baseurl }}/Resources/2019" class="btn btn-primary" role="button">CITY SHAPER Resources</a></p>
 
 </div>
