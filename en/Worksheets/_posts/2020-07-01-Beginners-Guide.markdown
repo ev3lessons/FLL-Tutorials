@@ -1,6 +1,6 @@
 ---
-title: "Robot Design Worksheets"
-searchterms: 
+title: "13-Week Beginner's Guide to FIRST LEGO League"
+searchterms:
 layout: post
 language: "en"
 image: "assets//images/Project/GenericLesson.png"
@@ -10,5 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-
- <a href="/translations/en-us/Worksheets/RobotDesignWorksheet.pdf">PDF</a>
+<a href="/translations/en-us/Worksheets/.pdf">Coming Soon</a>

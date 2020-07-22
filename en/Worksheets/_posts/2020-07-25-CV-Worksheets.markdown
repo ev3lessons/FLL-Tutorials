@@ -1,6 +1,6 @@
 ---
-title: "Project Tips"
-searchterms: 
+title: "Core Values Engineering Notebook Worksheets"
+searchterms:
 layout: post
 language: "en"
 image: "assets//images/Project/GenericLesson.png"
@@ -10,6 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-Tiger Tech Presentation: <a href="/translations/en-us/Worksheets/ProjectTipsTigerTechs.pdf">PDF</a>
-
-
+<a href="/translations/en-us/Worksheets/.pdf">Coming Soon</a>

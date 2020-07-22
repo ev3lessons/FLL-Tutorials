@@ -1,6 +1,6 @@
 ---
-title: "Pseudocode Worksheets"
-searchterms: 
+title: "Robot Design Engineering Notebook Worksheets"
+searchterms:
 layout: post
 language: "en"
 image: "assets//images/Project/GenericLesson.png"
@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
- <a href="/translations/en-us/Worksheets/PseudocodeWorksheets.pdf">PDF</a>
+<a href="/translations/en-us/Worksheets/.pdf">Coming Soon</a>

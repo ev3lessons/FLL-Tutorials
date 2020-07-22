@@ -1,6 +1,6 @@
 ---
-title: "CITY SHAPER Kickoff Presentation"
-searchterms: 
+title: "Innovation Project Engineering Notebook Worksheets"
+searchterms:
 layout: post
 language: "en"
 image: "assets//images/Project/GenericLesson.png"
@@ -10,6 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-Kickoff Slides: <a href="/translations/en-us/Worksheets/KickoffPresentation.pdf">PDF</a>
-
-
+<a href="/translations/en-us/Worksheets/.pdf">Coming Soon</a>
