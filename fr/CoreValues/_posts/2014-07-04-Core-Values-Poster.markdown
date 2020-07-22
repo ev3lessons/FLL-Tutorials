@@ -14,6 +14,6 @@ Tips for Core Values Poster.
  <!--more-->
 
  <li class="ng-binding">
- <a href="/translations/en-us/CoreValues/05-CV-Affiche-202005.pdf">PDF</a>
+ <a href="/fr/CoreValues/05-CV-Affiche-202005.pdf">PDF</a>
 
  </li>
