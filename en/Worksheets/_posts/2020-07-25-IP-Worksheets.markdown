@@ -9,6 +9,6 @@ categories: Worksheets
 tag: Worksheets
 featured: false
 ---
-
-<a href="/translations/en-us/Worksheets/.pdf">Coming Soon PDF</a>
-<a href="/translations/en-us/Worksheets/.pdf">Coming Soon Google</a>
+Coming Soon
+<a href="/translations/en-us/Worksheets/.pdf">PDF</a><br>
+<a href="/translations/en-us/Worksheets/.pdf">Google</a>
