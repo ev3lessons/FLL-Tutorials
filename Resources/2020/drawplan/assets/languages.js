@@ -6,7 +6,7 @@
 
 // Universal
 
-versionNum = "0.1"
+versionNum = "0.2"
 versionDay = 22
 versionMonth = 7
 versionYear = 2020
