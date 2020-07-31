@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>FLL RePLAY Sketch Planner</title>
+    <title>FLL RePLAY Strategy Planner</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
     <meta name="color-scheme" content="light dark" />
@@ -92,16 +92,16 @@
         .only-mobile {
             display: none;
         }
-
+        
         .highcharts-button {
             display: none;
         }
-
+        
         .only-print,
         .only-print * {
             display: none !important;
         }
-
+        
         @media print {
             .no-print,
             .no-print * {
@@ -116,12 +116,12 @@
                 height: 100%;
             }
         }
-
+        
         @page {
             size: A4 portrait;
             margin: 0.5cm;
         }
-
+        
         a:link img {
             opacity: 1.0;
             filter: alpha(opacity=100);
@@ -132,7 +132,7 @@
             -moz-transition: opacity .5s ease-in-out;
             -webkit-transition: opacity .5s ease-in-out;
         }
-
+        
         a:hover img {
             opacity: 0.6;
             filter: alpha(opacity=60);
@@ -141,13 +141,13 @@
             -moz-transition: opacity .5s ease-in-out;
             -webkit-transition: opacity .5s ease-in-out;
         }
-
+        
         table tr td {
             padding-left: 0px;
             padding-right: 0px;
             border-collapse: collapse;
         }
-
+        
         #missionlist {
             width: auto;
             -webkit-column-width: 325px;
@@ -160,7 +160,7 @@
             -moz-column-gap: 0;
             column-gap: 0;
         }
-
+        
         .missionFmt {
             padding-right: 3;
             padding-left: 0;
@@ -168,7 +168,7 @@
             page-break-inside: avoid;
             break-inside: avoid;
         }
-
+        
         * {
             text-shadow: none;
         }
@@ -207,7 +207,7 @@
             height: 50px;
             animation: spin 2s linear infinite;
         }
-
+        
         @keyframes spin {
             0% {
                 transform: rotate(0deg);
@@ -272,7 +272,7 @@
                 </script>
 
                 <td style="width:50%; font-size:24px; text-align:center">
-                    <b id="title">FLL RePLAY Sketch Planner</b>
+                    <b id="title">FLL RePlay Sketch Planner</b>
                 </td>
                 <td style="width:25%; font-size:12px; text-align:right">
                     <img alt="FLL Tutorials" style="border:1px solid #021a40;" src="assets/images/flltutorials.png" width="139">
@@ -294,7 +294,7 @@
 
                     <img style="display:none;" id="tmpimgholder">
 
-                    <canvas style="display:none" id="tmpCanvas" width="944" height="530"></canvas>
+                    <canvas style="display:none" id="tmpCanvas" width="778" height="389"></canvas>
 
                     <a style="display:none" download="myPlan.png" target="_blank" href="" id="downloadPic">Download to
                         myImage.jpg</a>
@@ -389,33 +389,33 @@
                                      background-repeat: no-repeat;"> </button>
                         <button class="button dpTool" onclick="$('#wPaint').wPaint('clear');" style="background: url(assets/images/clear.png); background-color: grey !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
                   background-repeat: no-repeat;"> </button>
-                        <button class="button toolEdit dpTool" onclick="changeedit(this); $('#wPaint').wPaint('setMode','eraser');$('#wPaint').wPaint('setLineWidth',10);" style="background: url(assets/images/eraser-icon-5.png); background-color: grey !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
+                        <button class="button toolEdit dpTool" onclick="drawmode='eraser'; changeedit(this); $('#wPaint').wPaint('setMode','eraser');$('#wPaint').wPaint('setLineWidth',10);" style="background: url(assets/images/eraser-icon-5.png); background-color: grey !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
                    background-repeat: no-repeat;"> </button>
                         <button class="button dpTool" onclick="$('#wPaint').wPaint('undo');" style="background: url(assets/images/undo.png); background-color: grey !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
                        background-repeat: no-repeat;"> </button>
                         <button class="button dpTool" onclick="$('#wPaint').wPaint('redo');" style="background: url(assets/images/redo.png); background-color: grey !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
                        background-repeat: no-repeat;"> </button>
-                        <button class="button toolEdit dpTool" onclick="changeedit(this); $('#wPaint').wPaint('setMode','pencil'); $('#wPaint').wPaint('setLineWidth',3);" style="border-color: lightsalmon; border-width: 5px;background: url(assets/images/pencil.png); background-color: grey !important;width: 1px; height: 2px;   background-size: contain;  background-position: center;
+                        <button class="button toolEdit dpTool" onclick="drawmode='pencil';changeedit(this); $('#wPaint').wPaint('setMode','pencil'); $('#wPaint').wPaint('setLineWidth',3);" style="border-color: lightsalmon; border-width: 5px;background: url(assets/images/pencil.png); background-color: grey !important;width: 1px; height: 2px;   background-size: contain;  background-position: center;
                                 background-repeat: no-repeat;"> </button>
-                        <button class="button toolEdit dpTool" onclick="changeedit(this);$('#wPaint').wPaint('setMode','line'); $('#wPaint').wPaint('setLineWidth',3);" style="background: url(assets/images/line.png); background-color: grey !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
+                        <button class="button toolEdit dpTool" onclick="drawmode='line';changeedit(this);$('#wPaint').wPaint('setMode','line'); $('#wPaint').wPaint('setLineWidth',3);" style="background: url(assets/images/line.png); background-color: grey !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
                               background-repeat: no-repeat;"> </button>
-                        <button class="button toolEdit dpTool" onclick="changeedit(this);$('#wPaint').wPaint('setMode','rectangle'); $('#wPaint').wPaint('setLineWidth',3);$('#wPaint').wPaint('setFillStyle','transparent');" style="background: url(assets/images/rectangle.png); background-color: grey !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
+                        <button class="button toolEdit dpTool" onclick="drawmode='rectangle';changeedit(this);$('#wPaint').wPaint('setMode','rectangle'); $('#wPaint').wPaint('setLineWidth',3);$('#wPaint').wPaint('setFillStyle','transparent');" style="background: url(assets/images/rectangle.png); background-color: grey !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
                                                  background-repeat: no-repeat;"> </button>
-                        <button class="button toolEdit dpTool" onclick="changeedit(this);$('#wPaint').wPaint('setMode','text'); $('#wPaint').wPaint('setFontSize','25');$('#wPaint').wPaint('setFillStyle','red');" style="background: url(assets/images/text.png); background-color: grey !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
+                        <button class="button toolEdit dpTool" onclick="drawmode='text';changeedit(this);$('#wPaint').wPaint('setMode','text'); $('#wPaint').wPaint('setFontSize','25');$('#wPaint').wPaint('setFillStyle','red');" style="background: url(assets/images/text.png); background-color: grey !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
                                             background-repeat: no-repeat;"> </button>
-                        <script>
-                            if (!detectIOS()) {
-                                document.write('\
+                                            <script> if (!detectIOS()) {
+                                                document.write('\
                                                                        <button class="button dpTool" onclick=\'$( "#popupMap" ).popup( "open" );\' style="background: url(assets/images/save.png); background-color: white !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;\
                                               background-repeat: no-repeat;"> </button>\
                                               ')
-                            }
-                        </script>
+                                            }
 
+                                            </script>
+ 
                     </div>
                     <!-- </td>
               <td>
-
+                
     -->
                     <a style="display:none;" id="saveMenu" href="#popupMap" data-rel="popup" data-position-to="window" data-role="button" data-theme="a" data-inline="true" aria-haspopup="true" aria-owns="popupMap" aria-expanded="false" class="ui-link ui-btn ui-btn-a ui-btn-inline ui-shadow ui-corner-all ui-mini"
                         role="button">Open
@@ -427,12 +427,14 @@
                             //height = String((width*530/944))
                         height = window.innerHeight - 200
 
-                        if (width < height * 944 / 530) {
-                            height = width * 530 / 944
+                        if (width < height * 2333 / 1166) {
+                            height = width * 1166 / 2333
                         }
-                        if (height < width * 530 / 944) {
-                            width = height * 944 / 530
+                        if (height < width * 1166 / 2333) {
+                            width = height * 2333 / 1166
                         }
+
+                        ppi = width/96
 
                         //  width = String(width)
                         //  height = screen.height-100
@@ -462,7 +464,102 @@
                         <div id="holder">
                         </div>
                     </div>
+                    <script type="text/javascript" language="javascript">
+                       var bw = width;
+                        var bh = height;
+                        var p = 0;
+                        var cw = bw + (p*2) + 1;
+                        var ch = bh + (p*2) + 1;
+                    
+                        function drawBoard(){
+                    
+                            // var img = document.getElementById("image");
+                            // context.drawImage(img, 0, 0,1163,577);
+                    
+                            for (var x = 0; x <= bw; x += ppi/2.54*10) {
+                                context.moveTo(0.5 + x + p, p);
+                                context.lineTo(0.5 + x + p, bh + p);
+                            }
+                    
+                            for (var x = 0; x <= bh; x += ppi/2.54*10) {
+                                context.moveTo(p, 0.5 + x + p);
+                                context.lineTo(bw + p, 0.5 + x + p);
+                            }
+                    
+                            context.strokeStyle = "lightgrey";
+                            context.lineWidth = 0.1;
+                            context.stroke();
+                            context.strokeStyle = "red";
+                            context.lineWidth = 3;
+                    
+                    
+                            canvas.addEventListener("mousemove", function (e) {
+                            findxy('move', e)
+                        }, false);
+                        canvas.addEventListener("mousedown", function (e) {
+                            findxy('down', e)
+                        }, false);
+                        document.getElementById('wPaint').addEventListener("mouseup", function (e) {
+                            findxy('up', e)
+                        }, false);
+                        document.getElementById('wPaint').addEventListener("mouseout", function (e) {
+                            console.log("out")
 
+                            findxy('out', e)
+                        }, false);
+                        }
+                    
+                        var flag = false,
+                            prevX = 0,
+                            currX = 0,
+                            prevY = 0,
+                            currY = 0,
+                            dot_flag = false;
+                    
+                    
+                        var x = "black",
+                            y = 2;
+                            drawmode='pencil';
+                        
+                        function findxy(res, e) {
+                            if (res == 'down') {
+                                currX = e.clientX - canvas.getBoundingClientRect().x;
+                                currY = e.clientY - canvas.getBoundingClientRect().y;
+                                prevX = currX;
+                                prevY = currY;
+                                console.log("down")
+                                ctx.beginPath();
+                                ctx.fillStyle = x;
+                                ctx.moveTo(currX, currY);
+                                
+                            }
+                            if (res == 'up' ) {
+                                console.log("up")
+
+                                flag = false;
+                                currX = e.clientX - canvas.getBoundingClientRect().x;
+                                currY = e.clientY - canvas.getBoundingClientRect().y;
+                                // ctx.lineTo( currX, currY);
+                                // ctx.stroke();
+                                distance = Math.sqrt( Math.pow((currX-prevX),2) + Math.pow((currY-prevY),2) ) / ppi
+                                console.log(currX,currY,prevX,prevY)
+                                console.log("Distance: "+distance*10/10+"in; "+distance*2.54*10/10+"cm")
+                                // document.getElementById("distance").innerHTML = "Distance: "+Math.round(distance*10)/10+"in; "+Math.round(distance*2.54*10)/10+"cm"
+                                context.font = "24px Arial";
+                                context.fillStyle = "white";
+                                if (drawmode == "line") {
+                                    width = ctx.measureText(Math.round(distance*2.54*10)/10+"cm").width
+                                    ctx.fillRect(currX,currY+5,width,-25)
+                                    context.fillStyle = "blue";
+                        
+                                    context.fillText(Math.round(distance*2.54*10)/10+"cm", currX, currY);
+                                }
+                                
+                            }
+                        
+                        }
+                       
+                        </script>
                 </div>
                 <!-- </td>
     </tr>
@@ -505,42 +602,45 @@
 
                         <br>
                         <br>
-                        <a style="display:none; position: fixed;    bottom: -10000;   left: -100000;" id="exportDP" href="#">Export
-                            Saves</a>
-                        <button data-inline="true" class="ui-mini no-mobile" onclick="document.getElementById('exportDP').click(); "><text
-                                id="exportSavedDrawingsText">Export
-                                Saved Drawings</text></button>
-                        <script type="text/javascript">
-                            var anchor = document.getElementById('exportDP');
-                            anchor.onclick = function() {
-                                var currentTime = new Date()
-                                var day = currentTime.getDate()
-                                anchor.href = 'data:text/plain;charset=utf-8,' + encodeURIComponent(window.localStorage.canvasImage);
-                                anchor.download = day + 'mydrawings.DRCI';
-                                //     setTimeout(function(){   ;  anchor.href = 'data:text/plain;charset=utf-8,' + encodeURIComponent(window.localStorage.DRAA1scorer);    anchor.download = day + 'myscores.AA1EV3';}, 50)
-                            };
-                        </script>
+                        <div id="drawSaveShare">
+                            <a style="display:none; position: fixed;    bottom: -10000;   left: -100000;" id="exportDP" href="#">Export
+                                Saves</a>
+                            <button data-inline="true" class="ui-mini no-mobile" onclick="document.getElementById('exportDP').click(); "><text
+                                    id="exportSavedDrawingsText">Export
+                                    Saved Drawings</text></button>
+                            <script type="text/javascript">
+                                var anchor = document.getElementById('exportDP');
+                                anchor.onclick = function() {
+                                    var currentTime = new Date()
+                                    var day = currentTime.getDate()
+                                    anchor.href = 'data:text/plain;charset=utf-8,' + encodeURIComponent(window.localStorage.canvasImage);
+                                    anchor.download = day + 'mydrawings.DRCI';
+                                    //     setTimeout(function(){   ;  anchor.href = 'data:text/plain;charset=utf-8,' + encodeURIComponent(window.localStorage.DRAA1scorer);    anchor.download = day + 'myscores.AA1EV3';}, 50)
+                                };
+                            </script>
 
-                        <button class="ui-mini no-mobile" data-inline="true" onclick="// alert('choose .DRCI file') ;
-                      document.getElementById('fileInputDP').click() "><text id="importSavedDrawingsText">Import Saved
-                                Drawings</text></button>
+                            <button class="ui-mini no-mobile" data-inline="true" onclick="// alert('choose .DRCI file') ;
+                        document.getElementById('fileInputDP').click() "><text id="importSavedDrawingsText">Import Saved
+                                    Drawings</text></button>
 
-                        <button data-inline="true" class="no-mobile" onclick="exporter();"><text
-                                id="exportPNGText">Export Drawing
-                                as PNG</text></button>
-                        <input onchange="" style=" display:none; position: fixed;    bottom: -10000;   left: -100000; " type="file" id="fileInputDP" accept=".DRCI"><br>
-                        <!--Drawplan Scoring System Version 4.2.0 scorer<br>-->
-                        <div id="pastDraws"> </div>
-                        <script>
-                            function showPastDraws() {
-                                i = 1
-                                document.getElementById("pastDraws").innerHTML = ""
-                                while (i < window.localStorage.canvasImage.split("|").length) {
-                                    document.getElementById("pastDraws").innerHTML += "<text>" + saveText + " " + i + ":<br> <img style='max-width:300px;' src='" + window.localStorage.canvasImage.split("|")[i] + "' width='100%'></text><br>"
-                                    i++
+                            <button data-inline="true" class="no-mobile" onclick="exporter();"><text
+                                    id="exportPNGText">Export Drawing
+                                    as PNG</text></button>
+                            <input onchange="" style=" display:none; position: fixed;    bottom: -10000;   left: -100000; " type="file" id="fileInputDP" accept=".DRCI"><br>
+                            <!--Drawplan Scoring System Version 4.2.0 scorer<br>-->
+                        </div>
+
+                            <div id="pastDraws"> </div>
+                            <script>
+                                function showPastDraws() {
+                                    i = 1
+                                    document.getElementById("pastDraws").innerHTML = ""
+                                    while (i < window.localStorage.canvasImage.split("|").length) {
+                                        document.getElementById("pastDraws").innerHTML += "<text>" + saveText + " " + i + ":<br> <img style='max-width:300px;' src='" + window.localStorage.canvasImage.split("|")[i] + "' width='100%'></text><br>"
+                                        i++
+                                    }
                                 }
-                            }
-                        </script>
+                            </script>
                     </div>
                 </div>
 
@@ -570,7 +670,7 @@
                     ];
 
                     function saveImg() {}
-
+                    
                     function svimg() {
                         //      var imgCanvas = document.getElementById('wPaint-canvas');
                         //     var imgAsDataURL = imgCanvas.toDataURL("image/png");
@@ -581,11 +681,11 @@
                         var ctx = imgCanvas.getContext("2d");
 
                         img = document.getElementById("mat");
-                        ctx.drawImage(img, 0, 0, tmpCanvas.width, tmpCanvas.height);
+                        ctx.drawImage(img, 0, 0,  document.getElementById('tmpCanvas').width,  document.getElementById('tmpCanvas').height);
 
                         var origCtx = imgCanvas.getContext('2d');
 
-                        ctx.drawImage(realimgCanvas, 0, 0, tmpCanvas.width, tmpCanvas.height);
+                        ctx.drawImage(realimgCanvas, 0, 0,  document.getElementById('tmpCanvas').width,  document.getElementById('tmpCanvas').height);
 
                         imgAsDataURL = imgCanvas.toDataURL("image/png");
 
@@ -708,7 +808,7 @@
                 <ul>
                     <li><a id="scorerTitle" class="ui-btn-active" href="#tabs-1">Scorer</a></li>
                     <li><a id="timersTitle" href="#tabs-2">Timers</a></li>
-                    <li><a id="savesTitle" href="#tabs-3">Saves</a></li>
+                    <li><a id="savesTitle" href="#tabs-3">Saves</a></li> 
                     <li><a id="sketchTitle" href="#tabs-4">Sketch Planner</a></li>
                 </ul>
             </div>
@@ -869,11 +969,11 @@
             text-shadow: none !important;
         }
     }
-
+    
     .timer {
         border: 10px solid black;
     }
-
+    
     .ui-mobile .ui-page-active {
         display: block;
         overflow: visible;
@@ -882,7 +982,7 @@
     /* .ui-shadow-inset {
     display: none !important;
   } */
-
+    
     #tabs-3-popup {
         width: 90% !important;
         /*  left: 5% !important; */
@@ -890,13 +990,13 @@
         /*   top: 35.5px !important;*/
         margin: 10px !important;
     }
-
+    
     #popupMap {
         margin: 0px !important;
         height: 100% !important;
         width: 600px !important;
     }
-
+    
     .ui-icon-delete {
         padding: 5px !important;
         width: 1.75em;
@@ -904,7 +1004,7 @@
         text-indent: -9999px;
         white-space: nowrap !important;
     }
-
+    
     @media only screen and (max-width: 600px) {
         #tabs-3-popup {
             width: 100% !important;
@@ -1054,7 +1154,7 @@
                               document.getElementsByClassName("ui-radio-on")[i].style.color = "white"
                               document.getElementsByClassName("ui-radio-on")[i].style.textShadow = "none"
                               i=i+1
-                          }
+                          }  
 
                           document.getElementById("timerChild").style.border = "10px solid white !important"
                           document.getElementById("stopwatchChild").style.border = "10px solid white !important"
@@ -1078,7 +1178,8 @@
 </script>
 <script>
     function initpage() {
-
+        context = ctx;
+                        drawBoard()
         // if (window.localStorage.DRRPGoogleSheet != undefined) {
         //     document.getElementById('sheetId').value = window.localStorage.DRRPGoogleSheet;
         //     } else {
