@@ -556,9 +556,11 @@
                                     angle = 180-Math.atan((currY-prevY)/(currX-prevX))*180/Math.PI
                                 }
 
+                                if (angle == 90 && currY < prevY) {
+                                    angle = 270
+                                }
+
                                 // if angle
-                                
-                                console.log(angle)
                                 console.log("Distance: "+distance*10/10+"in; "+distance*2.54*10/10+"cm; "+angle+" deg")
                                 // document.getElementById("distance").innerHTML = "Distance: "+Math.round(distance*10)/10+"in; "+Math.round(distance*2.54*10)/10+"cm"
                                 context.font = "24px Arial";
