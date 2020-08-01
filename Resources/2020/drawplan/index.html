@@ -275,7 +275,7 @@
                     <b id="title">FLL RePlay Sketch Planner</b>
                 </td>
                 <td style="width:25%; font-size:12px; text-align:right">
-                  <a href="/">  <img alt="FLL Tutorials" style="border:1px solid #021a40;" src="assets/images/flltutorials.png" width="139"></a>
+                    <img alt="FLL Tutorials" style="border:1px solid #021a40;" src="assets/images/flltutorials.png" width="139">
                 </td>
             </tr>
         </table>
@@ -543,16 +543,32 @@
                                 // ctx.stroke();
                                 distance = Math.sqrt( Math.pow((currX-prevX),2) + Math.pow((currY-prevY),2) ) / ppi
                                 console.log(currX,currY,prevX,prevY)
-                                console.log("Distance: "+distance*10/10+"in; "+distance*2.54*10/10+"cm")
+                                angle = Math.atan((currY-prevY)/(currX-prevX))*180/Math.PI
+
+                                if (currX>prevX) {
+                                    angle = -1*Math.atan((currY-prevY)/(currX-prevX))*180/Math.PI
+                                    if (angle<0) {
+                                        angle = 360+angle
+                                    }
+                                } else if (currX==prevX) {
+                                    angle = Math.atan((currY-prevY)/(currX-prevX))*180/Math.PI
+                                } else {
+                                    angle = 180-Math.atan((currY-prevY)/(currX-prevX))*180/Math.PI
+                                }
+
+                                // if angle
+                                
+                                console.log(angle)
+                                console.log("Distance: "+distance*10/10+"in; "+distance*2.54*10/10+"cm; "+angle+" deg")
                                 // document.getElementById("distance").innerHTML = "Distance: "+Math.round(distance*10)/10+"in; "+Math.round(distance*2.54*10)/10+"cm"
                                 context.font = "24px Arial";
                                 context.fillStyle = "white";
                                 if (drawmode == "line") {
-                                    width = ctx.measureText(Math.round(distance*2.54*10)/10+"cm").width
+                                    width = ctx.measureText(Math.round(distance*2.54*10)/10+"cm; "+Math.round(angle)+"°").width
                                     ctx.fillRect(currX,currY+5,width,-25)
                                     context.fillStyle = "blue";
                         
-                                    context.fillText(Math.round(distance*2.54*10)/10+"cm", currX, currY);
+                                    context.fillText(Math.round(distance*2.54*10)/10+"cm; "+Math.round(angle)+"°", currX, currY);
                                 }
                                 
                             }
@@ -822,7 +838,7 @@
 
         <!--  <text id="tournamentText">Tournament</text><br><br>-->
 
-        <text id="revisionText">Drawplan </text> <text id="versionText">v4.2.0</text>
+        <text id="revisionText">Scorer </text> <text id="versionText">v3.6.0</text>
         <!-- Scorer v3.5.0 -->
         <br>
         <br><text id="copyrightText">Copyright</text><br>
