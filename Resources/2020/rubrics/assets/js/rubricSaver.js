@@ -141,25 +141,26 @@ function rubricCalc() {
 
   i = 0
   try {
+    document.getElementById("cvpts").innerHTML = 0
+    while (i<6) {
+      document.getElementById("cvpts").innerHTML = parseInt(document.getElementById("cvpts").innerHTML) + parseInt(document.getElementById(rbchildren[i][0]).innerHTML)
+      i=i+1
+    }
+  } catch (error) {}
+
+  try {
     document.getElementById("projpts").innerHTML = 0
-    while (i<5) {
+    while (i<11) {
       document.getElementById("projpts").innerHTML = parseInt(document.getElementById("projpts").innerHTML) + parseInt(document.getElementById(rbchildren[i][0]).innerHTML)
       i=i+1
     }
   } catch (error) {}
   try {
     document.getElementById("rdpts").innerHTML = 0
-    while (i<9) {
+    while (i<rbchildren.length) {
       document.getElementById("rdpts").innerHTML = parseInt(document.getElementById("rdpts").innerHTML) + parseInt(document.getElementById(rbchildren[i][0]).innerHTML)
       i=i+1
     }
   } catch (error) {}
-  try {
-    document.getElementById("cvpts").innerHTML = 0
-    while (i<rbchildren.length) {
-      document.getElementById("cvpts").innerHTML = parseInt(document.getElementById("cvpts").innerHTML) + parseInt(document.getElementById(rbchildren[i][0]).innerHTML)
-      i=i+1
-    }
-  } catch (error) {}
-
+  
 }
