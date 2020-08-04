@@ -403,15 +403,8 @@
                                                  background-repeat: no-repeat;"> </button>
                         <button class="button toolEdit dpTool" onclick="drawmode='text';changeedit(this);$('#wPaint').wPaint('setMode','text'); $('#wPaint').wPaint('setFontSize','25');$('#wPaint').wPaint('setFillStyle','red');" style="background: url(assets/images/text.png); background-color: grey !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
                                             background-repeat: no-repeat;"> </button>
-                                            <script> if (!detectIOS()) {
-                                                document.write('\
-                                                                       <button class="button dpTool" onclick=\'$( "#popupMap" ).popup( "open" );\' style="background: url(assets/images/save.png); background-color: white !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;\
-                                              background-repeat: no-repeat;"> </button>\
-                                              ')
-                                            }
-
-                                            </script>
- 
+                        <button class="button dpTool" onclick='$( "#popupMap" ).popup( "open" );' style="background: url(assets/images/save.png); background-color: white !important;width: 10px; height: 10px;   background-size: contain;  background-position: center;
+                                           background-repeat: no-repeat;"> </button>
                     </div>
                     <!-- </td>
               <td>
@@ -620,7 +613,7 @@
 
                         <br>
                         <br>
-                        <div id="drawSaveShare">
+                        <div id="drawSaveShare" class=".no-mobile">
                             <a style="display:none; position: fixed;    bottom: -10000;   left: -100000;" id="exportDP" href="#">Export
                                 Saves</a>
                             <button data-inline="true" class="ui-mini no-mobile" onclick="document.getElementById('exportDP').click(); "><text
