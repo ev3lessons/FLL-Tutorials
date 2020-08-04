@@ -6,8 +6,8 @@
 
 // Universal
 
-versionNum = "0.3"
-versionDay = 01
+versionNum = "1.0"
+versionDay = 04
 versionMonth = 08
 versionYear = 2020
 versionText = ""
@@ -70,11 +70,11 @@ function languageInit() {
 
     undefinedText = "undefined"
 
-    revisionText = "RePLAY Sketch Planner Version "
+    revisionText = "RePLAY Strategy Planner Version "
     copyrightText = "Copyright (c) " + versionYear + " Seshan Brothers"
     tournamentText = "A version of this scorer with added features needed for a tournament can be found <a href='http://tournament.flltutorials.com/'>here</a>."
 
-    title = "FLL RePLAY Sketch Planner"
+    title = "FLL RePLAY Strategy Planner"
 
     missionNumbering = "M" // i.e. display as M01, M02, etc. (first letter of the word "Mission" in your language)
 
