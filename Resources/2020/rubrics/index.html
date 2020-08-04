@@ -446,7 +446,7 @@
 
                     <ul>
                         <li><a id="savesTitle" class="ui-btn-active"  href="#tabs-1">Core Values</a></li>
-                        <li><a id="scorerTitle" href="#tabs-2">Innovtion Project</a></li>
+                        <li><a id="scorerTitle" href="#tabs-2">Innovation Project</a></li>
                         <li><a id="timersTitle" href="#tabs-3">Robot Design</a></li>
                         <li><a id="savesTitle" href="#tabs-4">Save</a></li>
 
@@ -461,8 +461,8 @@
 
             <!--  <text id="tournamentText">Tournament</text><br><br>-->
 
-            <text id="revisionText">Rubrics v1.1.0 (Scorer </text> <text id="versionText">v3.6.0</text>)
-            <!-- Scorer v3.5.0 -->
+            <text id="revisionText">Rubrics v1.0.0 <!--(Scorer </text> <text id="versionText">v3.6.0</text>)-->
+            <!-- Scorer v3.6.0 -->
             <br>
             <br><text id="copyrightText">Copyright (c) FLLTutorials.com</text><br>
             <br>
@@ -473,7 +473,7 @@
         <br>
     </div>
 
-</body>
+<script src="runtime-es2015.js" type="module"></script><script src="runtime-es5.js" nomodule defer></script><script src="polyfills-es5.js" nomodule defer></script><script src="polyfills-es2015.js" type="module"></script><script src="styles-es2015.js" type="module"></script><script src="styles-es5.js" nomodule defer></script><script src="vendor-es2015.js" type="module"></script><script src="vendor-es5.js" nomodule defer></script><script src="main-es2015.js" type="module"></script><script src="main-es5.js" nomodule defer></script></body>
 
 <script>
     window.onload = function() {
@@ -628,11 +628,142 @@
         document.body.classList.toggle('dark', shouldAdd);
     }
 </script>
+<div id="styleBlank"></div>
 <script>
-    function checkDarkTheme() {
-        return false
-    }
 
+    function checkDarkTheme() {
+        var ua = window.navigator.userAgent;
+        var isIE = /MSIE|Trident/.test(ua);
+
+        if (!isIE) {
+            // Android fix for enabling dark mode, see native implementation in MainActivity.java
+            if (window.navigator.userAgent.includes('AndroidDarkMode')) {
+                document.getElementById("styleBlank").innerHTML = " <style>\
+       .timer {\
+            border: 10px solid #121212;\
+            border-collapse: collapse;\
+        }\
+        .ui-radio-off {\
+            background-color: #121212 !important;\
+            color: white !important;\
+            text-shadow: none !important;\
+        }\
+        .ui-btn {\
+            background-color: #121212 !important;\
+            color: white !important;\
+            text-shadow: none !important;\
+        }\
+        .ui-btn-active {\
+            background-color: #8aac4a !important;\
+            color: white !important;\
+            text-shadow: none !important;\
+        }\
+        .ui-radio-on {\
+            background-color: #8aac4a !important;\
+            color: white !important;\
+            text-shadow: none !important;\
+        }\
+        #timerChild {\
+            border: 10px solid white !important;\
+        }\
+        #stopwatchChild {\
+            border: 10px solid white !important;\
+        }\
+        #contentload {\
+            background-color: #121212 !important;\
+            color: white;\
+            text-shadow: none;\
+        }\
+        #wholeBody {\
+            background-color: #121212 !important;\
+        }\
+        .ui-popup {\
+            background-color: #121212 !important;\
+        }\
+        Table {\
+            border: 1px solid white !important;\
+        }\
+        Text {\
+            color: white !important;\
+            fill: white !important;\
+            text-shadow: none;\
+        }\
+        .timer {\
+            border: 10px solid white !important;\
+        }\
+        .ui-page {\
+            background-color: #121212 !important;\
+        }\
+        #loadingGif {\
+            background-color: #121212 !important;\
+        }\
+        #savesTitle {\
+            background-color: #121212 !important;\
+            color: white !important;\
+            text-shadow: none !important;\
+        }\
+        #saves {\
+            background-color: #121212 !important;\
+            color: white !important;\
+            text-shadow: none !important;\
+        }\
+</style>"
+                    // Apply dark theme or set theme css variables to dark
+                    /*	  i = 0
+                          while (i<document.getElementsByClassName("timer").length) {
+                              document.getElementsByClassName("timer")[i].style.border = "10px solid #121212"
+                              i=i+1
+                          }
+                          i = 0
+                          while (i<document.getElementsByClassName("ui-radio-off").length) {
+                              document.getElementsByClassName("ui-radio-off")[i].style.backgroundColor = "#121212"
+                              document.getElementsByClassName("ui-radio-off")[i].style.color = "white"
+                              document.getElementsByClassName("ui-radio-off")[i].style.textShadow = "none"
+                              i=i+1
+                          }
+                          i = 0
+                          while (i<document.getElementsByClassName("ui-btn").length) {
+                              document.getElementsByClassName("ui-btn")[i].style.backgroundColor = "#121212"
+                              document.getElementsByClassName("ui-btn")[i].style.color = "white"
+                              document.getElementsByClassName("ui-btn")[i].style.textShadow = "none"
+                              i=i+1
+                          }
+                          i = 0
+                          while (i<document.getElementsByClassName("ui-btn-active").length) {
+                              document.getElementsByClassName("ui-btn-active")[i].style.backgroundColor = "#8aac4a"
+                              document.getElementsByClassName("ui-btn-active")[i].style.color = "white"
+                              document.getElementsByClassName("ui-btn-active")[i].style.textShadow = "none"
+                              i=i+1
+                          }
+                          i = 0
+                          while (i<document.getElementsByClassName("ui-radio-on").length) {
+                              document.getElementsByClassName("ui-radio-on")[i].style.backgroundColor = "#8aac4a"
+                              document.getElementsByClassName("ui-radio-on")[i].style.color = "white"
+                              document.getElementsByClassName("ui-radio-on")[i].style.textShadow = "none"
+                              i=i+1
+                          }
+
+                          document.getElementById("timerChild").style.border = "10px solid white !important"
+                          document.getElementById("stopwatchChild").style.border = "10px solid white !important"
+                          document.getElementById("contentload").style.backgroundColor = "#121212"
+                          document.getElementById("contentload").style.color = "white"
+                          document.getElementById("contentload").style.textShadow = "none"
+                          document.getElementById("wholeBody").style.backgroundColor = "#121212"
+                          i = 0
+                          while (i<document.getElementsByClassName("ui-popup").length) {
+                              document.getElementsByClassName("ui-popup")[i].style.backgroundColor = "#8aac4a"
+                              i=i+1
+                          }
+                          */
+                return true;
+            } else {
+                document.getElementById("styleBlank").innerHTML = ""
+                return false
+            }
+        }
+    }
+</script>
+<script>
     function initpage() {
         languageInit()
         checkDarkTheme()
