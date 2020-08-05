@@ -9,6 +9,4 @@ categories: Worksheets
 tag: Worksheets
 featured: false
 ---
-Coming Soon<br>
-<a href="/translations/en-us/Worksheets/.pdf">PDF</a><br>
-<a href="/translations/en-us/Worksheets/.pdf">Google</a>
+<a href="https://docs.google.com/presentation/d/1fPb6y69poERtD0Ir7lafZzjOJNCAGvkKjpBwQDMTaIc/edit">Google</a>
