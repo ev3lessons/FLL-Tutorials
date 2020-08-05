@@ -9,4 +9,5 @@ categories: Worksheets
 tag: Worksheets
 featured: false
 ---
-<a href="https://docs.google.com/presentation/d/1ExB0ssQDjJ9od4YfqPYbvQHqjTr88ihIU9ntGsb_7Hw/view">Google</a>
+<a href="https://docs.google.com/presentation/d/1ExB0ssQDjJ9od4YfqPYbvQHqjTr88ihIU9ntGsb_7Hw/view">View on Google</a><br>
+<a href="https://docs.google.com/presentation/d/1ExB0ssQDjJ9od4YfqPYbvQHqjTr88ihIU9ntGsb_7Hw/copy">Make a Copy on Google</a>
