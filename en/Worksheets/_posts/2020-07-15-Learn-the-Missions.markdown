@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 Coming Soon<br>
-<a href="/translations/en-us/Worksheets/.pdf">PDF</a>
+<a href="/translations/en-us/Worksheets/LearnTheMissions.pdf">PDF</a>
