@@ -1,5 +1,5 @@
 ---
-title: "13-Week Beginner's Guide to RePLAY"
+title: "Unofficial Guide to FIRST LEGO League RePLAY"
 searchterms:
 layout: post
 language: "en"
@@ -9,5 +9,5 @@ categories: Worksheets
 tag: Worksheets
 featured: false
 ---
-Coming Soon
-<a href="/translations/en-us/Worksheets/.pdf">PDF</a>
+
+<a href="/translations/en-us/Worksheets/UnofficialGuide.pdf">PDF</a>
