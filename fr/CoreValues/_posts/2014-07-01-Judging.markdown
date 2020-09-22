@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Les valeurs fondamentales – Jugement"
+searchterms:
+image: "assets/images/CoreValues/GenericLesson.png"
+language: "fr"
+author: BayouBuilders
+categories:  [ Judging]
+tag: CoreValues
+featured: true
+excerpt_separator: <!--more-->
+---
+Tips for Core Values judging.
+ <!--more-->
+
+ <li class="ng-binding">Slides:
+ <a href="/fr/CoreValues/FLL-CV-06-Jugement.pdf">PDF</a>,
+
+ </li>
