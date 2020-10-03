@@ -1,6 +1,6 @@
 ---
 layout: en/default
-title: Coach's Corner
+title: Project
 comments: true
 ---
 
