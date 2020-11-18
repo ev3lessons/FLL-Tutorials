@@ -10,6 +10,10 @@ tag: Project
 featured: false
 ---
 
-Slides:
- <a href="/translations/en-us/Project/ProjectNextLevel.pptx">PPTX</a>,
- <a href="/translations/en-us/Project/ProjectNextLevel.pdf">PDF</a> 
+ Slides:
+  <a href="/translations/en-us/Project/ProjectNextLevel.pptx">PPTX</a>,
+  <a href="/translations/en-us/Project/ProjectNextLevel.pdf">PDF</a>
+<br>
+  Slides by D++:
+   <a href="/translations/en-us/Project/NextLevelD++.pptx">PPTX</a>,
+   <a href="/translations/en-us/Project/NextLevelD++.pdf">PDF</a>
