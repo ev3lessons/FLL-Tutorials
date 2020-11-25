@@ -1,5 +1,5 @@
 ---
-title: "דפיעבודהלפרויקטהחדשנות1עודכןט "
+title: "דפי עבודה לפרויקט החדשנות"
 searchterms:
 layout: post
 language: "he"

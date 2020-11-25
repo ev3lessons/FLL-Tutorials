@@ -1,5 +1,5 @@
 ---
-title: "דפיעבודהבנושאערכיהליבהעודכןט "
+title: "דפי עבודה על ערכי הליבה"
 searchterms:
 layout: post
 language: "he"
