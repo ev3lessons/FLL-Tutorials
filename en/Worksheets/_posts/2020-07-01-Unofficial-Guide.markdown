@@ -1,5 +1,5 @@
 ---
-title: "Unofficial Guide to FIRST LEGO League RePLAY"
+title: "Unofficial Guide to a FIRST LEGO League Season"
 searchterms:
 layout: post
 language: "en"
