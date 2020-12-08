@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building Quick Guide"
+title: "Programming Quick Guide"
 image: "assets/images/RobotGame/Consolidated.png"
 searchterms: "lesson"
 language: "en"
@@ -12,4 +12,4 @@ featured: false
 
 
 
-<a href="/translations/en-us/RobotGame/BuildLessons.pdf">PDF</a>
+<a href="/translations/en-us/RobotGame/ProgrammingQuickGuide.pdf">PDF</a>
