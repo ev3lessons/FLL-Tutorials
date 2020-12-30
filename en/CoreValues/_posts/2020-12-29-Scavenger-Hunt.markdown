@@ -20,7 +20,7 @@ Author: Sanjay from FRC 8027
 This activity is good for taking a break and playing with each other and learning more about FIRST and this year's challenge.
 
 <b>Instructions:</b>
-- Have your students click on this link to access a Scavenger Hunt Bingo Card <a href="https://bingobaker.com#0195206d584fd985">Card</a>
+- Have your students click on this link to access a Scavenger Hunt Bingo <a href="https://bingobaker.com#0195206d584fd985">Card</a>
 - See how many items they can find/identify in 5 mins
 - All items on the board are related to FIRST, FIRST LEGO League or the RePLAY challenge. Majority of solutions can be found on the FIRST <a href="https://www.firstinspires.org/">website</a> or FIRST LEGO League <a href="https://www.firstlegoleague.org/">website.
-- You can also use <a href="https://bingobaker.com">Bingo Maker</a> to make new Scavenger Hunts.
+- You can also use <a href="https://bingobaker.com">Bingo Baker</a> or similar to make new Scavenger Hunts for your team.
