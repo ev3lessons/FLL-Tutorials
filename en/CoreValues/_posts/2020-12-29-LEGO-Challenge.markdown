@@ -19,10 +19,7 @@ Author: Bethany Perseghetti Wright (Share & Learn)
 <b>Objectives:</b>
 A fun exercise in LEGO building with limited set of parts that encourages creativity and tolerance.
 
-<b>Materials:</b>
-- <a href="https://dr-d-king.itch.io/lets-go-build-a?fbclid=IwAR1C2RfbVoPJMiOze4kRalvaqd9Skxmm8VYGVkacmC0gEWHDPk9f7rgWuQs">Daily Building Challenge</a>
-
-
-<b>Setup:</b>
-- Have each student visit the link about and click on daily Challenge
+<b>Instructions:</b>
+- Have each student go to <a href="https://dr-d-king.itch.io/lets-go-build-a?fbclid=IwAR1C2RfbVoPJMiOze4kRalvaqd9Skxmm8VYGVkacmC0gEWHDPk9f7rgWuQs">Daily Building Challenge</a>
+- Have students build their design using the limited number and types of bricks available
 - Have students share their screens or take screenshots to share what their model looks like.
