@@ -2,8 +2,8 @@
 layout: post
 language: "en"
 keywords:
-image: "assets/images/CoreValues/AtoZ.png"
-title: "A to Z Logo Puzzle"
+image: "assets/images/CoreValues/Bingo.png"
+title: "FIRST Scavenger Hunt"
 minidescription: ""
 author: 8027
 categories:  [ Team Building ]
@@ -12,15 +12,15 @@ featured: false
 excerpt_separator: <!--more-->
 ---
 
-Team Building Activity: A to Z Logo Puzzle<br>
-Author: Peggy Stephas Maricle
+Team Building Activity: Online Scavenger Hunt<br>
+Author: Sanjay from FRC 8027
 <!--more-->
 
 <b>Objectives:</b>
-This activity is good for taking a break and playing with each other.
+This activity is good for taking a break and playing with each other and learning more about FIRST and this year's challenge.
 
 <b>Instructions:</b>
-- Download a copy of the <a href="https://www.facebook.com/groups/FLLShareandLearn/permalink/1297041160680601/">logos</a> and share your screen with the team. Start guessing.
-
-<b>Solution:</b>
-- Aquafina, Burger King, Cheerios, Disney, Eggo, Frosted Flakes, Gatorade, Hersey, iPhone, Jolly Rancher, Kit Kat, Lucky Charms, Minecraft, Nerds, Orbitz, Panera, Qdoba, Reece's, Skittles, Twix, Uno, Vans, Wonder Woman, Xbox, Yahoo, Zoom
+- Have your students click on this link to access a Scavenger Hunt Bingo Card <a href="https://bingobaker.com#0195206d584fd985">Card</a>
+- See how many items they can find/identify in 5 mins
+- All items on the board are related to FIRST, FIRST LEGO League or the RePLAY challenge. Majority of solutions can be found on the FIRST <a href="https://www.firstinspires.org/">website</a> or FIRST LEGO League <a href="https://www.firstlegoleague.org/">website.
+- You can also use <a href="https://bingobaker.com">Bingo Maker</a> to make new Scavenger Hunts.
