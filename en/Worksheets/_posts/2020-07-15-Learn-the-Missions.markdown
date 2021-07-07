@@ -9,4 +9,5 @@ categories: Worksheets
 tag: Worksheets
 featured: false
 ---
-<a href="/translations/en-us/Worksheets/LearnTheMissions.pdf">PDF</a>
+Coming on August 17
+<a href="pdf">PDF</a>

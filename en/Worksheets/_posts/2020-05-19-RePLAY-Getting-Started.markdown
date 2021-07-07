@@ -1,5 +1,5 @@
 ---
-title: "RePLAY Offseason Getting Started Guide"
+title: "CARGO CONNECT Offseason Guides"
 searchterms:
 layout: post
 language: "en"
@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/RePLAYGettingStarted.pdf">RePLAY Offseason</a>
+<a href="/translations/en-us/Worksheets/2021PreSeasonIP.pdf">Innovation Project</a>
