@@ -9,5 +9,5 @@ categories: Worksheets
 tag: Worksheets
 featured: false
 ---
-Coming on August 17
+Coming Aug 17.
 <a href="pdf">PDF</a>
