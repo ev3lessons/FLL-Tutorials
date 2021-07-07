@@ -1,5 +1,5 @@
 ---
-title: "CARGO CONNECT Offseason Guides"
+title: "CARGO CONNECT Pre-season Guides"
 searchterms:
 layout: post
 language: "en"
