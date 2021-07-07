@@ -16,7 +16,7 @@ comments: true
 <br>
 <a href="https://docs.google.com/presentation/d/1fPb6y69poERtD0Ir7lafZzjOJNCAGvkKjpBwQDMTaIc/edit">CV Worksheets</a><br>
 <br>
-href="https://docs.google.com/presentation/d/1Xe5ciByiaNYl9cTxmtulJzoCGRNlWZdhXuGmUaDDwLQ/edit">Mission Brainstorming</a><br>
+<a href="https://docs.google.com/presentation/d/1Xe5ciByiaNYl9cTxmtulJzoCGRNlWZdhXuGmUaDDwLQ/edit">Mission Brainstorming</a><br>
 <br>
 <a href="/translations/en-us/Worksheets/RePLAYGettingStarted.pdf">RePLAY Offseason</a>
 
