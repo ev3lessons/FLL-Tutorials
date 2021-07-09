@@ -10,7 +10,7 @@ tag: CoreValues
 featured: true
 excerpt_separator: <!--more-->
 ---
- This is an overview of the Core Values in FIRST LEGO League.
+ This is an overview of how to develop a team identity.
  <!--more-->
 
  <li class="ng-binding">Slides:
