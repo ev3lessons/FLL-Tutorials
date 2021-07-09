@@ -10,5 +10,5 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2021PreSeasonIP.pdf">Innovation Project</a>, <br><br>
+<a href="/translations/en-us/Worksheets/2021PreSeasonIP.pdf">Innovation Project</a> <br>
 <a href="/translations/en-us/Worksheets/2021PreSeasonCV.pdf">Core Values</a>
