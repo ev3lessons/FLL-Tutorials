@@ -21,7 +21,7 @@ Learn about FLLChicken and learn the importance of giving good instructions.
 <b>Materials:</b>
 - Collect enough parts to build two FLLChickens
 - <a href="/translations/en-us/CoreValues/FLLChickenInstructions.jpg">FLLChicken Build instructions</a>
-- <a href="/translations/en-us/Worksheets/FLLChickenHistory.png">FLLChicken History</a>
+- <a href="/translations/en-us/CoreValues/FLLChickenHistory.png">FLLChicken History</a>
 
 
 <b>Setup:</b>
