@@ -1,5 +1,5 @@
 ---
-title: "Unofficial Guide to a FIRST LEGO League Season"
+title: "Unofficial Guide to the CARGO CONNECT Season"
 searchterms:
 layout: post
 language: "en"
@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/UnofficialGuide.pdf">PDF</a>
+Will be updated Aug 17. <a href="/translations/en-us/Worksheets/UnofficialGuide.pdf">RePLAY PDF</a>
