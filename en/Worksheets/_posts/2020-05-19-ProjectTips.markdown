@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2021VirtualFieldtrips.pdf">Virtual Fieldtrips</a> <br></a>
+<a href="/translations/en-us/Worksheets/2021VirtualFieldtrips.pdf">Virtual Fieldtrips</a>
