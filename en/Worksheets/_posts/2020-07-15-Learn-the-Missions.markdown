@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="">Coming Aug 17</a>
+<a href="/translations/en-us/Worksheets/2021FLLTutorials-LearntheMissions.pdf">PDF</a>
