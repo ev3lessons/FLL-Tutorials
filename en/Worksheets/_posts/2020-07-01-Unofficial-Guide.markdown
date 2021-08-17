@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-Will be updated Aug 17. <a href="/translations/en-us/Worksheets/UnofficialGuide.pdf">RePLAY PDF</a>
+Will be updated Aug 18. <a href="">PDF</a>
