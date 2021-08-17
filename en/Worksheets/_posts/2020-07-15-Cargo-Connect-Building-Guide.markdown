@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-Tips for building mission models<a href="https://youtu.be/iNrKXl99iHY">YouTube Video</a>
+<a href="https://youtu.be/iNrKXl99iHY">YouTube Video</a>
