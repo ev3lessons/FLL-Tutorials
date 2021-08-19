@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-Will be updated Aug 18. <a href="">PDF</a>
+<a href="/translations/en-us/Worksheets/2021-BeginnersGuide.pdf">PDF</a>
