@@ -16,4 +16,4 @@ This is a modular base robot built largely with one SPIKE Prime Core Set (45678)
 Design by Sanjay and Arvind Seshan
 
 Design Files:
- <a href="/en/RobotGame/DroidMSpikePrime.pdf">Base Robot</a>
+ <a href="/en/RobotGame/DroidBotMSpikePrime.pdf">Base Robot</a>
