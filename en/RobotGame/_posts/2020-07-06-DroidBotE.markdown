@@ -17,4 +17,4 @@ Design by Sanjay and Arvind Seshan
 
 Design Files:
  <a href="/en/RobotGame/DroidBotEBuildInstructions.pdf">Base Robot</a>
- <a href="/en/RobotGame/DroidBotEBuildAttachment.pdf">Attachments</a>
+ <a href="/en/RobotGame/DroidBotEAttachment.pdf">Attachments</a>
