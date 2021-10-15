@@ -30,9 +30,9 @@ Through this activity teams will learn the FIRST Core Values, while practicing i
 <b>Instructions to Team:</b>
 
 Each team member should take a balloon.  One at a time, team members take turns popping the balloons, each using a different method of popping the balloon.  Be creative!  Once the balloon is popped, have each team member find and hold onto the strip of paper.
-<br>
+<br><br>
 After all of the balloons have been popped, take turns reading aloud the strips of paper and discuss them as a team.
-<br>
+<br><br>
 Notes: This could also be done to learn Robot Game Rules, Missions, etc.
 
 This Core Value Activity was created and shared by the Shakespearean Pirates on Share & Learn.

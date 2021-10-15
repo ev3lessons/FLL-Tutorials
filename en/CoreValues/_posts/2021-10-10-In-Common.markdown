@@ -1,0 +1,41 @@
+---
+layout: post
+language: "en"
+keywords:
+image: "assets/images/CoreValues/Common.png"
+title: "In Common"
+minidescription: "What do we have in common"
+author: 8027
+categories:  [ Team Building ]
+tag: CoreValues
+featured: false
+excerpt_separator: <!--more-->
+---
+
+Team Building Activity: In Common<br>
+<!--more-->
+
+<b>Objectives:</b>
+Through this activity teams will learn that they have quite a lot in common with each other.
+
+<b>Materials:</b>
+- Strips of paper (or post-it notes)
+- Poster board to stick them on to with the names of each of the students on the top.
+
+
+<b>Setup:</b>
+- Each student is given 6 small pieces/strips of paper.
+- Come up with 6 questions
+
+
+<b>Instructions to Team:</b>
+
+Each team member should take 6 pieces of paper. On each paper, write the answer to one question: 1) How many siblings do you have? 2) What is your favorite sport? 3) Do you play an instrument (which one)? 4) If you could travel anywhere, where would you go?, 5) What is your favorite subject in school?, 6) Do you have a pet?
+<br><br>
+Place each paper into a box or hat when you are done.
+<br><br>
+When everyone is done, pick out one paper at a time and guess who it could be about. Place the post it under the correct name. Find out what you have in common with others on your team.
+<br>
+
+
+This Core Value Activity was created and shared by Droids Robotics.
