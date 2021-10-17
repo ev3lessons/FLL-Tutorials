@@ -11,7 +11,7 @@ featured: false
 ---
 
 <a href="/translations/en-us/Worksheets/Guided-Mission-Reliability-Techniques.llsp">Code with Comments</a>
-<br><br>
+<br>
 <a href="https://youtu.be/rvAgi-Yviww">Guided Mission Video</a>
-<br><br>
+<br>
 <a href="https://youtu.be/H5n4R5ZwicY">Reliability Webinar</a><br>
