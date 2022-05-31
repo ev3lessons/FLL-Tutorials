@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-Coming Soon - August 2022
+Coming August 2022

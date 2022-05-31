@@ -1,5 +1,5 @@
 ---
-title: "SUPER POWERED Pre-season Guides"
+title: "Super Powered Pre-season Guides"
 searchterms:
 layout: post
 language: "en"
@@ -15,3 +15,4 @@ featured: false
 <a href="/translations/en-us/Worksheets/2022PreSeasonRD.pdf">Robot Design</a><br>
 <a href="/translations/en-us/Worksheets/2022PreSeasonNavigationChallenges.pdf">Navigation Challenges</a><br>
 <a href="/translations/en-us/Worksheets/2022PreSeasonBuildingChallenges.pdf">Building Challenges</a>
+Coming June 2022

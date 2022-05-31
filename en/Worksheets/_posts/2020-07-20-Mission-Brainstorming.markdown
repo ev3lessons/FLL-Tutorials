@@ -1,5 +1,5 @@
 ---
-title: "CARGO CONNECT Mission Brainstorming"
+title: "Super Powered Mission Brainstorming"
 searchterms:
 layout: post
 language: "en"

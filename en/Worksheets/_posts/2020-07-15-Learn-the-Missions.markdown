@@ -1,5 +1,5 @@
 ---
-title: "Learn the CARGO CONNECT Missions"
+title: "Learn the Super Powered Missions"
 searchterms:
 layout: post
 language: "en"
