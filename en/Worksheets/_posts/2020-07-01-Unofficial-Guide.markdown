@@ -1,5 +1,5 @@
 ---
-title: "Unofficial Guide to the CARGO CONNECT Season"
+title: "Unofficial Guide to the SUPER POWERED Season"
 searchterms:
 layout: post
 language: "en"
@@ -11,3 +11,4 @@ featured: false
 ---
 
 <a href="/translations/en-us/Worksheets/2021-BeginnersGuide.pdf">PDF</a>
+Update Coming August 2022

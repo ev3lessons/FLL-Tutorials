@@ -1,5 +1,5 @@
 ---
-title: "CARGO CONNECT Building Guide"
+title: "Super Powered Building Guide"
 searchterms:
 layout: post
 language: "en"
@@ -10,4 +10,5 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="https://youtu.be/iNrKXl99iHY">YouTube Video</a>
+<a href="">YouTube Video</a>
+Coming August 2022

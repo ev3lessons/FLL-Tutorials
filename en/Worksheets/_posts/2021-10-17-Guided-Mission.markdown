@@ -10,8 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/Guided-Mission-Reliability-Techniques.llsp">Code with Comments</a>
-<br>
-<a href="https://youtu.be/rvAgi-Yviww">Guided Mission Video</a>
-<br>
-<a href="https://youtu.be/HLv8TeFOCRw">Reliability Webinar</a><br>
+Coming Soon - August 2022

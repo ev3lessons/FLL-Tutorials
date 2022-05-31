@@ -1,5 +1,5 @@
 ---
-title: "CARGO CONNECT Pre-season Guides"
+title: "SUPER POWERED Pre-season Guides"
 searchterms:
 layout: post
 language: "en"
@@ -10,8 +10,8 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2021PreSeasonIP.pdf">Innovation Project</a> <br>
-<a href="/translations/en-us/Worksheets/2021PreSeasonCV.pdf">Core Values</a><br>
-<a href="/translations/en-us/Worksheets/2021PreSeasonRD.pdf">Robot Design</a><br>
-<a href="/translations/en-us/Worksheets/2021PreSeasonNavigationChallenges.pdf">Navigation Challenges</a><br>
-<a href="/translations/en-us/Worksheets/2021PreSeasonBuildingChallenges.pdf">Building Challenges</a>
+<a href="/translations/en-us/Worksheets/2022PreSeasonIP.pdf">Innovation Project</a> <br>
+<a href="/translations/en-us/Worksheets/2022PreSeasonCV.pdf">Core Values</a><br>
+<a href="/translations/en-us/Worksheets/2022PreSeasonRD.pdf">Robot Design</a><br>
+<a href="/translations/en-us/Worksheets/2022PreSeasonNavigationChallenges.pdf">Navigation Challenges</a><br>
+<a href="/translations/en-us/Worksheets/2022PreSeasonBuildingChallenges.pdf">Building Challenges</a>

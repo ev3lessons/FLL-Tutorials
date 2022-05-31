@@ -17,5 +17,6 @@ comments: true
 <p> <a href="{{ site.baseurl }}/Resources/2018" class="btn btn-danger" role="button">INTO ORBIT Resources</a></p>
 <p> <a href="{{ site.baseurl }}/Resources/2019" class="btn btn-primary" role="button">CITY SHAPER Resources</a></p>
 <p> <a href="{{ site.baseurl }}/Resources/2020" class="btn btn-success" role="button">RePLAY Resources</a></p>
+<p> <a href="{{ site.baseurl }}/Resources/2021" class="btn btn-primary" role="button">City Shaper Resources</a></p>
 
 </div>
