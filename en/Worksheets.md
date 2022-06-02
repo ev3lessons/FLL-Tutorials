@@ -16,7 +16,7 @@ comments: true
         <section class="all-posts">
 
         <div class="section-title text-center">
-            <h1>Worksheets, Guides and Pres-Season Activities</h1>
+            <h1>Worksheets, Guides and Pre-Season Activities</h1>
         </div>
 <br><br><br>
             <div class="row listfeaturedtag">
