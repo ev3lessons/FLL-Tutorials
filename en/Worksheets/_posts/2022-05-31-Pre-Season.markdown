@@ -12,6 +12,6 @@ featured: false
 
 <a href="/translations/en-us/Worksheets/2022PreSeasonIP.pdf">Innovation Project</a><br>
 <a href="/translations/en-us/Worksheets/2022PreSeasonCV.pdf">Core Values</a><br>
-<a href="2022PreSeasonRD.pdf">Robot Design</a><br>
+<a href="/translations/en-us/Worksheets/2022PreSeasonRD.pdf">Robot Design</a><br>
 <a href="/translations/en-us/Worksheets/2022PreSeasonNavigationChallenges.pdf">Navigation Challenges</a><br>
 <a href="/translations/en-us/Worksheets/2022PreSeasonBuildingChallenges.pdf">Building Challenges</a>
