@@ -1,5 +1,5 @@
 ---
-title: "Super Powered Building Guide"
+title: "Mission Model Building Guide"
 searchterms:
 layout: post
 language: "en"
@@ -10,5 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href=""></a>
-Coming August 2022
+<a href="/translations/en-us/Worksheets/2022MissionModelBuildingTips.pdf">PDF</a>
