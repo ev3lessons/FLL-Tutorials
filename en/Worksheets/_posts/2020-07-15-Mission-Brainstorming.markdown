@@ -10,6 +10,5 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="">PDF</a><br>
-<a href="">Google</a><br>
-Coming August 2022
+<a href="/translations/en-us/Worksheets/2022FLLTutorials-MissionBrainstorming.pdf">PDF</a><br>
+<a href="https://docs.google.com/presentation/d/1UC40Jzv1eGJHpQynxASRmlOQFySujqw62M2SLKyNeww/edit?usp=sharing">Google</a><br>
