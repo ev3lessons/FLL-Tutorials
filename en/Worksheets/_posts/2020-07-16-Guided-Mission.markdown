@@ -9,5 +9,5 @@ categories: Worksheets
 tag: Worksheets
 featured: false
 ---
-
-Coming August 2022
+<a href="/translations/en-us/Worksheets/2022GuidedMissionWithReliability.pdf">Guide</a>,
+<a href="/translations/en-us/Worksheets/2022GuidedMissionSuperpowered.llsp">Code File, <a href="https://youtu.be/CgZHATVfZlE">Video

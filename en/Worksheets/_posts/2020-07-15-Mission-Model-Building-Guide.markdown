@@ -10,5 +10,5 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2022MissionModelBuildingTips.pdf">General Guide</a>
+<a href="/translations/en-us/Worksheets/2022MissionModelBuildingTips.pdf">General Guide</a>, 
 <a href="https://docs.google.com/document/d/1ViMW-ANIL4uaBm7YPc4rJcfYTGBu_4YznDeHkD8Bb1s/edit?usp=sharing">Superpowered Building and Setup Guide
