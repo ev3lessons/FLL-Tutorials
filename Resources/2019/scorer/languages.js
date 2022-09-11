@@ -1063,7 +1063,8 @@ function languageInit() {
 	
     } else if (language == "eu") {
 
-	translatorCredit = "Euskaratuta Anartz San Juan-engatik Edurobotic FIRST LEGO League-en taldekidea"
+	//translatorCredit = "Euskaratuta Anartz San Juan-engatik Edurobotic FIRST LEGO League-en taldekidea"
+	translatorCredit = "Euskaratuta"
 
 	yes = "Bai"
 	no = "Ez"
