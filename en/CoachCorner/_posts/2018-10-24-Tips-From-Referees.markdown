@@ -9,7 +9,7 @@ categories: [ Competition Day]
 tag: CoachCorner
 featured: false
 ---
-We asked Head Referees from all over the world what tips and advice they have for teams. 
+We asked Head Referees from all over the world what tips and advice they have for teams.
 
 1) Don't cut it too close. If your robot is 11.999 inches at start, maybe you should rethink your attachment.
 
@@ -23,7 +23,7 @@ We asked Head Referees from all over the world what tips and advice they have fo
 
 6) Conditions differ. Each table will be a bit different, mats can get a bit curled, lighting can be different, etc. Make your robot solutions robust. Before coming to the competition, let your robot drive on another team's table. Invite them to yours.
 
-7) Find out if your region has a way (often an email address) to get in contact with your Head Referee. If you have access to that resource, use it whenever you have a question that you can't answer by reading the rules or if you have any unsusual strategy you wish to discuss ahead of time.
+7) Find out if your region has a way (often an email address) to get in contact with your Head Referee. If you have access to that resource, use it whenever you have a question that you can't answer by reading the rules or if you have any unusual strategy you wish to discuss ahead of time.
 
 8) Many people find it hard to work well under pressure, and where do you feel more pressure than when running your robot at a FIRST LEGO League competition. What can you do? Practice, practice, practice. Stop building and programming your robot at least a week before the competition, and use the time to practice getting your robot to succeed reliably at what it already can do.
 
@@ -37,4 +37,3 @@ We asked Head Referees from all over the world what tips and advice they have fo
 
 
 Thank you to MK, Thomas, Sam, Alan, and Srini for these tips.
-

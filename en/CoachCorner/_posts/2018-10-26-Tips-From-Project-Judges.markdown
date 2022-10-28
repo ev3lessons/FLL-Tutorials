@@ -11,21 +11,21 @@ featured: false
 ---
 We asked World Festival and State-Level Project Judges for tips and advice they have for teams. Here is what they shared:
 
-1) It's always important for the team to pick their own topic to study, but as a coach you need to guide them to make sure that it's a realistic topic. Have the team look at the rubric and make sure that they can defend the topic in all areas. 
+1) It's always important for the team to pick their own topic to study, but as a coach you need to guide them to make sure that it's a realistic topic. Have the team look at the rubric and make sure that they can defend the topic (show that it is relevant to this year's prompt).
 
-2) Even a weak project can have outstanding research. 
+2) Even a weak project in terms of innovation can have outstanding research.
 
 3) Teams should do a 360' around their topic. Every question leads to an answer that leads to more questions.  You never know who your judges are going to be. They may be experts in the field or have visited the same locations your team did.
 
 4) Never "fake it".  If you don't know an answer simply say something like " that's a great question and we need to find the answer to that. If you stop by our pit later, we will have it for you"
 
-5) Presentations where stuents are reading from a script are not as engaging. If you having trouble memorizing, make posters to hold and tape your scripts to the back.
+5) Presentations where students are reading from a script are not as engaging. If you having trouble memorizing, make posters to hold and tape your scripts to the back.
 
 6) Many teams spend more time on their skits than on their research. Cute costumes and a complicated storyline will never take the place of facts. Focus on the facts first.
 
-7) Judges don't have time to look through a binder (if you keep one) for information. Make sure that the team TELLS the judges everything they need to know. Convey everything you need to in your 5mins. 
+7) Judges don't have time to look through a binder (if you keep one) for information. Make sure that the team TELLS the judges everything they need to know. Convey everything you need to in your 5mins.
 
-8) Bring your teram's research binder (if you keep one) and/or poster board, but also 1 or 2 pages with bullet points that list the information required for the highest areas of the rubric. That way when the judges go to score you, they have the information handy to refresh their memories.
+8) If allowed, you may be able to leave behind a summary document with the judges. Please ask your tournament director.
 
 9) The rubric is your best resource for success. Have the team score themselves using the rubric and see where they want to improve.
 
@@ -35,7 +35,7 @@ We asked World Festival and State-Level Project Judges for tips and advice they 
 
 12) The judges are very interested in your team as a whole and don't need to know all your names.  Save time and wear name tags if you really want them to know who you are.
 
-13) Practice, practice, practice. When you think it's perfect record yourself and watch it. Chances are, you will want to practice it again. 
+13) Practice, practice, practice. When you think it's perfect record yourself and watch it. Chances are, you will want to practice it again.
 
 14) Know your audience. Make sure that any jokes or pop culture references are clear enough to be understood by all age groups and all cultures.
 
@@ -49,8 +49,7 @@ We asked World Festival and State-Level Project Judges for tips and advice they 
 
 19) Don't give your presentation from the back wall. Instead, move closer to the judges without being making them uncomfortable (give them some space). You'll be more engaging, the judges will be able hear you, and they'll also be able to see and read any visuals you bring in.
 
-20) The presentation time includes any setup time. Your 5 mins actually starts the moment all the team members enter the room. If you end up with significant set up time, consider having a team member interact with the judges whilst the others are setting up. 
+20) The presentation time (5 minutes) includes any setup time. If you end up with significant set up time, consider having a team member interact with the judges whilst the others are setting up. 
 
 
 Thank you to Nancy, Haruna, Fiona and Asha for these tips.
-

@@ -41,4 +41,4 @@ Things to take into consideration :
 * Have fun!<br>
 <img src="{{ site.baseurl }}/assets/images/CoachCorner/Expert1.jpg" style="max-width: 100%" />
 
-Kalai is the FIRST LEGO League Jr Operational Partner for Northeast Florida. She is also the Founder and Head Instructor of Shiva Robotics Academy.
+Kalai is the FIRST LEGO League Explore Operational Partner for Northeast Florida.

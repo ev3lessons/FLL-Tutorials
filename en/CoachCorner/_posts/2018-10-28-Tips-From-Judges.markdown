@@ -13,7 +13,7 @@ We asked World Festival and State-Level Judges for general tips and advice they 
 
 1) Judges are fabulous people and they are looking forward to learning how awesome you are. Be confident and have fun in your judging sessions.
 
-2) Try to make sure that every student has something to say in judging. Every team member should have knowdledge about all the basic aspects of the team, even if they are not the expert in an area. 
+2) Try to make sure that every student has something to say in judging. Every team member should have knowledge about all the basic aspects of the team, even if they are not the expert in an area.
 
 3) Be flexible. If you forget something, just adapt. Sometimes the judging room is not the way you imagined or something doesn't work properly.
 
@@ -37,4 +37,3 @@ We asked World Festival and State-Level Judges for general tips and advice they 
 
 
 Thank you to Fiona, Joe, Anderson, Asha
-

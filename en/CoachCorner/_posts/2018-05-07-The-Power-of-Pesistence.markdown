@@ -14,7 +14,7 @@ FIRST LEGO League is about the iterative design process when it comes to both yo
 
 ### Design-Build-Test-Learn
 
-"An iterative design strategy is based on the cyclic process of developing an initial design or prototype, testing that prototype, analyzing its performance against specific metrics, learning what worked and what did not work, designing a new protoype based on what was learned, and completing the cycle again. The goal is to improve design or prototype quality and functionality."
+"An iterative design strategy is based on the cyclic process of developing an initial design or prototype, testing that prototype, analyzing its performance against specific metrics, learning what worked and what did not work, designing a new prototype based on what was learned, and completing the cycle again. The goal is to improve design or prototype quality and functionality."
 
 Source: Office of Biological and Environmental Research of the U.S. Department of Energy Office of Science.
 
