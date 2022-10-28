@@ -27,20 +27,20 @@ It is the coach's job to get the team to the right location at the right time. S
 Sharpie on your arm. If you've ever been in a swim meet you know the coach will write with a Sharpie times and events on swimmers arms. Sharpie all of your judging, practice times, and event times. You'll lose a sheet of paper, you'll misplace your phone, but you won't lose your arm.
 Especially helpful with multiple teams.
 
-You can also print a small copy of the team's schedule and add it to lanyards. 
- 
+You can also print a small copy of the team's schedule and add it to lanyards.
+
  Take a picture of your schedule and set it as the screen saver on your phone.  Send the photo to all team parents. Stick a copy to your table in your pit.
- 
+
  ## Set Parent Expectations
- 
+
  Set parent expectations of what will happen at a tournament. Know if spectators are allowed in the judging rooms (sometimes they are, sometimes they aren't. Depends on your region). Prepare parents that they may only see the robot game. Also let them know what is expected of them - how they can support the team, how they should also behave graciously, how juding and awards work, etc.
 
 ## Special Needs
 
   If you have kids with any sort of special needs, reach out the Judge Advisor/Tournament Director ahead of time. They will try to help - they can let judges know in advance, they can arrange for "quiet space" if they have room, etc..  
-  
+
   In addition, there is usually a Coach meeting first thing in the morning with the Judge Advisor, Head Referee and Tournament Director. That's a great time for the coaches to ask questions and let them know of any last-minute special arrangements needed.
- 
+
 ## Know Where Your Team Is
 
 Know where your team is at all times. Callbacks can happen in the pit...so you have to be able to find team members easily when judges show up. Schedules can get changed. You have to be able to find your team.
@@ -56,11 +56,11 @@ Be deliberate in packing for a competition. Pit areas are often small, so defini
 
 Also, if you as the coach is hauling everything, make arrangements to meet in the parking lot so the whole team carries stuff in. Just because you're the coach, it doesn't mean you're the designated pack mule.
 
-Some important items: 
+Some important items:
 
 1) Robot: Robot, attachments, jigs, charger, download cable, power strip/extension cord, spare parts, loose Mission Models (if your Tournament Director asks you to bring them), Backup of code (on a USB and printout) <br>
 
-2) Presenations: presentation materials (including posters and props), team shirts/costumes, Engineering Notebook (if you have one), handouts for judges (if you have them), Team Information Sheet (if needed) <br> 
+2) Presentations: presentation materials (including posters and props), team shirts/costumes, Engineering Notebook (if you have one), handouts for judges (if you have them), Team Information Sheet (if needed) <br>
 
 3) Team Spirit: Hats/shirts, giveaways, pit decoration<br>
 
