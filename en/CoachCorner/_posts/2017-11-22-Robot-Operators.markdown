@@ -13,7 +13,7 @@ The following discussion is quoted from the Facebook Group <a href="https://www.
 
 ## Who handles the robot runs during competition?
 
-Teams sometimes pick the best two - based on a combination of tryouts within the team and team attendace/effort. Some teams will switch to a different pairing for each run. Other teams will have the entire team tag in and out even within a single run. There is no right or wrong answer. Do what is best for your team.
+Teams sometimes pick the best two - based on a combination of tryouts within the team and team attendance/effort. Some teams will switch to a different pairing for each run. Other teams will have the entire team tag in and out even within a single run. There is no right or wrong answer. Do what is best for your team.
 
 **Response by Susan Edmonds Nemets**
 
@@ -21,13 +21,13 @@ We do a bunch of trial runs with different partners the week before, then choose
 
 **Response by Don Tippet**
 
-If possible, we try to include everyone. Some kids may just bring in and set a jig. Not everyone gets to run the bot. We always have one designated person to review the table before the match as well. So, those are two positions that are still super important, but not involed in the actual running of the bot.
+If possible, we try to include everyone. Some kids may just bring in and set a jig. Not everyone gets to run the bot. We always have one designated person to review the table before the match as well. So, those are two positions that are still super important, but not involved in the actual running of the bot.
 
 **Response by Jennifer Francis**
 
 The tournament we compete in has three and sometimes four robot runs. We have the team pair up and each pair gets a chance to run.
 
-**Response by Mic Lowne**
+**Response by Mic Lowe**
 
 My policy is for only 3 people to be trained in the corner, 2 that do it all three runs and one emergency. I explain to the students they need to be the ones that have nimble fingers and are good under the stress of people yelling, loud music, time pressure and decision making. I then leave it up to the students to choose the people and I'll only step in if they cannot agree. We always promote the attitude that while the pilot might fly the plane 100's of people help them get the plane ready for a successful flight.
 

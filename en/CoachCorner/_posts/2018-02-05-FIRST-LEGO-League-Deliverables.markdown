@@ -19,17 +19,17 @@ This list started with my packing list for a tournament. I then expanded it to i
 <b> During the season:</b><br>
 1) Come up with a team cheer / chant (Team cheers are not required, but can be a great way to show spirit)<br>
 2) Learn the Core Values<br>
-3) Practice Core Values while executing Project and Robot game<br>
+3) Practice Core Values while executing the Innovation Project and Robot game<br>
 4) Do specific Core Values activities and improve communication<br>
-5) If possible, meet with / help / collaborate with another team or a Jr. FLL team<br>
-6) Develop a 2 min presentation
+5) If possible, meet with / help / collaborate with another team or an FLL Explore team<br>
+6) Be prepared to provide examples of how you applied the Core Values during judging.
 
 <b> Take to event:</b><br>
-1) Core Values poster (optional in some regions)<br>
-2) Team core values summary to leave with judges<br>
+1) Core Values poster (not required)<br>
+2) Team core values summary to leave with judges (if permitted)<br>
 3) Props / scripts / presentation materials<br>
-4) Giveaways to share with other teams<br>
-5) Team spirit / cheering items (balloons, megaphones, pennants, whatever)<br>
+4) Giveaways to share with other teams (if permitted)<br>
+5) Team spirit / cheering items (flags, pennants, whatever)<br>
 6) Pit decorations<br>
 7) Banner / flag for the parade (Some regions have team parades)
 
@@ -40,13 +40,13 @@ This list started with my packing list for a tournament. I then expanded it to i
   3) Choose a problem<br>
   4) Develop an innovative solution<br>
   5) Meet with experts for feedback and sharing<br>
-  6) Develop a 5 min presentation
+  6) Develop a 5 min presentation for judges
 
 <b>Take to event:</b><br>
-1) Project poster board<br>
-2) Team project summary to leave with the judges<br>
+1) Project poster board (not required)<br>
+2) Team project summary to leave with the judges (if permitted)<br>
 3) Props / scripts / presentation<br>
-4) Solution prototype (if your team has one)
+4) Solution prototype/diagram
 
 ## Robot Game
 
@@ -54,20 +54,18 @@ This list started with my packing list for a tournament. I then expanded it to i
 1) Maintain an engineering notebook – the story of our robot (This is not required and does not have to be as detailed as those created in FTC or FRC, but documenting your design is helpful)<br>
 2) Think about strategy – how does the game board shape our solutions?<br>
 3) Solve robot game missions<br>
-4) Develop a 4min presentation
+4) Develop a 5 minute presentation for judges to explain your process
 
 <b>Take to event:</b><br>
-1) Robot design executive summary (RDES) to leave with judges<br>
+1) Summary document to leave with judges (if permitted)<br>
 2) Code to share (printed or on computer)<br>
-3) Short presentation – the story of our robot (Some regions require a 4 minute RDES presentation)<br>
-4) Robot / attachments / charger / download cable<br>
-5) Computer / power supply (have mission model build instructions on computer)<br>
-6) Extra LEGO elements<br>
-7) Backup of programs<br>
-8) Power strip / extension cord<br>
-9) Printed Challenge document<br>
-10) Small table (Some regions ask teams to bring their own table for keeping parts during the robot runs)<br>
-11) Have photographs of robot and attachments in case of damage along the way
+3) Robot / attachments / charger / download cable<br>
+4) Computer / power supply (have mission model build instructions on computer)<br>
+5) Extra LEGO elements<br>
+6) Backup of programs<br>
+7) Power strip / extension cord<br>
+8) Printed Robot Game Rulebook<br>
+9) Have photographs of robot and attachments in case of damage along the way
 
 ## Other
 <b> Take to event:</b><br>

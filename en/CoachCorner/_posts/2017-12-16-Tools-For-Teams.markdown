@@ -11,9 +11,9 @@ featured: false
 
 ---
 
-A few weeks ago, I asked teams about what tools they would recommend for other teams. Here are the results of the discussion on Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn </a>. 
+A few weeks ago, I asked teams about what tools they would recommend for other teams. Here are the results of the discussion on Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn </a>.
 
-**Engineering Journal/Notetaking**<br>
+**Engineering Journal/Note taking**<br>
 Google Science Journal <br>
 Google Docs/Drive <br>
 Redbooth<br>
@@ -38,7 +38,7 @@ Microsoft Teams<br>
 Slack<br>
 
 **Maintaining Schedules**<br>
-Google Calendar<br> 
+Google Calendar<br>
 Mailing Lists/Team Messaging<br>
 Google Group<br>
 Fleep<br>

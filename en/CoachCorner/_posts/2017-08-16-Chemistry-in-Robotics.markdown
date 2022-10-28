@@ -30,5 +30,3 @@ So how does that translate to any coach, from any team, in a situation where the
 I truly believe that if you apply these principles to ANY group of young people, and convince them to apply them to one another, you will BUILD chemistry into your team.  While we do have team members that are stronger in specific areas of FLL, we don’t have specialists.  Nobody is our “programmer” or our “builder”.  We’ve realized that those create isolation in our particular group.  Instead, we try to let each person recognize (and celebrate) who may need to lead a particular activity due to their specific love of math, mechanics, or programming, and then we ALL try to participate and learn.  That’s Chemistry, and when you put CHEMISTRY in robotics, you get some really COOL outcomes.
 
 >I truly believe that if you apply these principles to ANY group of young people, and convince them to apply them to one another, you will BUILD chemistry into your team
-
-Be sure to check out the <a href="http://bananasfll.com/boot-camp/">Bananas' Boot Camp</a> to learn more about their new FIRST LEGO League video series.

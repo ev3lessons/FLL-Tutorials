@@ -56,9 +56,6 @@ Our team also likes to work backwards, but from the front end as well. We take s
 
 Absolutely, pick what you are able to do well and make that your goal to complete at the tournaments. This is your first year and there is a lot to digest. If we stress too much about the game and try to make it all perfect (impossible) we won't want to come back. It needs to be fun and feel right. Our first year we concentrated on Core Values and made the research project fun. Our robot was okay. Have fun with the kids on the team too.
 
-**Response by Ryan Evans**
-
- To stay focussed is actually pretty simple. Of course we look at all that needs to be completed and by when, but the one thing I do that kicks them up a notch is to tell them exactly how many weeks and then DAYS it is until the competition day. Quite the flurry of activity post that statement!
 
 **Response by Gloria Gibson**
 
@@ -78,5 +75,4 @@ Absolutely, pick what you are able to do well and make that your goal to complet
 
 **Response by Paul Glaubitz**
 
- In addition to a calendar, teams I've mentored have used a to do / in progress / done board. It is a poster board with those three columns. Tasks are put on Post-It notes. Low priority tasks still go on the board in the Todo column, but may never move. When team members complete a task they initial and date the note.
-The notes will occasionally fall off. If it is initialed it goes back to done,. If someone is doing it to in progress, otherwise to do.
+ In addition to a calendar, teams I've mentored have used a to do / in progress / done board. It is a poster board with those three columns. Tasks are put on Post-It notes. Low priority tasks still go on the board in the Todo column, but may never move. When team members complete a task they initial and date the note. The notes will occasionally fall off. If it is initialed it goes back to done.

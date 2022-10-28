@@ -72,11 +72,11 @@ Mic Lowne I think it’s a bit of a mix, some do it for core values to share wha
 
 **Response by Brian Boehler**
 
-All of our FLL team pages are ran by either coaches or parents. Most of the students are not yet 13 yrs old (required by facebook to have an account) Once students move into FTC we have a group discussion about social media and appropriate use and content (we also invite parents that wish to join the talk) those FTC students then run thier own team accounts with oversight from coaches, mentors and parents.
+All of our FLL team pages are ran by either coaches or parents. Most of the students are not yet 13 yrs old (required by facebook to have an account) Once students move into FTC we have a group discussion about social media and appropriate use and content (we also invite parents that wish to join the talk) those FTC students then run their own team accounts with oversight from coaches, mentors and parents.
 
 **Response by Tammy Jochman**
 
-We had the team update during meeting times or coaches kids during the week under adult supervision. Other posts were made by the coaches. To share documents and discussion our current team is using a shared google docs folder which seems to work really well. https://www.facebook.com/St-Peter-Lego-League-team.../
+We had the team update during meeting times or coaches kids during the week under adult supervision. Other posts were made by the coaches. To share documents and discussion our current team is using a shared google docs folder which seems to work really well. 
 
 **Response by Jean Findley-Williams**
 
@@ -84,4 +84,4 @@ For the Bayou Builders, the team controls the content and the coaches handle the
 
 **Response by Teresa Smalley**
 
-Agree with all, I monitor our page and did not authoize any one not on the team to post on it. I was real strict when kids were not in HS. I go through the Feed and approve what is posted. I'm loosening up now that the team is older. We've had lots of talks about safety.
+Agree with all, I monitor our page and did not authorize any one not on the team to post on it. I was real strict when kids were not in HS. I go through the Feed and approve what is posted. I'm loosening up now that the team is older. We've had lots of talks about safety.
