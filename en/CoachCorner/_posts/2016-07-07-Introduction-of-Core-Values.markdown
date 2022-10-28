@@ -17,7 +17,7 @@ I have been a coach for a FIRST LEGO League Team since 2006.  My primary job is 
 
 ### What are the Core Values?
 
-If you do google search you will find that the FIRST LEGO League Core Values are the cornerstones of the program.  They are among the fundamental elements that distinguish FIRST from other programs of its kind.  By embracing the Core Values, participants learn that friendly competition and mutual gain are not separate goals, and that helping one another is the foundation of teamwork.
+If you do Google search you will find that the FIRST LEGO League Core Values are the cornerstones of the program.  They are among the fundamental elements that distinguish FIRST from other programs of its kind.  By embracing the Core Values, participants learn that friendly competition and mutual gain are not separate goals, and that helping one another is the foundation of teamwork.
 
 ### Why?
 

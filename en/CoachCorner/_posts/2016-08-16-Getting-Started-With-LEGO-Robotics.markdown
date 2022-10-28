@@ -39,5 +39,3 @@ Nope, once again, Clueless Dad had no clue. Being a fan of BattleBots and having
 First LEGO League is an amazing experience for kids and coaches alike. I got to see my team grow and learn essentially all on their own, and was blown away by how far they’d progressed in just a few months as a team.
 
 I, of course, dutifully held down my role, which was to organize and focus their energy around the challenges. Oh, and also to make snacks. They loved my snacks.
-
-<a href="http://ev3lessons.com/translations/en-us/guides/FLLGettingStarted.pdf">EV3Lessons FLL Getting Started Guide</a>

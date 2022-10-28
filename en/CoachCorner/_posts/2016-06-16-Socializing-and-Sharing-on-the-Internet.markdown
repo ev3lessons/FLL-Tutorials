@@ -12,7 +12,7 @@ tag: CoachCorner
 
 ---
 
-My FIRST LEGO League is very active online, with over 1000 Likes on their Facebook and Twitter accounts. As a result, I want to share my thoughts on the use of the Internet for socialization and sharing,
+My FIRST LEGO League team was very active online. As a result, I want to share my thoughts on the use of the Internet for socialization and sharing,
 
 ### Internet for Socialization
 
@@ -20,7 +20,7 @@ Facebook and Twitter can be a great way for teams to connect online. It was not 
 
 Another fun use of the Internet is to contact other teams. My team has communicated via Google Hangouts and Skype with dozens of other teams around the world.  Doing a video conference with other teams (especially one in another country) is a great way to make a new friend.
 
-> The Internet can be a useful tool for teams. But remember the difference between "sharing solutions" and "inspring".
+> The Internet can be a useful tool for teams. But remember the difference between "sharing solutions" and "inspiring".
 
 ### Internet for Sharing
 
@@ -37,9 +37,9 @@ You can also use social media to promote events/activities in the community that
 
 ### The Downside
 
-Having 9-14 year olds use the Internet does raise concerns for many parents/coaches; however, the benefits for an FLL team outweigh the risks. FIRST teams and those who follow them are all wonderful. A coach will very rarely have to step in. Here are some tips to keep your experiences all positive.
+Having 9-14 year olds use the Internet does raise concerns for many parents/coaches. Here are some tips to keep your experiences all positive.
 1)	YouTube: In my own experience, YouTube causes the most trouble in terms of inappropriate comments.  My recommendation to teams that make videos is to require that each comment be “approved” before they are visible on your team’s videos.  When we switched to this feature, the inappropriate comments (not by FLL teams) immediately stopped.
-2)	Twitter:  We have not encountered bad posts on Twitter, but every once in a while I see someone following the team who is “not appropriate”. Once a month I take a look at their list of followers. I intervene (if needed) and block the user.  You can very easily identify these people – by name, descriptive words, photo, and recent posts.  Again, only 1-2 suspicious followers in six years.
+2)	Twitter:  We have not encountered bad posts on Twitter, but every once in a while I see someone following the team who is “not appropriate”. Once a month I take a look at their list of followers. I intervene (if needed) and block the user.  You can very easily identify these people – by name, descriptive words, photo, and recent posts.
 
 ### Facebook Tips
 
