@@ -18,7 +18,7 @@ Congratulations! Your team has navigated through the challenges of FLL. Now, itâ
 
 <b>Practice robot runs.</b> This is a very effective way to discover bugs or things that need improvement. Do this before your deadline so issues can be corrected.
 
-<b>Do fun team building activities.</b> Many great ideas for these can be found on EV3Lessons.com Resources Page.
+<b>Do fun team building activities.</b> Many great ideas for these can be found on FLLTutorials.com.
 
 Internet and projector capabilities at competition sites might not work in your favor when you need them the most. Instead, consider bringing your code or any other presentation helps on a tablet or laptop that your team knows how to work. Otherwise, put it on paper.
 
@@ -57,8 +57,6 @@ Pens, pencils and Sharpie (to mark water bottles)<br>
 Safety pins (to fix almost anything)<br>
 Lanyards with schedule<br>
 Camera (leave other expensive personal items at home)
-
-<a href="http://ev3lessons.com/translations/en-us/guides/TournamentChecklist.docx">Checklist</a>
 
 ___
 

@@ -60,9 +60,6 @@ A rolling cart such as the TRINITY Double-Sided Bin Rack on the left can be very
 The following discussion is quoted from the Facebook Group
 <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL:Share & Learn </a>.
 
-**Mic Lowne**
-
-We predominantly use old EV3 and NXT trays and sort them into per type, if they're not overloaded they stack really easily for storage. If the team needs to transfer pieces between locations I use Tactix storage boxes. I usually have some ziplock bags for overstock of some pieces.
 
 **Karine Voinot Josien**
 
