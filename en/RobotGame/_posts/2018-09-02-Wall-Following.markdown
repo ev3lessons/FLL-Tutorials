@@ -12,8 +12,6 @@ featured: false
 
 
 
-Slides: 
+Slides:
 <a href="/translations/en-us/RobotGame/WallFollowing.pptx">PPTX</a>,
 <a href="/translations/en-us/RobotGame/WallFollowing.pdf">PDF </a>,
-<a href="/translations/pt-br/RobotGame/SeguindoParedes.pptx">PPTX (pt)</a>, 
-<a href="/translations/pt-br/RobotGame/SeguindoParedespdf">PDF (pt)</a>

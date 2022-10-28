@@ -11,8 +11,6 @@ featured: false
 ---
 
 
-Slides: 
-<a href="/translations/en-us/RobotGame/FLLRobot.pptx">PPTX</a>, 
+Slides:
+<a href="/translations/en-us/RobotGame/FLLRobot.pptx">PPTX</a>,
 <a href="/translations/en-us/RobotGame/FLLRobot.pdf">PDF </a>,
-<a href="/translations/pt-br/RobotGame/RoboFLL.pptx">PPTX (pt)</a>, 
-<a href="/translations/pt-br/RobotGame/RoboFLL.pdf">PDF (pt)</a>

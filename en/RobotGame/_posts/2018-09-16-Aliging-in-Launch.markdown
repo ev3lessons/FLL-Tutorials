@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7: Aligning in Base"
+title: "7: Aligning in Launch"
 image: "assets/images/RobotGame/Navigation.png"
 searchterms: "lesson"
 language: "en"
@@ -12,4 +12,4 @@ featured: false
 
 
 
-Slides: <a href="/translations/en-us/RobotGame/AlignInBase.pptx">PPTX</a>, <a href="/translations/en-us/RobotGame/AlignInBase.pdf">PDF </a>
+Slides: <a href="/translations/en-us/RobotGame/AlignInLaunch.pptx">PPTX</a>, <a href="/translations/en-us/RobotGame/AlignInLaunch.pdf">PDF </a>
