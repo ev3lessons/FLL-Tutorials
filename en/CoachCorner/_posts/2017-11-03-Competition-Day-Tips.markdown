@@ -64,8 +64,7 @@ We're fortunate to be in North Texas, so the weather is usually reasonable and w
 **Judging Sessions:**
 
 - Judges are there to celebrate what you have found, learned and worked on. They are not there to eat you! So don’t be afraid tell them, show them, surprise them! And have FUN (Angela Wellink)
--  Our teams also practice how to enter the judging rooms (i.e., greeting the judge, introducing the team, and giving handouts before beginning their presentation ) (Javier Duran)
-- Remember four copies of your team profile page with a picture of your team on it. Suggest the picture on the page has the kids in the same shirt as they are wearing that day. Helps the judges identify and remember your kids.  (Denyse Carroll)
+-  Our teams also practice how to enter the judging rooms (i.e., greeting the judge, introducing the team, etc.) (Javier Duran)
 
 
 **Equipment Needs:**
