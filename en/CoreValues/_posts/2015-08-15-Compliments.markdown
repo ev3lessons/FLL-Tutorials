@@ -18,7 +18,7 @@ featured: false
 - None
 
 <b>Setup:</b>
-Leave items on table.
+N/A.
 
 <b>Instructions to Team:</b>
 Sit in a circle on chairs or on the floor. Go around the room and say one compliment to another person on the team - (be as specific as possible). Be sure that everyone has received a compliment
