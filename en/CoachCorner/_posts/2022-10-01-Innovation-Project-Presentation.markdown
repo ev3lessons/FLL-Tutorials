@@ -13,7 +13,7 @@ author: Arvind Seshan
 
 Presenting your Innovation Project in front of judges is an important part of the process. Here are some tips to help your team.
 
-1. Stay under the 5min time limit including setup time.
+1. Stay under the 5-minute time limit including setup time.
 
 2. Even if you pick a creative theme for your presentation, you still need to share the information needed to fill in the rubric. Do not get caught up in the creative format and forget to share all the amazing content you have.
 
@@ -29,7 +29,7 @@ Presenting your Innovation Project in front of judges is an important part of th
 
 8. Support your teammates and respectfully help them out if they forget their lines or make a mistake.
 
-9. Memorize your lines and make eye contact with each other and the judges. Ideally, you will not memorize the exact wording, but the generall information you want to communicate in your line. If you need some ways to remember your lines, Condense your lines into a bulleted list to help you remember. (Watch <a href=https://youtu.be/d812a7qG9Kw">this video </a> for tips on how to practice.
+9. Memorize your lines and make eye contact with each other and the judges. Ideally, you will not memorize the exact wording, but the general information you want to communicate in your line. If you need some ways to remember your lines, Condense your lines into a bulleted list to help you remember. (Watch <a href=https://youtu.be/d812a7qG9Kw">this video </a> for tips on how to practice.
 
 10. Practice your presentation many times and practice Q&A. Ask coaches and parents to act as judges and ask you questions about your project. Make sure that everyone on the team understands the project and can answer questions. Questions can be made up using the rubrics.
 
