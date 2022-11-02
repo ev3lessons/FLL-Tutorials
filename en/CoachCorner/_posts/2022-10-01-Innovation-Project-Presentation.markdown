@@ -41,14 +41,14 @@ Presenting your Innovation Project in front of judges is an important part of th
 
 Here are some sample presentations for your inspiration. While they are from prior seasons where the rubric may have been different, they give you some idea of the possibilities.
 
-<a href=https://www.youtube.com/watch?v=zi7LRI4IBJU">Video 1</a>
+<a href="https://www.youtube.com/watch?v=zi7LRI4IBJU">Video 1</a>
 <br>
-<a href=https://youtu.be/4sBDx83eqBk">Video 2</a>
+<a href="https://youtu.be/4sBDx83eqBk">Video 2</a>
 <br>
-<a href=https://youtu.be/BDUAw-IssV0">Video 3</a>
+<a href="https://youtu.be/BDUAw-IssV0">Video 3</a>
 <br>
-<a href=https://youtu.be/9SYhCrorivs">Video 4</a>
+<a href="https://youtu.be/9SYhCrorivs">Video 4</a>
 <br>
-<a href=https://youtu.be/36NWs3MTM60">Video 5</a>
+<a href="https://youtu.be/36NWs3MTM60">Video 5</a>
 <br>
-<a href=https://youtu.be/VJ3cs9W83Ug">Video 6</a>
+<a href="https://youtu.be/VJ3cs9W83Ug">Video 6</a>
