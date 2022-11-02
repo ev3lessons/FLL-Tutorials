@@ -2,7 +2,7 @@
 layout: post
 language: "en"
 image: "assets/images/CoachCorner/Superpowered.jpg"
-title: "How to do Research"
+title: "Choosing Between Robots"
 minidescription: ""
 categories: [Project, Judging]
 tag: CoachCorner
