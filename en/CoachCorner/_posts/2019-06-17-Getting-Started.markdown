@@ -38,7 +38,7 @@ FIRST LEGO League teams meet in a variety of places.  They meet at schools, shop
 
 ### Step 6: Team Meetings
 
-Team meetings can occur whenever is mutually convenient. Some teams meet only a few hours a week and others will meet for ten or more hours. How long you meet is up to the team. There is no right or wrong. There will be a meeting guide provided with the 2019-20 challenge that will guide you through the process, but there are also plently of sources online such as <a href="http://www.flltutorials.com">FLLTutorials</a>, <a href="http://www.ev3lessons.com">EV3Lessons</a> and <a href="http://www.primelessons.org">PrimeLessons</a> for additional tips and lessons.
+Team meetings can occur whenever is mutually convenient. Some teams meet only a few hours a week and others will meet for ten or more hours. How long you meet is up to the team. There is no right or wrong. FIRST provides you with a Team Meeting Guide but there are also plenty of sources online such as <a href="http://www.flltutorials.com">FLLTutorials</a>, <a href="http://www.ev3lessons.com">EV3Lessons</a> and <a href="http://www.primelessons.org">PrimeLessons</a> for additional tips and lessons.
 
 ### Step 7:  Get Ready for Competition
 
