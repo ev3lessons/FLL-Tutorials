@@ -2,25 +2,25 @@
 layout: post
 language: "en"
 image: "assets/images/CoachCorner/Resources.png"
-title: "Seshan Brothers' Recommended List"
+title: "Useful Resources"
 minidescription: "This article is a compilation of resources available to MINDSTORMS users whether you are participating in a competition, building for fun or teaching robotics at a school."
 categories: [ Getting Started, Resources ]
 tag: CoachCorner
 featured: false
-author: SeshanBrothers
+author: Arvind Seshan
 ---
 ---
-While we have a lot of resources on our site, we don't have everything. There are lots of good resources around. We thought we would share resources other than on our own site that we think will be helpful to others. While the list is not an endorsement of any one resource over the other, we did make sure that every resource reflects our own mission and philosophy.
+Here is a list of useful resources for your season. 
 
 There are also other alternative lists that might be helpful: <a href="http://www.damienkee.com/lego-mindstorms-resources/">Damien Kee</a>, <a href="http://stemrobotics.cs.pdx.edu/node/2837"> STEMRobotics</a>, and <a href="http://www.legoengineering.com/online-training-courses/">Lego Engineering</a>.
 
 We will update this guide as we find and review resources.
 
 ### FIRST LEGO League Challenge Materials
-<a href="http://www.firstlegoleague.org/challenge#block-block-19">SUPERPOWEREDChallenge</a>: Build Instructions, Setup Instructions, Challenge Guide, and Updates<br>
+<a href="https://www.firstlegoleague.org/season#resources">SUPERPOWEREDChallenge</a>: Build Instructions, Robot Game Rulebook, and Updates<br>
 <a href="https://fllblog.wordpress.com">FIRST LEGO League Blog</a><br>
-<a href="http://www.firstlegoleague.org/sites/default/files/into-orbit/first-lego-league-rubrics.pdf">SUPERPOWERED Rubrics</a><br>
-<a href="http://www.firstlegoleague.org/sites/default/files/into-orbit/first-lego-league-rubrics.pdf">SUPERPOWERED Juding Flowchart</a><br>
+<a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-rubrics.pdf">SUPERPOWERED Rubrics</a><br>
+<a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-judging-session-flowchart.pdf">SUPERPOWERED Judging Flowchart</a><br>
 
 ### Free Curriculum by LEGO Education
 Look at the built-in lessons in the EV3 Programming Software and the SPIKE Prime software that you installed on your computer.
