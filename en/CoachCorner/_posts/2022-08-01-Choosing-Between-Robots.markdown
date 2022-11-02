@@ -21,4 +21,4 @@ Your team has designed two different robots. How do we choose between them?
 
 4. Note that you are allowed to take more than one robot to the contest. You can use a different robot in each of the three robot matches. You can take two robots into judging and explain both. One drawback would be having to spend time explaining two robot designs and two strategies in your 5-minute session.
 
-5. Regardless of what you choose, document the two robots and how you decided which to use when. Share that with judges. Refer to the <a href=https://flltutorials.com/en/Worksheets.html">Robot Design Engineering Notebook Worksheets</a> for sample testing you could do on your robots and how to document the tests.
+5. Regardless of what you choose, document the two robots and how you decided which to use when. Share that with judges. Refer to the <a href="https://flltutorials.com/en/Worksheets.html">Robot Design Engineering Notebook Worksheets</a> for sample testing you could do on your robots and how to document the tests.
