@@ -23,4 +23,4 @@ How exactly do you do research? The process of doing research is rarely taught i
 
 5. Finally, discuss how to communicate your research to others (each other or judges). For example, some information is best presented in a comparison table. A pie chart might be useful for other information.
 
-For more information and links for each of these steps, refer to the <a href=https://flltutorials.com/en/Worksheets.html">Superpowered Pre-Season Guide for Innovation Project</a>
+For more information and links for each of these steps, refer to the <a href="https://flltutorials.com/en/Worksheets.html">Superpowered Pre-Season Guide for Innovation Project</a>
