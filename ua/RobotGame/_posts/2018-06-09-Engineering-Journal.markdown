@@ -15,8 +15,8 @@ excerpt_separator: <!--more-->
 
 Slides: <a href="/translations/ua/RobotGame/EngineeringJournal_UA.pptx">PPTX</a>, <a href="/translations/ua/RobotGame/EngineeringJournal_UA.pdf">PDF </a>
 
-Completed Samples: <a href="/translations/en-us/RobotGame/EngineeringJournalSamples.pdf">PDF </a>
+Completed Samples: <a href="/translations/en-us/RobotGame/EngineeringJournalSamples.pdf">PDF (English) </a>
 
 Blank Templates:
-<a href="/translations/en-us/RobotGame/EngineeringJournalTemplates.docx">DOCX </a>
+<a href="/translations/en-us/RobotGame/EngineeringJournalTemplates.docx">DOCX (English) </a>
 <!--more-->

@@ -11,5 +11,5 @@ featured: true
 ---
 
 Slides:
-<a href="/translations/en-us/RobotGame/MissionStrategy_UA.pptx">PPTX</a>,
-<a href="/translations/en-us/RobotGame/MissionStrategy_UA.pdf">PDF</a>,
+<a href="/translations/ua/RobotGame/MissionStrategy_UA.pptx">PPTX</a>,
+<a href="/translations/ua/RobotGame/MissionStrategy_UA.pdf">PDF</a>,

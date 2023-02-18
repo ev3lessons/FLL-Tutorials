@@ -12,4 +12,4 @@ featured: false
 
 
 
-Slides: <a href="/translations/en-us/RobotGame/RobotDesignJudging_UA.pptx">PPTX</a>, <a href="/translations/en-us/RobotGame/RobotDesignJudging_UA.pdf">PDF </a>
+Slides: <a href="/translations/ua/RobotGame/RobotDesignJudging_UA.pptx">PPTX</a>, <a href="/translations/ua/RobotGame/RobotDesignJudging_UA.pdf">PDF </a>

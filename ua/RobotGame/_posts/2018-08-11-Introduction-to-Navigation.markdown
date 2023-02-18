@@ -13,5 +13,5 @@ featured: false
 
 
 Slides:
-<a href="/translations/en-us/RobotGame/Navigation_UA.pptx">PPTX</a>,
-<a href="/translations/en-us/RobotGame/Navigation_UA.pdf">PDF </a>
+<a href="/translations/ua/RobotGame/Navigation_UA.pptx">PPTX</a>,
+<a href="/translations/ua/RobotGame/Navigation_UA.pdf">PDF </a>
