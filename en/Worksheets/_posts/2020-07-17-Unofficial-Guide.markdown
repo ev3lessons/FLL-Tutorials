@@ -1,5 +1,5 @@
 ---
-title: "Unofficial Guide to the SUPER POWERED Season"
+title: "Unofficial Guide to the MASTERPIECE Season"
 searchterms:
 layout: post
 language: "en"
@@ -11,4 +11,4 @@ featured: false
 ---
 
 <a href="/translations/en-us/Worksheets/2022-BeginnersGuidetoFLL.pdf">PDF</a><br>
-<a href="https://docs.google.com/document/d/1jyuN4W8TzzZV8eGi9sEyPwSr0xE07DGtZ7RCzN45xQA/edit?usp=sharing">Google</a>
+<a href="https://docs.google.com/document/d/1jyuN4W8TzzZV8eGi9sEyPwSr0xE07DGtZ7RCzN45xQA/edit?usp=sharing">Google</a> <br> Update Coming in August

@@ -12,4 +12,4 @@ featured: false
 
 <a href="/translations/en-us/Worksheets/IntrotoFLLSuperPowered.pdf">PDF</a>
 <br>
-<a href="/translations/en-us/Worksheets/IntrotoFLLSuperPowered.pptx">PPTX</a>
+<a href="/translations/en-us/Worksheets/IntrotoFLLSuperPowered.pptx">PPTX</a> <br> Update Coming Soon

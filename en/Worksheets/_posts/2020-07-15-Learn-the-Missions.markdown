@@ -1,5 +1,5 @@
 ---
-title: "Learn the Super Powered Missions"
+title: "Learn the MASTERPIECE Missions"
 searchterms:
 layout: post
 language: "en"
@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2022FLLTutorials-LearntheMissions.pdf">PDF</a>
+<a href="">Coming in August</a>

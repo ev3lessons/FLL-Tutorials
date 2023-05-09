@@ -1,5 +1,5 @@
 ---
-title: "Mission Model Building Guide"
+title: "MASTERPIECE Building Guide"
 searchterms:
 layout: post
 language: "en"
@@ -10,5 +10,5 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2022MissionModelBuildingTips.pdf">General Guide</a>, 
-<a href="https://docs.google.com/document/d/1ViMW-ANIL4uaBm7YPc4rJcfYTGBu_4YznDeHkD8Bb1s/edit?usp=sharing">Superpowered Building and Setup Guide
+<a href="/translations/en-us/Worksheets/2022MissionModelBuildingTips.pdf">General Guide</a>,
+<a href="">Building and Setup Guide Coming in August

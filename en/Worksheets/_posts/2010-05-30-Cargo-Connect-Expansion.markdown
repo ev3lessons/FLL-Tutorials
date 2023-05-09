@@ -1,5 +1,5 @@
 ---
-title: "Cargo Connect Expansion Missions"
+title: "SUPERPOWERED Expansion Missions"
 searchterms:
 layout: post
 language: "en"
@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/CargoConnectExpansion.pdf">PDF</a>
+<a href="">PDF</a>

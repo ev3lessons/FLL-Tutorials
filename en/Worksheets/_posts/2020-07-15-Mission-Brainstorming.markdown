@@ -1,5 +1,5 @@
 ---
-title: "Super Powered Mission Brainstorming"
+title: "MASTERPIECE Mission Brainstorming"
 searchterms:
 layout: post
 language: "en"
@@ -10,5 +10,6 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2022FLLTutorials-MissionBrainstorming.pdf">PDF</a><br>
-<a href="https://docs.google.com/presentation/d/1UC40Jzv1eGJHpQynxASRmlOQFySujqw62M2SLKyNeww/edit?usp=sharing">Google</a><br>
+<a href="">PDF</a><br>
+<a href="">Google</a><br>
+Coming in August
