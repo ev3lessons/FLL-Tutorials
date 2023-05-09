@@ -11,4 +11,4 @@ featured: false
 ---
 
 <a href="/translations/en-us/Worksheets/2022MissionModelBuildingTips.pdf">General Guide</a>,
-<a href="">Building and Setup Guide Coming in August
+<a href="">Building and Setup Guide <br> Coming in August
