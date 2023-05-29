@@ -1,6 +1,6 @@
 ---
 title: "Research Project Presentations"
-searchterms: 
+searchterms:
 layout: post
 language: "en"
 image: "assets//images/Project/GenericLesson.png"
@@ -12,6 +12,4 @@ featured: false
 
 Slides:
  <a href="/translations/en-us/Project/Presentation.pptx">PPTX</a>,
- <a href="/translations/en-us/Project/Presentation.pdf">PDF</a>,
- <a href="/translations/pt-br/Project/Apresentacao.pptx">PPTX (pt)</a>,
- <a href="/translations/pt-br/Project/Apresentacao.pdf">PDF (pt)</a>
+ <a href="/translations/en-us/Project/Presentation.pdf">PDF</a>

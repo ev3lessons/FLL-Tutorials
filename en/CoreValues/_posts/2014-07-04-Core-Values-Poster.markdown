@@ -16,6 +16,4 @@ Tips for Core Values Poster.
  <li class="ng-binding">Slides:
  <a href="/translations/en-us/CoreValues/CVPoster.pptx">PPTX English</a>,
  <a href="/translations/en-us/CoreValues/CVPoster.pdf">PDF English</a>
- <a href="/translations/pt-br/CoreValues/Poster.pptx">PPTX Portuguese</a>,
- <a href="/translations/pt-br/CoreValues/Poster.pdf">PDF Portuguese</a>
  </li>
