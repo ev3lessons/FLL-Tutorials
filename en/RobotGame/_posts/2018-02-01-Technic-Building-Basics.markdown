@@ -10,8 +10,6 @@ tag: RobotGame
 featured: false
 ---
 
-Slides: 
-<a href="/translations/en-us/RobotGame/TechnicBasics.pptx">PPTX</a>, 
-<a href="/translations/en-us/RobotGame/TechnicBasics.pdf">PDF </a>,
-<a href="/translations/pt-br/RobotGame/TecnicasBasicas.pptx">PPTX (pt)</a>, 
-<a href="/translations/pt-br/RobotGame/TecnicasBasicas.pdf">PDF (pt)</a>
+Slides:
+<a href="/translations/en-us/RobotGame/TechnicBasics.pptx">PPTX</a>,
+<a href="/translations/en-us/RobotGame/TechnicBasics.pdf">PDF </a>

@@ -11,8 +11,6 @@ featured: false
 ---
 
 
-Slides: 
-<a href="/translations/en-us/RobotGame/Wheels.pptx">PPTX</a>, 
-<a href="/translations/en-us/RobotGame/Wheels.pdf">PDF </a>,
-<a href="/translations/pt-br/RobotGame/Rodas.pptx">PPTX (pt)</a>, 
-<a href="/translations/pt-br/RobotGame/Rodas.pdf">PDF (pt)</a>
+Slides:
+<a href="/translations/en-us/RobotGame/Wheels.pptx">PPTX</a>,
+<a href="/translations/en-us/RobotGame/Wheels.pdf">PDF </a>

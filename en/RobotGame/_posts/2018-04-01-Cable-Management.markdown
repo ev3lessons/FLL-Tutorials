@@ -11,8 +11,6 @@ featured: false
 ---
 
 
-Slides: 
-<a href="/translations/en-us/RobotGame/CableManagement.pptx">PPTX</a>, 
-<a href="/translations/en-us/RobotGame/CableManagement.pdf">PDF </a>,
-<a href="/translations/pt-br/RobotGame/Cabeamento.pptx">PPTX (pt)</a>, 
-<a href="/translations/pt-br/RobotGame/Cabeamento.pdf">PDF (pt)</a>
+Slides:
+<a href="/translations/en-us/RobotGame/CableManagement.pptx">PPTX</a>,
+<a href="/translations/en-us/RobotGame/CableManagement.pdf">PDF </a>
