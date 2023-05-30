@@ -10,7 +10,6 @@ tag: CoreValues
 featured: true
 ---
 
- <li class="ng-binding">Slides:
- <a href="/translations/en-us/CoreValues/Outreach.pptx">PPTX English</a>,
- <a href="/translations/en-us/CoreValues/Outreach.pdf">PDF English</a>
- </li>
+Slides:
+ <a href="/translations/en-us/CoreValues/Outreach.pptx">PPTX</a>,
+ <a href="/translations/en-us/CoreValues/Outreach.pdf">PDF</a>

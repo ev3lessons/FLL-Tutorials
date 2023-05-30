@@ -9,7 +9,7 @@ categories:  [ Judging]
 tag: CoreValues
 featured: true
 ---
- <li class="ng-binding">Slides:
+Slides:
  <a href="/translations/en-us/CoreValues/CVJudging.pptx">PPTX</a>,
  <a href="/translations/en-us/CoreValues/CVJudging.pdf">PDF</a>
- </li>
+ 

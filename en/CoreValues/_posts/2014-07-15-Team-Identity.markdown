@@ -11,7 +11,7 @@ featured: true
 ---
 
 
- <li class="ng-binding">Slides:
- <a href="/translations/en-us/CoreValues/TeamIdentity.pptx">PPTX English</a>,
- <a href="/translations/en-us/CoreValues/TeamIdentity.pdf">PDF English</a>
- </li>
+Slides:
+ <a href="/translations/en-us/CoreValues/TeamIdentity.pptx">PPTX</a>,
+ <a href="/translations/en-us/CoreValues/TeamIdentity.pdf">PDF</a>
+ 

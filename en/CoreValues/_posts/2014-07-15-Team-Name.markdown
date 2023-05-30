@@ -10,7 +10,6 @@ tag: CoreValues
 featured: true
 ---
 
- <li class="ng-binding">Slides:
- <a href="/translations/en-us/CoreValues/TeamName.pptx">PPTX English</a>,
- <a href="/translations/en-us/CoreValues/TeamName.pdf">PDF English</a>
- </li>
+Slides:
+ <a href="/translations/en-us/CoreValues/TeamName.pptx">PPTX</a>,
+ <a href="/translations/en-us/CoreValues/TeamName.pdf">PDF</a>

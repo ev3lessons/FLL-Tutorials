@@ -9,8 +9,6 @@ categories:  [  ]
 tag: CoreValues
 featured: true
 ---
- <li class="ng-binding">Slides:
+Slides:
  <a href="/translations/en-us/CoreValues/IntroductiontoCV.pptx">PPTX</a>,
  <a href="/translations/en-us/CoreValues/IntroductiontoCV.pdf">PDF</a>
-
- </li>

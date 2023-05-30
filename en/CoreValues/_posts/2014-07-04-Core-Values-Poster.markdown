@@ -11,7 +11,6 @@ featured: true
 
 ---
 
- <li class="ng-binding">Slides:
+ Slides:
  <a href="/translations/en-us/CoreValues/CVPoster.pptx">PPTX</a>,
  <a href="/translations/en-us/CoreValues/CVPoster.pdf">PDF</a>
- </li>
