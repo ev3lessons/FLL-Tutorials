@@ -21,16 +21,16 @@ comments: true
 
             <div class="row listfeaturedtag">
 
-            {% for post in site.posts %}
+                {% for post in site.posts %}
                 {% if post.language == page.lang %}
 
                 {% if post.tag == "CoreValues" and post.featured == true %}
 
-                    {% include postlist.html %}
+                {% include postlist.html %}
 
                 {% endif %}
-{% endif %}
-            {% endfor %}
+                {% endif %}
+                {% endfor %}
 
             </div>
 
@@ -52,7 +52,7 @@ comments: true
                 {% if post.language == page.lang %}
                 {% if post.tag == "CoreValues" %}
                     {% unless post.categories contains "draft" %}
-                    
+
                     {% include postlist.html %}
                 {% endunless %}
             {% endif %}
@@ -61,13 +61,3 @@ comments: true
         </div>
 
     </section>
-
-                      <!--     {% include featuredbox.html %}  
-                    {% endunless %}
-                {% endif %}
-{% endif %}
-            {% endfor %}
-
-            </div>
-
-        </section>-->
