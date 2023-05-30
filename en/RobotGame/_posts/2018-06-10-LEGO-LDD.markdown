@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LEGO CAD"
+title: "Using LEGO Digital Designer"
 image: "assets/images/RobotGame/GenericLesson.png"
 searchterms: "lesson"
 language: "en"
