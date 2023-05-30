@@ -1,5 +1,5 @@
 ---
-title: "Unofficial Guide to the MASTERPIECE Season"
+title: "Unofficial 13-Week Guide to the MASTERPIECE Season"
 searchterms:
 layout: post
 language: "en"
@@ -10,5 +10,6 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2022-BeginnersGuidetoFLL.pdf">PDF</a><br>
-<a href="https://docs.google.com/document/d/1jyuN4W8TzzZV8eGi9sEyPwSr0xE07DGtZ7RCzN45xQA/edit?usp=sharing">Google</a> <br> Update Coming in August
+<a href="">PDF</a><br>
+<a href="">Google</a>
+<br> Coming in August
