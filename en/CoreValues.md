@@ -17,7 +17,7 @@ comments: true
         <section class="featured-posts">
 
             <div class="section-title text-center">
-                <h2><span>Core Values Tutorials/span></h2>
+                <h2><span>Core Values Tutorials</span></h2>
             </div>
 
             <div class="row listfeaturedtag">
@@ -53,7 +53,7 @@ comments: true
                 {% if post.tag == "CoreValues" %}
                     {% unless post.categories contains "draft" %}
 
-                        {% include featuredbox.html %}
+                      <!--     {% include featuredbox.html %}  -->
                     {% endunless %}
                 {% endif %}
 {% endif %}
