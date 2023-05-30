@@ -17,7 +17,7 @@ comments: true
         <section class="featured-posts">
 
             <div class="section-title text-center">
-                <h2><span>Core Values Tutorials</span></h2>
+                <h1>Core Values Tutorials</h1>
             </div>
 
             <div class="row listfeaturedtag">
@@ -42,7 +42,7 @@ comments: true
         <section class="all-posts">
 
             <div class="section-title text-center">
-                <h2><span>Team Building Activities</span></h2>
+                <h1>Team Building Activities</h1>
             </div>
 
             <div class="row listfeaturedtag">
