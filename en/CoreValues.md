@@ -11,7 +11,6 @@ comments: true
 
     <div class="main-content">
 
-
         <!-- Featured -->
         <section class="featured-posts">
 
