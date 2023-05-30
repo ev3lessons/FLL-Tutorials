@@ -26,7 +26,7 @@ comments: true
 
                 {% if post.tag == "CoreValues" and post.featured == true %}
 
-                    {% include featuredbox.html %}
+                    {% include postlist.html %}
 
                 {% endif %}
 {% endif %}
@@ -52,7 +52,7 @@ comments: true
                 {% if post.language == page.lang %}
                 {% if post.tag == "CoreValues" %}
                     {% unless post.categories contains "draft" %}
-
+                    
                     {% include postlist.html %}
                 {% endunless %}
             {% endif %}
