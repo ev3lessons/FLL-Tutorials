@@ -8,10 +8,7 @@ author: SeshanBrothers
 categories:  [  ]
 tag: CoreValues
 featured: true
-excerpt_separator: <!--more-->
 ---
- This is an overview of how to pick a team name.
- <!--more-->
 
  <li class="ng-binding">Slides:
  <a href="/translations/en-us/CoreValues/TeamName.pptx">PPTX English</a>,

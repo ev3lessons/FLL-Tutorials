@@ -52,7 +52,7 @@ comments: true
                 {% if post.tag == "CoreValues" %}
                     {% unless post.categories contains "draft" %}
 
-                    {% include postlist.html %}
+                    {% include featuredbox.html %}
                 {% endunless %}
             {% endif %}
 {% endif %}

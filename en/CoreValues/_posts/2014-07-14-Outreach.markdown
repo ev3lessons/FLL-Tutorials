@@ -8,13 +8,9 @@ author: SeshanBrothers
 categories:  [ Outreach ]
 tag: CoreValues
 featured: true
-excerpt_separator: <!--more-->
 ---
-What is "doing outreach" in FIRST LEGO League?
- <!--more-->
 
  <li class="ng-binding">Slides:
  <a href="/translations/en-us/CoreValues/Outreach.pptx">PPTX English</a>,
  <a href="/translations/en-us/CoreValues/Outreach.pdf">PDF English</a>
-
  </li>
