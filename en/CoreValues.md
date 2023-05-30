@@ -12,8 +12,7 @@ comments: true
     <div class="main-content">
 
 
-        <!-- Featured
-        ================================================== -->
+        <!-- Featured -->
         <section class="featured-posts">
 
             <div class="section-title text-center">
@@ -37,13 +36,14 @@ comments: true
 
         </section>
 
-        <!-- Featured
-        ================================================== -->
+        <!-- Featured -->
         <section class="all-posts">
 
             <div class="section-title text-center">
                 <h1>Team Building Activities</h1>
             </div>
+
+            <br><br><br>
 
             <div class="row listfeaturedtag">
 
@@ -53,7 +53,16 @@ comments: true
                 {% if post.tag == "CoreValues" %}
                     {% unless post.categories contains "draft" %}
 
-                      <!--     {% include featuredbox.html %}  -->
+                    {% include postlist.html %}
+                {% endunless %}
+            {% endif %}
+{% endif %}
+        {% endfor %}
+        </div>
+
+    </section>
+
+                      <!--     {% include featuredbox.html %}  
                     {% endunless %}
                 {% endif %}
 {% endif %}
@@ -61,4 +70,4 @@ comments: true
 
             </div>
 
-        </section>
+        </section>-->
