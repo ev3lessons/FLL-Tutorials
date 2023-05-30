@@ -1,5 +1,5 @@
 ---
-title: "Learn the MASTERPIECE Missions"
+title: "Mission Tent Cards"
 searchterms:
 layout: post
 language: "en"

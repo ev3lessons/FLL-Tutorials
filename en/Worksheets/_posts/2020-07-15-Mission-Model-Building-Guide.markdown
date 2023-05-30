@@ -1,5 +1,5 @@
 ---
-title: "MASTERPIECE Building Guide"
+title: "Unofficial Building Guides"
 searchterms:
 layout: post
 language: "en"
@@ -10,5 +10,8 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2022MissionModelBuildingTips.pdf">General Guide</a>,
-<a href="">Building and Setup Guide <br> Coming in August
+<a href="/translations/en-us/Worksheets/2022MissionModelBuildingTips.pdf">General Tips</a>
+<br>
+<a href="">Unofficial Guide to Building & Setting Up Models
+<br>
+Coming in August

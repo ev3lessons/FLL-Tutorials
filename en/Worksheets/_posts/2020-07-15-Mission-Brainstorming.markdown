@@ -1,5 +1,5 @@
 ---
-title: "MASTERPIECE Mission Brainstorming"
+title: "Mission Brainstorming Worksheet"
 searchterms:
 layout: post
 language: "en"
