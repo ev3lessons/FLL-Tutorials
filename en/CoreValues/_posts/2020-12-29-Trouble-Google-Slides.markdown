@@ -20,4 +20,4 @@ Author: Arvind from FRC 8027
 This activity is good for taking a break and playing with each other.
 
 <b>Instructions:</b>
-- Make a copy of the Trouble <a href="https://docs.google.com/presentation/d/14aXQTgzkoKDdboZ3JE1JjIGgBc1SBzynrTAgZW3chds/copy">google sides</a> and play in groups of four.
+- Make a copy of the Trouble <a href="https://docs.google.com/presentation/d/14aXQTgzkoKDdboZ3JE1JjIGgBc1SBzynrTAgZW3chds/copy">Google slides</a> and play in groups of four.
