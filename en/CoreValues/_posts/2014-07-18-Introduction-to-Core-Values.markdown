@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction to Core Values"
+title: "Importance of Core Values"
 searchterms:
 image: "assets/images/CoreValues/GenericLesson.png"
 language: "en"
