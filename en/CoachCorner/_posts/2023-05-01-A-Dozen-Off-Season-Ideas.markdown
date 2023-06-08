@@ -10,7 +10,7 @@ featured: false
 author: SeshanBrothers
 ---
 
-What can your team do in the off-season?  There is so much you CAN do. These are some ideas shared on the Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn </a>
+What can your team do in the off-season? There is so much you CAN do. These are some ideas shared on the Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn </a>
 
 ### 1) Learn a new programming skill
 Perhaps your team did not use sensors or did not use a particular sensor. Use the off-season to learn how to use those sensors. Or maybe you didn’t use any My Blocks. Use the FIRST LEGO League Challenge mat to test them out.

@@ -10,7 +10,7 @@ tag: CoachCorner
 featured: false
 ---
 
-The following article has ideas shared in the Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn</a>.
+What are some items (beyond LEGO) that might be useful for your robotics room? The following article has ideas shared in the Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn</a>.
 
 **What non-LEGO items are essential in your team meeting room?**
 

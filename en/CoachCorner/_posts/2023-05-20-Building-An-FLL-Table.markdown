@@ -10,7 +10,7 @@ tag: CoachCorner
 featured: false
 ---
 
-The following discussion is based on conversations in the  Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn</a>.
+FIRST provides building instructions, but here are some other options. The following discussion is based on conversations in the  Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn</a>.
 
 **What are different tables you can build?**
 

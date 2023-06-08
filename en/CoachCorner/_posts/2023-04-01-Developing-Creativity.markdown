@@ -10,7 +10,7 @@ tag: CoachCorner
 featured: false
 ---
 
-The following article has ideas shared in the Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn</a>.
+Balancing inspiration from others and developing creativity. The following article has ideas shared in the Facebook Group <a href="https://www.facebook.com/groups/FLLShareandLearn/">FLL: Share & Learn</a>.
 
 The question of allowing students to watch YouTube Challenge solution videos comes up every year. While some argue that their students need inspiration and that engineering requires building upon other people’s solutions, majority of coaches in Share & Learn prefer not to use current season YouTube videos as a resource. Here are some thoughts they shared:
 

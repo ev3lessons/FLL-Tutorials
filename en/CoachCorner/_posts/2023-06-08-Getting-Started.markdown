@@ -9,6 +9,7 @@ categories: [ Team Management ]
 tag: CoachCorner
 featured: false
 ---
+What are the basic steps in starting a team?
 
 ### Step 1: Form a Team
 
