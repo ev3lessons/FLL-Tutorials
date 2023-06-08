@@ -2,7 +2,7 @@
 layout: post
 language: "en"
 image: "assets/images/CoachCorner/Masterpiece.jpg"
-title: "Getting Started"
+title: "More than LEGO or Robots"
 minidescription: ""
 author: AshaSeshan
 categories: [ Team Management ]
@@ -17,7 +17,7 @@ Parents and students see the word LEGO in the name of the program and automatica
 
 ### It's harder than you think
 
-The students will be working hard. Working hard does not mean there is no fun involved. FIRST is refered to as "the hardest fun you will ever have!". Students will fail often and they will try again. There is no ready-made answer key. As a result, they will coming up with their own solutions to the Challenge.
+The students will be working hard. Working hard does not mean there is no fun involved. FIRST is referred to as "the hardest fun you will ever have!". Students will fail often and they will try again. There is no ready-made answer key. As a result, they will coming up with their own solutions to the Challenge.
 
 ### It takes more time than you think
 
