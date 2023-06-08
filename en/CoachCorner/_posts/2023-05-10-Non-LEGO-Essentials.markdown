@@ -1,7 +1,7 @@
 ---
 layout: post
 language: "en"
-image: "assets/images/CoachCorner/Masterpiece.png"
+image: "assets/images/CoachCorner/Masterpiece.jpg"
 title: "Non-LEGO Essentials for Every Team"
 minidescription: "This article is non-LEGO essentials in a team meeting room."
 author: Multiple
@@ -26,7 +26,7 @@ The following article has ideas shared in the Facebook Group <a href="https://ww
 
 5. A binder with the season's challenge guide, updates, and rubrics.
 
-6. A calendar to post all major deadlines. 
+6. A calendar to post all major deadlines.
 
 7. A way to document Core Values. A big poster with several blank spaces, each labelled for a different question we expected the Core Values judges to ask about what the team did over the season (e.g. "examples you saw of someone on the team making their teammate feel valued" or "ways you made sure everyone was included in decisions." When the kids notice one, they write it on a post-it and stick it on the poster.
 

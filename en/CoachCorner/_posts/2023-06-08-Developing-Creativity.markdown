@@ -1,7 +1,7 @@
 ---
 layout: post
 language: "en"
-image: "assets/images/CoachCorner/Masterpiece.png"
+image: "assets/images/CoachCorner/Masterpiece.jpg"
 title: "Developing Creativity"
 minidescription: ""
 author: Multiple
