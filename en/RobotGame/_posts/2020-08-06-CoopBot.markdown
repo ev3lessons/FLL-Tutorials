@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Educator++"
+title: "Coop Bot"
 image: "assets/images/RobotGame/Chicken.png"
 searchterms: "lesson"
 language: "en"
