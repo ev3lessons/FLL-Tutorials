@@ -14,4 +14,5 @@ comments: true
 <br>
 <a href="/translations/en-us/Worksheets/2022FLLTutorials-CVWorksheets.pdf">CV Worksheets</a><br>
 
+<a href="https://flltools2021.flltutorials.com/rubrics">Rubrics</a><br>
 </div>
