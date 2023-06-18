@@ -13,5 +13,8 @@ comments: true
 <a href="/translations/en-us/Worksheets/2021FLLTutorials-RDWorksheets.pdf">RD Worksheets</a><br>
 <br>
 <a href="/translations/en-us/Worksheets/2021FLLTutorials-CVWorksheets.pdf">CV Worksheets</a><br>
+<br>
+<a href="https://flltools.flltutorials.com/home">Scorer, Sketch Planner, Rubrics</a><br>
+
 
 </div>
