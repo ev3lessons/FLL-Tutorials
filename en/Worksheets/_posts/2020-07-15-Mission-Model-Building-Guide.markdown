@@ -1,5 +1,5 @@
 ---
-title: "Unofficial Building Guides"
+title: "Building Mission Models and Setup Guides"
 searchterms:
 layout: post
 language: "en"
@@ -10,8 +10,8 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2022MissionModelBuildingTips.pdf">General Tips</a>
+<a href="/translations/en-us/Worksheets/2022MissionModelBuildingTips.pdf">Building Tips</a>
 <br>
-<a href="">Unofficial Guide to Building & Setting Up Models
+<a href="">Video
 <br>
 Coming in August

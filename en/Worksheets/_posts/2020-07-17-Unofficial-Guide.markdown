@@ -1,5 +1,5 @@
 ---
-title: "Unofficial 13-Week Guide to the MASTERPIECE Season"
+title: "15-Week Guide to the MASTERPIECE Season"
 searchterms:
 layout: post
 language: "en"
