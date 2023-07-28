@@ -12,7 +12,7 @@ featured: false
 Overview of FIRST LEGO League Challenge by veteran coach, Heather Bioren. This article has been slightly modified from the original to be relevant to all regions.
 
 FIRST LEGO League Challenge consists of 4 parts:
-1.Core Values
+1. Core Values
 2. Innovation Project
 3. Robot Design, and
 4. Robot Game.
@@ -90,6 +90,8 @@ Resources:
 <a href="https://www.facebook.com/groups/FLLShareandLearn">FLL Challenge: Share and Learn FB page </a><br>
 <a href="https://www.firstinspires.org/resource-library">FIRST Inspires Resource Library </a><br>
 <a href="https://crypticcookies.weebly.com/">Cryptic Cookies Bits ‘n Bots Website </a><br>
+<a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-judging-session-flowchart.pdf">Judging session flowchart</a>
+<a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-rubrics.pdf'>Rubrics</a>
 
 Thank you for coaching!
 Heather
