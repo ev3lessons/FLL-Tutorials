@@ -17,7 +17,7 @@ The Innovation Project is comprised of three main components:
 2. Develop a solution to the problem
 3. Present the solution
 
-**Follow the Rubric!** (like I do below) <a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-rubrics.pdf">Link/<a> to the rubrics:
+**Follow the Rubric!** (like I do below) <a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-rubrics.pdf">Link</a> to the rubrics:
 
 **IDENTIFY (The Problem)**
 
