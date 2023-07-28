@@ -2,14 +2,14 @@
 layout: post
 language: "en"
 image: "assets/images/CoachCorner/Masterpiece.jpg"
-title: "Innovation Project Overview for Coaches"
+title: "Core Values Overview for Coaches"
 minidescription: ""
 author: Heather Bioren
 categories: [ Team Management ]
 tag: CoachCorner
 featured: false
 ---
-Overview of the Innovation Project by the coach of an award winning team called Cryptic Cookies.
+Overview of the Core Values by the coach of an award winning team called Cryptic Cookies.
 
 As I stated in my previous post, FIRST LEGO League Challenge consists of four categories (Core Values, Innovation Project, Robot Design, and Robot Game) and a team must do well in all four categories to advance to the next tournament. This post focuses on Core Values.
 
