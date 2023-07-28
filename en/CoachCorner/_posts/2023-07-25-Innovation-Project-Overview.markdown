@@ -87,5 +87,5 @@ But most importantly, HAVE FUN!
 
 Thanks for coaching! Please reach out with any questions.
 
-Heather
+Heather<br>
 heatherb@firstwa.org

@@ -94,5 +94,5 @@ Resources:
 <a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-rubrics.pdf'>Rubrics</a>
 
 Thank you for coaching!
-Heather
+Heather<br>
 heatherb@firstwa.org
