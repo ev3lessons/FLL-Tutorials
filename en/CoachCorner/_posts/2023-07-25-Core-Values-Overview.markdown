@@ -93,5 +93,5 @@ Thank you for coaching! Please reach out with any questions: heatherb@firstwa.or
 <a href="https://www.facebook.com/groups/FLLShareandLearn">FLL Challenge: Share and Learn FB page </a><br>
 <a href="https://www.firstinspires.org/resource-library">FIRST Inspires Resource Library </a><br>
 <a href="https://crypticcookies.weebly.com/">Cryptic Cookies Bits ‘n Bots Website </a><br>
-<a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-judging-session-flowchart.pdf">Judging session flowchart</a>
-<a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-rubrics.pdf'>Rubrics</a>
+<a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-judging-session-flowchart.pdf">Judging session flowchart</a><br>
+<a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-rubrics.pdf">Rubrics</a>
