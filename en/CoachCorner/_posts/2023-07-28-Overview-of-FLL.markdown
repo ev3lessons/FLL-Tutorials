@@ -11,7 +11,11 @@ featured: false
 ---
 Overview of FIRST LEGO League Challenge by veteran coach, Heather Bioren. This article has been slightly modified from the original to be relevant to all regions.
 
-FIRST LEGO League Challenge consists of 4 parts: (1) Core Values, (2) Innovation Project, (3) Robot Design, and (4) Robot Game.
+FIRST LEGO League Challenge consists of 4 parts:
+1.Core Values
+2. Innovation Project
+3. Robot Design, and
+4. Robot Game.
 
 **Core Values:**
 
@@ -39,7 +43,7 @@ In North America, you will need to register your team with FIRST Inspires (the i
 
 **Challenge Release:**
 
-Each year at the beginning of August, FIRST releases the “Challenge” for the season. The Challenge is topic specific, and the Innovation Project and Robot Game will center on the topic. It’s important to thoroughly review the Challenge materials, which can be found on the FIRST Inspires <a href="https://www.firstinspires.org/resource-library/fll/challenge/challenge-and-resources?utm_source=first-inspires&utm_medium=fll-game-season&utm_campaign=flc-registration-022">website/a>.
+Each year at the beginning of August, FIRST releases the “Challenge” for the season. The Challenge is topic specific, and the Innovation Project and Robot Game will center on the topic. It’s important to thoroughly review the Challenge materials, which can be found on the FIRST Inspires <a href="https://www.firstinspires.org/resource-library/fll/challenge/challenge-and-resources?utm_source=first-inspires&utm_medium=fll-game-season&utm_campaign=flc-registration-022">website</a>.
 
 **Team Meeting Guide, Engineering Notebook, and Robot Game Rulebook:**
 
@@ -83,9 +87,9 @@ Resources:
 
 **Resources:**
 
-<a href="https://www.facebook.com/groups/FLLShareandLearn">FLL Challenge: Share and Learn FB page /a>
-<a href="https://www.firstinspires.org/resource-library">FIRST Inspires Resource Library /a>
-<a href="https://crypticcookies.weebly.com/">Cryptic Cookies Bits ‘n Bots Website /a>
+<a href="https://www.facebook.com/groups/FLLShareandLearn">FLL Challenge: Share and Learn FB page </a><br>
+<a href="https://www.firstinspires.org/resource-library">FIRST Inspires Resource Library </a><br>
+<a href="https://crypticcookies.weebly.com/">Cryptic Cookies Bits ‘n Bots Website </a><br>
 
 Thank you for coaching!
 Heather
