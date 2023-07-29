@@ -9,7 +9,6 @@ categories: [ Team Management ]
 tag: CoachCorner
 featured: false
 ---
-Overview of FIRST LEGO League Challenge by veteran coach, Heather Bioren. This article has been slightly modified from the original to be relevant to all regions.
 
 FIRST LEGO League Challenge consists of 4 parts:
 1. Core Values
@@ -95,4 +94,5 @@ Resources:
 
 Thank you for coaching!
 Heather<br>
-heatherb@firstwa.org
+
+This article is by the coach of an award-winning team called Cryptic Cookies Bits & Bots.

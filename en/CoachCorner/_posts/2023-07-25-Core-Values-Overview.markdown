@@ -9,9 +9,8 @@ categories: [ Team Management ]
 tag: CoachCorner
 featured: false
 ---
-Overview of the Core Values by the coach of an award winning team called Cryptic Cookies.
 
-As I stated in my previous post, FIRST LEGO League Challenge consists of four categories (Core Values, Innovation Project, Robot Design, and Robot Game) and a team must do well in all four categories to advance to the next tournament. This post focuses on Core Values.
+FIRST LEGO League Challenge consists of four categories (Core Values, Innovation Project, Robot Design, and Robot Game) and a team must do well in all four categories to advance to the next tournament. This post focuses on Core Values.
 
 **Why Core Values?**
 
@@ -86,7 +85,9 @@ There is time reserved during the 30-minute judging session for the judges to as
 
 The Robot Game referees will also have an opportunity to score the team for its Core Values during the Robot Game.
 
-Thank you for coaching! Please reach out with any questions: heatherb@firstwa.org
+Thank you for coaching!
+
+Heather
 
 **Resources:**
 
@@ -95,3 +96,5 @@ Thank you for coaching! Please reach out with any questions: heatherb@firstwa.or
 <a href="https://crypticcookies.weebly.com/">Cryptic Cookies Bits ‘n Bots Website </a><br>
 <a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-judging-session-flowchart.pdf">Judging session flowchart</a><br>
 <a href="https://firstinspiresst01.blob.core.windows.net/first-energize/fll-challenge/fll-challenge-superpowered-rubrics.pdf">Rubrics</a>
+
+This article is by the coach of an award-winning team called Cryptic Cookies Bits & Bots.

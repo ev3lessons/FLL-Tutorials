@@ -9,7 +9,6 @@ categories: [ Team Management ]
 tag: CoachCorner
 featured: false
 ---
-Overview of the Innovation Project by the coach of an award winning team called Cryptic Cookies.
 
 The Innovation Project is comprised of three main components:
 
@@ -85,7 +84,8 @@ I often think of FIRST LEGO League as a marathon, not a sprint. By this I mean d
 
 But most importantly, HAVE FUN!
 
-Thanks for coaching! Please reach out with any questions.
+Thanks for coaching!
 
 Heather<br>
-heatherb@firstwa.org
+
+This article is by the coach of an award-winning team called Cryptic Cookies Bits & Bots.
