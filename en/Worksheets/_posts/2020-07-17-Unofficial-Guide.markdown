@@ -1,5 +1,5 @@
 ---
-title: "15-Week Guide to the MASTERPIECE Season"
+title: "15-Week Coach’s Guide to FIRST LEGO League Challenge"
 searchterms:
 layout: post
 language: "en"
@@ -10,6 +10,5 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="">PDF</a><br>
 <a href="">Google</a>
-<br> Coming in August
+<br> Updated for MASTERPIECE season
