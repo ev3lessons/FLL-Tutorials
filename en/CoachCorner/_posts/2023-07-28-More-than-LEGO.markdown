@@ -21,7 +21,7 @@ The students will be working hard. Working hard does not mean there is no fun in
 
 ### It takes more time than you think
 
-While many after school activities are 1-2 hours/week, FIRST LEGO League does require a large time commitment if you want to complete more aspects of the Challenge. Remember that students have to learn to program before they can even solve a mission. On average, teams tend to spend 4-6 hours a week. Teams will tend to increase the number of hours closer to a competition date.
+While many after school activities are 1-2 hours/week, FIRST LEGO League does require a large time commitment if you want to complete more aspects of the Challenge. Remember that students have to learn to program before they can even solve a mission. On average, teams tend to spend 4 or more hours a week. Teams will tend to increase the number of hours closer to a competition date.
 
 ### It costs money
 
@@ -34,3 +34,7 @@ FIRST LEGO League requires teamwork to succeed. If you look at the rubrics, you 
 ### It's not about the awards
 
 While winning awards can be nice, FIRST LEGO League is designed to be a multi-year journey. It's not about winning, but about process and progress. It is about learning more each year and setting more goals.
+
+### It's not about the adults
+
+"Kids do the work" in FIRST LEGO League. While it is tempting for adults to step in and solve all student problems, the program will have the most impact if you let the students do the work. Learning can be messy sometimes and it is never a straight path. The best coaches ask a lot of questions without providing the answer. Sometimes, it is even a good idea to let them "fail". For example, by building something incorrectly, they will learn how not to build the next time.
