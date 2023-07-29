@@ -10,5 +10,5 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="">Google</a>
-<br> Updated for MASTERPIECE season
+<a href="https://docs.google.com/document/d/1qpmKpHnKpBQdmjKMBYFADjXTIW9ZDlxAS_LTYZhpFPo/edit?usp=sharing">Google</a>
+<br> Preview Available Now. Full guide available after Aug 1.
