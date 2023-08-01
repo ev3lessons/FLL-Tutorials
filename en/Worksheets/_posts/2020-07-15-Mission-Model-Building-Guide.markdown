@@ -10,8 +10,7 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2022MissionModelBuildingTips.pdf">Building Tips</a>
+<a href="/translations/en-us/Worksheets/2023FLLTutorials-MissionModelBuildingTips.pdf">PDF Guide</a>
 <br>
-<a href="">Video
+<a href="https://youtu.be/m6L7fs3mu9w">Video Guide</a>
 <br>
-Coming in August

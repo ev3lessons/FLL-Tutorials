@@ -10,6 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="">PDF</a><br>
-<a href="">Google</a>
-<br> Coming in August
+<a href="">Add Google Link</a>

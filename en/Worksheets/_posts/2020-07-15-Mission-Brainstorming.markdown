@@ -10,6 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="">PDF</a><br>
-<a href="">Google</a><br>
-Coming in August
+<a href="/translations/en-us/Worksheets/2023FLLTutorials-MissionBrainstorming.pdf">PDF</a><br>
