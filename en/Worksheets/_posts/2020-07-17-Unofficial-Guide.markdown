@@ -10,5 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="https://docs.google.com/document/d/1qpmKpHnKpBQdmjKMBYFADjXTIW9ZDlxAS_LTYZhpFPo/edit?usp=sharing">Google</a>
-<br> Preview Available Now. Full guide available after Aug 1.
+<a href="https://docs.google.com/document/d/1qpmKpHnKpBQdmjKMBYFADjXTIW9ZDlxAS_LTYZhpFPo/edit?usp=sharing">Google Doc</a>
