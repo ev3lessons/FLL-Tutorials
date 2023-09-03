@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Core Values Judging"
+searchterms:
+image: "assets/images/CoreValues/GenericLesson.png"
+language: "en"
+author: BayouBuilders
+categories:  [ Judging]
+tag: CoreValues
+featured: true
+---
+Slides:
+ <a href="/translations/en-us/CoreValues/CVJudging.pptx">PPTX</a>,
+ <a href="/translations/en-us/CoreValues/CVJudging.pdf">PDF</a>
+ 

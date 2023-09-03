@@ -1,0 +1,212 @@
+---
+layout: post
+language: "en"
+keywords:
+image: assets/images/CoachCorner/Masterpiece.jpg
+title: "Team Budget"
+minidescription: "This article is about basic team expenses each season."
+featured: false
+author: Asha
+categories: [ Team Management, Budget ]
+tag: CoachCorner
+
+---
+
+When starting a FIRST LEGO League team, it is important to keep costs in mind. This is especially true if you are a school-based team and need to apply for grant money ahead of time. Here is a typical budget. The amounts are listed in US Dollars and based on expenses in the United States. There might be variation in other countries. It is good to check with your local organizer to see how much registration and equipment costs in your country.
+
+Every team will need to pay for team registration, a robot set (reusable), a Challenge Set, a FIRST LEGO League table (reusable) and local tournament fees.
+
+<table>
+<tr>
+<th>Start-up Costs</th>
+<th>Cost</th>
+<th>Note</th>
+</tr>
+
+<tr>
+<td>National Registration</td>
+<td>$262.86</td>
+<td>Varies by county. Includes access to guides and notebooks.</td>
+</tr>
+
+<tr>
+<td>Local Competition Registration</td>
+<td>$250</td>
+<td>Varies by region</td>
+</tr>
+
+<tr>
+<td>Competition Table</td>
+<td>$$100</td>
+<td>Varies based on if you build one or buy one.</td>
+</tr>
+
+<tr>
+<td>Robot Set</td>
+<td>$533.90</td>
+<td> Includes Expansion set. Add shipping.</td>
+</tr>
+
+<tr>
+<td>Challenge Set</td>
+<td>$95</td>
+<td>Can vary by country. Add shipping.</td>
+</tr>
+
+<tr>
+<td>Laptop/Computer</td>
+<td>$0-$1000</td>
+<td>Cost saving: Reuse existing laptop, use tablet, use a desktop</td>
+</tr>
+
+<tr>
+<td>Supplies</td>
+<td>$25</td>
+<td>Tri-fold, Markers, Glue, Binders</td>
+</tr>
+
+<tr>
+<td>Printing</td>
+<td>$15</td>
+<td>Brochures</td>
+</tr>
+
+</table>
+<br>
+
+<table>
+<tr>
+<th>Recurring Costs</th>
+<th>Cost</th>
+<th>Note</th>
+</tr>
+
+<tr>
+<td>National Registration</td>
+<td>$262.86</td>
+<td>Includes guides and notebooks.</td>
+</tr>
+<tr>
+<td>Local Competition Registration</td>
+<td>$250</td>
+<td>Varies by region</td>
+</tr>
+
+<tr>
+<td>Challenge Set</td>
+<td>$95</td>
+<td>Can vary by country. Add shipping.</td>
+</tr>
+
+<tr>
+<td>Supplies</td>
+<td>$25</td>
+<td>Tri-fold, Markers, Glue, Binders</td>
+</tr>
+</tr>
+
+<tr>
+<td>Printing</td>
+<td>$15</td>
+<td></td>
+</tr>
+</table>
+<br>
+<table>
+<tr>
+<th>Optional Expenses</th>
+<th>Cost</th>
+<th>Note</th>
+</tr>
+<tr>
+<td>Team T-Shirts</td>
+<td>$150</td>
+<td></td>
+</tr>
+<tr>
+<td>Additional LEGO Parts</td>
+<td>$100</td>
+<td>Sensors, Motors, LEGO</td>
+</tr>
+<tr>
+<td>Travel to Events</td>
+<td>$0-$100+</td>
+<td>Varies by location</td>
+</tr>
+<tr>
+<td>Fieldtrips</td>
+<td>$0-$150</td>
+<td>Varies greatly</td>
+</tr>
+<tr>
+<td>Giveaways</td>
+<td>$100+</td>
+<td></td>
+</tr>
+<tr>
+<td>Books/Resources</td>
+<td>$30</td>
+<td></td>
+</tr>
+<tr>
+<td>Prototypes/Props</td>
+<td>$50+</td>
+<td></td>
+</tr>
+<tr>
+<td>Snacks/Food</td>
+<td>$10+/meeting</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Support Materials</td>
+<td>$50-$200</td>
+<td>Storage boxes, utility carts, team banner</td>
+</tr>
+
+</table>
+
+<br>
+<br>
+### Which Robot Set?
+
+You can buy the robot from FIRST or Lego Education. FIRST just provides a bundled product (Core SPIKE Prime Set + Expansion Set) for you to purchase at the time of registration. You are not required to purchase a set via the FIRST Dashboard. You are not required to purchase the Expansion set. However, it does have extra wheels, motor, sensor, and several large frames that your team may find useful.
+
+FIRST LEGO League does allow all previous robotics sets (EV3, NXT, RCX). You are also allowed to use MINDSTORMS Robot Inventor and SPIKE Essentials. Please note that if you use retired sets, LEGO will not provide support and you may have trouble acquiring spare parts. SPIKE Essentials is a current set, but it is far better suited to FIRST LEGO League Explore and teams using it for Challenge are likely to feel extremely limited by the number of ports it has.
+
+If your budget allows it, I would recommend two robots per team.  More hands on the robots, the better. Having a spare robot is always useful for tournament day.  Plus, when the programmers are using one robot to program, the builders still have something to work with. If at all possible, if you have team of 4 or more, add a second robot to your budget.
+
+### Extra Parts
+
+The Core SPIKE Prime Set + Expansion Set are a great place to start in your first year.  Even if you take all your robots and field set up kits apart for parts, you may soon find in your 2nd or 3rd year that your team is running out of parts. The best way to tell what you need to buy is to have your team sort all the LEGO into bins.  When you see a particular bin running low, you know that’s what the kids need more of. You can order individual items from sites such as bricklink.com. Budget about US$100/yr in your second year and beyond for supplemental LEGO. You do not need to buy another robot set to get parts. Your team might also want a second color sensor for for line squaring (available in the SPIKE Prime Expansion Set) or alternative wheels for their robot.
+
+> FIRST LEGO League is not nearly as expensive as many club-level sports teams, but it is good to know the costs up front and plan ahead.
+
+### Supplies
+
+Poster boards, markers, color printouts, and team t-shirts are needed.  While these are not enormous expenses, they are expenses you need to budget for.
+
+
+### Giveaways
+
+Inexpensive giveaways are additional team expenses. They are not required, but fun to give and receive at events. Many teams will participate in this.
+
+### Snacks
+
+Team snacks are a staple of FIRST LEGO League teams. One suggestion is to outsource this to other parents on the team. For example, each week, a new parent could bring a snack.
+
+
+### Travel
+
+Some teams have to travel far to their state-level tournament. This might even involve an overnight stay at a hotel. Check to see where your events are and include these costs in your budget.
+
+
+### What if you qualify for the next level?
+
+FIRST LEGO League Open Invitationals and World Festivals are expensive.  Registration alone is around US$1500. Add to that booth decorations, food, housing and travel for every team member and coach.
+
+
+### Who pays for what?
+
+There are lots of different ways to manage the costs. Fundraising/sponsorships is always an option. This is harder if you are not affiliated with a non-profit. Some teams charge a set yearly fee (amount varies by how much funding they have). Private groups usually split the costs across all team members. Just make sure there is clear understanding of who owns what at the end of the season. I have heard this is sometimes a problem for teams.

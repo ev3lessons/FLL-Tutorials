@@ -1,0 +1,40 @@
+---
+layout: post
+language: "en"
+keywords:
+image: "assets/images/CoreValues/VTB10.png"
+title: "Best Sell"
+minidescription: "Collaboration"
+author: 8027
+categories:  [ Team Building ]
+tag: CoreValues
+featured: false
+excerpt_separator: <!--more-->
+---
+
+Team Building Activity: Best Sell<br>
+Author: Eli from FRC 8027
+<!--more-->
+
+<b>Objectives:</b>
+- The goal of this activity is to learn to present your ideas to others quickly and effectively. Students will have a chance to be creative. Students will also learn how to appropriately share feedback.
+
+<b>Materials:</b>
+- All that is needed is a way for each student to write down their ideas and a way for the students to vote on an idea.
+
+
+<b>Setup:</b>
+- None
+
+
+<b>Instructions to Team:</b>
+
+The goal is for the team to come up with the best idea and pitch to try to sell their product.
+Each team member should pick a product or idea.
+Create a short, yet effective pitch in 5mins for this product or idea.
+Pitch the idea to the team. Listen to the feedback from the rest of the team.
+After all the pitches are given everyone votes, for whatever they think was the best idea and the best pitch.
+
+
+<b>Notes:</b>
+ This activity can also be done in teams. Another variation is for each student to come up with a wacky invention idea, but has to trade with someone else on the team. This way, they will be creating a pitch for another student’s idea.

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Coop Bot"
+image: "assets/images/RobotGame/Chicken.png"
+searchterms: "lesson"
+language: "en"
+categories: [ Building, One Kit Build ]
+author: SeshanBrothers
+tag: RobotDesigns
+featured: true
+excerpt_separator: <!--more-->
+---
+
+This is a modular base robot built with elements in one SPIKE Prime Core Set (45678) plus parts from the expansion set (45681). A sample universal attachment design is available as part of the instructions. Note that this robot is designed for more experienced teams/users to learn more advanced building and programming skills. It will require some wire management skills as well. It also features color sensors that can act as touch sensors.
+
+Design by Arvind Seshan
+
+Design File:
+ <a href="/en/RobotGame/CoopBot.pdf">Build Instructions PDF</a><br>
+<a href="/en/RobotGame/CoopBotCableManagement.pdf">Cable Guide PDF</a><br>
