@@ -25,12 +25,12 @@ comments: true
             {% for post in site.posts %}
                 {% if post.language == page.lang %}
 
-                {% if post.tag == "CoachCorner" and post.featured == true %}
+                    {% if post.tag == "CoachCorner" and post.featured == true %}
 
-                    {% include featuredbox.html %}
+                        {% include featuredbox.html %}
 
+                    {% endif %}
                 {% endif %}
-{% endif %}
             {% endfor %}
 
             </div>
