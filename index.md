@@ -4,7 +4,7 @@ layout: none
 
 
 <script>
-  //langs=['en:United States:English','es:Spain:Español','nl:Netherlands:Nederlands','ar:Saudi Arabia:العَرَبِيةُ‎‎','pt:Brazil:Portugues','el:Greece:Ελληνικά','fr:France:français','ct:../ct:català','he:Israel:עברית','it:Italy:Italiano']
+  //langs=['en:United States:English','es:Spain:Español','nl:Netherlands:Nederlands','ar:Saudi Arabia:العَرَبِيةُ‎‎','pt:Brazil:Portugues','el:Greece:Ελληνικά','fr:France:français','ct:../ct:català','he:Israel:עברית','it:Italy:Italiano', 'ro:Romania:românește']
 
   langs=['{{ site.all_langs | join: "', '" }}']
 

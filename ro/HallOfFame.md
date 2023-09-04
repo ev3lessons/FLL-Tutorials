@@ -1,5 +1,5 @@
 ---
-layout: en/default
+layout: ro/default
 title: Hall of Fame
 comments: true
 ---

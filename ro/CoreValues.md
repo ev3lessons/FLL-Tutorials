@@ -1,5 +1,5 @@
 ---
-layout: en/default
+layout: ro/default
 title: Core Values
 comments: true
 ---
