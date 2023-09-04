@@ -3,7 +3,7 @@ layout: post
 title: "Core Values Poster"
 searchterms:
 image: "assets/images/CoreValues/GenericLesson.png"
-language: "en"
+language: "ro"
 author: SeshanBrothers
 categories:  [Poster]
 tag: CoreValues
@@ -12,5 +12,5 @@ featured: true
 ---
 
  Slides:
- <a href="/translations/en-us/CoreValues/CVPoster.pptx">PPTX</a>,
- <a href="/translations/en-us/CoreValues/CVPoster.pdf">PDF</a>
+ <a href="/translations/ro/CoreValues/CVPoster (rom).pptx">PPTX</a>,
+ <a href="/translations/ro/CoreValues/CVPoster (rom).pdf">PDF</a>

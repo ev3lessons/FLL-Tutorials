@@ -2,7 +2,7 @@
 title: "Research Project Presentations"
 searchterms:
 layout: post
-language: "en"
+language: "ro"
 image: "assets//images/Project/GenericLesson.png"
 author: SeshanBrothers
 categories: Research
@@ -11,5 +11,5 @@ featured: false
 ---
 
 Slides:
- <a href="/translations/en-us/Project/Presentation.pptx">PPTX</a>,
- <a href="/translations/en-us/Project/Presentation.pdf">PDF</a>
+ <a href="/translations/ro/Project/Presentation (rom).pptx">PPTX</a>,
+ <a href="/translations/ro/Project/Presentation (rom).pdf">PDF</a>

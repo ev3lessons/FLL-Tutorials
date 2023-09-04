@@ -2,7 +2,7 @@
 title: "What Makes a Project Innovative?"
 searchterms:
 layout: post
-language: "en"
+language: "ro"
 image: "assets//images/Project/GenericLesson.png"
 author: SeshanBrothers
 categories: Research
@@ -11,5 +11,5 @@ featured: false
 ---
 
 Slides:
- <a href="/translations/en-us/Project/InnovativeSolution.pptx">PPTX</a>,
- <a href="/translations/en-us/Project/InnovativeSolution.pdf">PDF</a>
+ <a href="/translations/ro/Project/InnovativeSolution (rom).pptx">PPTX</a>,
+ <a href="/translations/ro/Project/InnovativeSolution (rom).pdf">PDF</a>

@@ -3,13 +3,12 @@ layout: post
 title: "Core Values Judging"
 searchterms:
 image: "assets/images/CoreValues/GenericLesson.png"
-language: "en"
+language: "ro"
 author: BayouBuilders
 categories:  [ Judging]
 tag: CoreValues
 featured: true
 ---
 Slides:
- <a href="/translations/en-us/CoreValues/CVJudging.pptx">PPTX</a>,
- <a href="/translations/en-us/CoreValues/CVJudging.pdf">PDF</a>
- 
+ <a href="/translations/ro/CoreValues/CVJudging (rom).pptx">PPTX</a>,
+ <a href="/translations/ro/CoreValues/CVJudging (rom).pdf">PDF</a>

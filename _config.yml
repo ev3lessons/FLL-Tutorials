@@ -53,8 +53,13 @@ defaults:
       path: "ua"
     values:
       lang: "ua"
+  -
+    scope:
+      path: "ro"
+      values:
+      lang: "ro"
 
-all_langs: ['en:United States:English','es:Spain:Español','de:Germany:Deutsch','pt:Brazil:Portugues','he:Israel:עִברִית','fr:France:français','ua:Ukraine:українська мова']
+all_langs: ['en:United States:English','es:Spain:Español','de:Germany:Deutsch','pt:Brazil:Portugues','he:Israel:עִברִית','fr:France:français','ua:Ukraine:українська мова','ro:Romania:românește']
 
 # Authors
 authors:

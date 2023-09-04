@@ -2,7 +2,7 @@
 title: "How to Research"
 searchterms:
 layout: post
-language: "en"
+language: "ro"
 image: "assets//images/Project/GenericLesson.png"
 author: SeshanBrothers
 categories: Research
@@ -11,5 +11,5 @@ featured: false
 ---
 
 Slides:
- <a href="/translations/en-us/Project/HowtoResearch.pptx">PPTX</a>,
- <a href="/translations/en-us/Project/HowtoResearch.pdf">PDF</a>
+ <a href="/translations/ro/Project/HowtoResearch (rom).pptx">PPTX</a>,
+ <a href="/translations/ro/Project/HowtoResearch (rom).pdf">PDF</a>

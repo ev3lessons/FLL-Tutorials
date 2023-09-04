@@ -2,7 +2,7 @@
 title: "Taking the Project to the Next Level"
 searchterms:
 layout: post
-language: "en"
+language: "ro"
 image: "assets//images/Project/GenericLesson.png"
 author: SeshanBrothers
 categories: Research
@@ -11,9 +11,9 @@ featured: false
 ---
 
  Slides:
-  <a href="/translations/en-us/Project/ProjectNextLevel.pptx">PPTX</a>,
-  <a href="/translations/en-us/Project/ProjectNextLevel.pdf">PDF</a>
+  <a href="/translations/ro/Project/ProjectNextLevel (rom).pptx">PPTX</a>,
+  <a href="/translations/ro/Project/ProjectNextLevel (rom).pdf">PDF</a>
 <br>
   Slides by D++:
-   <a href="/translations/en-us/Project/NextLevelD++.pptx">PPTX</a>,
-   <a href="/translations/en-us/Project/NextLevelD++.pdf">PDF</a>
+   <a href="/translations/ro/Project/NextLevelD++ (rom).pptx">PPTX</a>,
+   <a href="/translations/ro/Project/NextLevelD++ (rom).pdf">PDF</a>
