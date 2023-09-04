@@ -12,8 +12,7 @@ comments: true
     <div class="main-content">
 
 
-        <!-- Featured
-        ================================================== -->
+        <!-- Featured     ================================================== -->
         <section class="featured-posts">
 
             <div class="section-title">
@@ -37,8 +36,7 @@ comments: true
 
         </section>
 
-        <!-- Featured
-        ================================================== -->
+        <!-- Featured  ================================================== -->
         <section class="all-posts">
 
             <div class="section-title">
@@ -50,7 +48,7 @@ comments: true
             {% for post in site.posts %}
                   
                 {% if post.language == page.lang %}
-                {% if post.tag == "CoreValues" %}
+                {% if post.tag == "CoreValues" and post.categories contains "Team Building" %}
                     {% unless post.categories contains "draft" %}
 
                         {% include featuredbox.html %}

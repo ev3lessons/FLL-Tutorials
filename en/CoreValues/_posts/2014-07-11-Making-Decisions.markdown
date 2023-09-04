@@ -5,7 +5,6 @@ searchterms:
 image: "assets/images/CoreValues/GenericLesson.png"
 language: "en"
 author: SeshanBrothers
-categories:  [ Team Building ]
 tag: CoreValues
 featured: true
 ---
