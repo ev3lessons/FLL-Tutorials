@@ -56,7 +56,7 @@ defaults:
   -
     scope:
       path: "ro"
-      values:
+    values:
       lang: "ro"
 
 all_langs: ['en:United States:English','es:Spain:Español','de:Germany:Deutsch','pt:Brazil:Portugues','he:Israel:עִברִית','fr:France:français','ua:Ukraine:українська мова','ro:Romania:românește']
