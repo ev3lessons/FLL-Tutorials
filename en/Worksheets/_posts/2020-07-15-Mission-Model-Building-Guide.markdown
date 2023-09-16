@@ -10,7 +10,9 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2023-MissionModelBuildingTips.pdf">PDF Guide</a>
+<a href="/translations/en-us/Worksheets/2023-MissionModelBuildingTips.pdf">Building Tips Guide</a>
+<br>
+<a href="/translations/en-us/Worksheets/2023-PackingTips.pdf">Packing Tips Guide</a>
 <br>
 <a href="https://youtu.be/m6L7fs3mu9w">Video Guide</a>
 <br>
