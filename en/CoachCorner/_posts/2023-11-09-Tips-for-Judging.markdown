@@ -17,16 +17,15 @@ As many of you know, I have been giving feedback on judging presentations to tea
 1. Give specific examples. E.g. Don’t just say, “We all work well together”. Give examples of specific situations where you had to learn to work together during the season. Let different students provide their own authentic examples if possible. Go beyond “We impacted our community with our innovation project”. Think of how Discovery, Impact, and Innovation can go beyond the Robot and Innovation Project. <br>
 
 Here are some common examples teams give (often placing emphasis on the highlighted word): <br>
-"We DISCOVERED Scratch programming” <br>
-"We IMPACTED our robot by choosing the big wheels” <br>
-“We came up with an INNOVATIVE idea to help more people participate in this hobby." <br>
+- "We DISCOVERED Scratch programming” <br>
+- "We IMPACTED our robot by choosing the big wheels” <br>
+- “We came up with an INNOVATIVE idea to help more people participate in this hobby." <br>
 
-Every single team is doing the same thing - they all learnt a programming language and used a wheel. They all worked on an Innovation Project. <br>
+Every single team is doing the same thing - they all learnt a programming language and used a wheel. They all worked on an Innovation Project. Consider these statements instead:<br>
 
-Consider these statements instead: <br>
-DISCOVERY: "Sally discovered that even though she thought she hated coding, she could program our robot by the end of the season”<br>
-IMPACT: “We impacted our community by participating in a STEM showcase at our local library where 100 children got to learn about robotics by programing robots we brought.” <br>
-INNOVATION: “The Virtual Reality Artist mission gave us a lot of trouble. For weeks we struggled. Jen thought of x solution. James thought of y. We tried them all, but we still could not activate the model reliably. We didn’t give up. Then Sally came up with the clever idea to z and it worked!” <br>
+- DISCOVERY: "Sally discovered that even though she thought she hated coding, she could program our robot by the end of the season”<br>
+- IMPACT: “We impacted our community by participating in a STEM showcase at our local library where 100 children got to learn about robotics by programing robots we brought.” <br>
+- INNOVATION: “The Virtual Reality Artist mission gave us a lot of trouble. For weeks we struggled. Jen thought of x solution. James thought of y. We tried them all, but we still could not activate the model reliably. We didn’t give up. Then Sally came up with the clever idea to z and it worked!” <br>
 
 2. The Judging Flowchart mentions that Core Values is only for questions and answers. As a result, many regions may not allow you to give a formal presentation. Check in advance before spending time on a presentation.
 
