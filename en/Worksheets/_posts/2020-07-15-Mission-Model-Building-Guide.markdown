@@ -11,7 +11,7 @@ featured: false
 ---
 
 <a href="/translations/en-us/Worksheets/2023-MissionModelBuildingTips.pdf">Building Guide</a>
-<br>
+<br> Update: Aug 2024
 <a href="/translations/en-us/Worksheets/2023-PackingTips.pdf">Packing Guide</a>
 <br>
 <a href="/translations/en-us/Worksheets/2023-PackingTips-2pgs.pdf">Alternative Packing Guide</a>

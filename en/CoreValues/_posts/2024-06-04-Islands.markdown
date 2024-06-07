@@ -1,0 +1,35 @@
+---
+layout: post
+language: "en"
+keywords:
+image: "assets/images/CoreValues/Island.jpg"
+title: "Islands"
+minidescription: ""
+author: 8027
+categories:  [ Team Building ]
+tag: CoreValues
+featured: false
+excerpt_separator: <!--more-->
+---
+
+Team Building Activity: Islands<br>
+<!--more-->
+
+<b>Objectives:</b>
+Work together
+
+<b>Materials:</b>
+- 4-5 "islands" around the room (can be cardboard boxes, small blankets)
+- Different ways to travel from island to island (tricycle, pieces of paper, jump rope, 2 planks of wood)
+
+
+<b>Setup:</b>
+- Set up islands around the room. Leave a set of objects that can be use for transportation.
+
+
+<b>Instructions to Team:</b>
+
+Students must travel from one island to the next. All students must arrive at one island before moving on to the next. Student hands and feet may never touch the water. You must leave one item behind at every island you visit.
+<br><br>
+Can your team work together to visit each island in 10mins? Can your team improve its time?
+<br>
