@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="https://docs.google.com/presentation/d/11tC8A_J38BPCankqodLkMMipuCca_c4OyBMSZvPS7JQ/edit?usp=sharing">Google Doc</a> Update: Aug 2024
+<a href="https://docs.google.com/presentation/d/1M6mLWFqoU-Da2FVKnDZruMy4RtGPbnPrvlP6I_xvl-c/edit?usp=sharing">Google Doc</a>
