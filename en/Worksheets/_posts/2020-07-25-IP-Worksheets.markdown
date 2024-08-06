@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="">Google Doc Coming Aug 6</a>
+<a href="https://docs.google.com/presentation/d/1EFXSSB3vzz8UDlSiQG04ncfUqHB2tndgXzzbnG8g3Fo/edit?usp=sharing">Google Doc</a>

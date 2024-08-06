@@ -10,5 +10,5 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2024-MissionModelBuildingTips.pdf">Building Guide</a>
+<a href="/translations/en-us/Worksheets/2024FLLTutorials-MissionModelBuildingTips.pdf">Building Guide</a>
 <br>
