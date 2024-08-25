@@ -9,6 +9,6 @@ categories: Worksheets
 tag: Worksheets
 featured: false
 ---
-<a href="/translations/en-us/Worksheets/2024FllTutorial-GuidedMission.pdf">PDFLesson</a>,<br>
-<a href="https://youtu.be/4viKMboKvNc">Video</a>,<br>
-<a href="/translations/en-us/Worksheets/2024SUBMERGEDGuidedMissionReliability.llsp3">Code File</a>
+<a href="/translations/en-us/Worksheets/2024FllTutorials-GuidedMission.pdf">PDFLesson *new</a>,<br>
+<a href="https://youtu.be/4viKMboKvNc">Video *new</a>,<br>
+<a href="/translations/en-us/Worksheets/2024SUBMERGEDGuidedMissionReliability.llsp3">Code File *new</a>
