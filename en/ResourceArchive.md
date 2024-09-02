@@ -19,5 +19,6 @@ comments: true
 <p> <a href="{{ site.baseurl }}/Resources/2020" class="btn btn-success" role="button">REPLAY Resources</a></p>
 <p> <a href="{{ site.baseurl }}/Resources/2021" class="btn btn-warning" role="button">CARGO CONNECT Resources</a></p>
 <p> <a href="{{ site.baseurl }}/Resources/2022" class="btn btn-info" role="button">SUPERPOWERED Resources</a></p>
+<p> <a href="{{ site.baseurl }}/Resources/2023" class="btn btn-info" role="button">MASTERPIECE Resources</a></p>
 
 </div>
