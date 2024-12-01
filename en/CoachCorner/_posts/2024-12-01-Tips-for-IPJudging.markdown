@@ -1,8 +1,8 @@
 ---
 layout: post
 language: "en"
-image: "assets/images/CoachCorner/Submerged.jpg"
-title: "Tips for the Robot Design Judging"
+image: "assets/images/CoachCorner/Submerged2.jpg"
+title: "Tips for Innovation Project Judging"
 minidescription: ""
 author: Arvind Seshan
 categories: [ Team Management ]

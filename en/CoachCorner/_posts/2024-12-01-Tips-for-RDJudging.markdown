@@ -2,7 +2,7 @@
 layout: post
 language: "en"
 image: "assets/images/CoachCorner/Submerged.jpg"
-title: "Tips for the Robot Design Judging"
+title: "Tips for Robot Design Judging"
 minidescription: ""
 author: Arvind Seshan
 categories: [ Team Management ]
