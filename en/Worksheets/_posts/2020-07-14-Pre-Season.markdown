@@ -1,5 +1,5 @@
 ---
-title: "SUBMERGED Pre-season Guides"
+title: "UNEARTHED Pre-season Guides"
 searchterms:
 layout: post
 language: "en"
@@ -10,8 +10,8 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2024PreSeasonIP.pdf">Innovation Project</a><br>
-<a href="/translations/en-us/Worksheets/2024PreSeasonCV.pdf">Core Values</a><br>
-<a href="/translations/en-us/Worksheets/2024PreSeasonRD.pdf">Robot Design</a><br>
+<a href="/translations/en-us/Worksheets/2025PreSeasonIP.pdf">Innovation Project</a><br>
+<a href="/translations/en-us/Worksheets/2025PreSeasonCV.pdf">Core Values</a><br>
+<a href="/translations/en-us/Worksheets/2025PreSeasonRD.pdf">Robot Design</a><br>
 <a href="">Navigation Challenges Coming Soon</a><br>
-<a href="/translations/en-us/Worksheets/2024PreSeasonBuildingChallenges.pdf">Building Challenges</a>
+<a href="">Building Challenges Coming Soon</a>
