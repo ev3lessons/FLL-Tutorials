@@ -1,5 +1,5 @@
 ---
-title: "UNEARTHED Pre-season Guides"
+title: "*new* UNEARTHED Pre-season Guides"
 searchterms:
 layout: post
 language: "en"
