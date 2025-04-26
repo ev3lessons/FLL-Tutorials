@@ -14,3 +14,4 @@ featured: false
 <br>
 <a href="https://docs.google.com/presentation/d/1tI0MJXJH19z141av1CC6lwUby5iERwdhnWmgEx6pxns/edit?usp=sharing">Field Setup Tips (*new)</a>
 <br>
+(Update in 08/2025)

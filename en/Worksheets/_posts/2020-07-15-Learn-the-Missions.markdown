@@ -10,4 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2024FLLTutorials-LearntheMissions.pdf">PDF</a>
+<a href="/translations/en-us/Worksheets/2024FLLTutorials-LearntheMissions.pdf">PDF (Update in 08/2025)</a>
