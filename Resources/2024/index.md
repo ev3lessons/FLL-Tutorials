@@ -9,7 +9,7 @@ comments: true
 <h1>2024-25 FIRST LEGO League Resources Archive</h1>
 
 
-<a href="https://flltools2023.flltutorials.com/">Scorer/Drawplan/Rubrics</a><br>
+<a href="http://www.droidsrobotics.org/flltools2024/">Scorer/Drawplan/Rubrics</a><br>
 </div>
 
 
