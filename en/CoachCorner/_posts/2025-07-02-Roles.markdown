@@ -1,0 +1,21 @@
+---
+layout: post
+language: "en"
+image: "assets/images/CoachCorner/minifig.jpg"
+title: "Roles on the Team"
+minidescription: ""
+author: Arvind Seshan
+categories: [ Team Management ]
+tag: CoachCorner
+featured: false
+---
+
+As you start your team it is good to remember what your role is on the team. As a new coach, it can sometimes be painful to watch your students struggle. FIRST LEGO League works because of the progress of discovery and actively engaging in the engineering design process of testing, failing, and improving ideas. Trust the process.
+
+<b>Role of the Coach:</b> Guide the overall process (including payments and registration), manage the timeline, feed the students, mediate, teach, bring them opportunities and resources, but don’t do the work. Ask a lot of questions.
+
+<b>Role of the Mentor:</b> Provide expertise in a specific area. Teach new skills and provide access to new resources. Provide knowledge when needed, but do not do all the work.
+
+<b>Role of the Parent:</b> Encourage and support the team, coach, and your child as needed, which may include providing transportation, snacks, chaperone services, and being the team cheerleader. Be sure to reinforce team expectations with your student.
+
+<b>Role of the Student:</b> Make all the decisions, work as a team, and do the work.
