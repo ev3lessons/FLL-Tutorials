@@ -1,0 +1,38 @@
+---
+layout: post
+language: "en"
+image: "assets/images/CoachCorner/minifig.jpg"
+title: "Avoiding Team Burnout"
+minidescription: ""
+author: Arvind Seshan
+categories: [ Team Management ]
+tag: CoachCorner
+featured: false
+---
+
+Strategies to Avoid Burnout in FIRST LEGO League Challenge:
+
+<b> Goal Setting </b>:
+•	Have the students establish achievable goals for the team based on their abilities, schedules, and effort levels.
+•	Break down large tasks into smaller, manageable steps.
+•	Celebrate hitting milestones and achieving smaller successes to keep the team motivated.
+•	Emphasize quality over quantity. For example, it is often better to complete less missions more reliably than to complete lots of missions.
+
+<b>Time Management</b>:
+•	Keep track of dates and deadlines. A large team calendar and task list can help students visualize clearly what needs to be completed by when.
+•	Take breaks in the middle of team meetings to enjoy a snack and do a team building activity.
+•	Be prepared for additional meeting times closer to a competition and build these into the schedule rather than making them last minute.
+•	Avoid last-minute stresses such as making changes to the code or robot in the last week before a competition.
+•	Avoid making changes (other than minor ones) at the competition.
+
+<b>Positive Mindset</b>:
+•	Encourage a growth mindset where challenges are seen as opportunities for learning and improvement.
+•	Focus the team on making progress and learning new skills rather than on winning awards and achieving high scores.
+•	Celebrate large and small successes.
+•	Discuss and learn from failures together as a team.
+
+<b>Communication and Support</b>:
+•	Establish rules and procedures so everyone knows what is expected of them.
+•	Maintain open communication within the team to address any concerns or challenges early on.
+•	Encourage team members to support each other and seek help when needed.
+•	Encourage students to share their accomplishments and frustrations at the end of each meeting in order to celebrate, brainstorm, and get new ideas.
