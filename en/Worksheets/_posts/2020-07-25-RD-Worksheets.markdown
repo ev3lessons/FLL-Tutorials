@@ -1,5 +1,5 @@
 ---
-title: "*new* Robot Design Engineering Notebook Worksheets"
+title: "Robot Design Engineering Notebook Worksheets"
 searchterms:
 layout: post
 language: "en"
@@ -10,4 +10,5 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="https://docs.google.com/presentation/d/1bHcEFAwqHn_I0OliOS8kIddqkIwpXjWjLflRJIpV-eQ/edit?usp=sharing">Google Doc</a>
+<a href="https://docs.google.com/presentation/d/1bHcEFAwqHn_I0OliOS8kIddqkIwpXjWjLflRJIpV-eQ/edit?usp=sharing">Google Doc</a><br>
+Update in Aug 2026

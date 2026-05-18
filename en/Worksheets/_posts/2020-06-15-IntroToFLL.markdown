@@ -1,5 +1,5 @@
 ---
-title: "*new* Introduction to FIRST LEGO League"
+title: "Introduction to FIRST LEGO League"
 searchterms:
 layout: post
 language: "en"
@@ -13,3 +13,4 @@ featured: false
 <a href="/translations/en-us/Worksheets/2025IntrotoFLL.pdf">PDF</a>
 <br>
 <a href="/translations/en-us/Worksheets/2025IntrotoFLL.pptx">PPTX</a> <br>
+Update in Jun 2026

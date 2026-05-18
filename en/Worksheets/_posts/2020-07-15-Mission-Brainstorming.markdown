@@ -1,5 +1,5 @@
 ---
-title: "*new* Mission Brainstorming Worksheet"
+title: "Mission Brainstorming Worksheet"
 searchterms:
 layout: post
 language: "en"
@@ -11,3 +11,4 @@ featured: false
 ---
 
 <a href="https://docs.google.com/presentation/d/1d77vwcvIL6HDl6Jp7uJ98SRS7nHoP7hBbluu5Ti_M-8/edit?usp=sharing"> Google Doc</a><br>
+Update in Aug 2026

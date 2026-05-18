@@ -1,5 +1,5 @@
 ---
-title: "*new* Building Mission Models and Setup Guides"
+title: "Building Mission Models and Setup Guides"
 searchterms:
 layout: post
 language: "en"
@@ -12,3 +12,4 @@ featured: false
 
 <a href="https://docs.google.com/presentation/d/1DAFp9ahuRLTbjzYuWqsuR9UB3vpymAFWmvZsCzCBBjI/edit?usp=sharing">UNEARTHED Building Guide</a>
 <br>
+Update in Aug 2026

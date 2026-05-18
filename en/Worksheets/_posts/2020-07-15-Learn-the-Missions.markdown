@@ -1,5 +1,5 @@
 ---
-title: "*new* Learn the Missions"
+title: "Learn the Missions"
 searchterms:
 layout: post
 language: "en"
@@ -10,4 +10,5 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="https://docs.google.com/presentation/d/1dQ1CrQXUUgWWC6hByRM-oRHqzB1C6VPfdLzmLP9f4G0/edit?usp=sharing">Google Docs</a>
+<a href="https://docs.google.com/presentation/d/1dQ1CrQXUUgWWC6hByRM-oRHqzB1C6VPfdLzmLP9f4G0/edit?usp=sharing">Google Docs</a> <br>
+Update in Aug 2026

@@ -1,5 +1,5 @@
 ---
-title: "*new* UNEARTHED Guided Mission With Reliability Techniques"
+title: "UNEARTHED Guided Mission With Reliability Techniques"
 searchterms:
 layout: post
 language: "en"
