@@ -10,8 +10,6 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="/translations/en-us/Worksheets/2026PreSeasonP.pdf">Innovation Project</a><br>
-<a href="">Core Values</a><br>
-<a href="">Robot Design</a><br>
-<a href="">Navigation Challenges</a><br>
-<a href="">Building Challenges</a>
+<a href="/translations/en-us/Worksheets/2026PreSeasonP.pdf">Project</a><br>
+<a href="">Core Values Coming Soon</a><br>
+<a href="">Robot Design Coming Soon</a><br>
