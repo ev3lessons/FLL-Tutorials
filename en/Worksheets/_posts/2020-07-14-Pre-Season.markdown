@@ -11,5 +11,5 @@ featured: false
 ---
 
 <a href="/translations/en-us/Worksheets/2026PreSeasonP.pdf">Project</a><br>
-<a href="">Core Values Coming Soon</a><br>
+<a href="/translations/en-us/Worksheets/2026PreSeasonCV.pdf">Core Values</a><br>
 <a href="">Robot Design Coming Soon</a><br>
