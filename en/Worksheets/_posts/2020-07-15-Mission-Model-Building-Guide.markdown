@@ -10,6 +10,7 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="https://docs.google.com/presentation/d/1DAFp9ahuRLTbjzYuWqsuR9UB3vpymAFWmvZsCzCBBjI/edit?usp=sharing">UNEARTHED Building Guide</a>
+<a href="https://docs.google.com/presentation/d/1DAFp9ahuRLTbjzYuWqsuR9UB3vpymAFWmvZsCzCBBjI/edit?usp=sharing">Founders Edition</a>
 <br>
+Future Edition</br>
 Update in Aug 2026
