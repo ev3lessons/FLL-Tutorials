@@ -11,4 +11,4 @@ featured: false
 ---
 
 <a href="https://docs.google.com/presentation/d/1bHcEFAwqHn_I0OliOS8kIddqkIwpXjWjLflRJIpV-eQ/edit?usp=sharing">Google Doc</a><br>
-Update in Aug 2026
+Update Coming Soon

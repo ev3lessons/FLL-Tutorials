@@ -10,6 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="https://docs.google.com/presentation/d/1d77vwcvIL6HDl6Jp7uJ98SRS7nHoP7hBbluu5Ti_M-8/edit?usp=sharing"> Founders Edition</a><br>
-Future Edition</br>
-Update in Aug 2026
+<a href="https://docs.google.com/presentation/d/1d77vwcvIL6HDl6Jp7uJ98SRS7nHoP7hBbluu5Ti_M-8/edit?usp=sharing"> Update Coming Soon</a><br>

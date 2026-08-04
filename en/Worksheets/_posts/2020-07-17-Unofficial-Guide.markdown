@@ -1,5 +1,5 @@
 ---
-title: "UNEARTHED Coach’s Guide"
+title: "BIOGLOW Coach’s Guide"
 searchterms:
 layout: post
 language: "en"
@@ -10,5 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="https://docs.google.com/document/d/1tsv4JfPsW2rSCWyfmFwKuy5NI3vTCg34v7YLG9ZspIA/edit?usp=sharing">Google Doc</a> <br>
-Update in Aug 2026
+<a href="https://docs.google.com/document/d/1tsv4JfPsW2rSCWyfmFwKuy5NI3vTCg34v7YLG9ZspIA/edit?usp=sharing">Update Coming Soon</a> 
