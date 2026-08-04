@@ -1,5 +1,5 @@
 ---
-title: "*New* Building Mission Models and Setup Guides"
+title: "*New* Building Mission Models and Setup Guide"
 searchterms:
 layout: post
 language: "en"
