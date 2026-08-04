@@ -1,5 +1,5 @@
 ---
-title: "*new* BIOGLOW Pre-season Guides"
+title: "BIOGLOW Pre-season Guides"
 searchterms:
 layout: post
 language: "en"
