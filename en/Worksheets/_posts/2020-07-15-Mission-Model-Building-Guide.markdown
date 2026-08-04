@@ -1,5 +1,5 @@
 ---
-title: "Building Mission Models and Setup Guides"
+title: "*New* Building Mission Models and Setup Guides"
 searchterms:
 layout: post
 language: "en"
@@ -10,7 +10,4 @@ tag: Worksheets
 featured: false
 ---
 
-<a href="https://docs.google.com/presentation/d/1DAFp9ahuRLTbjzYuWqsuR9UB3vpymAFWmvZsCzCBBjI/edit?usp=sharing">Founders Edition</a>
-<br>
-Future Edition</br>
-Update in Aug 2026
+<a href="https://docs.google.com/presentation/d/1Ouy5_v_StIRgOpVNMqQFjVUrUkHaj_rta5BcXpsHyCw/edit?usp=sharing">Future and Founders</a>
