@@ -1,5 +1,5 @@
 ---
-title: "*New* Core Values Engineering Notebook Worksheets"
+title: "*New* Core Values Worksheets"
 searchterms:
 layout: post
 language: "en"
