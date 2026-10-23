@@ -18,5 +18,5 @@ Design by Sanjay and Arvind Seshan
 Design Files:
  <a href="/en/RobotGame/DroidBotMSpikePrime.pdf">Base Robot</a>,
  <a href="/en/RobotGame/DroidBotMSikePrime.DirectionChangeSample.pdf">Direction Change  Sample</a>,
-<a href="/en/RobotGame/DroidBotMSikePrime.AlternativePlugin.pdf">Alternative Plugin - Gear Ratio</a>,
+<a href="/en/RobotGame/DroidBotMSpikePrime.AlternativePlugin.pdf">Alternative Plugin - Gear Ratio</a>,
  <a href="/en/RobotGame/DroidBotMSikePrime.Forklift.pdf">Forklift</a>,
