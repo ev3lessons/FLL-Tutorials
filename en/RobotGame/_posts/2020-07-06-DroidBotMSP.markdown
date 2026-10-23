@@ -11,10 +11,12 @@ featured: true
 excerpt_separator: <!--more-->
 ---
 
-This is a modular base robot built largely with one SPIKE Prime Core Set (45678) plus one more large motor. You will need an extra color sensor, a ball wheel, and a frame from the Expansion to construct some of the modules. Attachments are easy to put on and take off. A sample universal attachment module is provided as part of the Base Robot. In addition, a sample attachment showing how to change the direction of motion is included. Please note that specific attachment samples use parts beyond one Core Set.
+This is a modular base robot built largely with one SPIKE Prime Core Set (45678) plus one more large motor. You will need an extra color sensor, a ball wheel, and a frame from the Expansion to construct some of the modules. Attachments are easy to put on and take off. A sample universal attachment module is provided as part of the Base Robot. In addition, sample attachments showing how to change the direction of motion are included. Please note that specific attachment samples use parts beyond one Core Set.
 
 Design by Sanjay and Arvind Seshan
 
 Design Files:
- <a href="/en/RobotGame/DroidBotMSpikePrime.pdf">Base Robot</a>
- <a href="/en/RobotGame/DroidBotMSikePrime.DirectionChangeSample.pdf">Direction Change Sample</a>
+ <a href="/en/RobotGame/DroidBotMSpikePrime.pdf">Base Robot</a>,
+ <a href="/en/RobotGame/DroidBotMSikePrime.DirectionChangeSample.pdf">Direction Change  Sample</a>,
+<a href="/en/RobotGame/DroidBotMSikePrime.AlternativePlugin.pdf">Alternative Plugin - Gear Ratio</a>,
+ <a href="/en/RobotGame/DroidBotMSikePrime.Forklift.pdf">Forklift</a>,
